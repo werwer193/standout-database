@@ -1,0 +1,238 @@
+name: Sync official Stand Out Trello
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+    paths: ['.github/workflows/sync.yml']
+permissions:
+  contents: write
+concurrency:
+  group: standout-trello-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect public board using read-only Trello credentials
+        env:
+          TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
+          TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+        run: |
+          python3 - <<'PYTHON_SYNC'
+          #!/usr/bin/env python3
+          """Read only the designated public Stand Out Trello board; build a searchable snapshot."""
+          import datetime as dt
+          import json
+          import os
+          import re
+          import shutil
+          import sys
+          import tempfile
+          import time
+          from pathlib import Path
+          from urllib.error import HTTPError, URLError
+          from urllib.parse import urlencode, urlsplit, urlunsplit
+          from urllib.request import Request, urlopen
+          
+          BOARD = '7IlUxQPN'
+          ROOT = Path.cwd()
+          DATA = ROOT / 'data'
+          BASE = 'https://api.trello.com/1'
+          KEY = os.environ.get('TRELLO_API_KEY', '')
+          TOKEN = os.environ.get('TRELLO_TOKEN', '')
+          ID = re.compile(r'^[0-9a-f]{24}$')
+          FIELDS = 'id,name,desc,idBoard,idList,idChecklists,closed,pos,shortLink,shortUrl,url,dateLastActivity,labels,badges'
+          
+          class SyncError(Exception):
+              pass
+          
+          def get(path, **params):
+              url = BASE + path + '?' + urlencode(dict(params, key=KEY, token=TOKEN))
+              for attempt in range(6):
+                  time.sleep(0.16)
+                  try:
+                      with urlopen(Request(url, headers={'Accept': 'application/json', 'User-Agent': 'StandOutReference/1.0'}), timeout=45) as r:
+                          return json.load(r)
+                  except HTTPError as e:
+                      if e.code not in (429, 500, 502, 503, 504):
+                          raise SyncError(f'Trello HTTP {e.code}: {path}') from None
+                      retry = e.headers.get('Retry-After', '')
+                      time.sleep(max(2 ** attempt, min(int(retry), 120)) if retry.isdigit() else 2 ** attempt)
+                  except (URLError, TimeoutError, OSError, ValueError):
+                      time.sleep(2 ** attempt)
+              raise SyncError(f'Trello request failed after retries: {path}')
+          
+          def rows(value, kind):
+              if not isinstance(value, list) or any(not isinstance(x, dict) for x in value):
+                  raise SyncError(f'Unexpected {kind} response')
+              return value
+          
+          def select(obj, fields):
+              return {k: obj[k] for k in fields if k in obj}
+          
+          def safe_url(value):
+              if not isinstance(value, str):
+                  return ''
+              p = urlsplit(value)
+              if p.scheme not in ('http', 'https') or p.username or p.password:
+                  return ''
+              if re.search(r'token|signature|credential|secret|password|api[_-]?key|authorization|x-amz-|x-goog-', p.query + p.fragment, re.I):
+                  return urlunsplit((p.scheme, p.netloc, p.path, '', ''))
+              return value
+          
+          def comments(cid):
+              found, before = {}, None
+              while True:
+                  params = {'filter': 'commentCard', 'limit': 1000, 'memberCreator': 'false'}
+                  if before:
+                      params['before'] = before
+                  page = rows(get(f'/cards/{cid}/actions', **params), 'comments')
+                  for a in page:
+                      if a.get('type') == 'commentCard':
+                          found[a['id']] = {'id': a['id'], 'date': a.get('date'), 'text': a.get('data', {}).get('text', '')}
+                  if len(page) < 1000:
+                      return sorted(found.values(), key=lambda a: (a.get('date') or '', a['id']))
+                  if not page[-1].get('id') or before == page[-1]['id']:
+                      raise SyncError(f'Comment pagination stalled: {cid}')
+                  before = page[-1]['id']
+          
+          def write_json(p, obj):
+              p.parent.mkdir(parents=True, exist_ok=True)
+              p.write_text(json.dumps(obj, ensure_ascii=False, indent=2, sort_keys=True) + '\n', encoding='utf-8')
+          
+          def read_json(p, default):
+              return json.loads(p.read_text(encoding='utf-8')) if p.exists() else default
+          
+          def markdown(r):
+              c = r['card']
+              result = [f"# {c['name']}", '', f"Official source: {c.get('shortUrl') or c.get('url', '')}", f"List: {r['list']['name']}", f"Last activity: {c.get('dateLastActivity', '')}", f"Archived: {bool(c.get('closed') or r['list'].get('closed'))}", '', '## Original description', '', c.get('desc', '') or '(empty)', '']
+              for ch in r['checklists']:
+                  result += [f"## Checklist: {ch.get('name', '')}", '']
+                  for item in ch['checkItems']:
+                      result.append(f"- [{'x' if item.get('state') == 'complete' else ' '}] {item.get('name', '')}")
+                  result.append('')
+              if r['attachments']:
+                  result += ['## Attachments (metadata only)', '']
+                  result += [f"- {a.get('name', '')}: {a.get('url', '')}" for a in r['attachments']]
+              if r['comments']:
+                  result += ['', '## Comments (not necessarily authoritative)', '']
+                  for a in r['comments']:
+                      result += [f"### {a.get('date', '')}", a.get('text', ''), '']
+              return '\n'.join(result) + '\n'
+          
+          def sync():
+              if not KEY or not TOKEN:
+                  raise SyncError('Missing TRELLO_API_KEY or TRELLO_TOKEN')
+              board = get(f'/boards/{BOARD}', fields='id,name,desc,url,shortLink,prefs,closed')
+              if not isinstance(board, dict) or board.get('shortLink') != BOARD or not ID.fullmatch(str(board.get('id', ''))):
+                  raise SyncError('Unexpected board identity')
+              if board.get('prefs', {}).get('permissionLevel') != 'public':
+                  raise SyncError('Board is not public; refusing publication')
+              bid = board['id']
+              lists = rows(get(f'/boards/{bid}/lists', filter='all', fields='id,name,closed,pos'), 'lists')
+              list_map = {x['id']: select(x, ['id','name','closed','pos']) for x in lists}
+              cards = rows(get(f'/boards/{bid}/cards/all', fields=FIELDS), 'cards')
+              if not cards or not lists or len({c.get('id') for c in cards}) != len(cards):
+                  raise SyncError('Empty or duplicate board data')
+              checks = {c['id']: c for c in rows(get(f'/boards/{bid}/checklists', checkItems='all'), 'checklists')}
+              old = {x['id']: x for x in read_json(DATA / 'index.json', [])}
+              records = {}
+              for i, c in enumerate(cards, 1):
+                  cid = c.get('id', '')
+                  if not ID.fullmatch(cid) or c.get('idBoard') != bid or c.get('idList') not in list_map:
+                      raise SyncError('Unexpected card identity')
+                  if not all(k in c for k in ('desc', 'idChecklists', 'badges')):
+                      raise SyncError(f'Incomplete card: {cid}')
+                  cl = []
+                  for ck in c['idChecklists']:
+                      ch = checks.get(ck)
+                      if ch is None or 'checkItems' not in ch:
+                          ch = get(f'/checklists/{ck}', checkItems='all')
+                      if not isinstance(ch, dict) or not isinstance(ch.get('checkItems'), list):
+                          raise SyncError(f'Incomplete checklist: {ck}')
+                      item = select(ch, ['id','name','pos'])
+                      item['checkItems'] = [select(x, ['id','name','state','pos','due']) for x in ch['checkItems']]
+                      cl.append(item)
+                  badge = c['badges']
+                  att = []
+                  if badge.get('attachments', 0):
+                      for a in rows(get(f'/cards/{cid}/attachments', fields='all'), 'attachments'):
+                          item = select(a, ['id','name','date','mimeType','bytes','isUpload','pos'])
+                          item['url'] = safe_url(a.get('url'))
+                          att.append(item)
+                  com = comments(cid) if badge.get('comments', 0) else []
+                  if len(att) != badge.get('attachments', len(att)) or len(com) != badge.get('comments', len(com)):
+                      raise SyncError(f'Attachment/comment count mismatch: {cid}')
+                  raw = select(c, FIELDS.split(',')); raw.pop('badges', None)
+                  records[cid] = {'card': raw, 'list': list_map[c['idList']], 'checklists': cl, 'attachments': att, 'comments': com}
+                  if i % 50 == 0:
+                      print(f'Processed {i}/{len(cards)} cards', flush=True)
+              last = rows(get(f'/boards/{bid}/cards/all', fields='id,dateLastActivity,idList,closed'), 'verification')
+              sig = lambda items: sorted((c['id'], c.get('dateLastActivity'), c.get('idList'), c.get('closed')) for c in items)
+              if sig(cards) != sig(last):
+                  raise SyncError('Board changed during sync; preserving existing snapshot')
+              check_board = get(f'/boards/{BOARD}', fields='id,shortLink,prefs')
+              if check_board.get('id') != bid or check_board.get('prefs', {}).get('permissionLevel') != 'public':
+                  raise SyncError('Board visibility changed')
+              now = dt.datetime.now(dt.timezone.utc)
+              with tempfile.TemporaryDirectory(prefix='standout-', dir=ROOT) as td:
+                  stage = Path(td) / 'data'; stage.mkdir()
+                  index, changes = [], []
+                  for cid, r in sorted(records.items(), key=lambda p: (p[1]['list'].get('pos',0), p[1]['card'].get('pos',0), p[0])):
+                      c = r['card']; mp = f'cards/{cid}.md'; jp = f'raw/cards/{cid}.json'
+                      write_json(stage / jp, r)
+                      (stage / 'cards').mkdir(exist_ok=True)
+                      (stage / mp).write_text(markdown(r), encoding='utf-8')
+                      index.append({'id': cid, 'name': c['name'], 'list': r['list']['name'], 'list_id': c['idList'], 'archived': bool(c.get('closed') or r['list'].get('closed')), 'url': c.get('shortUrl') or c.get('url'), 'last_activity': c.get('dateLastActivity'), 'markdown': 'data/' + mp, 'json': 'data/' + jp})
+                      if cid not in old or read_json(DATA / jp, None) != r:
+                          changes.append({'type': 'added' if cid not in old else 'updated', 'id': cid, 'name': c['name']})
+                  changes += [{'type': 'removed_from_source', 'id': cid, 'name': old[cid]['name']} for cid in sorted(set(old) - set(records))]
+                  write_json(stage/'raw/board.json', select(board,['id','name','desc','url','shortLink','closed']))
+                  write_json(stage/'raw/lists.json', list(list_map.values()))
+                  write_json(stage/'index.json', index)
+                  lines = ['# Stand Out Trello index', '', 'Read original cards and later patch notes; archived cards may be obsolete.', '']
+                  for lst in sorted(list_map.values(), key=lambda x: x.get('pos',0)):
+                      lines += [f"## {lst['name']}", '']
+                      for e in index:
+                          if e['list_id'] == lst['id']:
+                              lines.append(f"- {e['name']}{' (archived)' if e['archived'] else ''} | {e['markdown']} | {e['url']}")
+                      lines.append('')
+                  (stage/'INDEX.md').write_text('\n'.join(lines)+'\n', encoding='utf-8')
+                  if (DATA/'changelog').exists():
+                      shutil.copytree(DATA/'changelog', stage/'changelog')
+                  if changes:
+                      write_json(stage/'changelog'/ (now.strftime('%Y%m%dT%H%M%S%fZ')+'.json'), changes)
+                  write_json(stage/'manifest.json', {'status':'success','source':board['url'],'synced_at_utc':now.isoformat(),'cards':len(records),'lists':len(lists),'active_cards':sum(not e['archived'] for e in index),'archived_cards':sum(e['archived'] for e in index),'checklists':sum(len(r['checklists']) for r in records.values()),'attachments':sum(len(r['attachments']) for r in records.values()),'comments':sum(len(r['comments']) for r in records.values()),'changes':len(changes),'coverage':'Card descriptions, lists, checklist items, attachment metadata and comments; not binary media/OCR/transcription or complete historical actions.'})
+                  for p in stage.rglob('*'):
+                      if p.is_file() and any(secret.encode() in p.read_bytes() for secret in (KEY,TOKEN)):
+                          raise SyncError('Credentials detected in staged data; refusing publication')
+                  backup = Path(td)/'old-data'
+                  if DATA.exists(): DATA.rename(backup)
+                  try: stage.rename(DATA)
+                  except BaseException:
+                      if backup.exists(): backup.rename(DATA)
+                      raise
+              print(f'Success: {len(records)} cards, {len(changes)} changes')
+          
+          if __name__ == '__main__':
+              try: sync()
+              except SyncError as e:
+                  print(str(e), file=sys.stderr); sys.exit(1)
+              except Exception as e:
+                  print(f'Sync failed: {type(e).__name__}', file=sys.stderr); sys.exit(1)
+          PYTHON_SYNC
+      - name: Commit verified snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+          else
+            git commit -m 'Sync official Trello snapshot'
+            git push
+          fi
