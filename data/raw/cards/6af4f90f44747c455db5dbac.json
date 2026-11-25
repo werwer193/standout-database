@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:24:12.393Z",
+    "desc": "",
+    "id": "6af4f90f44747c455db5dbac",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "200 Balloons",
+    "pos": 140737490403328,
+    "shortLink": "LwhhFRN5",
+    "shortUrl": "https://trello.com/c/LwhhFRN5",
+    "url": "https://trello.com/c/LwhhFRN5/149-200-balloons"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

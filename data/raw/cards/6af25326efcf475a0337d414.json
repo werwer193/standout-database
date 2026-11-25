@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 30511,
+      "date": "2026-11-03T00:04:40.609Z",
+      "id": "6af25330efcf475a033885ec",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d414/attachments/6af25330efcf475a033885ec/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.286Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d414",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Beyond",
+    "pos": 140737488502784,
+    "shortLink": "C2GTl8dB",
+    "shortUrl": "https://trello.com/c/C2GTl8dB",
+    "url": "https://trello.com/c/C2GTl8dB/557-beyond"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:05:35.633Z",
+    "desc": "",
+    "id": "6af4f476485e161a7966f5ba",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Alt 1",
+    "pos": 140737489436672,
+    "shortLink": "SDQPmTAw",
+    "shortUrl": "https://trello.com/c/SDQPmTAw",
+    "url": "https://trello.com/c/SDQPmTAw/90-alt-1"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

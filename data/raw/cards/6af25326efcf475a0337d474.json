@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1043348,
+      "date": "2026-10-30T08:51:43.996Z",
+      "id": "6af25330efcf475a03388694",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "zombie.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d474/attachments/6af25330efcf475a03388694/download/zombie.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.048Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d474",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Zombie Walk",
+    "pos": 140737488617472,
+    "shortLink": "5SpTyOmM",
+    "shortUrl": "https://trello.com/c/5SpTyOmM",
+    "url": "https://trello.com/c/5SpTyOmM/589-zombie-walk"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

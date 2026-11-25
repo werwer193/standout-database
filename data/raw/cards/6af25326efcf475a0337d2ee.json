@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 258304,
+      "date": "2026-10-11T17:12:42.226Z",
+      "id": "6af25330efcf475a03388197",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_191241799.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2ee/attachments/6af25330efcf475a03388197/download/image_2026-10-11_191241799.png"
+    },
+    {
+      "bytes": null,
+      "date": "2026-10-11T17:50:11.674Z",
+      "id": "6af25330efcf475a03388199",
+      "isUpload": false,
+      "mimeType": "",
+      "name": "https://trello.com/c/mQUYC2aM/515-crash-course",
+      "pos": 140737488371712,
+      "url": "https://trello.com/c/mQUYC2aM/515-crash-course"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:15:03.893Z",
+    "desc": "**Quest from:** [https://trello.com/c/wSbxrRSF/85-meryl-mei-qi](https://trello.com/c/wSbxrRSF/85-meryl-mei-qi \"smartCard-inline\")\n\n# Quest:\n\n**Get into Meryl**'**s car 0/1**\n\n**Cause destruction 0/50**\n\n**Return the car to Meryl 0/1**\n\n# Upon completion you get:\n\n[https://trello.com/c/dPoGrWsi/435-meryl-mei-qis-shoulder-bows](https://trello.com/c/dPoGrWsi/435-meryl-mei-qis-shoulder-bows \"smartCard-inline\")\n\n[https://trello.com/c/ID7KX4ik/433-meryl-mei-qis-necklace](https://trello.com/c/ID7KX4ik/433-meryl-mei-qis-necklace \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d2ee",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Crash Course",
+    "pos": 140737488453632,
+    "shortLink": "EL4vJXHy",
+    "shortUrl": "https://trello.com/c/EL4vJXHy",
+    "url": "https://trello.com/c/EL4vJXHy/459-crash-course"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

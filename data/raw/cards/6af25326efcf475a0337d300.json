@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 144632,
+      "date": "2026-10-12T22:40:03.389Z",
+      "id": "6af25330efcf475a03388203",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_004002868.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d300/attachments/6af25330efcf475a03388203/download/image_2026-10-13_004002868.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:20:20.402Z",
+    "desc": "**Quest from:** [https://trello.com/c/nRG9RDsj/463-bobby](https://trello.com/c/nRG9RDsj/463-bobby \"smartCard-inline\")\n\n# Quest:\n\n**Blow bubbles using the emote (**[https://trello.com/c/TzbkUKcN/464-blow-bubble](https://trello.com/c/TzbkUKcN/464-blow-bubble \"smartCard-inline\")  **) 0/50**\n\n**Complete 1 Bounty**\n\n**Drop Bobby into water 0/1**\n\n**Defeat the training Humu 0/1**\n\n## Upon completion gives you:\n\n[https://trello.com/c/5aNQ98Bq/419-hawaii-warriors-jacket](https://trello.com/c/5aNQ98Bq/419-hawaii-warriors-jacket \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d300",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Bubble Practice",
+    "pos": 140737488429056,
+    "shortLink": "mejlmxRj",
+    "shortUrl": "https://trello.com/c/mejlmxRj",
+    "url": "https://trello.com/c/mejlmxRj/465-bubble-practice"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

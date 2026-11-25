@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4226,
+      "date": "2026-11-03T00:10:15.443Z",
+      "id": "6af25330efcf475a03388716",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d540/attachments/6af25330efcf475a03388716/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.156Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d540",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Silent Tears",
+    "pos": 140737488896000,
+    "shortLink": "ADd2ZCRH",
+    "shortUrl": "https://trello.com/c/ADd2ZCRH",
+    "url": "https://trello.com/c/ADd2ZCRH/657-silent-tears"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 24531,
+      "date": "2026-10-11T12:09:45.558Z",
+      "id": "6af25330efcf475a0338807b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_140945885.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d28e/attachments/6af25330efcf475a0338807b/download/image_2026-10-11_140945885.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.116Z",
+    "desc": "# **When equipped gives you:**\n\n**+3 Ability**\n\n**+2 Damage**\n\n**+4 Health**\n\n# Drops from Bounties",
+    "id": "6af25326efcf475a0337d28e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Key West's Jacket",
+    "pos": 140737488683008,
+    "shortLink": "0CHoqVpp",
+    "shortUrl": "https://trello.com/c/0CHoqVpp",
+    "url": "https://trello.com/c/0CHoqVpp/427-key-wests-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 9969,
+      "date": "2026-09-29T22:40:44.446Z",
+      "id": "6af2532fefcf475a0338787f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-30_004044118.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d096/attachments/6af2532fefcf475a0338787f/download/image_2026-09-30_004044118.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.804Z",
+    "desc": "Yellow Temperance\n\nTubular Changes:\ndoubled normal ballon health and halved beast health, bullets bounce off balloons (while still doing the damage)\nwhen popping while piloting, the object flys forward with gravity\nSwan pilot speed is faster\nDogs move much faster while tracking a scent\nSnake blows up 4 times with 2 seconds in between pops\n1\\.5x pilot range overall for the balloons\n\nlots more bug fixes im too lazy to type out\nremoved ancient posture system that nobody knew existed and also that made stuff like barraging guard break lmao\n200 Balloons",
+    "id": "6af25325efcf475a0337d096",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "30/09/2026 (Yellow Temperance,Tubular Bells Changes, 200 Balloons)",
+    "pos": 140737488306176,
+    "shortLink": "n9MZz6F1",
+    "shortUrl": "https://trello.com/c/n9MZz6F1",
+    "url": "https://trello.com/c/n9MZz6F1/259-30-09-2026-yellow-temperancetubular-bells-changes-200-balloons"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

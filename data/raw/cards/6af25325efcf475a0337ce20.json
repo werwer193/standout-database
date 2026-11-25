@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 301025,
+      "date": "2026-09-25T09:08:08.846Z",
+      "id": "6af2532fefcf475a03386f1e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_110808715.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce20/attachments/6af2532fefcf475a03386f1e/download/image_2026-09-25_110808715.png"
+    },
+    {
+      "bytes": 1319965,
+      "date": "2026-10-13T10:48:21.277Z",
+      "id": "6af2532fefcf475a03386f27",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_124820957.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce20/attachments/6af2532fefcf475a03386f27/download/image_2026-10-13_124820957.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T20:03:31.707Z",
+    "desc": "# Someone is waiting by the rainbow..",
+    "id": "6af25325efcf475a0337ce20",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd43",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6af25326efcf475a0337d811",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d811",
+        "uses": 5
+      }
+    ],
+    "name": "Rain",
+    "pos": 140737488371712,
+    "shortLink": "m8vhCS0W",
+    "shortUrl": "https://trello.com/c/m8vhCS0W",
+    "url": "https://trello.com/c/m8vhCS0W/49-rain"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd43",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

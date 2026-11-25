@@ -1,0 +1,67 @@
+{
+  "attachments": [
+    {
+      "bytes": 68930,
+      "date": "2026-09-24T21:16:11.081Z",
+      "id": "6af2532fefcf475a033870f9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_231611250.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ceb0/attachments/6af2532fefcf475a033870f9/download/image_2026-09-24_231611250.png"
+    },
+    {
+      "bytes": 38800,
+      "date": "2026-09-25T08:28:01.246Z",
+      "id": "6af2532fefcf475a03387100",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ceb0/attachments/6af2532fefcf475a03387100/download/image.png"
+    },
+    {
+      "bytes": 35363,
+      "date": "2026-09-26T16:44:13.507Z",
+      "id": "6af2532fefcf475a03387107",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_184413245.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ceb0/attachments/6af2532fefcf475a03387107/download/image_2026-09-26_184413245.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.731Z",
+    "desc": "# **Used for Phone Applications. (Huber, Maps, Bounties)**\n\n# Obtainable from Meryl Mei Qi (Storyline)\n\n![image.webp](https://trello.com/1/cards/6ab5930124fab073604ced1f/attachments/6ab630912a90367d447a2266/previews/6ab630922a90367d447a2959/download/image.webp)",
+    "id": "6af25325efcf475a0337ceb0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Phone",
+    "pos": 140737488388096,
+    "shortLink": "K3q8P2rd",
+    "shortUrl": "https://trello.com/c/K3q8P2rd",
+    "url": "https://trello.com/c/K3q8P2rd/97-phone"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

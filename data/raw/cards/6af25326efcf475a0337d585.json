@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4756,
+      "date": "2026-11-01T19:07:40.189Z",
+      "id": "6af25330efcf475a033887d8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_200739860.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d585/attachments/6af25330efcf475a033887d8/download/image_2026-11-01_200739860.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-22T22:39:43.056Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d585",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Gang Wars",
+    "pos": 140737488461824,
+    "shortLink": "itbuD65s",
+    "shortUrl": "https://trello.com/c/itbuD65s",
+    "url": "https://trello.com/c/itbuD65s/680-gang-wars"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

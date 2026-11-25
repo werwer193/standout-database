@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 18878,
+      "date": "2026-11-18T19:28:45.931Z",
+      "id": "6afdfc6d1b5e7ab8570c9de8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_202845528.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdfa94ba0ab93312ab19fc/attachments/6afdfc6d1b5e7ab8570c9de8/download/image_2026-11-18_202845528.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:19:35.109Z",
+    "desc": "# Obtained by combining [https://trello.com/c/oGoPWoAy/256-pluck-handle](https://trello.com/c/oGoPWoAy/256-pluck-handle \"smartCard-inline\"),[https://trello.com/c/mbE4ADVm/255-pluck-guard](https://trello.com/c/mbE4ADVm/255-pluck-guard \"smartCard-inline\"),[https://trello.com/c/Ez9MqvXz/254-pluck-blade](https://trello.com/c/Ez9MqvXz/254-pluck-blade \"smartCard-inline\") at the [https://trello.com/c/GlFJq85p/140-workbench](https://trello.com/c/GlFJq85p/140-workbench \"smartCard-inline\")\n\n# Bruford’s sword is whole again, with LUCK carved into it and Jonathan’s P added in his own blood.\n\n# Can be used by: [https://trello.com/c/kOBYzrf7/473-jonathan-hamon](https://trello.com/c/kOBYzrf7/473-jonathan-hamon \"smartCard-inline\") and [https://trello.com/c/q7DhGek7/1-vampire](https://trello.com/c/q7DhGek7/1-vampire \"smartCard-inline\")",
+    "id": "6afdfa94ba0ab93312ab19fc",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Pluck",
+    "pos": 140737488683008,
+    "shortLink": "D9n9FxBX",
+    "shortUrl": "https://trello.com/c/D9n9FxBX",
+    "url": "https://trello.com/c/D9n9FxBX/253-pluck"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

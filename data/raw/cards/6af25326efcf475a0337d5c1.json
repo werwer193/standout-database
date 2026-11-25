@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 623529,
+      "date": "2026-11-02T23:15:18.139Z",
+      "id": "6af25330efcf475a03388859",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5c1/attachments/6af25330efcf475a03388859/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:40:02.436Z",
+    "desc": "# [https://trello.com/c/FVOvkmIi/80-cop](https://trello.com/c/FVOvkmIi/80-cop \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d5c1",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Police",
+    "pos": 140737488510976,
+    "shortLink": "gT0ygnyf",
+    "shortUrl": "https://trello.com/c/gT0ygnyf",
+    "url": "https://trello.com/c/gT0ygnyf/700-police"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5271,
+      "date": "2026-11-03T00:03:34.675Z",
+      "id": "6af25330efcf475a033885d8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d408/attachments/6af25330efcf475a033885d8/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.808Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d408",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Toilet",
+    "pos": 140737488437248,
+    "shortLink": "Vww8vMji",
+    "shortUrl": "https://trello.com/c/Vww8vMji",
+    "url": "https://trello.com/c/Vww8vMji/553-toilet"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

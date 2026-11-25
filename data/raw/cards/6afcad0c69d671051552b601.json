@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-17T19:38:17.509Z",
+    "desc": "",
+    "id": "6afcad0c69d671051552b601",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Dio Brando",
+    "pos": 140737488781312,
+    "shortLink": "dAhMtFQd",
+    "shortUrl": "https://trello.com/c/dAhMtFQd",
+    "url": "https://trello.com/c/dAhMtFQd/246-dio-brando"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

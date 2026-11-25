@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 234483,
+      "date": "2026-10-11T15:52:28.904Z",
+      "id": "6af2532fefcf475a03387daa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_175228611.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c2/attachments/6af2532fefcf475a03387daa/download/image_2026-10-11_175228611.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:56.254Z",
+    "desc": "# If you own a gang, you are able to build your own base.\n\n# There are building features such as:\n\n‌\n\n- **Furniture**\n- **Rooms**\n- **Painting**",
+    "id": "6af25326efcf475a0337d1c2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Building",
+    "pos": 140737488371712,
+    "shortLink": "rP9jGMVh",
+    "shortUrl": "https://trello.com/c/rP9jGMVh",
+    "url": "https://trello.com/c/rP9jGMVh/359-building"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

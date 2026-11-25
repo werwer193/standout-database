@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:37.842Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337d16b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd43",
+    "labels": [],
+    "name": "Weather Events",
+    "pos": 140737488338944,
+    "shortLink": "OgfALEc6",
+    "shortUrl": "https://trello.com/c/OgfALEc6",
+    "url": "https://trello.com/c/OgfALEc6/330-weather-events"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd43",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 22876,
+      "date": "2026-10-25T11:02:43.604Z",
+      "id": "6af25330efcf475a03388512",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-25_120243324.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3a8/attachments/6af25330efcf475a03388512/download/image_2026-10-25_120243324.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-24T23:08:25.751Z",
+    "desc": "# 1000 Robux",
+    "id": "6af25326efcf475a0337d3a8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd52",
+    "labels": [],
+    "name": "Private Server",
+    "pos": 140737488354816,
+    "shortLink": "ypo3iITT",
+    "shortUrl": "https://trello.com/c/ypo3iITT",
+    "url": "https://trello.com/c/ypo3iITT/521-private-server"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd52",
+    "name": "Robux Shop",
+    "pos": 139264
+  }
+}

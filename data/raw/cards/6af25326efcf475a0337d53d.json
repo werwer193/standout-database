@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 3081,
+      "date": "2026-11-03T00:10:10.913Z",
+      "id": "6af25330efcf475a03388711",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d53d/attachments/6af25330efcf475a03388711/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.175Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d53d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Stone Grin",
+    "pos": 140737488879616,
+    "shortLink": "YlCWSPYl",
+    "shortUrl": "https://trello.com/c/YlCWSPYl",
+    "url": "https://trello.com/c/YlCWSPYl/656-stone-grin"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

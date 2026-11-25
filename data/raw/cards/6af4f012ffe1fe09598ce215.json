@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:45:52.153Z",
+    "desc": "",
+    "id": "6af4f012ffe1fe09598ce215",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "King Crimson",
+    "pos": 140737488470016,
+    "shortLink": "OMNqCvkw",
+    "shortUrl": "https://trello.com/c/OMNqCvkw",
+    "url": "https://trello.com/c/OMNqCvkw/27-king-crimson"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

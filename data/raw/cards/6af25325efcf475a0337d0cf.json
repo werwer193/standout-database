@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 55112,
+      "date": "2026-10-02T08:44:14.419Z",
+      "id": "6af2532fefcf475a03387979",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-02_104414116.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0cf/attachments/6af2532fefcf475a03387979/download/image_2026-10-02_104414116.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.051Z",
+    "desc": "**added idle for underworld**\n**Eclipse Eight**\n**West End Girl**\n**Added HOWLERs Megayacht storyline arc**\n**Added inspect system**\n**Added Ningbo boss**\n**Added Laem boss (i forgot the chars name)**\n**Added Key West boss**\n**lots of bug fixes i aint gonna type out**\n**Added input queueing**\n**Added perfect blocking (for 'heavy hits')**\n**Mini strength rework**\n**Mini walking heart rework**\n**bunch of new random commands for testing**\n**some changes are TESTER LOCKED until ready for recording (sorry ccs... too many things got showed too early lmao)**\n**gang base system soon.....**",
+    "id": "6af25325efcf475a0337d0cf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "02/10/2026 (Storyline Update)",
+    "pos": 140737488289792,
+    "shortLink": "kfLe3qRt",
+    "shortUrl": "https://trello.com/c/kfLe3qRt",
+    "url": "https://trello.com/c/kfLe3qRt/278-02-10-2026-storyline-update"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

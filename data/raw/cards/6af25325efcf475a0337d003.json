@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 92647,
+      "date": "2026-09-29T12:35:09.819Z",
+      "id": "6af2532fefcf475a033876c5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d003/attachments/6af2532fefcf475a033876c5/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:05:47.441Z",
+    "desc": "## Can be purchased from [https://trello.com/c/67A6ovLH/78-big-chop](https://trello.com/c/67A6ovLH/78-big-chop \"smartCard-inline\")   or the [https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\") or be obtained from [https://trello.com/c/iAqUPBW7/533-sand-metal-detecting](https://trello.com/c/iAqUPBW7/533-sand-metal-detecting \"smartCard-inline\")\n\n## Drops from metal destructables\n\n![image.webp](https://trello.com/1/cards/6abbb07a10b593a51235a36f/attachments/6abbb07df334245c45388494/previews/6abbb07ef334245c45388514/download/image.webp)",
+    "id": "6af25325efcf475a0337d003",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Steel Ingot",
+    "pos": 140737488453632,
+    "shortLink": "6a3soH3e",
+    "shortUrl": "https://trello.com/c/6a3soH3e",
+    "url": "https://trello.com/c/6a3soH3e/210-steel-ingot"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

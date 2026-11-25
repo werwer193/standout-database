@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 26525,
+      "date": "2026-10-11T12:16:13.538Z",
+      "id": "6af25330efcf475a033880c5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141613676.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2af/attachments/6af25330efcf475a033880c5/download/image_2026-10-11_141613676.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:33:41.921Z",
+    "desc": "# **When equipped gives you:**\n\n**+1 Ability**\n\n**+3 Damage**\n\n**+3 Health**\n\n# If equipped with [https://trello.com/c/WcklFAso/437-ningbos-jacket](https://trello.com/c/WcklFAso/437-ningbos-jacket \"smartCard-inline\")   you get +15% Fire resistance",
+    "id": "6af25326efcf475a0337d2af",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Ningbo's Pants",
+    "pos": 140737488863232,
+    "shortLink": "oOBRij8i",
+    "shortUrl": "https://trello.com/c/oOBRij8i",
+    "url": "https://trello.com/c/oOBRij8i/438-ningbos-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

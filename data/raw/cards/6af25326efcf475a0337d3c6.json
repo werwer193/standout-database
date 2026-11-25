@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 28360,
+      "date": "2026-10-26T20:49:35.758Z",
+      "id": "6af25330efcf475a0338855c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_214935376.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3c6/attachments/6af25330efcf475a0338855c/download/image_2026-10-26_214935376.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.545Z",
+    "desc": "# You can purchase one Emote/Emoji for 25 Robux.",
+    "id": "6af25326efcf475a0337d3c6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd52",
+    "labels": [],
+    "name": "Emotes/Emojis",
+    "pos": 140737488453632,
+    "shortLink": "cdrpFfQv",
+    "shortUrl": "https://trello.com/c/cdrpFfQv",
+    "url": "https://trello.com/c/cdrpFfQv/531-emotes-emojis"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd52",
+    "name": "Robux Shop",
+    "pos": 139264
+  }
+}

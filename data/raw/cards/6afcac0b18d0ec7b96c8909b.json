@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 241078,
+      "date": "2026-11-17T19:43:39.374Z",
+      "id": "6afcae6bd2c5c4ca728e1a7d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-17_204339046.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afcac0b18d0ec7b96c8909b/attachments/6afcae6bd2c5c4ca728e1a7d/download/image_2026-11-17_204339046.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-17T19:43:40.615Z",
+    "desc": "",
+    "id": "6afcac0b18d0ec7b96c8909b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Risen Dead",
+    "pos": 140737488764928,
+    "shortLink": "1wnerNWH",
+    "shortUrl": "https://trello.com/c/1wnerNWH",
+    "url": "https://trello.com/c/1wnerNWH/245-risen-dead"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

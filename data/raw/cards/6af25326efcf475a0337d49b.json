@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 323599,
+      "date": "2026-11-11T21:18:15.059Z",
+      "id": "6af4db97c6fae26fbf9baf0d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "actionready.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d49b/attachments/6af4db97c6fae26fbf9baf0d/download/actionready.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:18:17.873Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d49b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "I'm Ready",
+    "pos": 140737488830464,
+    "shortLink": "BpVz6WyE",
+    "shortUrl": "https://trello.com/c/BpVz6WyE",
+    "url": "https://trello.com/c/BpVz6WyE/602-im-ready"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

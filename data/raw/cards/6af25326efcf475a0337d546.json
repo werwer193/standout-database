@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7130,
+      "date": "2026-11-03T00:10:29.071Z",
+      "id": "6af25330efcf475a03388720",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d546/attachments/6af25330efcf475a03388720/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.208Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d546",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Shadowed Stare",
+    "pos": 140737488928768,
+    "shortLink": "Ea2U5cqI",
+    "shortUrl": "https://trello.com/c/Ea2U5cqI",
+    "url": "https://trello.com/c/Ea2U5cqI/659-shadowed-stare"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 144632,
+      "date": "2026-10-12T22:32:19.456Z",
+      "id": "6af25330efcf475a033881f6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_003219171.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2fa/attachments/6af25330efcf475a033881f6/download/image_2026-10-13_003219171.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:54:09.340Z",
+    "desc": "## Gives [https://trello.com/c/mejlmxRj/465-bubble-practice](https://trello.com/c/mejlmxRj/465-bubble-practice \"smartCard-inline\")  quest\n\n## Gives [https://trello.com/c/TzbkUKcN/464-blow-bubble](https://trello.com/c/TzbkUKcN/464-blow-bubble \"smartCard-inline\")  Emote",
+    "id": "6af25326efcf475a0337d2fa",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Bobby",
+    "pos": 140737488437248,
+    "shortLink": "nRG9RDsj",
+    "shortUrl": "https://trello.com/c/nRG9RDsj",
+    "url": "https://trello.com/c/nRG9RDsj/463-bobby"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

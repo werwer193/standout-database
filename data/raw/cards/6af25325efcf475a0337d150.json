@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 50969,
+      "date": "2026-10-05T10:44:24.302Z",
+      "id": "6af2532fefcf475a03387b58",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_124424549.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d150/attachments/6af2532fefcf475a03387b58/download/image_2026-10-05_124424549.png"
+    },
+    {
+      "bytes": 63715,
+      "date": "2026-10-05T10:44:34.267Z",
+      "id": "6af2532fefcf475a03387b5f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d150/attachments/6af2532fefcf475a03387b5f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:04:39.961Z",
+    "desc": "## Purchaseable at [https://trello.com/c/67A6ovLH/78-big-chop](https://trello.com/c/67A6ovLH/78-big-chop \"smartCard-inline\")\n\n# Protects [https://trello.com/c/q7DhGek7/1-vampire](https://trello.com/c/q7DhGek7/1-vampire \"smartCard-inline\") from burning in the sun.\n\n![image.webp](https://trello.com/1/cards/6ac37f827afc0cc5c9240629/attachments/6ac37f926e5ba8ba873b0569/previews/6ac37f926e5ba8ba873b057d/download/image.webp)",
+    "id": "6af25325efcf475a0337d150",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Black Umbrella",
+    "pos": 140737488470016,
+    "shortLink": "XCOQHyoA",
+    "shortUrl": "https://trello.com/c/XCOQHyoA",
+    "url": "https://trello.com/c/XCOQHyoA/321-black-umbrella"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

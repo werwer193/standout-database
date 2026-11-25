@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 499871,
+      "date": "2026-11-11T21:47:30.659Z",
+      "id": "6af4e272bd130f1025e50800",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "reverential.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d507/attachments/6af4e272bd130f1025e50800/download/reverential.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:47:35.041Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d507",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Reverential Bow",
+    "pos": 140737489420288,
+    "shortLink": "xaXBDIP0",
+    "shortUrl": "https://trello.com/c/xaXBDIP0",
+    "url": "https://trello.com/c/xaXBDIP0/638-reverential-bow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

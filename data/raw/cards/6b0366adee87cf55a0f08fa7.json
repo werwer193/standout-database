@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 246092,
+      "date": "2026-11-22T23:05:09.781Z",
+      "id": "6b037525a64b73cfa8695dac",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-23_000509379.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b0366adee87cf55a0f08fa7/attachments/6b037525a64b73cfa8695dac/download/image_2026-11-23_000509379.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T23:05:16.653Z",
+    "desc": "",
+    "id": "6b0366adee87cf55a0f08fa7",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afca9c2ded1cfb842f232ac",
+    "labels": [],
+    "name": "Ranked",
+    "pos": 140737488375808,
+    "shortLink": "eu6oOebZ",
+    "shortUrl": "https://trello.com/c/eu6oOebZ",
+    "url": "https://trello.com/c/eu6oOebZ/267-ranked"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afca9c2ded1cfb842f232ac",
+    "name": "Main Menu",
+    "pos": 9088
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-22T22:39:02.644Z",
+    "desc": "",
+    "id": "6afcad58dd9ad55197e7d34e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5e",
+    "labels": [],
+    "name": "Tuning System",
+    "pos": 140737488351232,
+    "shortLink": "crnzSL5B",
+    "shortUrl": "https://trello.com/c/crnzSL5B",
+    "url": "https://trello.com/c/crnzSL5B/249-tuning-system"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5e",
+    "name": "Car Types",
+    "pos": 132096
+  }
+}

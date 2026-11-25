@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 56661,
+      "date": "2026-11-17T19:37:25.841Z",
+      "id": "6afcacf520200ec49190e84b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-17_203725491.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afcac096bdb0a19b7341fb7/attachments/6afcacf520200ec49190e84b/download/image_2026-11-17_203725491.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-17T19:37:38.080Z",
+    "desc": "# Sharks will show up if you try to escape into the sea whilst in combat.",
+    "id": "6afcac096bdb0a19b7341fb7",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Bizarre Shark",
+    "pos": 140737488748544,
+    "shortLink": "cpiEUHdX",
+    "shortUrl": "https://trello.com/c/cpiEUHdX",
+    "url": "https://trello.com/c/cpiEUHdX/244-bizarre-shark"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

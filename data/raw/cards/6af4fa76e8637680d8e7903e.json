@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:30:11.680Z",
+    "desc": "",
+    "id": "6af4fa76e8637680d8e7903e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Mr. President",
+    "pos": 140737490731008,
+    "shortLink": "wQbBYa4g",
+    "shortUrl": "https://trello.com/c/wQbBYa4g",
+    "url": "https://trello.com/c/wQbBYa4g/169-mr-president"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

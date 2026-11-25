@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 35091,
+      "date": "2026-11-02T23:03:25.458Z",
+      "id": "6af25330efcf475a033888c4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_000325090.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5eb/attachments/6af25330efcf475a033888c4/download/image_2026-11-03_000325090.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:40:11.380Z",
+    "desc": "# **When equipped gives you:**\n\n**+5 Ability**\n\n**+3 Strength**\n\n**+5 Health**\n\n**Fate’s Chosen (**[https://trello.com/c/5ekINxOZ/86-rolling-stones](https://trello.com/c/5ekINxOZ/86-rolling-stones \"smartCard-inline\")  **is more likely to choose you as its target, and is faster while following you.)**\n\n**Crimson’s Mark (You take more damage from** [https://trello.com/c/PuCb64p0/344-king-crimson-full](https://trello.com/c/PuCb64p0/344-king-crimson-full \"smartCard-inline\")  **after the user uses Timeskip, Time Erase or Epitaph for 10 seconds.**\n\n**One-time Epitaph (After getting hit 10 times, you activate a one-time Epitaph effect, dodging the next attack.)**\n\n## **Obtained from:** [https://trello.com/c/5GhlPI4P/710-the-statue-of-sorrow](https://trello.com/c/5GhlPI4P/710-the-statue-of-sorrow \"smartCard-inline\")  (If caught by Rolling Stones)",
+    "id": "6af25326efcf475a0337d5eb",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Slave Of Fate",
+    "pos": 140737489223680,
+    "shortLink": "Vmky4eyq",
+    "shortUrl": "https://trello.com/c/Vmky4eyq",
+    "url": "https://trello.com/c/Vmky4eyq/714-slave-of-fate"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

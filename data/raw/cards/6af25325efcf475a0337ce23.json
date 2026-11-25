@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 215786,
+      "date": "2026-09-25T09:06:04.238Z",
+      "id": "6af2532fefcf475a03386f2f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_110604044.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce23/attachments/6af2532fefcf475a03386f2f/download/image_2026-09-25_110604044.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T20:04:12.485Z",
+    "desc": "# Make’s the map hard to see..",
+    "id": "6af25325efcf475a0337ce23",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd43",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6af25326efcf475a0337d811",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d811",
+        "uses": 5
+      }
+    ],
+    "name": "Fog",
+    "pos": 140737488388096,
+    "shortLink": "pWAhjfKx",
+    "shortUrl": "https://trello.com/c/pWAhjfKx",
+    "url": "https://trello.com/c/pWAhjfKx/50-fog"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd43",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

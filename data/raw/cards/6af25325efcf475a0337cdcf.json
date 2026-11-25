@@ -1,0 +1,154 @@
+{
+  "attachments": [
+    {
+      "bytes": 103514,
+      "date": "2026-09-23T20:37:24.000Z",
+      "id": "6af2532fefcf475a03386c6b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-23_223724196.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c6b/download/image_2026-09-23_223724196.png"
+    },
+    {
+      "bytes": 147696,
+      "date": "2026-09-24T16:51:02.953Z",
+      "id": "6af2532fefcf475a03386c72",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c72/download/image.png"
+    },
+    {
+      "bytes": 72180,
+      "date": "2026-09-24T16:51:19.325Z",
+      "id": "6af2532fefcf475a03386c7a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c7a/download/image.png"
+    },
+    {
+      "bytes": 983484,
+      "date": "2026-09-24T16:52:34.463Z",
+      "id": "6af2532fefcf475a03386c82",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "jon.gif",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c82/download/jon.gif"
+    },
+    {
+      "bytes": 1680218,
+      "date": "2026-09-24T16:56:13.662Z",
+      "id": "6af2532fefcf475a03386c88",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "spin.gif",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c88/download/spin.gif"
+    },
+    {
+      "bytes": 6329175,
+      "date": "2026-09-24T16:59:44.366Z",
+      "id": "6af2532fefcf475a03386c8e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "drop2.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c8e/download/drop2.gif"
+    },
+    {
+      "bytes": 1006081,
+      "date": "2026-09-24T17:02:09.161Z",
+      "id": "6af2532fefcf475a03386c95",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pretty.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c95/download/pretty.gif"
+    },
+    {
+      "bytes": 2967573,
+      "date": "2026-09-24T17:03:21.277Z",
+      "id": "6af2532fefcf475a03386c9c",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "executes.gif",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386c9c/download/executes.gif"
+    },
+    {
+      "bytes": 2174894,
+      "date": "2026-09-24T17:09:53.410Z",
+      "id": "6af2532fefcf475a03386ca2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "johnrod.gif",
+      "pos": 140737488486400,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cdcf/attachments/6af2532fefcf475a03386ca2/download/johnrod.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.036Z",
+    "desc": "# EVERYTHING YOU SEE HERE IS THE OLD JOHN ROD. IT WILL BE REWORKED IN THE FUTURE.\n\nLore:\n\n**“Don’t make me John Rod you!”**\n\n**A lightning rod Stand that shifts between a flying Rod form and grounded John form. It calls lightning down from the heavens and overwhelms enemies with electric power.**\n\n---\n\n![image.webp](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab555078cb43e9147ee816b/previews/6ab555078cb43e9147ee818c/download/image.webp)\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab554f6bc6ca9476608fc7a/previews/6ab554f7bc6ca9476608fcc1/download/image.webp)\n\n---\n\n## M1 Light Combo & M2 Attack\n\n![johnrod.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab55961f8c58fa92b417555/previews/6ab55969f8c58fa92b418a00/download/johnrod.gif)\n\n## John Form\n\n**Toggle John Rod between its flying Rod form and grounded John form.**\n\n**Base cooldown: 4s**\n\n![jon.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab555520a353873e6989672/previews/6ab555620a353873e698aec9/download/jon.gif)\n\n## Blind The Heavens [HOLD / RELEASE]\n\n**Charge and release a briliant cube of light that blinds targets caught inside.**\n\n**Base cooldown: 24s**\n\n![spin.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab5562dcc3e9025806047f2/previews/6ab55633cc3e90258060501a/download/spin.gif)\n\n## Lightning Drop\n\n**Hold to rise and launch enemies, then dive through targets and carry them into the impact.**\n\n**Base cooldown: 23s**\n\n![drop2.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab557009e90cd2761382f33/previews/6ab557209e90cd27613868d6/download/drop2.gif)\n\n## It’s… So Pretty\n\n**Kick an enemy at close range, finishing them off if their health is low enough. (John Rod Form only)**\n\n**Base cooldown: 35s**\n\n![pretty.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab55791e5a88a2d2d6b99c4/previews/6ab55795e5a88a2d2d6b9da9/download/pretty.gif)\n\n## Execution:\n\n![executes.gif](https://trello.com/1/cards/6ab4354f8d818d192cd0e59f/attachments/6ab557d9af1c633dc544c34b/previews/6ab557e4af1c633dc544d093/download/executes.gif)",
+    "id": "6af25325efcf475a0337cdcf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "red",
+        "id": "6af25326efcf475a0337d80a",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Mythical",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80a",
+        "uses": 8
+      },
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d804",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "ELEMENT",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d804",
+        "uses": 12
+      },
+      {
+        "color": "orange",
+        "id": "6af25326efcf475a0337d801",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 9",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d801",
+        "uses": 16
+      },
+      {
+        "color": "yellow_dark",
+        "id": "6af25326efcf475a0337d806",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Legendary",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d806",
+        "uses": 11
+      }
+    ],
+    "name": "John Rod",
+    "pos": 140737488672448,
+    "shortLink": "FLHDF2L7",
+    "shortUrl": "https://trello.com/c/FLHDF2L7",
+    "url": "https://trello.com/c/FLHDF2L7/22-john-rod"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

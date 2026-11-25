@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 10975,
+      "date": "2026-10-08T09:57:11.840Z",
+      "id": "6af2532fefcf475a03387ca6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-08_115711559.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d19b/attachments/6af2532fefcf475a03387ca6/download/image_2026-10-08_115711559.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.910Z",
+    "desc": "Added BIG CHOP daily gardening quest, to get a random seed\nAdded a side quest for helping Bukay defeat some people....\nAdded a new frog bounty\nAdded Arm Wrestling minigame\nprob fixed ui scale bug\nprob fixed arrow bug with hand held stuff\nfixed ora smash bug\nfixed silver chariot block rapier rush bug\nsetquest now takes quest names\nand other bugs i probably forgot to write down that i fied\n\nKing Crimson",
+    "id": "6af25326efcf475a0337d19b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "08/10/2026 (King Crimson, Quests,Arm Wrestling)",
+    "pos": 140737488224256,
+    "shortLink": "o76L1ImB",
+    "shortUrl": "https://trello.com/c/o76L1ImB",
+    "url": "https://trello.com/c/o76L1ImB/346-08-10-2026-king-crimson-questsarm-wrestling"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

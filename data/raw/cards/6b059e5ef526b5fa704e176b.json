@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 86077,
+      "date": "2026-11-24T14:25:51.950Z",
+      "id": "6b059e6f59e8234178d08909",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-24_152551731.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b059e5ef526b5fa704e176b/attachments/6b059e6f59e8234178d08909/download/image_2026-11-24_152551731.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-24T14:26:34.156Z",
+    "desc": "# Bad Company Patch\n\n- Unit pilot range tripled!\n- ATTENTIONNN is now a hold variant of Maneuver.\n- New base move: Flanking\n- New base move: Landmine\n- New EX move: Airstrike\n- Paratroopers is now an EX skill and can drop ANY unit type, not just infantry.\n- Lowered unit health across the board:\n  Infantry 30 to 10\n  Green Berets 24 to 5\n  Tanks 60 to 45\n  Helicopters 36 to 15\n- Each unit type has its own differing replacement cooldown:\n  Infantry 10s\n  Green Berets 16s\n  Tanks 25s\n  Helicopters 30s\n- Tank shellsare perfect blockable (they still GB)\n- Helicopter missiles can now be blocked\n- Shells and Missiles flash a warning right before they fire.\n- Helicopters fly slightly lower\n- Piloted Infantry and Green Berets move 50% faster, piloted helicopters move twice as fast\n- Enemies can dash twice to throw off Green Berets\n- The unit menu can now be moved via HUD layout editor\n- Completely redid the alt colors for every unit and now are the following:\n  Urban\n  Special Forces\n  Desert\n  ——————\n\nCrazy Diamond wall creation is not cancelled by stun.\n3rd Gang Plot added.",
+    "id": "6b059e5ef526b5fa704e176b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "24/11/2026 (Bad Company Rework)",
+    "pos": 140737487732736,
+    "shortLink": "IaoNuyOZ",
+    "shortUrl": "https://trello.com/c/IaoNuyOZ",
+    "url": "https://trello.com/c/IaoNuyOZ/283-24-11-2026-bad-company-rework"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

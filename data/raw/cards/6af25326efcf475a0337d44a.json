@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 6419,
+      "date": "2026-11-03T00:08:24.988Z",
+      "id": "6af25330efcf475a03388646",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d44a/attachments/6af25330efcf475a03388646/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.942Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d44a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Screaming",
+    "pos": 140737488797696,
+    "shortLink": "h1MB3CrP",
+    "shortUrl": "https://trello.com/c/h1MB3CrP",
+    "url": "https://trello.com/c/h1MB3CrP/575-screaming"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

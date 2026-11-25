@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 792433,
+      "date": "2026-10-19T16:35:21.016Z",
+      "id": "6af25330efcf475a03388394",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d366/attachments/6af25330efcf475a03388394/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.199Z",
+    "desc": "# Talk to the Stranger\n\n**YOU DID IT!!! That cop won’t be bothering anyone for a while. Go talk to the guy you just helped.**\n\n**Stranger: Why are you covered in sand? Thanks for getting that cop off of me. Name’s Jodio**\n\n**Listen, if you want work, go see Meryl at IKO IKO. She runs the place.**",
+    "id": "6af25326efcf475a0337d366",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [],
+    "name": "Talk to the Stranger (Tutorial #3.)",
+    "pos": 140737488396288,
+    "shortLink": "J8HWyOi9",
+    "shortUrl": "https://trello.com/c/J8HWyOi9",
+    "url": "https://trello.com/c/J8HWyOi9/499-talk-to-the-stranger-tutorial-3"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

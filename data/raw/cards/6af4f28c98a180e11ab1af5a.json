@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:56:32.677Z",
+    "desc": "",
+    "id": "6af4f28c98a180e11ab1af5a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Rolling Stones",
+    "pos": 140737488879616,
+    "shortLink": "ooAAu1iA",
+    "shortUrl": "https://trello.com/c/ooAAu1iA",
+    "url": "https://trello.com/c/ooAAu1iA/54-rolling-stones"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

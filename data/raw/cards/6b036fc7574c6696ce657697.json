@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 496997,
+      "date": "2026-11-22T22:42:19.990Z",
+      "id": "6b036fcb07d7dfd0278e851b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234219170.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036fc7574c6696ce657697/attachments/6b036fcb07d7dfd0278e851b/download/image_2026-11-22_234219170.png"
+    },
+    {
+      "bytes": 299448,
+      "date": "2026-11-22T22:51:09.105Z",
+      "id": "6b0371dd250011acdfd30b43",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b036fc7574c6696ce657697/attachments/6b0371dd250011acdfd30b43/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:51:12.922Z",
+    "desc": "# To tune you have to have a car lift, then you go into customization.\n\n![image.webp](https://trello.com/1/cards/6b036fc7574c6696ce657697/attachments/6b0371dd250011acdfd30b43/previews/6b0371de250011acdfd30b8e/download/image.webp)",
+    "id": "6b036fc7574c6696ce657697",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036efc0081088c72c4e86e",
+    "labels": [],
+    "name": "Tuning",
+    "pos": 140737488355328,
+    "shortLink": "94mxl0A8",
+    "shortUrl": "https://trello.com/c/94mxl0A8",
+    "url": "https://trello.com/c/94mxl0A8/274-tuning"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036efc0081088c72c4e86e",
+    "name": "Car Tuning System",
+    "pos": 131584
+  }
+}

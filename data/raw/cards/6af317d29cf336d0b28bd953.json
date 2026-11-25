@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 78963,
+      "date": "2026-11-10T13:11:32.782Z",
+      "id": "6af3180404af9acf4e608b76",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-10_141132853.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af317d29cf336d0b28bd953/attachments/6af3180404af9acf4e608b76/download/image_2026-11-10_141132853.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T13:12:36.575Z",
+    "desc": "# Your very own Pogo Stick!\n\n# Obtainable via purchase of [https://trello.com/c/F6gUlLOM/1-pogo-stick](https://trello.com/c/F6gUlLOM/1-pogo-stick \"smartCard-inline\")",
+    "id": "6af317d29cf336d0b28bd953",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4f",
+    "labels": [],
+    "name": "Pogo Stick",
+    "pos": 140737488404480,
+    "shortLink": "DLYw895Q",
+    "shortUrl": "https://trello.com/c/DLYw895Q",
+    "url": "https://trello.com/c/DLYw895Q/2-pogo-stick"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4f",
+    "name": "Fast Travel",
+    "pos": 131072
+  }
+}

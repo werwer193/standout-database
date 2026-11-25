@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 403369,
+      "date": "2026-11-11T21:30:14.311Z",
+      "id": "6af4de6671296a2f4af0d86d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "beckoon.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4c2/attachments/6af4de6671296a2f4af0d86d/download/beckoon.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:30:18.559Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4c2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Beckon",
+    "pos": 140737489043456,
+    "shortLink": "hqx5mcZE",
+    "shortUrl": "https://trello.com/c/hqx5mcZE",
+    "url": "https://trello.com/c/hqx5mcZE/615-beckon"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

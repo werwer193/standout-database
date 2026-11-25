@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 14253,
+      "date": "2026-09-25T10:20:56.149Z",
+      "id": "6af2532fefcf475a0338747e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "032.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf82/attachments/6af2532fefcf475a0338747e/download/Sn%C3%ADmek_obrazovky_2026-09-25_122032.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.588Z",
+    "desc": "**Rolling Stones**\nSuper Fly can pose\n\nFixed mobile shiftlock being blocked by the menu overlay\nfixed mobile buttons getting stuck after releasing them\nfdx Mandom’s gun not firing through the mobile light attack button\nfixed swimming idle animations continuing after leaving water\nFixed Rewind interfering with swimming controls\nfxd slow/unstable walking and falling over after Mandom’s Rewind\nfixed stands disappearing after falling outside pilot range, with or without a carried item\nFixed John Rod  drop move leaving pilot movement stuck after being interrupted\nFixed mr Presidents room entry/exit letting players pass through walls\nFixed Walking Heart Spike Extension interfering with grabs now disable it first\nfixed The Grateful Dead weak mover leaving it inside the player during punches\nfixed Heaven’s Door keeping targets stunned after the book closes\nfixed Magician’s Red and Heaven’s Door heavies hitting twice\nRemoved The World’s duplicate time-stop startup sound\nfixed restricted RNG Robux options appearing on the main menu\nDisabled blood until the player has completed the tutorial\nFixed the cooldown bar’s height being slightly too small\nadded rain deensity setting\nINcreased book transmute cd",
+    "id": "6af25325efcf475a0337cf82",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "25/9/2026 (Rolling Stones, Bug Fixes)",
+    "pos": 140737488353280,
+    "shortLink": "cAjujEHm",
+    "shortUrl": "https://trello.com/c/cAjujEHm",
+    "url": "https://trello.com/c/cAjujEHm/167-25-9-2026-rolling-stones-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

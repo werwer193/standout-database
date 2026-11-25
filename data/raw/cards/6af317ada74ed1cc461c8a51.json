@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 36372,
+      "date": "2026-11-10T13:10:11.694Z",
+      "id": "6af317b32f90bdc05d2c4246",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-10_141011730.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af317ada74ed1cc461c8a51/attachments/6af317b32f90bdc05d2c4246/download/image_2026-11-10_141011730.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-24T23:07:41.686Z",
+    "desc": "# 315 Robux\n\n# [https://trello.com/c/DLYw895Q/2-pogo-stick](https://trello.com/c/DLYw895Q/2-pogo-stick \"smartCard-inline\")",
+    "id": "6af317ada74ed1cc461c8a51",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd52",
+    "labels": [],
+    "name": "Pogo Stick",
+    "pos": 140737488347136,
+    "shortLink": "F6gUlLOM",
+    "shortUrl": "https://trello.com/c/F6gUlLOM",
+    "url": "https://trello.com/c/F6gUlLOM/1-pogo-stick"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd52",
+    "name": "Robux Shop",
+    "pos": 139264
+  }
+}

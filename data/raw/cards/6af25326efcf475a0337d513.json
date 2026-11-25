@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 358005,
+      "date": "2026-10-27T17:53:04.878Z",
+      "id": "6af25330efcf475a033886c5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_185304600.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d513/attachments/6af25330efcf475a033886c5/download/image_2026-10-27_185304600.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:35:33.999Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d513",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5e",
+    "labels": [],
+    "name": "Limousine",
+    "pos": 140737488375808,
+    "shortLink": "b9Ep8goF",
+    "shortUrl": "https://trello.com/c/b9Ep8goF",
+    "url": "https://trello.com/c/b9Ep8goF/642-limousine"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5e",
+    "name": "Car Types",
+    "pos": 132096
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 3201339,
+      "date": "2026-11-11T21:43:17.711Z",
+      "id": "6af4e175b0c1c9e9a9a710fe",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "oshi.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4f2/attachments/6af4e175b0c1c9e9a9a710fe/download/oshi.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:43:29.379Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4f2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Oshi No Ko",
+    "pos": 140737489305600,
+    "shortLink": "la9vpiTB",
+    "shortUrl": "https://trello.com/c/la9vpiTB",
+    "url": "https://trello.com/c/la9vpiTB/631-oshi-no-ko"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

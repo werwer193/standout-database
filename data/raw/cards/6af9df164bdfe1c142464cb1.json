@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 391364,
+      "date": "2026-11-15T16:34:34.006Z",
+      "id": "6af9df1a21c4028d50edf751",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-15_173433572.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af9df164bdfe1c142464cb1/attachments/6af9df1a21c4028d50edf751/download/image_2026-11-15_173433572.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-15T16:37:10.083Z",
+    "desc": "# **Quest from:** [https://trello.com/c/ZwRHKAC9/230-lenny](https://trello.com/c/ZwRHKAC9/230-lenny \"smartCard-inline\")\n\n# Quest:\n\n**Take a cop car from the lot by the police station 0/1**\n\n**Park it on Lenny’s other lift and have him strip it 0/1**\n\n# Upon completion you get:\n\n# 300 [https://trello.com/c/Fsc3Vx1q/162-dalas](https://trello.com/c/Fsc3Vx1q/162-dalas \"smartCard-inline\")",
+    "id": "6af9df164bdfe1c142464cb1",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Catalytic Converter",
+    "pos": 140737488442368,
+    "shortLink": "lf1QDNF7",
+    "shortUrl": "https://trello.com/c/lf1QDNF7",
+    "url": "https://trello.com/c/lf1QDNF7/231-catalytic-converter"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

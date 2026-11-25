@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 17370,
+      "date": "2026-09-25T11:50:26.646Z",
+      "id": "6af2532fefcf475a0338748b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_135026404.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf88/attachments/6af2532fefcf475a0338748b/download/image_2026-09-25_135026404.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.569Z",
+    "desc": "### CONTROLS:\n\n**RUN: LEFT SHIFT**\n\n**EX MOVES: T**\n\n**RUN (ALTERNATE): W+W**\n\n**LIGHT ATTACK: LEFT MOUSE BUTTON**\n\n**HEAVY ATTACK: R/M2**\n\n**BLOCK: F**\n\n**DASH: Q**\n\n**CAMERA LOCK: LEFT ALT**\n\n**PILOT MODE: LEFT CONTROL**\n\n**SUMMON: E**\n\n**POSE: P**\n\n**CROUCH: C**\n\n**MENU: M**\n\n**EMOTE WHEEL: L**",
+    "id": "6af25325efcf475a0337cf88",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Controls",
+    "pos": 140737488367616,
+    "shortLink": "B42s8kvv",
+    "shortUrl": "https://trello.com/c/B42s8kvv",
+    "url": "https://trello.com/c/B42s8kvv/169-controls"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

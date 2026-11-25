@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:37.308Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337cf0d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "------",
+    "pos": 140737488347136,
+    "shortLink": "tNuxaiPO",
+    "shortUrl": "https://trello.com/c/tNuxaiPO",
+    "url": "https://trello.com/c/tNuxaiPO/128-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

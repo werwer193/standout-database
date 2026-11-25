@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 141122,
+      "date": "2026-11-11T21:46:02.770Z",
+      "id": "6af4e21ae51216f95af7639f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_224602417.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d501/attachments/6af4e21ae51216f95af7639f/download/image_2026-11-11_224602417.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:46:15.638Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d501",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Arms Folded (Right)",
+    "pos": 140737489387520,
+    "shortLink": "7DryQu0y",
+    "shortUrl": "https://trello.com/c/7DryQu0y",
+    "url": "https://trello.com/c/7DryQu0y/636-arms-folded-right"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

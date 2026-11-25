@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 1030138,
+      "date": "2026-09-24T12:40:05.052Z",
+      "id": "6af2532fefcf475a03386f06",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vampire.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce1a/attachments/6af2532fefcf475a03386f06/download/vampire.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:51.941Z",
+    "desc": "**Vampires were created by the Pillar Men with acupuncture techniques that they developed through the use of the Stone Mask, which was created by Kars.**\n\n**Vampires are known for their numerous superhuman traits. The most obvious abilities are their raw strength, regeneration, blood-sucking tentacles at their fingers and near-immortality. On top of that, many vampires are capable of manipulating their bodies in creative and unique ways.**\n**It is to note that hamon is the most effective against vampires because it is channeling sunlight into their opponent. Meaning in-game vampires take more damage from hamon charged attacked.**",
+    "id": "6af25325efcf475a0337ce1a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd49",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "What is Vampirism?",
+    "pos": 140737488388096,
+    "shortLink": "baQN4Hk8",
+    "shortUrl": "https://trello.com/c/baQN4Hk8",
+    "url": "https://trello.com/c/baQN4Hk8/47-what-is-vampirism"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd49",
+    "name": "For people who aren't familiar with JoJo",
+    "pos": 4096
+  }
+}

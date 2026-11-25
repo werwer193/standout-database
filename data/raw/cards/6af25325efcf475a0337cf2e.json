@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 131227,
+      "date": "2026-10-26T21:20:08.031Z",
+      "id": "6af2532fefcf475a03387299",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_222007610.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf2e/attachments/6af2532fefcf475a03387299/download/image_2026-10-26_222007610.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:08:22.118Z",
+    "desc": "# **First you need the Phone item, Then equip it and open your phone.**\n\n# [https://trello.com/c/K3q8P2rd/97-phone](https://trello.com/c/K3q8P2rd/97-phone \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337cf2e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4e",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "How do i use Phone Applications?",
+    "pos": 140737488322560,
+    "shortLink": "P7niqZ0G",
+    "shortUrl": "https://trello.com/c/P7niqZ0G",
+    "url": "https://trello.com/c/P7niqZ0G/139-how-do-i-use-phone-applications"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4e",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

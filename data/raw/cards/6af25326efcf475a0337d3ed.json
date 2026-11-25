@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 652429,
+      "date": "2026-10-27T12:38:39.265Z",
+      "id": "6af25330efcf475a033885a3",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "blingbangbang.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3ed/attachments/6af25330efcf475a033885a3/download/blingbangbang.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.683Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d3ed",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Bling Bang Bang",
+    "pos": 140737488388096,
+    "shortLink": "oVfC49x9",
+    "shortUrl": "https://trello.com/c/oVfC49x9",
+    "url": "https://trello.com/c/oVfC49x9/544-bling-bang-bang"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 467757,
+      "date": "2026-10-27T12:41:11.798Z",
+      "id": "6af25330efcf475a033885b5",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bringiton.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3f6/attachments/6af25330efcf475a033885b5/download/bringiton.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.706Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d3f6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Bring It On",
+    "pos": 140737488437248,
+    "shortLink": "vsSc7zie",
+    "shortUrl": "https://trello.com/c/vsSc7zie",
+    "url": "https://trello.com/c/vsSc7zie/547-bring-it-on"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 11897,
+      "date": "2026-11-02T23:04:34.057Z",
+      "id": "6af25330efcf475a033888cb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5ee/attachments/6af25330efcf475a033888cb/download/image.png"
+    },
+    {
+      "bytes": 20411,
+      "date": "2026-11-02T23:07:23.057Z",
+      "id": "6af25330efcf475a033888d3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5ee/attachments/6af25330efcf475a033888d3/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:05:03.377Z",
+    "desc": "# To get this status effect, you must be hit by [https://trello.com/c/ujcfNa1y/502-yo-yo-ma](https://trello.com/c/ujcfNa1y/502-yo-yo-ma \"smartCard-inline\")  saliva.\n\n![image.webp](https://trello.com/1/cards/6ae916ef95b8a815d13afffb/attachments/6ae917ab8114185674de563a/previews/6ae917ab8114185674de578d/download/image.webp)",
+    "id": "6af25326efcf475a0337d5ee",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd54",
+    "labels": [],
+    "name": "Acidic Saliva",
+    "pos": 140737488797696,
+    "shortLink": "YbUtY47M",
+    "shortUrl": "https://trello.com/c/YbUtY47M",
+    "url": "https://trello.com/c/YbUtY47M/715-acidic-saliva"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd54",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

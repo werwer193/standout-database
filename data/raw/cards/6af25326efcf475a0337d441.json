@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4720,
+      "date": "2026-11-03T00:08:06.285Z",
+      "id": "6af25330efcf475a03388637",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d441/attachments/6af25330efcf475a03388637/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.844Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d441",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Crying",
+    "pos": 140737488748544,
+    "shortLink": "ASF1rz54",
+    "shortUrl": "https://trello.com/c/ASF1rz54",
+    "url": "https://trello.com/c/ASF1rz54/572-crying"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

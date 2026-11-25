@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 248364,
+      "date": "2026-11-11T21:33:44.958Z",
+      "id": "6af4df3879b9272c47a0e4df",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pickme.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4cb/attachments/6af4df3879b9272c47a0e4df/download/pickme.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:33:55.141Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4cb",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Pick Me",
+    "pos": 140737489092608,
+    "shortLink": "cokDB02V",
+    "shortUrl": "https://trello.com/c/cokDB02V",
+    "url": "https://trello.com/c/cokDB02V/618-pick-me"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

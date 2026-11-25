@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 231680,
+      "date": "2026-09-24T22:13:39.572Z",
+      "id": "6af2532fefcf475a033871e1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "1230.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cefe/attachments/6af2532fefcf475a033871e1/download/Sn%C3%ADmek_obrazovky_2026-09-25_001230.png"
+    },
+    {
+      "bytes": 155616,
+      "date": "2026-09-24T22:15:36.447Z",
+      "id": "6af2532fefcf475a033871e9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cefe/attachments/6af2532fefcf475a033871e9/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.659Z",
+    "desc": "# Defeat Bobby Jean 0/1\n\n**Meryl Mei Qi - That is them. Bobby Jean reached the hospital with Glory Days. Stay clear of his bullets and end this before HOWLER sends anyone else.**\n\n# **Quest Completed! +900 EXP +550 Coins**",
+    "id": "6af25325efcf475a0337cefe",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Defeat Bobby Jean (Storyline #32.)",
+    "pos": 140737488896000,
+    "shortLink": "ZfzuuUNT",
+    "shortUrl": "https://trello.com/c/ZfzuuUNT",
+    "url": "https://trello.com/c/ZfzuuUNT/123-defeat-bobby-jean-storyline-32"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

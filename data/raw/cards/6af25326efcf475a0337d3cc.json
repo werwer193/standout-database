@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1051098,
+      "date": "2026-10-26T20:50:18.789Z",
+      "id": "6af25330efcf475a0338856a",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "detect.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3cc/attachments/6af25330efcf475a0338856a/download/detect.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T20:34:12.116Z",
+    "desc": "# You are able to dig up items on any sort of sand via the [https://trello.com/c/A0sDnolh/509-metal-detector](https://trello.com/c/A0sDnolh/509-metal-detector \"smartCard-inline\")\n\n## Can Drop:\n\n[https://trello.com/c/a8L1LKIu/143-arrow-part](https://trello.com/c/a8L1LKIu/143-arrow-part \"smartCard-inline\")\n[https://trello.com/c/6a3soH3e/210-steel-ingot](https://trello.com/c/6a3soH3e/210-steel-ingot \"smartCard-inline\")\n[https://trello.com/c/I2U4X9xN/775-scrap](https://trello.com/c/I2U4X9xN/775-scrap \"smartCard-inline\")\n[https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n[https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")\n[https://trello.com/c/N0nURmb2/430-laem-chabangs-jacket](https://trello.com/c/N0nURmb2/430-laem-chabangs-jacket \"smartCard-inline\")\n[https://trello.com/c/ujTnlgiL/431-laem-chabangs-pants](https://trello.com/c/ujTnlgiL/431-laem-chabangs-pants \"smartCard-inline\")\n[https://trello.com/c/buRQfMr3/429-laem-chabangs-holster](https://trello.com/c/buRQfMr3/429-laem-chabangs-holster \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d3cc",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [],
+    "name": "Sand (Metal Detecting)",
+    "pos": 140737488453632,
+    "shortLink": "iAqUPBW7",
+    "shortUrl": "https://trello.com/c/iAqUPBW7",
+    "url": "https://trello.com/c/iAqUPBW7/533-sand-metal-detecting"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

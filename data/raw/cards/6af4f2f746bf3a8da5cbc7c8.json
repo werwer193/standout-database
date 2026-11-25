@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:58:12.973Z",
+    "desc": "",
+    "id": "6af4f2f746bf3a8da5cbc7c8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Yo-Yo Ma",
+    "pos": 140737488961536,
+    "shortLink": "A6b6Dey5",
+    "shortUrl": "https://trello.com/c/A6b6Dey5",
+    "url": "https://trello.com/c/A6b6Dey5/59-yo-yo-ma"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

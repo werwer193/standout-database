@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1825704,
+      "date": "2026-11-11T21:34:13.623Z",
+      "id": "6af4df5540fbac88be100406",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "sweet.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4ce/attachments/6af4df5540fbac88be100406/download/sweet.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:34:21.216Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4ce",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Sweet Dance",
+    "pos": 140737489108992,
+    "shortLink": "aWhspd3P",
+    "shortUrl": "https://trello.com/c/aWhspd3P",
+    "url": "https://trello.com/c/aWhspd3P/619-sweet-dance"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

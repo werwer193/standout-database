@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 219458,
+      "date": "2026-11-11T21:45:42.379Z",
+      "id": "6af4e2067b3d55096b77736e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "sunshine.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4fe/attachments/6af4e2067b3d55096b77736e/download/sunshine.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:45:48.329Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4fe",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Sunshine Eyes",
+    "pos": 140737489371136,
+    "shortLink": "Z0ICBAGb",
+    "shortUrl": "https://trello.com/c/Z0ICBAGb",
+    "url": "https://trello.com/c/Z0ICBAGb/635-sunshine-eyes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

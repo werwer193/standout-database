@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 1174472,
+      "date": "2026-10-11T07:43:22.648Z",
+      "id": "6af2532fefcf475a03387ddb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_094323207.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1ce/attachments/6af2532fefcf475a03387ddb/download/image_2026-10-11_094323207.png"
+    },
+    {
+      "bytes": 767059,
+      "date": "2026-10-11T07:44:19.955Z",
+      "id": "6af25330efcf475a03387de3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1ce/attachments/6af25330efcf475a03387de3/download/image.png"
+    },
+    {
+      "bytes": 1721437,
+      "date": "2026-11-22T22:40:47.838Z",
+      "id": "6b036f6f2313a094df6fc4b2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1ce/attachments/6b036f6f2313a094df6fc4b2/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:40:57.448Z",
+    "desc": "# If you have a gang, you can interact with a plot to build your base there.\n\n## Existing plots:\n\n![image.webp](https://trello.com/1/cards/6acb3e0651aa2ccc25159425/attachments/6acb3e53bb7592872fb392ac/previews/6acb3e54bb7592872fb392e8/download/image.webp)\n\n**(Near the Docks)**\n\n![image.webp](https://trello.com/1/cards/6af25326efcf475a0337d1ce/attachments/6b036f6f2313a094df6fc4b2/previews/6b036f712313a094df6fc77d/download/image.webp)\n\n**(Near Diamotch)**",
+    "id": "6af25326efcf475a0337d1ce",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Plots",
+    "pos": 140737488437248,
+    "shortLink": "57DDJkP1",
+    "shortUrl": "https://trello.com/c/57DDJkP1",
+    "url": "https://trello.com/c/57DDJkP1/363-plots"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

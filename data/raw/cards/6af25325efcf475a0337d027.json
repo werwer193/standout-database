@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 88070,
+      "date": "2026-09-29T12:41:20.800Z",
+      "id": "6af2532fefcf475a03387727",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d027/attachments/6af2532fefcf475a03387727/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.310Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0c48451312d7cbebf6e/attachments/6abbb1f0b444c3b93f2fcec6/previews/6abbb1f1b444c3b93f2fcfb4/download/image.webp)",
+    "id": "6af25325efcf475a0337d027",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7fd",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fd",
+        "uses": 31
+      }
+    ],
+    "name": "Jar of Pineapples",
+    "pos": 140737488801792,
+    "shortLink": "8cbYi5z2",
+    "shortUrl": "https://trello.com/c/8cbYi5z2",
+    "url": "https://trello.com/c/8cbYi5z2/222-jar-of-pineapples"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

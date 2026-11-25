@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 4170,
+      "date": "2026-11-01T18:47:07.077Z",
+      "id": "6af25330efcf475a0338883a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_194706721.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5ac/attachments/6af25330efcf475a0338883a/download/image_2026-11-01_194706721.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:37:16.866Z",
+    "desc": "# Levelling up your garden level makes your [https://trello.com/c/hBYpalv8/512-texts-garden-deliveries](https://trello.com/c/hBYpalv8/512-texts-garden-deliveries \"smartCard-inline\")  more rewarding!",
+    "id": "6af25326efcf475a0337d5ac",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Garden EXP",
+    "pos": 140737488392704,
+    "shortLink": "RV8IDfyD",
+    "shortUrl": "https://trello.com/c/RV8IDfyD",
+    "url": "https://trello.com/c/RV8IDfyD/693-garden-exp"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

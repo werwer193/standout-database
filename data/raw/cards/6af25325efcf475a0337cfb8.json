@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 803158,
+      "date": "2026-10-18T09:36:33.919Z",
+      "id": "6af2532fefcf475a03387545",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "lamp.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfb8/attachments/6af2532fefcf475a03387545/download/lamp.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:08:55.532Z",
+    "desc": "# **Only throwable with stands that have Elevated Strength. (**[https://trello.com/c/P5dvR1az/18-walking-heart](https://trello.com/c/P5dvR1az/18-walking-heart \"smartCard-inline\")  **,** [https://trello.com/c/dsoFWZ5b/3-the-world](https://trello.com/c/dsoFWZ5b/3-the-world \"smartCard-inline\")  **,** [https://trello.com/c/LbcMHw2V/25-the-world-alternative-universe](https://trello.com/c/LbcMHw2V/25-the-world-alternative-universe \"smartCard-inline\")  **,** [https://trello.com/c/MMUX7vzF/2-star-platinum](https://trello.com/c/MMUX7vzF/2-star-platinum \"smartCard-inline\")  **,** [https://trello.com/c/rPyyjL5D/28-magicians-red](https://trello.com/c/rPyyjL5D/28-magicians-red \"smartCard-inline\") )",
+    "id": "6af25325efcf475a0337cfb8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6af25326efcf475a0337d805",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d805",
+        "uses": 11
+      },
+      {
+        "color": "black_light",
+        "id": "6af25326efcf475a0337d814",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Heavy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d814",
+        "uses": 3
+      },
+      {
+        "color": "red_dark",
+        "id": "6af25326efcf475a0337d809",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d809",
+        "uses": 9
+      }
+    ],
+    "name": "Street Lamps",
+    "pos": 140737488363520,
+    "shortLink": "W4LB7Mlc",
+    "shortUrl": "https://trello.com/c/W4LB7Mlc",
+    "url": "https://trello.com/c/W4LB7Mlc/185-street-lamps"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

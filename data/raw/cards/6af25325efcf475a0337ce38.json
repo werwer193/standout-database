@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1130206,
+      "date": "2026-11-10T20:21:52.930Z",
+      "id": "6af37ce0d70de0910c820805",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce38/attachments/6af37ce0d70de0910c820805/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T20:22:42.207Z",
+    "desc": "# **\"Old treasures. New reasons to keep your hands to yourself.\"**\n\n# Holds the game’s leaderboards and game credits.",
+    "id": "6af25325efcf475a0337ce38",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Museum Of O'ahu",
+    "pos": 140737488437248,
+    "shortLink": "GZGsvWOH",
+    "shortUrl": "https://trello.com/c/GZGsvWOH",
+    "url": "https://trello.com/c/GZGsvWOH/57-museum-of-oahu"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

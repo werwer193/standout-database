@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 1580,
+      "date": "2026-11-22T22:43:41.649Z",
+      "id": "6b03701dc53c97a6abab3f19",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234341154.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036fe4de4413aebfbefe32/attachments/6b03701dc53c97a6abab3f19/download/image_2026-11-22_234341154.png"
+    },
+    {
+      "bytes": 5366,
+      "date": "2026-11-22T22:48:38.121Z",
+      "id": "6b0371467c124a896e9de600",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b036fe4de4413aebfbefe32/attachments/6b0371467c124a896e9de600/download/image.png"
+    },
+    {
+      "bytes": 203092,
+      "date": "2026-11-22T22:54:47.222Z",
+      "id": "6b0372b76705d8b74a715b72",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6b036fe4de4413aebfbefe32/attachments/6b0372b76705d8b74a715b72/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:55:46.353Z",
+    "desc": "# You can change the parts in your car for better stats.\n\n# Engines:\n\n**Stock - Factory**\n\n**Tuned - +25% Speed, +30% Acceleration (5,000 Cash)**\n\n**Racing - +45% Speed, +65% Acceleration (12,000 Cash)**\n\n**Torque - +90% Acceleration, -15% Speed (8,000 Cash)**\n\n**Supercharged - +60% Speed, +90% Acceleration, -15% Armor (20,000 Cash)**\n\n# Armor:\n\n**Stock - Factory**\n\n**Reinforced - +50% Armor, -15% Acceleration, -8% Speed (4,000 Cash)**\n\n**Heavy - +100% Armor, -30% Acceleration, -15% Speed (9,000 Cash)**\n\n**Stripped - +5% Speed, +12% Acceleration, -35% Armor (3,000 Cash)**\n\n**Plated - +160% Armor, -40% Acceleration, -22% Speed (16,000 Cash)**\n\n# Brakes:\n\n**Stock - Factory**\n\n**Sport - +40% Brakes (2,500 Cash)**\n\n**Racing - +85% Brakes (6,000 Cash)**\n\n**Ceramic - +130% Brakes (10,000 Cash)**\n\n# Steering:\n\n**Stock - Factory**\n\n**Quick - +50% Steering, +50% Straighten Speed (2,000 Cash)**\n\n**Stable - +40% Straighten Speed, +40% Stability (3,000 Cash)**\n\n**Drift - +25% Steering, +60% Turn at Speed, -45% Rear Grip (2,500 Cash)**\n\n**Rally - +60% Steering, +60% Straighten Speed, +20% Stability (8,000 Cash)**\n\n# Bumpers:\n\n**Stock - Factory**\n\n**Bull Bar - -25% Crash Damage, +25% Ram Damage, -10% Acceleration (3,000 Cash)**\n\n![image.webp](https://trello.com/1/cards/6b036fe4de4413aebfbefe32/attachments/6b0372b76705d8b74a715b72/previews/6b0372b76705d8b74a715b8d/download/image.webp)\n\n# Doors:\n\n**Stock - Factory**\n\n**Security System - Gang Entry Only (15,000 Cash)**\n\n# Emergency:\n\n**Stock - Factory**\n\n**Self Destruct - 5 Second Fuse (10,000 Cash)**",
+    "id": "6b036fe4de4413aebfbefe32",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036efc0081088c72c4e86e",
+    "labels": [],
+    "name": "Parts",
+    "pos": 140737488420864,
+    "shortLink": "ztyzqqJE",
+    "shortUrl": "https://trello.com/c/ztyzqqJE",
+    "url": "https://trello.com/c/ztyzqqJE/278-parts"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036efc0081088c72c4e86e",
+    "name": "Car Tuning System",
+    "pos": 131584
+  }
+}

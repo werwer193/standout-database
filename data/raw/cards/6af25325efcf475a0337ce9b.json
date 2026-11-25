@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 125258,
+      "date": "2026-09-25T12:00:11.775Z",
+      "id": "6af2532fefcf475a033870bb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_140011175.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce9b/attachments/6af2532fefcf475a033870bb/download/image_2026-09-25_140011175.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.232Z",
+    "desc": "# Stand: Heaven’s Door\n\n## Health: 350",
+    "id": "6af25325efcf475a0337ce9b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d802",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d802",
+        "uses": 14
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Rohan Kishibe",
+    "pos": 140737488420864,
+    "shortLink": "pcfZYKRy",
+    "shortUrl": "https://trello.com/c/pcfZYKRy",
+    "url": "https://trello.com/c/pcfZYKRy/90-rohan-kishibe"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

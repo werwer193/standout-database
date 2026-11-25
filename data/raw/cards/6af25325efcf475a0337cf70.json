@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23653,
+      "date": "2026-09-25T08:50:58.899Z",
+      "id": "6af2532fefcf475a03387447",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_105058932.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf70/attachments/6af2532fefcf475a03387447/download/image_2026-09-25_105058932.png"
+    },
+    {
+      "bytes": 425017,
+      "date": "2026-09-26T11:58:42.082Z",
+      "id": "6af2532fefcf475a0338744e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "www.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf70/attachments/6af2532fefcf475a0338744e/download/www.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:35:04.617Z",
+    "desc": "## Costs 50 coins, Useable via the Phone\n\n![www.gif](https://trello.com/1/cards/6ab635df24f39bcd9c57e4d6/attachments/6ab7b372300aa466c2a98b2a/previews/6ab7b373300aa466c2a98b55/download/www.gif)\n\n# [https://trello.com/c/FhqSuInj/136-huber](https://trello.com/c/FhqSuInj/136-huber \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337cf70",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4f",
+    "labels": [],
+    "name": "Huber",
+    "pos": 140737488388096,
+    "shortLink": "LmOhZ91c",
+    "shortUrl": "https://trello.com/c/LmOhZ91c",
+    "url": "https://trello.com/c/LmOhZ91c/161-huber"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4f",
+    "name": "Fast Travel",
+    "pos": 131072
+  }
+}

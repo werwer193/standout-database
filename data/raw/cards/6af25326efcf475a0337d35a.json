@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 131709,
+      "date": "2026-10-19T14:43:40.043Z",
+      "id": "6af25330efcf475a0338833a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-19_164339820.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d35a/attachments/6af25330efcf475a0338833a/download/image_2026-10-19_164339820.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:08:24.968Z",
+    "desc": "## Excludes Rare Stands. Its pinnacle chance matches getting at least one Pinnacle from 3 regular arrows. Craft with 3 [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")  ([https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\") ) or purchase from the [https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\") .\n\n## Rates:\n\n**Epic - 42.5%**\n\n**Legendary 34.0%**\n\n**Mythic - 22.1%**\n\n**Pinnacle - 1.5%**",
+    "id": "6af25326efcf475a0337d35a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Lucky Arrow",
+    "pos": 140737488408576,
+    "shortLink": "gaHg9B1b",
+    "shortUrl": "https://trello.com/c/gaHg9B1b",
+    "url": "https://trello.com/c/gaHg9B1b/495-lucky-arrow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

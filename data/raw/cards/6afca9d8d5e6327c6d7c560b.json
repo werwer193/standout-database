@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 844766,
+      "date": "2026-11-18T19:49:49.703Z",
+      "id": "6afe015dd386e396e077c3c9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_204949271.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afca9d8d5e6327c6d7c560b/attachments/6afe015dd386e396e077c3c9/download/image_2026-11-18_204949271.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:49:51.560Z",
+    "desc": "",
+    "id": "6afca9d8d5e6327c6d7c560b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afca9c2ded1cfb842f232ac",
+    "labels": [],
+    "name": "Customize",
+    "pos": 140737488404480,
+    "shortLink": "gaInczws",
+    "shortUrl": "https://trello.com/c/gaInczws",
+    "url": "https://trello.com/c/gaInczws/241-customize"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afca9c2ded1cfb842f232ac",
+    "name": "Main Menu",
+    "pos": 9088
+  }
+}

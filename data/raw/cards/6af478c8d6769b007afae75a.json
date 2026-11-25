@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 27427,
+      "date": "2026-11-11T14:18:18.817Z",
+      "id": "6af4792a5ac44de49e2b2207",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_151817748.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af478c8d6769b007afae75a/attachments/6af4792a5ac44de49e2b2207/download/image_2026-11-11_151817748.png"
+    },
+    {
+      "bytes": 148352,
+      "date": "2026-11-11T14:19:29.633Z",
+      "id": "6af479718e7622a605b4748d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_151928285.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af478c8d6769b007afae75a/attachments/6af479718e7622a605b4748d/download/image_2026-11-11_151928285.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T14:20:16.238Z",
+    "desc": "# A heavy rock, warm in the hand. Crush it to awaken a Part 9 Stand, each at the same chance.\n\n# Can be obtained from [https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\")",
+    "id": "6af478c8d6769b007afae75a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "orange",
+        "id": "6af25326efcf475a0337d801",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 9",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d801",
+        "uses": 16
+      }
+    ],
+    "name": "Mysterious Rock",
+    "pos": 140737488415744,
+    "shortLink": "HuX4PNuE",
+    "shortUrl": "https://trello.com/c/HuX4PNuE",
+    "url": "https://trello.com/c/HuX4PNuE/13-mysterious-rock"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

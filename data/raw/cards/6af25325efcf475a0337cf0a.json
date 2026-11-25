@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 357169,
+      "date": "2026-09-25T08:10:33.393Z",
+      "id": "6af2532fefcf475a03387213",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101033799.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf0a/attachments/6af2532fefcf475a03387213/download/image_2026-09-25_101033799.png"
+    },
+    {
+      "bytes": 12218,
+      "date": "2026-10-02T08:32:17.963Z",
+      "id": "6af2532fefcf475a0338721a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf0a/attachments/6af2532fefcf475a0338721a/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:10:41.394Z",
+    "desc": "# Bounties are repeatable quests that refresh every 1 hour.\n\n**Get bounties from:** [https://trello.com/c/BqNH1GTb/76-petyr](https://trello.com/c/BqNH1GTb/76-petyr \"smartCard-inline\")\n**Or alternatively use your phone and open the Bounties application.**\n\n## Bounties also have tiers, The higher the tier the more difficult and rewarding it is.\n\n![image.webp](https://trello.com/1/cards/6ab629ed0f2626f919a4c0df/attachments/6abf6c11f8f4e1067a987624/previews/6abf6c12f8f4e1067a987653/download/image.webp)",
+    "id": "6af25325efcf475a0337cf0a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "What are bounties?",
+    "pos": 140737488338944,
+    "shortLink": "POOdVUKl",
+    "shortUrl": "https://trello.com/c/POOdVUKl",
+    "url": "https://trello.com/c/POOdVUKl/127-what-are-bounties"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

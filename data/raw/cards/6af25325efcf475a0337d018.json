@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 63427,
+      "date": "2026-09-29T12:42:25.738Z",
+      "id": "6af2532fefcf475a033876f6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d018/attachments/6af2532fefcf475a033876f6/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.289Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0b517748ea620bc0f84/attachments/6abbb23103cc23c7739d6e39/previews/6abbb23203cc23c7739d70aa/download/image.webp)",
+    "id": "6af25325efcf475a0337d018",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7fd",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fd",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Banana",
+    "pos": 140737488719872,
+    "shortLink": "1PkzVblx",
+    "shortUrl": "https://trello.com/c/1PkzVblx",
+    "url": "https://trello.com/c/1PkzVblx/217-banana"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

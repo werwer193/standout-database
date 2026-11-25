@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:43:19.708Z",
+    "desc": "",
+    "id": "6af4ef872e4a1d06f560b12a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "---",
+    "pos": 140737488453632,
+    "shortLink": "fFHMuf9I",
+    "shortUrl": "https://trello.com/c/fFHMuf9I",
+    "url": "https://trello.com/c/fFHMuf9I/26-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

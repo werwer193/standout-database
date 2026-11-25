@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:03:44.817Z",
+    "desc": "",
+    "id": "6af4f447c21aa8ec667e790f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "The Sun",
+    "pos": 140737489338368,
+    "shortLink": "JDcNF5Gj",
+    "shortUrl": "https://trello.com/c/JDcNF5Gj",
+    "url": "https://trello.com/c/JDcNF5Gj/84-the-sun"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

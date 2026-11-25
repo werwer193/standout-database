@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 21849,
+      "date": "2026-11-14T10:30:58.759Z",
+      "id": "6af8386214bd4abc367b25c1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_113059177.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af786c807e755638e08dd7b/attachments/6af8386214bd4abc367b25c1/download/image_2026-11-14_113059177.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:23:22.287Z",
+    "desc": "# Use it to play your guitar as you walk. Use it again to put it away. A hit ends the song.\n\n# [https://trello.com/c/PTX6EFYl/215-guitar](https://trello.com/c/PTX6EFYl/215-guitar \"smartCard-inline\")",
+    "id": "6af786c807e755638e08dd7b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Guitar",
+    "pos": 140737488650240,
+    "shortLink": "hdDnuoqb",
+    "shortUrl": "https://trello.com/c/hdDnuoqb",
+    "url": "https://trello.com/c/hdDnuoqb/216-guitar"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

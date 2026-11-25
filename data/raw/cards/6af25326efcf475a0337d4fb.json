@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 91678,
+      "date": "2026-11-11T21:45:19.025Z",
+      "id": "6af4e1ef6dcfc18c96c70f46",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "rockpaper.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4fb/attachments/6af4e1ef6dcfc18c96c70f46/download/rockpaper.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:45:26.119Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4fb",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Rock Paper Scissors",
+    "pos": 140737489354752,
+    "shortLink": "xPKmeYrD",
+    "shortUrl": "https://trello.com/c/xPKmeYrD",
+    "url": "https://trello.com/c/xPKmeYrD/634-rock-paper-scissors"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

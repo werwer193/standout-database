@@ -1,0 +1,67 @@
+{
+  "attachments": [
+    {
+      "bytes": 9261,
+      "date": "2026-11-01T18:38:48.582Z",
+      "id": "6af2532fefcf475a03387453",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193848243.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf73/attachments/6af2532fefcf475a03387453/download/image_2026-11-01_193848243.png"
+    },
+    {
+      "bytes": 9865,
+      "date": "2026-11-14T15:55:24.573Z",
+      "id": "6af8846c181b239092771970",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_165524120.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf73/attachments/6af8846c181b239092771970/download/image_2026-11-14_165524120.png"
+    },
+    {
+      "bytes": 18672,
+      "date": "2026-11-14T16:37:50.580Z",
+      "id": "6af88e5ee3cf103f7249d629",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_173750039.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf73/attachments/6af88e5ee3cf103f7249d629/download/image_2026-11-14_173750039.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T16:37:51.073Z",
+    "desc": "# Ingame currency used to purchase items.",
+    "id": "6af25325efcf475a0337cf73",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Dalas",
+    "pos": 140737488376320,
+    "shortLink": "Fsc3Vx1q",
+    "shortUrl": "https://trello.com/c/Fsc3Vx1q",
+    "url": "https://trello.com/c/Fsc3Vx1q/162-dalas"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

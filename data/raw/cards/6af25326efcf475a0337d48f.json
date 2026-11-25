@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 462861,
+      "date": "2026-11-11T21:14:20.871Z",
+      "id": "6af4daaca3ac7b6e81c9911b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "warmup.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d48f/attachments/6af4daaca3ac7b6e81c9911b/download/warmup.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:14:25.282Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d48f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Warm Up",
+    "pos": 140737488764928,
+    "shortLink": "zED6xQPw",
+    "shortUrl": "https://trello.com/c/zED6xQPw",
+    "url": "https://trello.com/c/zED6xQPw/598-warm-up"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

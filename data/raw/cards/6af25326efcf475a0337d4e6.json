@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 742265,
+      "date": "2026-11-11T21:39:51.193Z",
+      "id": "6af4e0a75be0214f322b6dbd",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "lethal.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4e6/attachments/6af4e0a75be0214f322b6dbd/download/lethal.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:40:14.455Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4e6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Lethal Dance",
+    "pos": 140737489240064,
+    "shortLink": "7lhvOZS4",
+    "shortUrl": "https://trello.com/c/7lhvOZS4",
+    "url": "https://trello.com/c/7lhvOZS4/627-lethal-dance"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

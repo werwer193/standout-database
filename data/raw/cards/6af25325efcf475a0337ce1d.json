@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 653016,
+      "date": "2026-09-25T09:18:32.162Z",
+      "id": "6af2532fefcf475a03386f0e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce1d/attachments/6af2532fefcf475a03386f0e/download/image.png"
+    },
+    {
+      "bytes": 212339,
+      "date": "2026-09-25T09:21:31.105Z",
+      "id": "6af2532fefcf475a03386f16",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_112130886.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce1d/attachments/6af2532fefcf475a03386f16/download/image_2026-09-25_112130886.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T20:03:00.002Z",
+    "desc": "# Two meteors are falling from the sky…\n\n# Upon landing, it drops [https://trello.com/c/a8L1LKIu/143-arrow-part](https://trello.com/c/a8L1LKIu/143-arrow-part \"smartCard-inline\") near itself.\n\n![image.webp](https://trello.com/1/cards/6ab54ab5677f47550e7dd8c1/attachments/6ab63c6888dfdff4024c63c6/previews/6ab63c6888dfdff4024c6448/download/image.webp)",
+    "id": "6af25325efcf475a0337ce1d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd43",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6af25326efcf475a0337d811",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d811",
+        "uses": 5
+      }
+    ],
+    "name": "Meteor",
+    "pos": 140737488355328,
+    "shortLink": "M7WJ3AXL",
+    "shortUrl": "https://trello.com/c/M7WJ3AXL",
+    "url": "https://trello.com/c/M7WJ3AXL/48-meteor"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd43",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-12T15:42:35.301Z",
+    "desc": "",
+    "id": "6af5de31807347342eabe9d0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd52",
+    "labels": [],
+    "name": "Products",
+    "pos": 140737488355200,
+    "shortLink": "yvQxCEUc",
+    "shortUrl": "https://trello.com/c/yvQxCEUc",
+    "url": "https://trello.com/c/yvQxCEUc/196-products"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd52",
+    "name": "Robux Shop",
+    "pos": 139264
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 56873,
+      "date": "2026-09-25T08:34:08.435Z",
+      "id": "6af2532fefcf475a033872fd",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_103408583.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf3d/attachments/6af2532fefcf475a033872fd/download/image_2026-09-25_103408583.png"
+    },
+    {
+      "bytes": 71196,
+      "date": "2026-09-25T08:34:10.891Z",
+      "id": "6af2532fefcf475a03387304",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf3d/attachments/6af2532fefcf475a03387304/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.024Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab631b18237fdd537d7f48b/attachments/6ab6320237160bbe6a5dab65/previews/6ab6320337160bbe6a5dab79/download/image.webp)",
+    "id": "6af25325efcf475a0337cf3d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Apple Seed",
+    "pos": 140737488453776,
+    "shortLink": "fyjQbF7g",
+    "shortUrl": "https://trello.com/c/fyjQbF7g",
+    "url": "https://trello.com/c/fyjQbF7g/144-apple-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

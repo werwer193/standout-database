@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:06:17.013Z",
+    "desc": "",
+    "id": "6af4f4c94250bbaf3bf0fbc9",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Magician's Red",
+    "pos": 140737489502208,
+    "shortLink": "y8rmuvWW",
+    "shortUrl": "https://trello.com/c/y8rmuvWW",
+    "url": "https://trello.com/c/y8rmuvWW/94-magicians-red"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

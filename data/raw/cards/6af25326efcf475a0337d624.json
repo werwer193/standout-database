@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7293,
+      "date": "2026-11-02T23:16:25.792Z",
+      "id": "6af25330efcf475a03388959",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d624/attachments/6af25330efcf475a03388959/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.873Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d624",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd54",
+    "labels": [],
+    "name": "Last Hamon",
+    "pos": 140737489092608,
+    "shortLink": "UnUds3xo",
+    "shortUrl": "https://trello.com/c/UnUds3xo",
+    "url": "https://trello.com/c/UnUds3xo/733-last-hamon"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd54",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

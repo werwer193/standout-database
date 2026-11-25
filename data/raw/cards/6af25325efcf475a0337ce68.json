@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 491573,
+      "date": "2026-09-24T21:20:16.205Z",
+      "id": "6af2532fefcf475a03386fed",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "j2.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce68/attachments/6af2532fefcf475a03386fed/download/Sn%C3%ADmek_obrazovky_2026-09-24_231922.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:51:04.192Z",
+    "desc": "# Located at [[https://trello.com/c/DrboiAuj/60-mckinley-highschool](https://trello.com/c/DrboiAuj/60-mckinley-highschool \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce68",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Jodio",
+    "pos": 140737488240640,
+    "shortLink": "SLwINLt4",
+    "shortUrl": "https://trello.com/c/SLwINLt4",
+    "url": "https://trello.com/c/SLwINLt4/73-jodio"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

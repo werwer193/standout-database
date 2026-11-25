@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 18070,
+      "date": "2026-11-11T09:54:27.918Z",
+      "id": "6af43b535f6294b8cb6bb10b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_105426903.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af43b41176d91c1951d0987/attachments/6af43b535f6294b8cb6bb10b/download/image_2026-11-11_105426903.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T10:02:05.036Z",
+    "desc": "# Obtainable from: [https://trello.com/c/BA8EVHpC/6-museum](https://trello.com/c/BA8EVHpC/6-museum \"smartCard-inline\")\n\n# [https://trello.com/c/SLwINLt4/73-jodio](https://trello.com/c/SLwINLt4/73-jodio \"smartCard-inline\") Signed:\n\n**+13 Ability**\n\n**-5 Strength**\n\n**+1 Health**\n\n**+15% Trail Speed**\n\n**Keeper’s Instinct - Crouching makes you see the trails of enemies.**\n\n---\n\n# [https://trello.com/c/67A6ovLH/78-big-chop](https://trello.com/c/67A6ovLH/78-big-chop \"smartCard-inline\") Signed:\n\n**-2 Ability**\n\n**-2 Strength**\n\n**+9 Health**\n\n**+15% Trail Speed**\n\n**Keeper’s Instinct - Crouching makes you see the trails of enemies.**\n\n---\n\n# [https://trello.com/c/rr16vmhB/685-lettuce-trader](https://trello.com/c/rr16vmhB/685-lettuce-trader \"smartCard-inline\") Signed:\n\n**+7 Ability**\n\n**-5 Strength**\n\n**+6 Health**\n\n**+25% Trail Speed**\n\n**Keeper’s Instinct - Crouching makes you see the trails of enemies.**\n\n---\n\n# [https://trello.com/c/SIt82TDu/67-meryl-mei-qi](https://trello.com/c/SIt82TDu/67-meryl-mei-qi \"smartCard-inline\") Signed:\n\n**+5 Ability**\n\n**+5 Strength**\n\n**+3 Health**\n\n**+15% Trail Speed**\n\n**Keeper’s Instinct - Crouching makes you see the trails of enemies.**",
+    "id": "6af43b41176d91c1951d0987",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Record Keeper's Monocle",
+    "pos": 140737489240064,
+    "shortLink": "1weSxFwS",
+    "shortUrl": "https://trello.com/c/1weSxFwS",
+    "url": "https://trello.com/c/1weSxFwS/9-record-keepers-monocle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

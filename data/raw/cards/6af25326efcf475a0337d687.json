@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 9134,
+      "date": "2026-11-03T00:13:43.084Z",
+      "id": "6af25330efcf475a03388a31",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d687/attachments/6af25330efcf475a03388a31/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:12:00.247Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d687",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5c",
+    "labels": [],
+    "name": "Dumbstruck",
+    "pos": 140737489207296,
+    "shortLink": "R95qpgvg",
+    "shortUrl": "https://trello.com/c/R95qpgvg",
+    "url": "https://trello.com/c/R95qpgvg/766-dumbstruck"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5c",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

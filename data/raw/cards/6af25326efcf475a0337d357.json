@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 131294,
+      "date": "2026-10-19T14:43:17.434Z",
+      "id": "6af25330efcf475a03388333",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-19_164317245.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d357/attachments/6af25330efcf475a03388333/download/image_2026-10-19_164317245.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:07:43.471Z",
+    "desc": "## Excludes Rare and Epic Stands. Its Pinnacle chance matches getting at least one Pinnacle from 9 regular arrows. Craft with 9 [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")  ([https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\")  ) or purchase from the [https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\")\n\n## Rates:\n\n**Legendary - 57.9%**\n\n**Mythic - 37.7%**\n\n**Pinnacle - 4.4%**",
+    "id": "6af25326efcf475a0337d357",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Bizarre Arrow",
+    "pos": 140737488412672,
+    "shortLink": "4NrBMWKk",
+    "shortUrl": "https://trello.com/c/4NrBMWKk",
+    "url": "https://trello.com/c/4NrBMWKk/494-bizarre-arrow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

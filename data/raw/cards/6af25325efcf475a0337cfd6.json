@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 18939,
+      "date": "2026-09-27T14:02:06.928Z",
+      "id": "6af2532fefcf475a033875df",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-27_160206668.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfd6/attachments/6af2532fefcf475a033875df/download/image_2026-09-27_160206668.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.901Z",
+    "desc": "`Tubular Bells (WIP)`\n`New Car System`\n`46 New Accessories/Hairs`\n`Bunch of bugged skills fixed`\n`Party system fixed`\n\nFIXED THE FOLLOWING\ngrateful dead holds and throws cars with the stand instead of the user\ngrateful dead can pick up cars while piloting\nthrowing cars with grateful dead can fling you\ngrateful dead moves in front of you when using heavy even though it has no heavy\npicking up or putting down a drivable car can damage or kill you\nyou can pick up another drivable car too soon after throwing one\nempty seats stay usable while cars are being picked up or thrown\ngetting into passenger seats can fling you\nrapidly picking up and dropping cars stretches the suspension\ncar steering is too sharp and cars randomly stop while holding w\ncar wheels keep moving during time stop\nctr’s arm touching a car seat can teleport you and pull the car\nctr needs to unsit seated targets before grabbing them\nhey ya’s dodge aura sometimes stays after the dodges run out\nhey ya’s lucky uppercut stopped proccing\nhey ya’s luck gui and inspiration stopped working\nsmooth operators’ moves miss targets at different elevations\nsmooth operators sometimes doesnt move toward the target when using a skill\ninternal pain can void smooth operators until you go in and out of pilot\nstrength’s hull trap puts targets inside the hull instead of flush against it\nhull trap can push the user back or fling both the user and target into the ocean\nrepeated hull traps could make the ship flash red and sink\nhull-trapped targets can fall through the boat\nhooked has an inconsistent hitbox and can cancel on nothing\nhooking someone on strength can make them fall through the boat\nbuilding strength can activate during sitting or seat-exit states when it should be blocked\njumping off strength’s couch can reset the ship to its spawn position and break its collisions\nstrength needs to allow piloting while seated\nbuilding strength can stall or glitch when used right after boarding\nresizing strength can leave the player behind or push the deck into them\nmagicians red cant ignite gasoline\nmandom’s watch set overlapping star platinum’s grab beatdown can break movement\nstar platinum’s barrage doesnt properly stop incoming projectiles\ngrateful dead’s ice pack doesnt cool boiling water’s heat\nsounds and voice lines keep playing normally during time stop instead of following time scale\nflying pilot stands can phase through walls\nunderworld’s illusion chamber cooldown blocks its second activation\nquick time stop reportedly has no effects for star platinum and the world\nboiling ocean water is restricted by individual water-part boundaries\n\nfxed internal pain’s movement, close-range overshooting, and cleanup leaving smooth operators stuck or missing\nfied star platinum’s block + m1 catch failing on supported projectile\nfixed block + m2 deflect ignoring projectiles or letting them hit and guard break you instead\nfixed projectile defense not protecting hits against the stand itself\nfixed magicians red’s ankhs missing nearby gasoline\nallwed strength’s ship scraps, hooked, and hull trap while sitting on its couch\nfixed hooked pulling seated targets without unsitting them first\nfixed strength’s couch joining passengers to the ship’s physics assembly, causing teleporting and sinking\nfixed another passenger sitting on the couch blocking the owner from using building strength\nfixed passengers losing their position when strength moves or changes size\nshortened hooked’s recovery, especially upon reaching water, so targets don’t keep sinking while ragdolled\nfixd underworld’s illusion chamber doing nothing on the training island\nfixed remaning ocean targeting failures when using bring to a boil\nfixed boiling effects and hit detection extending onto dry shoreline\nfixed an ownership handoff bug that sent tower of gray underground and broke piloting\nfixed invisible non-collidable parts and strength’s boat blockers interfering with pilot and underworld\nfixed day/night cancl errors",
+    "id": "6af25325efcf475a0337cfd6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "27/9/2026 (Tubular Bells, Car Rewrite, Accessories, Hairs, Bug Fixes)",
+    "pos": 140737488347136,
+    "shortLink": "w9IVNvCE",
+    "shortUrl": "https://trello.com/c/w9IVNvCE",
+    "url": "https://trello.com/c/w9IVNvCE/195-27-9-2026-tubular-bells-car-rewrite-accessories-hairs-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

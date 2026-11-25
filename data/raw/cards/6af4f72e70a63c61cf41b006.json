@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:15:58.988Z",
+    "desc": "",
+    "id": "6af4f72e70a63c61cf41b006",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Alt 2",
+    "pos": 140737490026496,
+    "shortLink": "K2Yvg8Yz",
+    "shortUrl": "https://trello.com/c/K2Yvg8Yz",
+    "url": "https://trello.com/c/K2Yvg8Yz/126-alt-2"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

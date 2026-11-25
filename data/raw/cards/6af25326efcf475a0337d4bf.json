@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 401125,
+      "date": "2026-11-11T21:29:47.888Z",
+      "id": "6af4de4b7559c4dc6d60031d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "beckon.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4bf/attachments/6af4de4b7559c4dc6d60031d/download/beckon.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:29:51.147Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4bf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Bow",
+    "pos": 140737489027072,
+    "shortLink": "FmshpHnn",
+    "shortUrl": "https://trello.com/c/FmshpHnn",
+    "url": "https://trello.com/c/FmshpHnn/614-bow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 424239,
+      "date": "2026-10-27T17:54:15.401Z",
+      "id": "6af25330efcf475a033886d4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_185414948.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d519/attachments/6af25330efcf475a033886d4/download/image_2026-10-27_185414948.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.120Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d519",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5e",
+    "labels": [],
+    "name": "Sports Car",
+    "pos": 140737488363520,
+    "shortLink": "1lggL8sH",
+    "shortUrl": "https://trello.com/c/1lggL8sH",
+    "url": "https://trello.com/c/1lggL8sH/644-sports-car"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5e",
+    "name": "Car Types",
+    "pos": 132096
+  }
+}

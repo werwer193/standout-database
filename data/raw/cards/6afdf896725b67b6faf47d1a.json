@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23671,
+      "date": "2026-11-18T19:12:39.191Z",
+      "id": "6afdf8a75a66efe0c5a5979c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdf896725b67b6faf47d1a/attachments/6afdf8a75a66efe0c5a5979c/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:18:14.697Z",
+    "desc": "# Obtainable from: [https://trello.com/c/mfFlKeZB/695-food-safety-agency](https://trello.com/c/mfFlKeZB/695-food-safety-agency \"smartCard-inline\")\n\n# **When equipped gives you:**\n\n**+2 Health**\n\n**+10% Growth Speed**",
+    "id": "6afdf896725b67b6faf47d1a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "FSA Hat",
+    "pos": 140737489289216,
+    "shortLink": "CRASl6Hm",
+    "shortUrl": "https://trello.com/c/CRASl6Hm",
+    "url": "https://trello.com/c/CRASl6Hm/250-fsa-hat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

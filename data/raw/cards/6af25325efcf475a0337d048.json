@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 71070,
+      "date": "2026-09-29T12:47:19.369Z",
+      "id": "6af2532fefcf475a03387789",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d048/attachments/6af2532fefcf475a03387789/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.509Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337d048",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      }
+    ],
+    "name": "Watermelon Seed",
+    "pos": 140737488472576,
+    "shortLink": "RMryr7gK",
+    "shortUrl": "https://trello.com/c/RMryr7gK",
+    "url": "https://trello.com/c/RMryr7gK/233-watermelon-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

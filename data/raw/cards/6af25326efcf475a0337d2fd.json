@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 324138,
+      "date": "2026-10-12T22:46:59.505Z",
+      "id": "6af25330efcf475a033881fc",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bubblegif.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2fd/attachments/6af25330efcf475a033881fc/download/bubblegif.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:34:34.280Z",
+    "desc": "# Given by [https://trello.com/c/nRG9RDsj/463-bobby](https://trello.com/c/nRG9RDsj/463-bobby \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d2fd",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Blow Bubble",
+    "pos": 140737488355328,
+    "shortLink": "TzbkUKcN",
+    "shortUrl": "https://trello.com/c/TzbkUKcN",
+    "url": "https://trello.com/c/TzbkUKcN/464-blow-bubble"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 607555,
+      "date": "2026-10-13T17:26:27.798Z",
+      "id": "6af25330efcf475a03388241",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_192627123.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d31b/attachments/6af25330efcf475a03388241/download/image_2026-10-13_192627123.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.549Z",
+    "desc": "**Quest from** [https://trello.com/c/p3xN5QUy/525-lisa-lisa](https://trello.com/c/p3xN5QUy/525-lisa-lisa \"smartCard-inline\")\n\n**(NEED TO DO** [https://trello.com/c/lwSU9PF3/526-hamon-training](https://trello.com/c/lwSU9PF3/526-hamon-training \"smartCard-inline\") **FIRST.)**\n\n## Quest:\n\n**Hold the glass upside down 0/1**\n\n**Swim through the buoys 0/6**\n\n**Hold the balance to 15 0/1**\n\n**Defeat a VAMPIRE (bosses, NPCs, players all count) 0/1**\n\n# Upon completion you get:\n\n[https://trello.com/c/Nq8jIQyf/401-ceasar-hamon](https://trello.com/c/Nq8jIQyf/401-ceasar-hamon \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d31b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Ceasar Path",
+    "pos": 140737488359424,
+    "shortLink": "cvcYGhhW",
+    "shortUrl": "https://trello.com/c/cvcYGhhW",
+    "url": "https://trello.com/c/cvcYGhhW/474-ceasar-path"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

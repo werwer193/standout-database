@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:01:19.320Z",
+    "desc": "",
+    "id": "6af4f37f56aa425e14854be0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Strength",
+    "pos": 140737489141760,
+    "shortLink": "1MmmbMnN",
+    "shortUrl": "https://trello.com/c/1MmmbMnN",
+    "url": "https://trello.com/c/1MmmbMnN/70-strength"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

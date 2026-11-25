@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 747648,
+      "date": "2026-11-15T16:32:51.482Z",
+      "id": "6af9deb36f96f75eb4710620",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-15_173250976.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af9de5c5278d46cb328a5d7/attachments/6af9deb36f96f75eb4710620/download/image_2026-11-15_173250976.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:20:37.070Z",
+    "desc": "# \"It smells of motor oil…\"",
+    "id": "6af9de5c5278d46cb328a5d7",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Lenny's",
+    "pos": 140737488666624,
+    "shortLink": "t8aWrAxT",
+    "shortUrl": "https://trello.com/c/t8aWrAxT",
+    "url": "https://trello.com/c/t8aWrAxT/229-lennys"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

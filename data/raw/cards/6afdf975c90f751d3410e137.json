@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 25218,
+      "date": "2026-11-18T19:16:17.673Z",
+      "id": "6afdf981da2e292617adc50f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdf975c90f751d3410e137/attachments/6afdf981da2e292617adc50f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:18:19.543Z",
+    "desc": "# Was given to players who finished the storyline, or who joined during the first 24 hours of release and completed the tutorial.\n\n# **When equipped gives you:**\n\n**+1 Health**\n\n**+1 Ability**\n\n**+1 Strength**",
+    "id": "6afdf975c90f751d3410e137",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "STAND OUT Badge",
+    "pos": 140737489305600,
+    "shortLink": "96bF1yid",
+    "shortUrl": "https://trello.com/c/96bF1yid",
+    "url": "https://trello.com/c/96bF1yid/252-stand-out-badge"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

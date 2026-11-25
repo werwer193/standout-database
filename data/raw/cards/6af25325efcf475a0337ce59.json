@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 204883,
+      "date": "2026-09-25T08:11:26.492Z",
+      "id": "6af2532fefcf475a03386fcb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101126679.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce59/attachments/6af2532fefcf475a03386fcb/download/image_2026-09-25_101126679.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:52:17.109Z",
+    "desc": "# Located in [[https://trello.com/c/aqnTH2EX/62-diamotch](https://trello.com/c/aqnTH2EX/62-diamotch \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce59",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Diamotch Clerk",
+    "pos": 140737488322560,
+    "shortLink": "fqGm8Emv",
+    "shortUrl": "https://trello.com/c/fqGm8Emv",
+    "url": "https://trello.com/c/fqGm8Emv/68-diamotch-clerk"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

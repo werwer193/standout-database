@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 24327,
+      "date": "2026-11-13T17:17:39.647Z",
+      "id": "6af74650a664ea90a8454512",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-13_181739330.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af74650a664ea90a84544df/attachments/6af74650a664ea90a8454512/download/image_2026-11-13_181739330.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T17:22:51.279Z",
+    "desc": "# Provides you [https://trello.com/c/lA9J0KBn/277-experience-boost](https://trello.com/c/lA9J0KBn/277-experience-boost \"smartCard-inline\")\n\n# Obtainable from [https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\") (The better the grade of the [https://trello.com/c/hBwooWyX/226-rokaka](https://trello.com/c/hBwooWyX/226-rokaka \"smartCard-inline\")the longer the duration.)",
+    "id": "6af74650a664ea90a84544df",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "2x Exp Booster",
+    "pos": 140737488625664,
+    "shortLink": "UNKtr9DK",
+    "shortUrl": "https://trello.com/c/UNKtr9DK",
+    "url": "https://trello.com/c/UNKtr9DK/207-2x-exp-booster"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

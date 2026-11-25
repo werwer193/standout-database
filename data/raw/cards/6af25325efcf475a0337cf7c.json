@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 316749,
+      "date": "2026-09-25T09:02:37.715Z",
+      "id": "6af2532fefcf475a03387467",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf7c/attachments/6af2532fefcf475a03387467/download/image.png"
+    },
+    {
+      "bytes": 939722,
+      "date": "2026-11-01T18:50:56.379Z",
+      "id": "6af2532fefcf475a03387470",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_195055637.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf7c/attachments/6af2532fefcf475a03387470/download/image_2026-11-01_195055637.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.551Z",
+    "desc": "# Invite your friends to a party and sync your quests!\n\n![image.webp](https://trello.com/1/cards/6ab638764b74761efe05f169/attachments/6ab638ad5d431b9becbec86b/previews/6ab638ae5d431b9becbec9c5/download/image.webp)",
+    "id": "6af25325efcf475a0337cf7c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Party System",
+    "pos": 140737488374272,
+    "shortLink": "os3pw95E",
+    "shortUrl": "https://trello.com/c/os3pw95E",
+    "url": "https://trello.com/c/os3pw95E/165-party-system"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

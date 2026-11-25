@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23201,
+      "date": "2026-10-11T12:11:38.282Z",
+      "id": "6af25330efcf475a03388096",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141138577.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d29a/attachments/6af25330efcf475a03388096/download/image_2026-10-11_141138577.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:33:01.498Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+2 Damage**\n\n**+2 Health**\n\n# Drops from [https://trello.com/c/NyZfzyxT/189-ocean-crates](https://trello.com/c/NyZfzyxT/189-ocean-crates \"smartCard-inline\")  and [https://trello.com/c/iAqUPBW7/533-sand-metal-detecting](https://trello.com/c/iAqUPBW7/533-sand-metal-detecting \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d29a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Laem Chabang's Pants",
+    "pos": 140737488748544,
+    "shortLink": "ujTnlgiL",
+    "shortUrl": "https://trello.com/c/ujTnlgiL",
+    "url": "https://trello.com/c/ujTnlgiL/431-laem-chabangs-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1807294,
+      "date": "2026-10-30T08:46:21.414Z",
+      "id": "6af25330efcf475a0338867d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "chase.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d468/attachments/6af25330efcf475a0338867d/download/chase.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.965Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d468",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Chasing",
+    "pos": 140737488551936,
+    "shortLink": "RmMCzB3J",
+    "shortUrl": "https://trello.com/c/RmMCzB3J",
+    "url": "https://trello.com/c/RmMCzB3J/585-chasing"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

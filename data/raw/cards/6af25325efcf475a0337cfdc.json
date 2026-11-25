@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 9915,
+      "date": "2026-09-28T15:24:17.157Z",
+      "id": "6af2532fefcf475a0338762a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-28_172416886.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfdc/attachments/6af2532fefcf475a0338762a/download/image_2026-09-28_172416886.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.929Z",
+    "desc": "New Star Platinum skill: Inhale",
+    "id": "6af25325efcf475a0337cfdc",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "28/9/2026 (New Star Platinum Skill)",
+    "pos": 140737488338944,
+    "shortLink": "UcZR3dR9",
+    "shortUrl": "https://trello.com/c/UcZR3dR9",
+    "url": "https://trello.com/c/UcZR3dR9/197-28-9-2026-new-star-platinum-skill"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 14077,
+      "date": "2026-10-01T21:22:14.317Z",
+      "id": "6af2532fefcf475a03387969",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0cc/attachments/6af2532fefcf475a03387969/download/image.png"
+    },
+    {
+      "bytes": 63311,
+      "date": "2026-10-02T12:23:05.928Z",
+      "id": "6af2532fefcf475a03387971",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0cc/attachments/6af2532fefcf475a03387971/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T17:20:54.848Z",
+    "desc": "**“Doubles eligible experience rewards whilst active.”**\n\n---\n\n**Obtainment:**\n\n**Experience Boost** is obtained via the Shop within the menu for a price of 39 Robux per 15 minute increments or by crafting it. ([https://trello.com/c/UNKtr9DK/207-2x-exp-booster](https://trello.com/c/UNKtr9DK/207-2x-exp-booster \"smartCard-inline\"))\n\n![image.png](https://trello.com/1/cards/6abecf039c20062adba36aab/attachments/6abfa2291dc2a4d837eca224/download/image.png)",
+    "id": "6af25325efcf475a0337d0cc",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd54",
+    "labels": [],
+    "name": "Experience Boost",
+    "pos": 140737488584704,
+    "shortLink": "lA9J0KBn",
+    "shortUrl": "https://trello.com/c/lA9J0KBn",
+    "url": "https://trello.com/c/lA9J0KBn/277-experience-boost"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd54",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

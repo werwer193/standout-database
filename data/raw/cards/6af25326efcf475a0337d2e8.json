@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23579,
+      "date": "2026-10-11T16:06:00.682Z",
+      "id": "6af25330efcf475a0338818a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_180600348.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2e8/attachments/6af25330efcf475a0338818a/download/image_2026-10-11_180600348.png"
+    },
+    {
+      "bytes": 34969,
+      "date": "2026-10-11T16:25:41.714Z",
+      "id": "6af25330efcf475a03388190",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2e8/attachments/6af25330efcf475a03388190/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.357Z",
+    "desc": "**Talk to Usagi, then meet him at the karaoke booth. He picks the song; finish singing it together.**\n\n**No level requirement**\n\n**Time limit: 10 minutes**\n\n# Rewards:\n\n![image.webp](https://trello.com/1/cards/6acbb3d9119fa87da54aa971/attachments/6acbb8855bb0859df5a97597/previews/6acbb8865bb0859df5a975aa/download/image.webp)",
+    "id": "6af25326efcf475a0337d2e8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "Usagi's Karaoke Night",
+    "pos": 140737488519168,
+    "shortLink": "p5jglRKR",
+    "shortUrl": "https://trello.com/c/p5jglRKR",
+    "url": "https://trello.com/c/p5jglRKR/457-usagis-karaoke-night"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

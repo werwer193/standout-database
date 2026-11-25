@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 325427,
+      "date": "2026-09-23T20:14:56.517Z",
+      "id": "6af2532fefcf475a03386916",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-23_221456777.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cda2/attachments/6af2532fefcf475a03386916/download/image_2026-09-23_221456777.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:25:08.816Z",
+    "desc": "#\n\n# **STAND OUT is already completely available with FULL support on PC, Mobile, AND consoles, so everyone can STAND OUT together! All controls are rebindable and the mobile UI is adjustable!**\n\n# **The game is based on Part 9 The JOJOLands, and the first main quest line follows the events of that part of JoJo. We intend to expand this in the future, but for the sake of surprise that is all I will say.**\n\n# **We were mostly inspired by a Minecraft mod called: Roundabout: The JoJo Mod, and also partially by Project JoJo and to a small degree Schedule 1. Just so it’s said, Bridger Western started developing AFTER we did.**",
+    "id": "6af25325efcf475a0337cda2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd42",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "ABOUT STAND OUT",
+    "pos": 140737488322560,
+    "shortLink": "Gem6P52G",
+    "shortUrl": "https://trello.com/c/Gem6P52G",
+    "url": "https://trello.com/c/Gem6P52G/7-about-stand-out"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd42",
+    "name": "STAND OUT",
+    "pos": 8192
+  }
+}

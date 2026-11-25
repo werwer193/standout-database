@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 143423,
+      "date": "2026-11-11T21:40:35.939Z",
+      "id": "6af4e0d3af72d4bc9528a1cd",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_224035492.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4e9/attachments/6af4e0d3af72d4bc9528a1cd/download/image_2026-11-11_224035492.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:40:42.119Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4e9",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Semi Kneel",
+    "pos": 140737489256448,
+    "shortLink": "GNRQjwoA",
+    "shortUrl": "https://trello.com/c/GNRQjwoA",
+    "url": "https://trello.com/c/GNRQjwoA/628-semi-kneel"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

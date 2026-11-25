@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 166986,
+      "date": "2026-10-26T20:53:53.284Z",
+      "id": "6af25330efcf475a033884f9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_215352813.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d39f/attachments/6af25330efcf475a033884f9/download/image_2026-10-26_215352813.png"
+    },
+    {
+      "bytes": 393011,
+      "date": "2026-10-28T09:01:47.229Z",
+      "id": "6af25330efcf475a03388500",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-28_100146497.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d39f/attachments/6af25330efcf475a03388500/download/image_2026-10-28_100146497.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:56:11.619Z",
+    "desc": "# Located in the park near the [https://trello.com/c/GZGsvWOH/57-museum-of-oahu](https://trello.com/c/GZGsvWOH/57-museum-of-oahu \"smartCard-inline\")\n\n# Lets you start a Bizarre Adventure (Raids)\n\n# Existing Bizarre Adventures:\n\n[https://trello.com/c/I38LveAq/488-train-raid](https://trello.com/c/I38LveAq/488-train-raid \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d39f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Donatello",
+    "pos": 140737488486400,
+    "shortLink": "0R9dGoOx",
+    "shortUrl": "https://trello.com/c/0R9dGoOx",
+    "url": "https://trello.com/c/0R9dGoOx/518-donatello"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

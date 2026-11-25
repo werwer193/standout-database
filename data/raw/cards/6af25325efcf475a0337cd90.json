@@ -1,0 +1,407 @@
+{
+  "attachments": [
+    {
+      "bytes": 207517,
+      "date": "2026-09-25T11:41:42.554Z",
+      "id": "6af2532fefcf475a0338677a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_134142178.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a0338677a/download/image_2026-09-25_134142178.png"
+    },
+    {
+      "bytes": 61048,
+      "date": "2026-10-04T14:17:18.329Z",
+      "id": "6af2532fefcf475a03386782",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_161718059.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a03386782/download/image_2026-10-04_161718059.png"
+    },
+    {
+      "bytes": 61048,
+      "date": "2026-10-04T14:17:30.824Z",
+      "id": "6af2532fefcf475a0338678a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_161730550.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a0338678a/download/image_2026-10-04_161730550.png"
+    },
+    {
+      "bytes": 61048,
+      "date": "2026-10-04T14:21:37.731Z",
+      "id": "6af2532fefcf475a03386792",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_162137465.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a03386792/download/image_2026-10-04_162137465.png"
+    },
+    {
+      "bytes": 18696,
+      "date": "2026-10-04T14:25:49.196Z",
+      "id": "6af2532fefcf475a03386799",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a03386799/download/image.png"
+    },
+    {
+      "bytes": 614342,
+      "date": "2026-10-04T14:49:08.608Z",
+      "id": "6af2532fefcf475a033867a0",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bloodsuck.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a033867a0/download/bloodsuck.gif"
+    },
+    {
+      "bytes": 307045,
+      "date": "2026-10-04T14:51:50.561Z",
+      "id": "6af2532fefcf475a033867a6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "freeze.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a033867a6/download/freeze.gif"
+    },
+    {
+      "bytes": 606692,
+      "date": "2026-10-04T14:54:27.495Z",
+      "id": "6af2532fefcf475a033867ac",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "blow.gif",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a033867ac/download/blow.gif"
+    },
+    {
+      "bytes": 269383,
+      "date": "2026-10-04T14:56:13.527Z",
+      "id": "6af2532fefcf475a033867b2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "stingyripper.gif",
+      "pos": 140737488486400,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a033867b2/download/stingyripper.gif"
+    },
+    {
+      "bytes": 859275,
+      "date": "2026-10-04T14:56:36.586Z",
+      "id": "6af2532fefcf475a033867b9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "execute.gif",
+      "pos": 140737488502784,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af2532fefcf475a033867b9/download/execute.gif"
+    },
+    {
+      "bytes": 466270,
+      "date": "2026-10-04T15:11:39.857Z",
+      "id": "6af25341efcf475a0338a9b6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hypnosis.gif",
+      "pos": 140737488519168,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a9b6/download/hypnosis.gif"
+    },
+    {
+      "bytes": 774567,
+      "date": "2026-10-04T15:12:28.608Z",
+      "id": "6af25341efcf475a0338a9af",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "dance.gif",
+      "pos": 140737488535552,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a9af/download/dance.gif"
+    },
+    {
+      "bytes": 607780,
+      "date": "2026-10-04T15:14:23.057Z",
+      "id": "6af25341efcf475a0338a964",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "flee.gif",
+      "pos": 140737488551936,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a964/download/flee.gif"
+    },
+    {
+      "bytes": 607780,
+      "date": "2026-10-04T15:15:10.510Z",
+      "id": "6af25341efcf475a0338a95d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "flee.gif",
+      "pos": 140737488568320,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a95d/download/flee.gif"
+    },
+    {
+      "bytes": 918633,
+      "date": "2026-10-04T15:15:40.242Z",
+      "id": "6af25341efcf475a0338a956",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "follow.gif",
+      "pos": 140737488584704,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a956/download/follow.gif"
+    },
+    {
+      "bytes": 1116090,
+      "date": "2026-10-04T15:44:18.936Z",
+      "id": "6af25341efcf475a0338a949",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "drop.gif",
+      "pos": 140737488601088,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a949/download/drop.gif"
+    },
+    {
+      "bytes": 898502,
+      "date": "2026-10-04T15:45:56.692Z",
+      "id": "6af25341efcf475a0338a942",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "headdetach.gif",
+      "pos": 140737488617472,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25341efcf475a0338a942/download/headdetach.gif"
+    },
+    {
+      "bytes": 229568,
+      "date": "2026-10-04T15:49:30.590Z",
+      "id": "6af25340efcf475a0338a935",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "tendril.gif",
+      "pos": 140737488633856,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25340efcf475a0338a935/download/tendril.gif"
+    },
+    {
+      "bytes": 666286,
+      "date": "2026-10-04T15:51:35.000Z",
+      "id": "6af25340efcf475a0338a92f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "evasive.gif",
+      "pos": 140737488650240,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25340efcf475a0338a92f/download/evasive.gif"
+    },
+    {
+      "bytes": 1047221,
+      "date": "2026-10-04T15:52:42.228Z",
+      "id": "6af25335efcf475a03388c8e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "wall.gif",
+      "pos": 140737488666624,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388c8e/download/wall.gif"
+    },
+    {
+      "bytes": 3721443,
+      "date": "2026-10-05T16:45:50.875Z",
+      "id": "6af25335efcf475a03388c29",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vampmask.gif",
+      "pos": 140737488683008,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388c29/download/vampmask.gif"
+    },
+    {
+      "bytes": 243185,
+      "date": "2026-10-07T18:09:36.967Z",
+      "id": "6af25335efcf475a03388c15",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488699392,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388c15/download/image.png"
+    },
+    {
+      "bytes": 176758,
+      "date": "2026-10-10T19:51:44.838Z",
+      "id": "6af25335efcf475a03388c0e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488715776,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388c0e/download/image.png"
+    },
+    {
+      "bytes": 659771,
+      "date": "2026-10-27T15:43:00.335Z",
+      "id": "6af25335efcf475a03388bf2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "blood.gif",
+      "pos": 140737488732160,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388bf2/download/blood.gif"
+    },
+    {
+      "bytes": 668128,
+      "date": "2026-10-27T15:44:18.388Z",
+      "id": "6af25335efcf475a03388bc8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "freeze.gif",
+      "pos": 140737488748544,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388bc8/download/freeze.gif"
+    },
+    {
+      "bytes": 669857,
+      "date": "2026-10-27T15:44:50.266Z",
+      "id": "6af25335efcf475a03388ba9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "heavy.gif",
+      "pos": 140737488764928,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388ba9/download/heavy.gif"
+    },
+    {
+      "bytes": 391868,
+      "date": "2026-10-27T15:49:03.377Z",
+      "id": "6af25335efcf475a03388b8f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "spins.gif",
+      "pos": 140737488781312,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388b8f/download/spins.gif"
+    },
+    {
+      "bytes": 1489131,
+      "date": "2026-10-27T15:52:25.264Z",
+      "id": "6af25335efcf475a03388b88",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "cloudsplitter1.gif",
+      "pos": 140737488797696,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388b88/download/cloudsplitter1.gif"
+    },
+    {
+      "bytes": 2347126,
+      "date": "2026-10-27T15:53:14.683Z",
+      "id": "6af25335efcf475a03388b82",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "split2.gif",
+      "pos": 140737488814080,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6af25335efcf475a03388b82/download/split2.gif"
+    },
+    {
+      "bytes": 1718517,
+      "date": "2026-11-15T20:12:07.345Z",
+      "id": "6afa1217f9e82f717be23c41",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "zombiess.gif",
+      "pos": 140737488830464,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6afa1217f9e82f717be23c41/download/zombiess.gif"
+    },
+    {
+      "bytes": 1284774,
+      "date": "2026-11-22T22:27:28.081Z",
+      "id": "6b036c5092fd7e987411174a",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pluuuck.gif",
+      "pos": 140737488846848,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036c5092fd7e987411174a/download/pluuuck.gif"
+    },
+    {
+      "bytes": 918387,
+      "date": "2026-11-22T22:28:16.273Z",
+      "id": "6b036c8090b41c7b4037321b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "heavy1.gif",
+      "pos": 140737488863232,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036c8090b41c7b4037321b/download/heavy1.gif"
+    },
+    {
+      "bytes": 560414,
+      "date": "2026-11-22T22:29:38.224Z",
+      "id": "6b036cd2662cf82e355acce6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bloodslash.gif",
+      "pos": 140737488879616,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036cd2662cf82e355acce6/download/bloodslash.gif"
+    },
+    {
+      "bytes": 531263,
+      "date": "2026-11-22T22:29:58.219Z",
+      "id": "6b036ce6496bc7ba018007ab",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vamp.gif",
+      "pos": 140737488896000,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036ce6496bc7ba018007ab/download/vamp.gif"
+    },
+    {
+      "bytes": 425547,
+      "date": "2026-11-22T22:31:46.496Z",
+      "id": "6b036d52200697dfc2213289",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vamp3.gif",
+      "pos": 140737488912384,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d52200697dfc2213289/download/vamp3.gif"
+    },
+    {
+      "bytes": 760303,
+      "date": "2026-11-22T22:31:53.382Z",
+      "id": "6b036d59ad38143df5c1a869",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vamp2.gif",
+      "pos": 140737488928768,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d59ad38143df5c1a869/download/vamp2.gif"
+    },
+    {
+      "bytes": 292713,
+      "date": "2026-11-22T22:32:35.359Z",
+      "id": "6b036d83c81fe9d095e4d5fe",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488945152,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d83c81fe9d095e4d5fe/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-24T23:46:40.380Z",
+    "desc": "# Obtainable by using a [https://trello.com/c/Jp25kkOk/333-stone-mask](https://trello.com/c/Jp25kkOk/333-stone-mask \"smartCard-inline\")\n\n# Lore:\n\n# **“An undead body sustained by blood. Keep fed and stay out of the sun.”**\n\n---\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6aca975056a2e93cdf13aa0e/previews/6aca975156a2e93cdf13ab6b/download/image.webp)\n\n![image\\_2026-10-04\\_162137465.webp](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac260f1b130c154197abc1d/previews/6ac260f2b130c154197abd32/download/image_2026-10-04_162137465.webp)\n\n---\n\n## Blood (Sustain)\n\n**Your blood reserve appears above the skill list. Combat refills it and recovery spends it. Regenerate 20% faster with blood, or 20% slower without it. In PvP, recovery needs blood. Healing restrictions still apply.**\n\n![image.webp](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac261ed7c2f5d4fa9674a71/previews/6ac261ed7c2f5d4fa9674afb/download/image.webp)\n\n## Sunlight (Weakness)\n\n**Direct sunlight burns you after half a second. Full shade lets the exposure fade. Substantial opaque cover can protect you; glass and ordinary lights do not change sunlight exposure. The Sun’s active heat zone can also expose you.**\n\n## Ripple (Weakness)\n\n**Hamon attacks apply Ripple for 3 seconds. Repeated hits build it up to a cap. Ripple burns vampires more strongly and stops passive regeneration until it fades or is cleansed.**\n\n## Undead Body (Passive)\n\n**Eating Rokaka removes your Vampire sub ability and applies its stone exchange. Vampires can also eat apples to remove their Stand and use their full Vampire moveset, but cannot eat other food or use healing consumables. Ordinary healing restores only a quarter as much health. Vampire stays active alongside your Stand. Your dash lasts 40% longer, briefly hides your body and leaves dark-red afterimages behind you. (You also get red eyes during the night)**\n\n---\n\n# Moveset:\n\n## Blood Drain (You get this move when you have a stand.)\n\n**Rush forward and grab an enemy. Drain their blood to refill your blood meter and heal, then throw them to your left. You can turn while feeding.**\n\n**Base cooldown: 18s**\n\n![blood.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c684483ea6dbbb69b236/previews/6ae0c686483ea6dbbb69b533/download/blood.gif)\n\n## Space Stingy Ripper Eyes (You get this move when you have a stand.)\n\n**Move your aim to sweep the beams through enemies and breakable cover. They hit repeatedly and deal more damage on headshots. Stuns cannot stop the attack. Firing costs 2 health and briefly blurs your vision. You cannot use it while piloting your Stand.**\n\n**Base cooldown: 12s**\n\n![stingyripper.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac2690d4d5a83232671cf16/previews/6ac2690f4d5a83232671d3be/download/stingyripper.gif)\n\n## Vaporatization Freezing Technique\n\n**Freeze an enemy solid for 3 seconds, stopping their attack. A heavy blow shatters the ice for 25 extra damage; a killing blow breaks them apart. Light hits leave the ice intact. Heat melts it.**\n\n**Base cooldown: 18s**\n\n![freeze.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c6d28e8426c799afd928/previews/6ae0c6d48e8426c799afe46c/download/freeze.gif)\n\n## Heavy Blow:\n\n![heavy.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c6f25c6ca073c41d06b8/previews/6ae0c6f45c6ca073c41d0acd/download/heavy.gif)\n\n## Hypnosis / Change Command [HOLD]\n\n**Flash a hypnotic burst at enemies facing you. Hold to choose; dance, follow, flee, stay or drop what they’re holding. Tap to give the command. Taking damage breaks the spell.**\n\n**Base cooldown: 16s**\n\n## Initial use:\n\n![hypnosis.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac26cab6dfdf5e3e659d140/previews/6ac26cae6dfdf5e3e659d2d0/download/hypnosis.gif)\n\n## Dance:\n\n![dance.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac26cdcdde7c86e4bbaa23c/previews/6ac26ce1dde7c86e4bbaa745/download/dance.gif)\n\n## Follow:\n\n![follow.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac26d9cbaf15494e08527a9/previews/6ac26da0baf15494e0852e31/download/follow.gif)\n\n## Flee:\n\n![flee.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac26d7e5fdc710f01b275a9/previews/6ac26d815fdc710f01b2776a/download/flee.gif)\n\n## Drop item:\n\n![drop.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac274526ad10e408abfe203/previews/6ac274576ad10e408abfe7a4/download/drop.gif)\n\n---\n\n## EX [Awakening Moves]\n\n## Body Snatch [4 Bars] / Steal Body [REACTIVATE]\n\n**Spend 4 mode bars to survive your next defeat, or use while downed. Once armed, It stays ready until you die. Your head detaches with 10% health, giving you 30 seconds to find a downed enemy. Tumble in quick steps, jump and pull yourself around with red tendrils. Use again beside them to attach; stay unharmed for 1.5 seconds. You take their body with 30% health and no blood, keeping your head and abilities. Once per life.**\n\n**Base cooldown: 90s**\n\n![headdetach.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac274b40cc09b3f474c53dd/previews/6ac274b80cc09b3f474c5a75/download/headdetach.gif)\n\n## Tendrils (Q)\n\n![tendril.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac2758a8f96b4365a080427/previews/6ac2758b8f96b4365a0805e0/download/tendril.gif)\n\n## Body Attach\n\n![image.webp](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ac68ae09505b4810783b9f0/previews/6ac68ae19505b4810783bb06/download/image.webp)\n\n**(My head on a different persons body)**\n\n## Vampiric Retaliation [2 Bars]\n\n**Spin with eye lasers that burn, knock away and ragdoll enemies through hyperarmor. Breaks guard but can be perfect blocked. has hyperarmor during the animation.**\n\n**Base cooldown: 60s**\n\n![spins.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c7efa83a61114b55b67c/previews/6ae0c7f2a83a61114b55bc61/download/spins.gif)\n\n## Cloud Splitter [4 Bars]\n\n**Jump backward into the air and pre-aim your facing. When the laser starts, your facing locks while the eye jets sweep with the animation, then you land.**\n\n**Base cooldown: 40s**\n\n![cloudsplitter1.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c8b977078021b70b68cb/previews/6ae0c8bf77078021b70b712f/download/cloudsplitter1.gif)\n\n![split2.gif](https://trello.com/1/cards/6ab432a271c7f0cb67b73072/attachments/6ae0c8ea5db1d79d6d5fe7a1/previews/6ae0c8f15db1d79d6d60057b/download/split2.gif)\n\n## Zombie Transformation [1 Bar]\n\n**Spend 1 EX bar to raise a corpse within 8 studs in 1.5 seconds. The zombie keeps 30% of the body’s health and damage, walks at its original speed, and cannot sprint, dash or use heavy attacks. Control up to three zombies. Hold without a nearby corpse to cycle Defend, Fight, Follow and Stay. Unclaimed bodies last 60 seconds. Zombies burn in sunlight and vanish when their owner dies or leaves Vampire.**\n\n![zombiess.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6afa1217f9e82f717be23c41/previews/6afa121ef9e82f717be246c4/download/zombiess.gif)\n\n---\n\n# Pluck ([https://trello.com/c/D9n9FxBX/253-pluck](https://trello.com/c/D9n9FxBX/253-pluck \"smartCard-inline\"))\n\n## Pluck Toggle (1 Bar)\n\n**With Pluck in your inventory and no Stand equipped, use Pluck Toggle to draw the sword. You can wield it on its own or with a sub-ability. Use Pluck Toggle again to sheathe it for free.**\n\n## Sword Guard\n\n**While Pluck is drawn, you have 25% more maximum posture. Each successful parry deals 3 damage to the attacker, including when you parry a ranged attack**\n\n![image.webp](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d83c81fe9d095e4d5fe/previews/6b036d83c81fe9d095e4d7a0/download/image.webp)\n\n## Sword Strikes\n\n**Each M1 deals 3.5 base damage. M2 deals 8.5. Both scale entirely with Strength, reaching 8.05 and 19.55 damage at 166 Strength.**\n\n![pluuuck.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036c5092fd7e987411174a/previews/6b036c5492fd7e9874111b3b/download/pluuuck.gif)\n\n## M2:\n\n![heavy1.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036c8090b41c7b4037321b/previews/6b036c8390b41c7b40373617/download/heavy1.gif)\n\n## Blood Strikes\n\n**Spend up to 3 Blood to coat each M1 in blood and deal 1 extra damage. At 0 Blood, swing normally. Your first unblocked hit restores 5 Blood, even from an empty reserve.**\n\n![bloodslash.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036cd2662cf82e355acce6/previews/6b036cd6662cf82e355adb05/download/bloodslash.gif)\n\n## M2:\n\n![vamp.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036ce6496bc7ba018007ab/previews/6b036ce8496bc7ba018009eb/download/vamp.gif)\n\n## Pluck Front Slash\n\n**Slash forward with Pluck to break guard and knock enemies back.**\n\n**Front Slash deals 14 to 32 damage, scaling 70% with Strength and 30% with Ability.**\n\n**Base cooldown: 12s**\n\n![vamp2.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d59ad38143df5c1a869/previews/6b036d62ad38143df5c1b79f/download/vamp2.gif)\n\n---\n\n# EX [Awakening Moves]\n\n## Pluck Lunge (2 Bars)\n\n**Lunge forward with Pluck and skewer the first enemy in your path.**\n\n**Lunge deals 10 to 24 damage, scaling 70% with Strength and 30% with Ability.**\n\n**Base cooldown: 18s**\n\n![vamp3.gif](https://trello.com/1/cards/6af25325efcf475a0337cd90/attachments/6b036d52200697dfc2213289/previews/6b036d54200697dfc22138a0/download/vamp3.gif)",
+    "id": "6af25325efcf475a0337cd90",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd40",
+    "labels": [
+      {
+        "color": "yellow_dark",
+        "id": "6af25326efcf475a0337d80e",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 1",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80e",
+        "uses": 6
+      }
+    ],
+    "name": "Vampire",
+    "pos": 140737488371712,
+    "shortLink": "q7DhGek7",
+    "shortUrl": "https://trello.com/c/q7DhGek7",
+    "url": "https://trello.com/c/q7DhGek7/1-vampire"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd40",
+    "name": "Sub-Abilities",
+    "pos": 22528
+  }
+}

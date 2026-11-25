@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 61153,
+      "date": "2026-10-05T16:46:52.404Z",
+      "id": "6af2532fefcf475a03387bb2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d174/attachments/6af2532fefcf475a03387bb2/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:03:56.390Z",
+    "desc": "# Drops from [https://trello.com/c/b7QeyyHE/303-dio](https://trello.com/c/b7QeyyHE/303-dio \"smartCard-inline\") or can be purchased in the [https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\")\n\n# Upon usage gives you [https://trello.com/c/q7DhGek7/1-vampire](https://trello.com/c/q7DhGek7/1-vampire \"smartCard-inline\")\n\n# Spawns every\n\n![image.webp](https://trello.com/1/cards/6ac3d11f1ed60549fee39320/attachments/6ac3d47c92da209903609284/previews/6ac3d47c92da209903609418/download/image.webp)",
+    "id": "6af25325efcf475a0337d174",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Stone Mask",
+    "pos": 140737488551936,
+    "shortLink": "Jp25kkOk",
+    "shortUrl": "https://trello.com/c/Jp25kkOk",
+    "url": "https://trello.com/c/Jp25kkOk/333-stone-mask"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

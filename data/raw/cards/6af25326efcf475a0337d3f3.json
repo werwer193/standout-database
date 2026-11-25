@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 92375,
+      "date": "2026-10-27T12:40:15.110Z",
+      "id": "6af25330efcf475a033885af",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_134015409.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3f3/attachments/6af25330efcf475a033885af/download/image_2026-10-27_134015409.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.683Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d3f3",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Crouch Arm Rest",
+    "pos": 140737488420864,
+    "shortLink": "knXpwuUV",
+    "shortUrl": "https://trello.com/c/knXpwuUV",
+    "url": "https://trello.com/c/knXpwuUV/546-crouch-arm-rest"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

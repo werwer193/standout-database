@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 9687,
+      "date": "2026-10-11T12:03:12.612Z",
+      "id": "6af25330efcf475a0338811a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_140312774.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2d6/attachments/6af25330efcf475a0338811a/download/image_2026-10-11_140312774.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.269Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d2d6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "11/10/2026 (Burning Down The House)",
+    "pos": 140737488175104,
+    "shortLink": "2Igqunp6",
+    "shortUrl": "https://trello.com/c/2Igqunp6",
+    "url": "https://trello.com/c/2Igqunp6/451-11-10-2026-burning-down-the-house"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

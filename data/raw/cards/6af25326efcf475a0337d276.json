@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 32241,
+      "date": "2026-10-11T11:57:47.929Z",
+      "id": "6af25330efcf475a03388047",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_135748465.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d276/attachments/6af25330efcf475a03388047/download/image_2026-10-11_135748465.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:30:42.431Z",
+    "desc": "# **When equipped gives you:**\n\n**+1 Ability**\n\n**+4 Damage**\n\n**+1 Health**\n\n# Drops from [https://trello.com/c/mejlmxRj/465-bubble-practice](https://trello.com/c/mejlmxRj/465-bubble-practice \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d276",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Hawaii Warrior's Jacket",
+    "pos": 140737488551936,
+    "shortLink": "5aNQ98Bq",
+    "shortUrl": "https://trello.com/c/5aNQ98Bq",
+    "url": "https://trello.com/c/5aNQ98Bq/419-hawaii-warriors-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

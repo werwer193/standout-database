@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 646908,
+      "date": "2026-10-06T19:13:37.138Z",
+      "id": "6af2532fefcf475a03387c05",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d18c/attachments/6af2532fefcf475a03387c05/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.761Z",
+    "desc": "WIP until actual part 9 progresses\n\n# CREDITS\n\nSupporters: YOU (Beloved Supporter)\n\nCo-Owners: SquidyCakez, GreennJello\n\nAnimations: HalWilliams (Animations/Concepts) teahazy (Animations)\n\nModels: Cgamin, mikeschm\n\nBuilding: moongls, Clockrow, 194X, Cyrphex\n\nContributors: 20ThousandLocusts, Agent\\_D0nut, Slipping\\_Jimothy, Ipanqco7, Shonn0is0the0best, daviBRzica234, gyumon, burddahsebas, m_shscroom\n\nEmoji Assistants: IdLikeRoux, rabbyjardy, ElayRubio\n\nMoral Support: Sendo_Dev\n\nInspiration: Roundabout: The Minecraft JoJo Mod\n\n**Thank you all for playing. Don’t forget.. to STAND OUT!!**",
+    "id": "6af25326efcf475a0337d18c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [],
+    "name": "Thank YOU For Playing! (WIP)",
+    "pos": 140737489174528,
+    "shortLink": "l0EbH7eq",
+    "shortUrl": "https://trello.com/c/l0EbH7eq",
+    "url": "https://trello.com/c/l0EbH7eq/341-thank-you-for-playing-wip"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 627393,
+      "date": "2026-11-11T10:40:02.758Z",
+      "id": "6af446021635c17d58a3fff3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af445f63a1c15228a5e3018/attachments/6af446021635c17d58a3fff3/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T10:41:43.420Z",
+    "desc": "**Quest from:** [https://trello.com/c/IDYO96K8/519-angelo](https://trello.com/c/IDYO96K8/519-angelo \"smartCard-inline\")\n\n# Quest:\n\n**Hand Angelo 3 Steel**\n\n## Upon completion gives you:\n\n**900** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n**1** [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")",
+    "id": "6af445f63a1c15228a5e3018",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Metal Work",
+    "pos": 140737488449536,
+    "shortLink": "SEihxh1K",
+    "shortUrl": "https://trello.com/c/SEihxh1K",
+    "url": "https://trello.com/c/SEihxh1K/12-metal-work"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

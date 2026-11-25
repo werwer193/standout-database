@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1643825,
+      "date": "2026-11-11T23:29:01.707Z",
+      "id": "6af4fa3dcd6e7c2c61dc4512",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-12_002900916.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af4f9ebd22ad223297ed6ca/attachments/6af4fa3dcd6e7c2c61dc4512/download/image_2026-11-12_002900916.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:29:17.079Z",
+    "desc": "",
+    "id": "6af4f9ebd22ad223297ed6ca",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Alt 3",
+    "pos": 140737490698240,
+    "shortLink": "5h3GfMAI",
+    "shortUrl": "https://trello.com/c/5h3GfMAI",
+    "url": "https://trello.com/c/5h3GfMAI/167-alt-3"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

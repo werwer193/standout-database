@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 424305,
+      "date": "2026-10-18T09:33:33.887Z",
+      "id": "6af25330efcf475a03388316",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bottle.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d348/attachments/6af25330efcf475a03388316/download/bottle.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.039Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d348",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6af25326efcf475a0337d805",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d805",
+        "uses": 11
+      }
+    ],
+    "name": "Bottles",
+    "pos": 140737488387576,
+    "shortLink": "2xTqkpYW",
+    "shortUrl": "https://trello.com/c/2xTqkpYW",
+    "url": "https://trello.com/c/2xTqkpYW/489-bottles"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

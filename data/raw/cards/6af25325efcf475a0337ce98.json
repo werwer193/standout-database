@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 58324,
+      "date": "2026-09-24T21:04:06.737Z",
+      "id": "6af2532fefcf475a033870b5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_230406871.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce98/attachments/6af2532fefcf475a033870b5/download/image_2026-09-24_230406871.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.232Z",
+    "desc": "# Stand: Cat Size\n\n# Health: 85",
+    "id": "6af25325efcf475a0337ce98",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d802",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d802",
+        "uses": 14
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Wild Cat Size",
+    "pos": 140737488404480,
+    "shortLink": "IcKlXMqK",
+    "shortUrl": "https://trello.com/c/IcKlXMqK",
+    "url": "https://trello.com/c/IcKlXMqK/89-wild-cat-size"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

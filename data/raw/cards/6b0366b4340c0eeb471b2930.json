@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 789314,
+      "date": "2026-11-22T22:04:52.967Z",
+      "id": "6b036704117be1e047456952",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "evasivesd.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b0366b4340c0eeb471b2930/attachments/6b036704117be1e047456952/download/evasivesd.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:04:56.463Z",
+    "desc": "# Universal Evasive (1 Bar)\n\n**Press your Evasive key (default X) to break out of hitstun or ragdoll and knock nearby enemies away. You can also use it while standing. The burst deals 10 damage.**\n\n **Base cooldown: 45s**",
+    "id": "6b0366b4340c0eeb471b2930",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd51",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Universal Evasive",
+    "pos": 140737488357376,
+    "shortLink": "YY1ik3mu",
+    "shortUrl": "https://trello.com/c/YY1ik3mu",
+    "url": "https://trello.com/c/YY1ik3mu/268-universal-evasive"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd51",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

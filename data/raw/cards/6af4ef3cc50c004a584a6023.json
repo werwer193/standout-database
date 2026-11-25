@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:42:32.756Z",
+    "desc": "",
+    "id": "6af4ef3cc50c004a584a6023",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "The World",
+    "pos": 140737488355328,
+    "shortLink": "fAFrojfT",
+    "shortUrl": "https://trello.com/c/fAFrojfT",
+    "url": "https://trello.com/c/fAFrojfT/17-the-world"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

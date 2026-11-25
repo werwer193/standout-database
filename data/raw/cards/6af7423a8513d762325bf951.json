@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 32688,
+      "date": "2026-11-13T17:00:56.173Z",
+      "id": "6af742485d8c974d2cce8c47",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-13_180055784.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af7423a8513d762325bf951/attachments/6af742485d8c974d2cce8c47/download/image_2026-11-13_180055784.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T17:01:01.349Z",
+    "desc": "77 Rings bizarre adventure\nImproved darby animations\nImproved gardening\nYou can now craft 2x exp/coin boosters with rokas\nAdded more settings (skip intro, always on EX, etc)\nYou can now shoot cameras to destroy them\nbug. fix.\n\nUSE CODE RELEASE FOR 3 ARROWS ON RELEASE!",
+    "id": "6af7423a8513d762325bf951",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "13/11/2026 (77 Rings Raid, Improved Gardening, Craftable Boosters)",
+    "pos": 140737487831040,
+    "shortLink": "OCLQbJQ8",
+    "shortUrl": "https://trello.com/c/OCLQbJQ8",
+    "url": "https://trello.com/c/OCLQbJQ8/205-13-11-2026-77-rings-raid-improved-gardening-craftable-boosters"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

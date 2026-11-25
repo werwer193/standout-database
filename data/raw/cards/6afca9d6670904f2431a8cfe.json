@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 12174,
+      "date": "2026-11-18T19:40:56.707Z",
+      "id": "6afdff4865f1015f42118864",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_204056407.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afca9d6670904f2431a8cfe/attachments/6afdff4865f1015f42118864/download/image_2026-11-18_204056407.png"
+    },
+    {
+      "bytes": 5130,
+      "date": "2026-11-18T19:44:10.078Z",
+      "id": "6afe000a54ff96559cb5fbf6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6afca9d6670904f2431a8cfe/attachments/6afe000a54ff96559cb5fbf6/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:48:03.185Z",
+    "desc": "# HOW SUPPORTERS WORK\n\n**When another player saves or buys one of your Public items, they become your supporter. Each item can only count once per supporter.**\n\n# **Ranks:**\n\n**ROUGH SKETCH - 10 Supporters (**[https://trello.com/c/dFjdAk92/258-rohans-earrings](https://trello.com/c/dFjdAk92/258-rohans-earrings \"smartCard-inline\")**)**\n\n**STORYBOARD - 25 Supporters (**[https://trello.com/c/1UDzjaQA/257-rohans-g-pen](https://trello.com/c/1UDzjaQA/257-rohans-g-pen \"smartCard-inline\")**)**\n\n**INKED - 100 Supporters (**[https://trello.com/c/jWKC5Tjp/259-heavens-door-hat](https://trello.com/c/jWKC5Tjp/259-heavens-door-hat \"smartCard-inline\") **+ 2500 Dalas)**\n\n**SERIALIZED - 500 Supporters (**[https://trello.com/c/40Ou6PUD/443-rohans-pants](https://trello.com/c/40Ou6PUD/443-rohans-pants \"smartCard-inline\") **)**\n\n**BESTSELLER - 2000 Supporters (**[https://trello.com/c/yEJjHNaS/442-rohans-jacket](https://trello.com/c/yEJjHNaS/442-rohans-jacket \"smartCard-inline\") **+ 10000 Dalas)**\n\n**MASTERPIECE - 4000 Supporters (Gradient Name)**\n\n**HEAVEN’S DOOR - 8000 Supporters (Builder+ +** [https://trello.com/c/b4OfpUtd/225-heavens-door-prime](https://trello.com/c/b4OfpUtd/225-heavens-door-prime \"smartCard-inline\")**)**",
+    "id": "6afca9d6670904f2431a8cfe",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afca9c2ded1cfb842f232ac",
+    "labels": [],
+    "name": "Catalog",
+    "pos": 140737488388096,
+    "shortLink": "av7EpcDk",
+    "shortUrl": "https://trello.com/c/av7EpcDk",
+    "url": "https://trello.com/c/av7EpcDk/240-catalog"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afca9c2ded1cfb842f232ac",
+    "name": "Main Menu",
+    "pos": 9088
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 24275,
+      "date": "2026-10-11T11:46:28.646Z",
+      "id": "6af25330efcf475a03388026",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_134629274.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d267/attachments/6af25330efcf475a03388026/download/image_2026-10-11_134629274.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:30:05.580Z",
+    "desc": "# **When equipped gives you:**\n\n**+15 Ability**\n\n**+5 Damage**\n\n**+5 Health**\n\n# If equipped with [https://trello.com/c/ssYPJqfM/413-dios-jacket](https://trello.com/c/ssYPJqfM/413-dios-jacket \"smartCard-inline\")   you get +20 Ability\n\n# Drops from: [https://trello.com/c/b7QeyyHE/303-dio](https://trello.com/c/b7QeyyHE/303-dio \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d267",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "DIO's Pants",
+    "pos": 140737488470016,
+    "shortLink": "9E2e0V8R",
+    "shortUrl": "https://trello.com/c/9E2e0V8R",
+    "url": "https://trello.com/c/9E2e0V8R/414-dios-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

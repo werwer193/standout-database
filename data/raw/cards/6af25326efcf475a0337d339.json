@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 824690,
+      "date": "2026-10-14T15:17:30.107Z",
+      "id": "6af25330efcf475a03388282",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-14_171729689.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d339/attachments/6af25330efcf475a03388282/download/image_2026-10-14_171729689.png"
+    },
+    {
+      "bytes": 249821,
+      "date": "2026-10-14T15:19:16.542Z",
+      "id": "6af25330efcf475a0338828b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d339/attachments/6af25330efcf475a0338828b/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:40:10.296Z",
+    "desc": "**Every player gets a maximum of 3 slots.**\n\n**A slot is unlockable by:**\n\n- **Unlocking 30 Stands**\n- **Completing the Storyline**\n- **100 000 Coins**\n\n**When selecting a slot it’ll show you your slot stats.**\n\n![image.webp](https://trello.com/1/cards/6acf9788f7f2efc005282ad6/attachments/6acf9d74f6e2e199a009c797/previews/6acf9d75f6e2e199a009c7b0/download/image.webp)",
+    "id": "6af25326efcf475a0337d339",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afca9c2ded1cfb842f232ac",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Character Slots",
+    "pos": 140737488379904,
+    "shortLink": "UYScW7Qp",
+    "shortUrl": "https://trello.com/c/UYScW7Qp",
+    "url": "https://trello.com/c/UYScW7Qp/484-character-slots"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afca9c2ded1cfb842f232ac",
+    "name": "Main Menu",
+    "pos": 9088
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 100348,
+      "date": "2026-09-24T20:31:49.972Z",
+      "id": "6af2532fefcf475a03386fdf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_223150130.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce62/attachments/6af2532fefcf475a03386fdf/download/image_2026-09-24_223150130.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:51:42.734Z",
+    "desc": "# Located in [[https://trello.com/c/JPlVY759/59-hospital](https://trello.com/c/JPlVY759/59-hospital \"smartCard-inline\") ]\n\n# Interact to obtain [[https://trello.com/c/kOBYzrf7/473-jonathan-hamon](https://trello.com/c/kOBYzrf7/473-jonathan-hamon \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce62",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Billy",
+    "pos": 140737488273408,
+    "shortLink": "Vy5u0nzX",
+    "shortUrl": "https://trello.com/c/Vy5u0nzX",
+    "url": "https://trello.com/c/Vy5u0nzX/71-billy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

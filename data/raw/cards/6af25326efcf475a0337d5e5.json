@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 205770,
+      "date": "2026-11-02T23:10:37.704Z",
+      "id": "6af25330efcf475a033888b8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_001037301.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5e5/attachments/6af25330efcf475a033888b8/download/image_2026-11-03_001037301.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.575Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d5e5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "CEO of Fighting",
+    "pos": 140737488715776,
+    "shortLink": "NlRXSbtt",
+    "shortUrl": "https://trello.com/c/NlRXSbtt",
+    "url": "https://trello.com/c/NlRXSbtt/712-ceo-of-fighting"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

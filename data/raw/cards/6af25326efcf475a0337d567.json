@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 77791,
+      "date": "2026-10-29T20:53:57.061Z",
+      "id": "6af25330efcf475a033887a1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-29_215356763.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d567/attachments/6af25330efcf475a033887a1/download/image_2026-10-29_215356763.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.286Z",
+    "desc": "Bunch more optimization fixes\n(Barrages and npcs were a big cause of lag, go test testers and look at ur recieve in big npc fights where barrage is spammed, also go check time stop and rewind for me)\nBunch more bug fixes\n(everything reported fixed, i aint typing out allat)\n8 new emojis\n(THANKS ARTISTS !)\nRemoved John Rod, Tower of Gray, West End Girl, and Cat Size from the arrow pool\n(will be added back sometime after release when we have time to rework them)\n(also dont worry we are adding 5+ stands pre release to make up for this)\nRemade lock picking minigame\nBunch of npc/boss improvements\nCTR can now be used while drenched status effect is on\nServer list now shows what gang bases are placed in that server (So you can see whos available to.. RAID!!)\nPlants grow at 2x speed, Rokas 3x speed, in gang bases now\nVampires now have more movement OUTSIDE of combat with double jump\n\nalso if anyone knows what song i should use in place of young boy for the griddy emote... lmk",
+    "id": "6af25326efcf475a0337d567",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "29/10/2026 (Bug Fixes, Optimizations)",
+    "pos": 140737487929344,
+    "shortLink": "awqiplTL",
+    "shortUrl": "https://trello.com/c/awqiplTL",
+    "url": "https://trello.com/c/awqiplTL/670-29-10-2026-bug-fixes-optimizations"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:37.927Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d1b0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd56",
+    "labels": [],
+    "name": "Quest",
+    "pos": 140737488338944,
+    "shortLink": "tVRctCaU",
+    "shortUrl": "https://trello.com/c/tVRctCaU",
+    "url": "https://trello.com/c/tVRctCaU/353-quest"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd56",
+    "name": "Evolution/Quest/AU Stands",
+    "pos": 20480
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 10439,
+      "date": "2026-10-27T09:34:04.927Z",
+      "id": "6af25330efcf475a0338858f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_103405203.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3e4/attachments/6af25330efcf475a0338858f/download/image_2026-10-27_103405203.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.648Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d3e4",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "27/10/2026 (Kraft Work,Vampire Refresh, P5 Mysterious Arrow, Bug Fixes)",
+    "pos": 140737487962112,
+    "shortLink": "cV9Cs7f0",
+    "shortUrl": "https://trello.com/c/cV9Cs7f0",
+    "url": "https://trello.com/c/cV9Cs7f0/541-27-10-2026-kraft-workvampire-refresh-p5-mysterious-arrow-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

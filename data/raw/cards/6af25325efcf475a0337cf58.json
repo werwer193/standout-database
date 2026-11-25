@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 55201,
+      "date": "2026-09-25T08:37:46.544Z",
+      "id": "6af2532fefcf475a0338737b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf58/attachments/6af2532fefcf475a0338737b/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.247Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab632a1f08c8408f35edaec/attachments/6ab632da99daa47bbe9f58f6/previews/6ab632da99daa47bbe9f596a/download/image.webp)",
+    "id": "6af25325efcf475a0337cf58",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Banana Seed",
+    "pos": 140737488458240,
+    "shortLink": "7p4vjWmb",
+    "shortUrl": "https://trello.com/c/7p4vjWmb",
+    "url": "https://trello.com/c/7p4vjWmb/153-banana-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

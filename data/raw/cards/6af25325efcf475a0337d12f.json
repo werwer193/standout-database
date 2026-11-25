@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 510328,
+      "date": "2026-10-04T11:07:03.482Z",
+      "id": "6af2532fefcf475a03387afa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "laem.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d12f/attachments/6af2532fefcf475a03387afa/download/Sn%C3%ADmek_obrazovky_2026-10-04_130559.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:45:38.644Z",
+    "desc": "## Stand: [https://trello.com/c/uKlw2eu5/479-lyin-eyes](https://trello.com/c/uKlw2eu5/479-lyin-eyes \"smartCard-inline\")\n\n## Health: 200",
+    "id": "6af25325efcf475a0337d12f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d802",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d802",
+        "uses": 14
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      },
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Laem Chabang",
+    "pos": 140737488535552,
+    "shortLink": "3Gso76tr",
+    "shortUrl": "https://trello.com/c/3Gso76tr",
+    "url": "https://trello.com/c/3Gso76tr/310-laem-chabang"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

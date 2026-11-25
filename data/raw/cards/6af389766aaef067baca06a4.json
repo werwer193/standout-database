@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 292570,
+      "date": "2026-11-11T10:26:22.967Z",
+      "id": "6af442ce983ab4784aa06af0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_112621971.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af389766aaef067baca06a4/attachments/6af442ce983ab4784aa06af0/download/image_2026-11-11_112621971.png"
+    },
+    {
+      "bytes": 361494,
+      "date": "2026-11-16T10:47:38.561Z",
+      "id": "6afadf4aae3f5799de5bded0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-16_114738222.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af389766aaef067baca06a4/attachments/6afadf4aae3f5799de5bded0/download/image_2026-11-16_114738222.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T10:47:39.331Z",
+    "desc": "# **Quest from:** [https://trello.com/c/F8kWEMOc/8-sketchy-guy](https://trello.com/c/F8kWEMOc/8-sketchy-guy \"smartCard-inline\")\n\n# Quest:\n\n**Follow the arrow and give each person the secret code 0/4**\n\n**Meet the team in the alley 0/1**\n\n**Walk to with the team 0/1**\n\n**Down the team 0/4**\n\n**Carry the team to the hospital 0/4**\n\n**Explain what happened to Meryl Mei Qi or someone in the Main Gang 0/1**\n\n**Take the briefcase to the** [https://trello.com/c/F8kWEMOc/8-sketchy-guy](https://trello.com/c/F8kWEMOc/8-sketchy-guy \"smartCard-inline\")**0/1**\n\n**Walk away from the alley 0/1**\n\n# Upon completion you get:\n\n**4000** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n---\n\n**IF YOU INTERACT** [https://trello.com/c/F8kWEMOc/8-sketchy-guy](https://trello.com/c/F8kWEMOc/8-sketchy-guy \"smartCard-inline\") **WITH AFTER THE EXPLOSION, YOU CAN GET:**\n\n**500 Coins**\n\n[https://trello.com/c/vtDmX3XW/11-this-coat-is-on-fire](https://trello.com/c/vtDmX3XW/11-this-coat-is-on-fire \"smartCard-inline\")",
+    "id": "6af389766aaef067baca06a4",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Clean Business",
+    "pos": 140737488443392,
+    "shortLink": "tTy3xVvl",
+    "shortUrl": "https://trello.com/c/tTy3xVvl",
+    "url": "https://trello.com/c/tTy3xVvl/5-clean-business"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

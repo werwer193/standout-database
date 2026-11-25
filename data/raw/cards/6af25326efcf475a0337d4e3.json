@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 125063,
+      "date": "2026-11-11T21:39:06.076Z",
+      "id": "6af4e07a1a7f8d2e8b294bcc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_223905686.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4e3/attachments/6af4e07a1a7f8d2e8b294bcc/download/image_2026-11-11_223905686.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:39:08.411Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4e3",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Akuma Pose",
+    "pos": 140737489223680,
+    "shortLink": "zUZ83DTA",
+    "shortUrl": "https://trello.com/c/zUZ83DTA",
+    "url": "https://trello.com/c/zUZ83DTA/626-akuma-pose"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

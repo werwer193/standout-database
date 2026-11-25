@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T22:47:37.081Z",
+    "desc": "",
+    "id": "6af4f05c7bcd3c175c243564",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Under World",
+    "pos": 140737488551936,
+    "shortLink": "MQesdOJx",
+    "shortUrl": "https://trello.com/c/MQesdOJx",
+    "url": "https://trello.com/c/MQesdOJx/32-under-world"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

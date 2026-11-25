@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23009,
+      "date": "2026-10-11T12:17:12.989Z",
+      "id": "6af25330efcf475a033880d8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141713219.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2b8/attachments/6af25330efcf475a033880d8/download/image_2026-10-11_141713219.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.193Z",
+    "desc": "# **When equipped gives you:**\n\n**+1 Ability**\n\n**+4 Damage**\n\n**+3 Health**\n\n# Drops from Bounties",
+    "id": "6af25326efcf475a0337d2b8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Paco's Pants",
+    "pos": 140737488912384,
+    "shortLink": "5ZNQk26L",
+    "shortUrl": "https://trello.com/c/5ZNQk26L",
+    "url": "https://trello.com/c/5ZNQk26L/441-pacos-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

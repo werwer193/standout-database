@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 20230,
+      "date": "2026-11-18T19:21:47.452Z",
+      "id": "6afdfacbe794b47fd152aec1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_202146998.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdfabf6d071eb008337931/attachments/6afdfacbe794b47fd152aec1/download/image_2026-11-18_202146998.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:23:30.521Z",
+    "desc": "# Obtained from: [https://trello.com/c/DJVrV4fk/199-77-rings-raid](https://trello.com/c/DJVrV4fk/199-77-rings-raid \"smartCard-inline\")\n\n# **An old knight’s sword blade, still sharp after centuries and ready to join with its guard and handle at a workbench.**",
+    "id": "6afdfabf6d071eb008337931",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Pluck Blade",
+    "pos": 140737488699392,
+    "shortLink": "Ez9MqvXz",
+    "shortUrl": "https://trello.com/c/Ez9MqvXz",
+    "url": "https://trello.com/c/Ez9MqvXz/254-pluck-blade"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1184255,
+      "date": "2026-11-11T21:47:05.456Z",
+      "id": "6af4e259e851b3b884349527",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "duet.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d504/attachments/6af4e259e851b3b884349527/download/duet.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:47:11.836Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d504",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Duet Dance",
+    "pos": 140737489403904,
+    "shortLink": "A0PKpSDW",
+    "shortUrl": "https://trello.com/c/A0PKpSDW",
+    "url": "https://trello.com/c/A0PKpSDW/637-duet-dance"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

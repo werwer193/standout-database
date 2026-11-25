@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 242573,
+      "date": "2026-11-11T21:17:54.882Z",
+      "id": "6af4db820739528c5d3bb125",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "clap.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d498/attachments/6af4db820739528c5d3bb125/download/clap.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:17:57.923Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d498",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Slow Clap",
+    "pos": 140737488814080,
+    "shortLink": "WdVvt2Ja",
+    "shortUrl": "https://trello.com/c/WdVvt2Ja",
+    "url": "https://trello.com/c/WdVvt2Ja/601-slow-clap"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

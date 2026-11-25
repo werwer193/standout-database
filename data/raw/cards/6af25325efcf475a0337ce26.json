@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 179336,
+      "date": "2026-09-25T09:10:20.883Z",
+      "id": "6af2532fefcf475a03386f35",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_111020792.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce26/attachments/6af2532fefcf475a03386f35/download/image_2026-09-25_111020792.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T20:04:28.589Z",
+    "desc": "# Don’t get struck, or you could possibly die..",
+    "id": "6af25325efcf475a0337ce26",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd43",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6af25326efcf475a0337d811",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d811",
+        "uses": 5
+      }
+    ],
+    "name": "Thunderstorm",
+    "pos": 140737488404480,
+    "shortLink": "oxZPgRZ0",
+    "shortUrl": "https://trello.com/c/oxZPgRZ0",
+    "url": "https://trello.com/c/oxZPgRZ0/51-thunderstorm"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd43",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 437013,
+      "date": "2026-09-24T21:32:13.783Z",
+      "id": "6af2532fefcf475a03387158",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_233213663.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cec8/attachments/6af2532fefcf475a03387158/download/image_2026-09-24_233213663.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.296Z",
+    "desc": "# Hear the employee apologize 0/1\n\n**Diamotch Clerk: I’m sorry. The watch was found on the floor in the main room. You can leave; I was mistaken.**\n\n**–> We’re leaving.**\n\n**Quest Completed! +450 EXP**",
+    "id": "6af25325efcf475a0337cec8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Proven Inocent (Storyline #14.)",
+    "pos": 140737488601088,
+    "shortLink": "MKXwmvlK",
+    "shortUrl": "https://trello.com/c/MKXwmvlK",
+    "url": "https://trello.com/c/MKXwmvlK/105-proven-inocent-storyline-14"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

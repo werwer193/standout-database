@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 143110,
+      "date": "2026-11-11T21:22:15.985Z",
+      "id": "6af4dc871f97aa0cb1371793",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4a7/attachments/6af4dc871f97aa0cb1371793/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:22:17.614Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4a7",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Lagann",
+    "pos": 140737488896000,
+    "shortLink": "tWVtFgtM",
+    "shortUrl": "https://trello.com/c/tWVtFgtM",
+    "url": "https://trello.com/c/tWVtFgtM/606-lagann"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

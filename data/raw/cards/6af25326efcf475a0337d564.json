@@ -1,0 +1,97 @@
+{
+  "attachments": [
+    {
+      "bytes": 559794,
+      "date": "2026-10-28T21:59:43.671Z",
+      "id": "6af25330efcf475a0338876b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-28_225943330.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a0338876b/download/image_2026-10-28_225943330.png"
+    },
+    {
+      "bytes": 666394,
+      "date": "2026-11-02T22:36:07.466Z",
+      "id": "6af25330efcf475a03388773",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "Screenshot 2026-11-02 173537.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a03388773/download/Screenshot_2026-11-02_173537.png"
+    },
+    {
+      "bytes": 138436,
+      "date": "2026-11-02T22:38:33.035Z",
+      "id": "6af25330efcf475a0338877b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "normaldrops.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a0338877b/download/normaldrops.png"
+    },
+    {
+      "bytes": 138436,
+      "date": "2026-11-02T22:42:07.367Z",
+      "id": "6af25330efcf475a03388783",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "normaldrops.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a03388783/download/normaldrops.png"
+    },
+    {
+      "bytes": 167408,
+      "date": "2026-11-02T22:43:06.055Z",
+      "id": "6af25330efcf475a0338878b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "harddrops.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a0338878b/download/harddrops.png"
+    },
+    {
+      "bytes": 78706,
+      "date": "2026-11-02T23:06:40.642Z",
+      "id": "6af25330efcf475a03388792",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_000640350.png",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a03388792/download/image_2026-11-03_000640350.png"
+    },
+    {
+      "bytes": 80699,
+      "date": "2026-11-02T23:07:28.732Z",
+      "id": "6af25330efcf475a03388799",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_000728364.png",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d564/attachments/6af25330efcf475a03388799/download/image_2026-11-03_000728364.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.657Z",
+    "desc": "‌\n\n![Screenshot\\_2026-11-02\\_173537.webp](https://trello.com/1/cards/6ae2704662d6b0b4967cdeac/attachments/6ae910575ca8dbc1ebdc41b3/previews/6ae910585ca8dbc1ebdc41fc/download/Screenshot_2026-11-02_173537.webp)\n\n---\n\n# ALL QUESTS IN RAID\n\n**Get Highway Star to half HP**\n\n**Drive into oncoming traffic while Hey Ya! finds where the dead Highway Star user is**\n\n**Kill Highway Star**\n\n---\n\n## **REGULAR DIFFICULTY: DROPS/RATES**\n\n![normaldrops.webp](https://trello.com/1/cards/6ae2704662d6b0b4967cdeac/attachments/6ae911bfab7d87d3b6b5b123/previews/6ae911bfab7d87d3b6b5b193/download/normaldrops.webp)\n\n## **HARD DIFFICULTY: DROPS/RATES**\n\n![harddrops.webp](https://trello.com/1/cards/6ae2704662d6b0b4967cdeac/attachments/6ae911fa055ee0cf981a365d/previews/6ae911fb055ee0cf981a374b/download/harddrops.webp)",
+    "id": "6af25326efcf475a0337d564",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5b",
+    "labels": [],
+    "name": "Highway Star Raid",
+    "pos": 140737488564224,
+    "shortLink": "YUCEPo9g",
+    "shortUrl": "https://trello.com/c/YUCEPo9g",
+    "url": "https://trello.com/c/YUCEPo9g/669-highway-star-raid"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5b",
+    "name": "Raids/Bizarre Adventures",
+    "pos": 90112
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 778543,
+      "date": "2026-10-06T19:00:17.232Z",
+      "id": "6af2532fefcf475a03387bf4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d186/attachments/6af2532fefcf475a03387bf4/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.808Z",
+    "desc": "# Rejoin the crew: 0/1\n\n**Jodio - The drain caught West End Girl. Key West is gone, and the lava rock is back with us.**\n\n# Quest completed!",
+    "id": "6af25326efcf475a0337d186",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [],
+    "name": "Howler on the Upper Deck (Storyline #47.)",
+    "pos": 140737489141760,
+    "shortLink": "adpiO7VQ",
+    "shortUrl": "https://trello.com/c/adpiO7VQ",
+    "url": "https://trello.com/c/adpiO7VQ/339-howler-on-the-upper-deck-storyline-47"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 493213,
+      "date": "2026-10-26T21:10:13.699Z",
+      "id": "6af25330efcf475a03388580",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_221013203.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3d5/attachments/6af25330efcf475a03388580/download/image_2026-10-26_221013203.png"
+    },
+    {
+      "bytes": 446456,
+      "date": "2026-10-26T21:11:38.647Z",
+      "id": "6af25330efcf475a03388587",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3d5/attachments/6af25330efcf475a03388587/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T10:40:35.644Z",
+    "desc": "**Quest from:** [https://trello.com/c/IDYO96K8/519-angelo](https://trello.com/c/IDYO96K8/519-angelo \"smartCard-inline\")\n\n# Quest:\n\n**Finish a Bizzare Adventure (Raid) 0/1**\n\n**Complete 3 Bounties 0/3**\n\n**Finish 10 eliminations 0/10**\n\n## Upon completion gives you:\n\n**1** [https://trello.com/c/4NrBMWKk/494-bizarre-arrow](https://trello.com/c/4NrBMWKk/494-bizarre-arrow \"smartCard-inline\")\n\n**2500** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n**1 Random Seed**",
+    "id": "6af25326efcf475a0337d3d5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Big Business",
+    "pos": 140737488445440,
+    "shortLink": "RJulaPcr",
+    "shortUrl": "https://trello.com/c/RJulaPcr",
+    "url": "https://trello.com/c/RJulaPcr/536-big-business"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

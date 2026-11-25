@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 1221151,
+      "date": "2026-10-31T16:29:29.421Z",
+      "id": "6af25330efcf475a033887f2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-31_172928989.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d58e/attachments/6af25330efcf475a033887f2/download/image_2026-10-31_172928989.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-10T17:07:09.361Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d58e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "yellow_dark",
+        "id": "6af25326efcf475a0337d80e",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 1",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80e",
+        "uses": 6
+      }
+    ],
+    "name": "Zeppeli Hamon",
+    "pos": 140737488408576,
+    "shortLink": "GhrRflye",
+    "shortUrl": "https://trello.com/c/GhrRflye",
+    "url": "https://trello.com/c/GhrRflye/683-zeppeli-hamon"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

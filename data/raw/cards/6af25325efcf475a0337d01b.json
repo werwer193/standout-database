@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 90958,
+      "date": "2026-09-29T12:42:49.620Z",
+      "id": "6af2532fefcf475a033876fd",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d01b/attachments/6af2532fefcf475a033876fd/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.231Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0b7e42f214f1f8b472a/attachments/6abbb2498cd4dc64ab1420c5/previews/6abbb24a8cd4dc64ab1420cd/download/image.webp)",
+    "id": "6af25325efcf475a0337d01b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7fd",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fd",
+        "uses": 31
+      }
+    ],
+    "name": "Jar of Bananas",
+    "pos": 140737488736256,
+    "shortLink": "D1s1H2wi",
+    "shortUrl": "https://trello.com/c/D1s1H2wi",
+    "url": "https://trello.com/c/D1s1H2wi/218-jar-of-bananas"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 11315,
+      "date": "2026-11-10T15:08:16.114Z",
+      "id": "6af33360e77bfd419d658b9e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-10_160815885.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af33351cda23ff484c6212a/attachments/6af33360e77bfd419d658b9e/download/image_2026-11-10_160815885.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T15:08:17.588Z",
+    "desc": "",
+    "id": "6af33351cda23ff484c6212a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "10/11/2026 (Kiss, Zeppeli Hamon, Pogo Stick)",
+    "pos": 140737487847424,
+    "shortLink": "tkyJgBfq",
+    "shortUrl": "https://trello.com/c/tkyJgBfq",
+    "url": "https://trello.com/c/tkyJgBfq/3-10-11-2026-kiss-zeppeli-hamon-pogo-stick"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

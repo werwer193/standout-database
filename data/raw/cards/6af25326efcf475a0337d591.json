@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 686696,
+      "date": "2026-11-01T17:59:12.012Z",
+      "id": "6af25330efcf475a033887fa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_185911564.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d591/attachments/6af25330efcf475a033887fa/download/image_2026-11-01_185911564.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:19:29.579Z",
+    "desc": "# **Quest from:** [https://trello.com/c/rr16vmhB/685-lettuce-trader](https://trello.com/c/rr16vmhB/685-lettuce-trader \"smartCard-inline\")\n\n# Quest:\n\n**Look over the wrecked stall 0/3**\n\n**Crouch and follow the drool trail 0/1**\n\n**Protect the trader from the thugs 0/1**\n\n**Read the note a thug dropped 0/1**\n\n**Search the bush by the red X 0/1**\n\n**Defeat** [https://trello.com/c/WyqxnhgO/687-yo-yo-ma](https://trello.com/c/WyqxnhgO/687-yo-yo-ma \"smartCard-inline\")  **0/1**\n\n**Get the golden key 0/1**\n\n## Upon completion gives you:\n\n**1500** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n**3** [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")\n\n**1 Random type of Rokakaka** **Seed**\n\n**Yo-Yo Ma/Harvest Stand Chip (Very low chance)**\n\n---\n\n**1** [https://trello.com/c/GfNeG2NF/686-traders-sticky-hat](https://trello.com/c/GfNeG2NF/686-traders-sticky-hat \"smartCard-inline\")  **(First Clear)**\n\n**1** [https://trello.com/c/ihMiWAtq/689-coat-of-a-dedicated-bodyguard](https://trello.com/c/ihMiWAtq/689-coat-of-a-dedicated-bodyguard \"smartCard-inline\") **(Fifth Clear)**\n\n**1**  [https://trello.com/c/XwZmbZgv/690-treasure-of-the-lettuce-dealer](https://trello.com/c/XwZmbZgv/690-treasure-of-the-lettuce-dealer \"smartCard-inline\")**(Tenth Clear)**",
+    "id": "6af25326efcf475a0337d591",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Yo-Yo, What the hell, Ma?!",
+    "pos": 140737488441344,
+    "shortLink": "jVbTedrR",
+    "shortUrl": "https://trello.com/c/jVbTedrR",
+    "url": "https://trello.com/c/jVbTedrR/684-yo-yo-what-the-hell-ma"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 95036,
+      "date": "2026-09-29T12:39:47.173Z",
+      "id": "6af2532fefcf475a03387758",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d036/attachments/6af2532fefcf475a03387758/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.434Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0e6a5e34cfbbfe95875/attachments/6abbb19382847d03c1f0c75c/previews/6abbb19382847d03c1f0c765/download/image.webp)",
+    "id": "6af25325efcf475a0337d036",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7fd",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fd",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Jar of Rokaka",
+    "pos": 140737488867328,
+    "shortLink": "TcUyxwrs",
+    "shortUrl": "https://trello.com/c/TcUyxwrs",
+    "url": "https://trello.com/c/TcUyxwrs/227-jar-of-rokaka"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

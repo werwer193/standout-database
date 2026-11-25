@@ -1,0 +1,155 @@
+{
+  "attachments": [
+    {
+      "bytes": 23102,
+      "date": "2026-11-22T13:59:07.762Z",
+      "id": "6b02f52b0240b152a857bb96",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_145907336.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b02f52b0240b152a857bb96/download/image_2026-11-22_145907336.png"
+    },
+    {
+      "bytes": 137452,
+      "date": "2026-11-22T20:51:57.898Z",
+      "id": "6b0355ed90e4cb88a1ea5ce8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_215157366.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0355ed90e4cb88a1ea5ce8/download/image_2026-11-22_215157366.png"
+    },
+    {
+      "bytes": 67995,
+      "date": "2026-11-22T20:53:04.877Z",
+      "id": "6b035630538c7cc378374558",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b035630538c7cc378374558/download/image.png"
+    },
+    {
+      "bytes": 197383,
+      "date": "2026-11-22T20:53:19.237Z",
+      "id": "6b03563f2d8dac5582da6401",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03563f2d8dac5582da6401/download/image.png"
+    },
+    {
+      "bytes": 34041,
+      "date": "2026-11-22T20:55:42.193Z",
+      "id": "6b0356ce2530363ad1b1367e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0356ce2530363ad1b1367e/download/image.png"
+    },
+    {
+      "bytes": 2287905,
+      "date": "2026-11-22T20:59:58.056Z",
+      "id": "6b0357cedbd58727a356d003",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "grip.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0357cedbd58727a356d003/download/grip.gif"
+    },
+    {
+      "bytes": 1324835,
+      "date": "2026-11-22T21:00:24.054Z",
+      "id": "6b0357e8ee2310d37c62927a",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "screaaam.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0357e8ee2310d37c62927a/download/screaaam.gif"
+    },
+    {
+      "bytes": 1481198,
+      "date": "2026-11-22T21:02:22.973Z",
+      "id": "6b03585ebbb7ae4f4ac40c4d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "insult.gif",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03585ebbb7ae4f4ac40c4d/download/insult.gif"
+    },
+    {
+      "bytes": 1054712,
+      "date": "2026-11-22T21:03:28.595Z",
+      "id": "6b0358a0fc492b4512f5dd81",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "taunt.gif",
+      "pos": 140737488486400,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0358a0fc492b4512f5dd81/download/taunt.gif"
+    },
+    {
+      "bytes": 483075,
+      "date": "2026-11-22T21:05:18.982Z",
+      "id": "6b03590e820a03c121d82e8b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "heklp.gif",
+      "pos": 140737488502784,
+      "url": "https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03590e820a03c121d82e8b/download/heklp.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T21:06:02.598Z",
+    "desc": "# Lore:\n\n# **A Stand that clings to its host's back and turns attention against them.**\n\n---\n\n![image.webp](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b035630538c7cc378374558/previews/6b035631538c7cc37837465d/download/image.webp)\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03563f2d8dac5582da6401/previews/6b03563f2d8dac5582da642b/download/image.webp)\n\n---\n\n## **Cry For Help**\n\n**Draw nearby opponents' attention toward the host.**\n\n**Base cooldown: 12s**\n\n![heklp.gif](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03590e820a03c121d82e8b/previews/6b035911820a03c121d83317/download/heklp.gif)\n\n## Insult!\n\n**Gain 15% of your EX meter. Provoke nearby enemy NPCs and make enemy players rush the host for one light attack.**\n\n**Base cooldown: 10s**\n\n![taunt.gif](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0358a0fc492b4512f5dd81/previews/6b0358a3fc492b4512f5e3bf/download/taunt.gif)\n\n## Taunt\n\n**Lower the host's damage or resistance by 15% for five seconds.**\n\n**Base cooldown: 12s**\n\n![insult.gif](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b03585ebbb7ae4f4ac40c4d/previews/6b035863bbb7ae4f4ac416f4/download/insult.gif)\n\n## SCREAM!\n\n**Stun the current host for the scream animation and deafen them for ten seconds.**\n\n**Base cooldown: 20s**\n\n![screaaam.gif](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0357e8ee2310d37c62927a/previews/6b0357ebee2310d37c629706/download/screaaam.gif)\n\n---\n\n# EX [Awakening Moves]\n\n## Powerful Grip (1 Bar)\n\n**Squeeze the host for damage and stun them for one second.**\n\n**Base cooldown: 14s**\n\n![grip.gif](https://trello.com/1/cards/6b02f4f746773929d351c88d/attachments/6b0357cedbd58727a356d003/previews/6b0357d0dbd58727a356d5ba/download/grip.gif)",
+    "id": "6b02f4f746773929d351c88d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd3f",
+    "labels": [
+      {
+        "color": "green_dark",
+        "id": "6af25326efcf475a0337d810",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 4",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d810",
+        "uses": 11
+      },
+      {
+        "color": "red",
+        "id": "6af25326efcf475a0337d7fc",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fc",
+        "uses": 40
+      },
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d803",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Epic",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d803",
+        "uses": 15
+      }
+    ],
+    "name": "Cheap Trick",
+    "pos": 140737488347556,
+    "shortLink": "rsfJCMQr",
+    "shortUrl": "https://trello.com/c/rsfJCMQr",
+    "url": "https://trello.com/c/rsfJCMQr/262-cheap-trick"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd3f",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

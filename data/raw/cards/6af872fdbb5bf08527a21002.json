@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 214983,
+      "date": "2026-11-14T14:41:21.774Z",
+      "id": "6af87311ec6c315b2d4afaa2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_154121650.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af872fdbb5bf08527a21002/attachments/6af87311ec6c315b2d4afaa2/download/image_2026-11-14_154121650.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T14:51:51.961Z",
+    "desc": "# **Quest from:** [https://trello.com/c/KdXmrobo/218-major-tom](https://trello.com/c/KdXmrobo/218-major-tom \"smartCard-inline\") (Need 45 Stands unlocked)\n\n# Quest:\n\n**Get everyone in town to fill out the survey 0/16**\n\n**Bring the surveys back to** [https://trello.com/c/KdXmrobo/218-major-tom](https://trello.com/c/KdXmrobo/218-major-tom \"smartCard-inline\") **0/1**\n\n**Take the survey papers to** [https://trello.com/c/f3FV02iE/354-darby-stand-storage](https://trello.com/c/f3FV02iE/354-darby-stand-storage \"smartCard-inline\") **0/1**\n\n**Bring the survey chip to** [https://trello.com/c/KdXmrobo/218-major-tom](https://trello.com/c/KdXmrobo/218-major-tom \"smartCard-inline\") **0/1**\n\n**Craft a** [https://trello.com/c/4NrBMWKk/494-bizarre-arrow](https://trello.com/c/4NrBMWKk/494-bizarre-arrow \"smartCard-inline\") **at a** [https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\") **0/1**\n\n**Bring the** [https://trello.com/c/4NrBMWKk/494-bizarre-arrow](https://trello.com/c/4NrBMWKk/494-bizarre-arrow \"smartCard-inline\")**to** [https://trello.com/c/KdXmrobo/218-major-tom](https://trello.com/c/KdXmrobo/218-major-tom \"smartCard-inline\") **0/1**\n\n**Take the chip from** [https://trello.com/c/KdXmrobo/218-major-tom](https://trello.com/c/KdXmrobo/218-major-tom \"smartCard-inline\") **0/1**\n\n‌\n\n## **Upon Completion you get:**\n\n[https://trello.com/c/y5g7poNH/777-jojosapiens](https://trello.com/c/y5g7poNH/777-jojosapiens \"smartCard-inline\") **Stand Chip**",
+    "id": "6af872fdbb5bf08527a21002",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Space Oddity",
+    "pos": 140737488415744,
+    "shortLink": "Ltv1xPwh",
+    "shortUrl": "https://trello.com/c/Ltv1xPwh",
+    "url": "https://trello.com/c/Ltv1xPwh/219-space-oddity"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

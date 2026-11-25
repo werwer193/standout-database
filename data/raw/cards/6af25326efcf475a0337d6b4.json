@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T16:48:10.162Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d6b4",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afb33aac1bbbc6f880d6cbd",
+    "labels": [],
+    "name": "PLAYTEST (10 Mysterious Arrows)",
+    "pos": 140737488502784,
+    "shortLink": "Z8ly0Awx",
+    "shortUrl": "https://trello.com/c/Z8ly0Awx",
+    "url": "https://trello.com/c/Z8ly0Awx/781-playtest-10-mysterious-arrows"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afb33aac1bbbc6f880d6cbd",
+    "name": "Codes",
+    "pos": 8960
+  }
+}

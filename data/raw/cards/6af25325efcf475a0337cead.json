@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 70996,
+      "date": "2026-09-24T21:15:32.653Z",
+      "id": "6af2532fefcf475a033870f2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cead/attachments/6af2532fefcf475a033870f2/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T20:45:20.356Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab592ec1e3e012dcfba7f6e/attachments/6ab592f459e35384864e8e7e/previews/6ab592f559e35384864e8f9e/download/image.webp)\n\n# Story item, obtainable by doing [https://trello.com/c/TBtr6DWj/92-escape-with-the-diamond-storyline-5](https://trello.com/c/TBtr6DWj/92-escape-with-the-diamond-storyline-5 \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337cead",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Blue Diamond",
+    "pos": 140737488371712,
+    "shortLink": "Tw0uPysI",
+    "shortUrl": "https://trello.com/c/Tw0uPysI",
+    "url": "https://trello.com/c/Tw0uPysI/96-blue-diamond"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

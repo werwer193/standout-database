@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1011710,
+      "date": "2026-10-30T08:45:23.034Z",
+      "id": "6af25330efcf475a03388672",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "horse.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d462/attachments/6af25330efcf475a03388672/download/horse.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.965Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d462",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Horse",
+    "pos": 140737488535552,
+    "shortLink": "PzbYZIIn",
+    "shortUrl": "https://trello.com/c/PzbYZIIn",
+    "url": "https://trello.com/c/PzbYZIIn/583-horse"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 125330,
+      "date": "2026-11-11T21:35:15.756Z",
+      "id": "6af4df9394b5d74acefe3740",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_223515261.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4d4/attachments/6af4df9394b5d74acefe3740/download/image_2026-11-11_223515261.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:35:17.854Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4d4",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Class Worthy",
+    "pos": 140737489141760,
+    "shortLink": "9QTcGOEu",
+    "shortUrl": "https://trello.com/c/9QTcGOEu",
+    "url": "https://trello.com/c/9QTcGOEu/621-class-worthy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8556,
+      "date": "2026-10-22T18:44:23.418Z",
+      "id": "6af25330efcf475a0338843e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-22_204423107.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d375/attachments/6af25330efcf475a0338843e/download/image_2026-10-22_204423107.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.222Z",
+    "desc": "Death 13\n\nMade hamon glass break in 6  hits instead of 3\nFixed more yo yo ma and BIG bugs\nChanged how Jodio tutorial npc works, tester go make sure i didnt brick it (apart of the BIG bugs)\nhopefully fixed the car freeze thing too\nSeals now spawn on beaches randomly",
+    "id": "6af25326efcf475a0337d375",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "22/10/2026 (Seals, Death 13)",
+    "pos": 140737488027648,
+    "shortLink": "5y8b1WRL",
+    "shortUrl": "https://trello.com/c/5y8b1WRL",
+    "url": "https://trello.com/c/5y8b1WRL/504-22-10-2026-seals-death-13"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

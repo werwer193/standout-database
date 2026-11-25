@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 204281,
+      "date": "2026-09-25T08:13:19.180Z",
+      "id": "6af2532fefcf475a03386fd2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101319481.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce5c/attachments/6af2532fefcf475a03386fd2/download/image_2026-09-25_101319481.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:52:06.417Z",
+    "desc": "# Located in [[https://trello.com/c/Z9DDI1t8/63-hawaii-state-land-registry-office](https://trello.com/c/Z9DDI1t8/63-hawaii-state-land-registry-office \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce5c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Land Registry Clerk",
+    "pos": 140737488306176,
+    "shortLink": "rXyaZOo9",
+    "shortUrl": "https://trello.com/c/rXyaZOo9",
+    "url": "https://trello.com/c/rXyaZOo9/69-land-registry-clerk"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

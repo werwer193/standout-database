@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 312638,
+      "date": "2026-11-02T22:43:26.083Z",
+      "id": "6af25330efcf475a033888aa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-02_234325781.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5df/attachments/6af25330efcf475a033888aa/download/image_2026-11-02_234325781.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:29:42.560Z",
+    "desc": "# **Quest from:** [https://trello.com/c/x3FtiSCk/711-old-lady](https://trello.com/c/x3FtiSCk/711-old-lady \"smartCard-inline\")\n\n# Quest:\n\n**Ask** [https://trello.com/c/IDYO96K8/519-angelo](https://trello.com/c/IDYO96K8/519-angelo \"smartCard-inline\")   **0/1**\n\n**Crouch and follow the cracks 0/1**\n\n**Fight the** [https://trello.com/c/NlRXSbtt/712-ceo-of-fighting](https://trello.com/c/NlRXSbtt/712-ceo-of-fighting \"smartCard-inline\")   **0/1**\n\n**Report to the** [https://trello.com/c/x3FtiSCk/711-old-lady](https://trello.com/c/x3FtiSCk/711-old-lady \"smartCard-inline\")  **0/1**\n\n**Lure the stone into the net 0/1**\n\n# Upon completion you get:\n\n**4000** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n**1** [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")\n\n**1** [https://trello.com/c/4NrBMWKk/494-bizarre-arrow](https://trello.com/c/4NrBMWKk/494-bizarre-arrow \"smartCard-inline\")\n\n**1** [https://trello.com/c/kGVg0R8p/653-mysterious-arrow-part-5](https://trello.com/c/kGVg0R8p/653-mysterious-arrow-part-5 \"smartCard-inline\")\n\n---\n\n# If you lure the Rolling Stones into the net you will get: [https://trello.com/c/PT07tD5N/713-hand-of-fate](https://trello.com/c/PT07tD5N/713-hand-of-fate \"smartCard-inline\")\n\n# If Rolling Stones catches you then you get: [https://trello.com/c/Vmky4eyq/714-slave-of-fate](https://trello.com/c/Vmky4eyq/714-slave-of-fate \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d5df",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "The Statue of Sorrow",
+    "pos": 140737488428032,
+    "shortLink": "5GhlPI4P",
+    "shortUrl": "https://trello.com/c/5GhlPI4P",
+    "url": "https://trello.com/c/5GhlPI4P/710-the-statue-of-sorrow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 86728,
+      "date": "2026-09-25T08:45:56.847Z",
+      "id": "6af2532fefcf475a03387397",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_104556936.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf61/attachments/6af2532fefcf475a03387397/download/image_2026-09-25_104556936.png"
+    },
+    {
+      "bytes": 186719,
+      "date": "2026-11-01T18:39:44.346Z",
+      "id": "6af2532fefcf475a0338739e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193944019.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf61/attachments/6af2532fefcf475a0338739e/download/image_2026-11-01_193944019.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T13:23:45.338Z",
+    "desc": "# Stat points are obtained by levelling up, Each level gives you 3 stat points.\n\n# The current maximum level is 75.\n\n# Health - Scales health\n\n# Damage - Scales damage\n\n# Ability - Scales abilities (for example: With 100 Ability Time-Stop duration doubles.) [https://trello.com/c/BPMoAGWe/343-ability-scaling](https://trello.com/c/BPMoAGWe/343-ability-scaling \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337cf61",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Stats",
+    "pos": 140737488375808,
+    "shortLink": "P9TiOYjP",
+    "shortUrl": "https://trello.com/c/P9TiOYjP",
+    "url": "https://trello.com/c/P9TiOYjP/156-stats"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

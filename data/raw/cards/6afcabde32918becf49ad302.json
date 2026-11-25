@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 89631,
+      "date": "2026-11-17T19:33:04.164Z",
+      "id": "6afcabf0ca19f00b34113fe2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-17_203303881.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afcabde32918becf49ad302/attachments/6afcabf0ca19f00b34113fe2/download/image_2026-11-17_203303881.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-17T19:33:20.212Z",
+    "desc": "Tense up now parries cars\nFixed sub ability moves working while climbing with the hustle\nFixed the wine glass hold breaking after a mandom rewind\nFixed invalidgardenstate\nFixed the server list on console\nFixed getting locked out of the 77 rings graveyard when the gate closes\nFixed lying on ur back after getting pulled to dio while climbing\nInvaders can now enter coco jumbo\nFixed not hearing hit sounds while spectating\nFixed major toms quest not giving the jojosapiens stand chip, if u already finished it u get the chip next time u join\n50KLIKES and THANKYOUHUGERELEASETHANKS codes expired\nFixed death 13 not moving in someones nightmare during raids\nFixed rolling stones pose not working after dying\nFixed big mouth strikes again in menu\nFixed the iced tea lemon on controsller\nFixed party pvp being turned on in rare cases if  you hit a party memgber\nAdded Heavens Door Prime chip to the Bounty Hunters and Raid Champions leaderboards (this chip is also already obtainable via any of the specific top 3 leaderboards for each raid, and also builder top sellers)\n\nNEW CODE: 100KLIKESHUGE\n\nMax Health now gives up to 3x HP at 166 (was 2.5x), so a full Health build has 300 HP instead of 250\nMax Strength now gives up to 2.3x damage at 166 (was 2.5x). Moves that scale partly with Strength are slightly weaker at max Strength too\nBarrage clashes now only deal 25% of each hit as chip damage (was 65%)\nEvasive moves now have an evasive label on the skill itself, some archives have been updated!\n\nFull Time Stop lasts 5s at base Ability, up to 10 s at max (was 6s to 14s)\nQuick Time Stop lasts 2.5s at base Ability, up to 6 s at max (was 3s to 7s)\nRoad Roller now flies higher into the sky and falls a bit slower. It lands about 2s after you use it, Road Roller now costs 1 EX. (was 1.3s)\n\nParty members can now hit each other (party friendly fire is NOW on)\n\nCan now use the Less/More UI option for Builder on PC\nConsole Building support fixed\nHigher Creator Ranks Reqs reduced.\nUpgraded the models for Clean Business quest.\n\nIf you are already in combat and jump into the ocean, after a certain amount of time a very bizarre shark will now turn you into chum...\nStrength now spawns in proportion to where you spawn, so it will be off the coast nearest to you.",
+    "id": "6afcabde32918becf49ad302",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "16/11/2026 (Bug Fixes, Optimizations)",
+    "pos": 140737487765504,
+    "shortLink": "acmbMBIx",
+    "shortUrl": "https://trello.com/c/acmbMBIx",
+    "url": "https://trello.com/c/acmbMBIx/243-16-11-2026-bug-fixes-optimizations"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

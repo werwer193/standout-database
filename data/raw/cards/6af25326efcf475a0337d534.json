@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 133773,
+      "date": "2026-10-27T21:28:43.770Z",
+      "id": "6af25330efcf475a03388701",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_222843368.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d534/attachments/6af25330efcf475a03388701/download/image_2026-10-27_222843368.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:07:01.863Z",
+    "desc": "# **A strange beetle clings to its head. It only awakens Part 5 Stands, each at the same chance, except King Crimson at 5%.**\n\n# Can be obtained from [https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\")  or [https://trello.com/c/I38LveAq/488-train-raid](https://trello.com/c/I38LveAq/488-train-raid \"smartCard-inline\")  and also the [https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d534",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "sky_dark",
+        "id": "6af25326efcf475a0337d807",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 5",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d807",
+        "uses": 11
+      }
+    ],
+    "name": "Mysterious Arrow [Part 5]",
+    "pos": 140737488414720,
+    "shortLink": "kGVg0R8p",
+    "shortUrl": "https://trello.com/c/kGVg0R8p",
+    "url": "https://trello.com/c/kGVg0R8p/653-mysterious-arrow-part-5"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

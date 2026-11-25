@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 84298,
+      "date": "2026-10-07T21:26:58.877Z",
+      "id": "6af2532fefcf475a03387c9e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d198/attachments/6af2532fefcf475a03387c9e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.878Z",
+    "desc": "Added the following roka types\n\nEmerald Roka - Chance to remove stand, grants EXP in return (tier scales chance to remove, and exp gained) (this is to go from pure stand, mixed stand, to pure subability)\nSapphire Roka - Chance to remove subability, grants EXP in return (tier scales chance to remove, and exp gained) (this is meant for going back to pure stand, or swapping subablilty)\nAmethyst Roka - Works like a regular roka, but EX (and other bars, like hamon and vampire) bar instead of HP\nOpal Roka - Chance to turn TW into TW:AU (will turn other stands into variants in the future, such as KQ into KQ:AU or SP into SP [P4]), Small chance to wipe your stand. Tier scales % chance to work, and chance of wiping, S tier opal roka has 0% chance to wipe\nRokas that remove stand/ability/transform stands are NOT able to be used in splash mode containers\n\nmutated rokas are obtainable via a 3% chance (per fruit) when growing\n\n`Remade quest gui`\n`added quest swapper phone app`\n`fixed mr president screen vfx stopping with some moves`\n`added stats for all accessoreis`\n`fixed pilot stand thorwable thing`\n`fixed ocean water not putting out fire`\n`fixed ts inhale`\n`fuxed rewind heavens door bug`\n`Maybe fixed mneu intro mobile sizing`\n`fixed prop memeory blocking`",
+    "id": "6af25326efcf475a0337d198",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "07/10/2026 (Rokaka Types, Quest GUI Rework, More...)",
+    "pos": 140737488240640,
+    "shortLink": "l7o5ELDB",
+    "shortUrl": "https://trello.com/c/l7o5ELDB",
+    "url": "https://trello.com/c/l7o5ELDB/345-07-10-2026-rokaka-types-quest-gui-rework-more"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 87781,
+      "date": "2026-11-11T21:37:13.846Z",
+      "id": "6af4e0092c599973bdb50d47",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_223713466.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4da/attachments/6af4e0092c599973bdb50d47/download/image_2026-11-11_223713466.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:37:16.130Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4da",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Super Hero",
+    "pos": 140737489174528,
+    "shortLink": "Qk3QdJxk",
+    "shortUrl": "https://trello.com/c/Qk3QdJxk",
+    "url": "https://trello.com/c/Qk3QdJxk/623-super-hero"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

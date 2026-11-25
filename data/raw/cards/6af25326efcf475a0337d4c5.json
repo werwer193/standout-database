@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 409003,
+      "date": "2026-11-11T21:30:56.778Z",
+      "id": "6af4de90bfcc7d5e572b28b8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "trombone.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4c5/attachments/6af4de90bfcc7d5e572b28b8/download/trombone.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:31:00.493Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4c5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Trombone",
+    "pos": 140737489059840,
+    "shortLink": "bxp8pBrq",
+    "shortUrl": "https://trello.com/c/bxp8pBrq",
+    "url": "https://trello.com/c/bxp8pBrq/616-trombone"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

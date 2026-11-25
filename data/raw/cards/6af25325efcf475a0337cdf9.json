@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:37.114Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337cdf9",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "black_light",
+        "id": "6af25326efcf475a0337d80b",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 6",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80b",
+        "uses": 8
+      }
+    ],
+    "name": "Whitesnake",
+    "pos": 140737488789504,
+    "shortLink": "KrixExTB",
+    "shortUrl": "https://trello.com/c/KrixExTB",
+    "url": "https://trello.com/c/KrixExTB/36-whitesnake"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

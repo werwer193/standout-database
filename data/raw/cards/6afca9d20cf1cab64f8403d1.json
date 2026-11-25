@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-18T19:52:22.003Z",
+    "desc": "",
+    "id": "6afca9d20cf1cab64f8403d1",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afca9c2ded1cfb842f232ac",
+    "labels": [],
+    "name": "Credits",
+    "pos": 140737488437248,
+    "shortLink": "9tDBFhke",
+    "shortUrl": "https://trello.com/c/9tDBFhke",
+    "url": "https://trello.com/c/9tDBFhke/238-credits"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afca9c2ded1cfb842f232ac",
+    "name": "Main Menu",
+    "pos": 9088
+  }
+}

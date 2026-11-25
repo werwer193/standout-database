@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 22711,
+      "date": "2026-11-18T19:24:37.059Z",
+      "id": "6afdfb754299f14390b1f2bb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_202436741.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdfac4036578fb00dfd57e/attachments/6afdfb754299f14390b1f2bb/download/image_2026-11-18_202436741.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:24:38.973Z",
+    "desc": "# Obtained from: [https://trello.com/c/DJVrV4fk/199-77-rings-raid](https://trello.com/c/DJVrV4fk/199-77-rings-raid \"smartCard-inline\")\n\n# Join this LUCK-carved grip, marked with a P in blood, to the blade and guard at a workbench.",
+    "id": "6afdfac4036578fb00dfd57e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Pluck Handle",
+    "pos": 140737488732160,
+    "shortLink": "oGoPWoAy",
+    "shortUrl": "https://trello.com/c/oGoPWoAy",
+    "url": "https://trello.com/c/oGoPWoAy/256-pluck-handle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

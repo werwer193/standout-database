@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 1111179,
+      "date": "2026-10-22T10:34:35.652Z",
+      "id": "6af2532fefcf475a03387476",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "van (1).gif",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf7f/attachments/6af2532fefcf475a03387476/download/van_(1).gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.589Z",
+    "desc": "## Objects can be picked up around the map and used for combat advantages.\n\n## **Existing objects:**\n\n**Gasoline Cans (Reacts to Hamon and Fire)**\n\n**Signs**\n\n**Tables**\n\n**Lights**\n\n**Trash Cans**\n\n**Chairs**\n\n**Cars (Locked to strong stands.)**\n\n**Phone Booths (Locked to strong stands.)**\n\n**Street Lamps (Locked to strong stands.)**\n\n**Trees (Locked to strong stands.)**\n\n**Vans (Locked to strong stands.)**\n\n**Pickup Truck (Locked to strong stands.)**",
+    "id": "6af25325efcf475a0337cf7f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd51",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Throwables / Objects",
+    "pos": 140737488367616,
+    "shortLink": "xvGy8IBZ",
+    "shortUrl": "https://trello.com/c/xvGy8IBZ",
+    "url": "https://trello.com/c/xvGy8IBZ/166-throwables-objects"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd51",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 302535,
+      "date": "2026-11-01T19:02:32.384Z",
+      "id": "6af25330efcf475a03388842",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_200232037.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5b2/attachments/6af25330efcf475a03388842/download/image_2026-11-01_200232037.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:39:27.800Z",
+    "desc": "# There is a chance that the FSA (Food Safety Agency) shows up, if they show up they will ask to inspect your base. ([https://trello.com/c/X2l1QZQ5/698-food-safety-agency-inspector](https://trello.com/c/X2l1QZQ5/698-food-safety-agency-inspector \"smartCard-inline\") )\n\n# If they inspect your base and see that you are growing Rokakaka, it will be seized.\n\n# You can choose to either:\n\n1. **Let them inspect the base**\n2. **Ask for a warrant**\n\n# Upon asking for a warrant they will call the [https://trello.com/c/gT0ygnyf/700-police](https://trello.com/c/gT0ygnyf/700-police \"smartCard-inline\")   and give you a search warrant.\n\n# If you attack them during the inspection they will call the [https://trello.com/c/gT0ygnyf/700-police](https://trello.com/c/gT0ygnyf/700-police \"smartCard-inline\")   and [https://trello.com/c/xsO8UASY/701-swat](https://trello.com/c/xsO8UASY/701-swat \"smartCard-inline\")\n\n# If you defend the raid you will be rewarded with:\n\n**2500** [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")\n\n**2** [https://trello.com/c/a8L1LKIu/143-arrow-part](https://trello.com/c/a8L1LKIu/143-arrow-part \"smartCard-inline\")\n\n**1** [https://trello.com/c/b3xwPQ5j/152-mysterious-fertilizer](https://trello.com/c/b3xwPQ5j/152-mysterious-fertilizer \"smartCard-inline\")\n\n**1 Random Seed**",
+    "id": "6af25326efcf475a0337d5b2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Food Safety Agency",
+    "pos": 140737488502784,
+    "shortLink": "mfFlKeZB",
+    "shortUrl": "https://trello.com/c/mfFlKeZB",
+    "url": "https://trello.com/c/mfFlKeZB/695-food-safety-agency"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

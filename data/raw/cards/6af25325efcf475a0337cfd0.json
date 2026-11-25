@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 636284,
+      "date": "2026-09-27T01:45:30.231Z",
+      "id": "6af2532fefcf475a03387590",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-27_034529886.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfd0/attachments/6af2532fefcf475a03387590/download/image_2026-09-27_034529886.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.191Z",
+    "desc": "# Gives you a random seed.\n\n## Spawnrate: Unknown",
+    "id": "6af25325efcf475a0337cfd0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [],
+    "name": "Supplies",
+    "pos": 140737488437248,
+    "shortLink": "5vLlvUwp",
+    "shortUrl": "https://trello.com/c/5vLlvUwp",
+    "url": "https://trello.com/c/5vLlvUwp/193-supplies"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

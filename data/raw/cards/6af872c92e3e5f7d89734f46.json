@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 214983,
+      "date": "2026-11-14T14:40:19.273Z",
+      "id": "6af872d3a24da820dbc621f4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_154018888.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af872c92e3e5f7d89734f46/attachments/6af872d3a24da820dbc621f4/download/image_2026-11-14_154018888.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T14:43:33.459Z",
+    "desc": "# Gives [https://trello.com/c/Ltv1xPwh/219-space-oddity](https://trello.com/c/Ltv1xPwh/219-space-oddity \"smartCard-inline\")(Need 45 Stands unlocked)\n\n# Located inside the [https://trello.com/c/GZGsvWOH/57-museum-of-oahu](https://trello.com/c/GZGsvWOH/57-museum-of-oahu \"smartCard-inline\") behind a staircase",
+    "id": "6af872c92e3e5f7d89734f46",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Major Tom",
+    "pos": 140737488584704,
+    "shortLink": "KdXmrobo",
+    "shortUrl": "https://trello.com/c/KdXmrobo",
+    "url": "https://trello.com/c/KdXmrobo/218-major-tom"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

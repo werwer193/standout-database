@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 379562,
+      "date": "2026-11-11T21:11:28.750Z",
+      "id": "6af4da0074c546eb03d80e4d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "thinker.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d489/attachments/6af4da0074c546eb03d80e4d/download/thinker.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:11:32.823Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d489",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Thinker",
+    "pos": 140737488732160,
+    "shortLink": "ANa0ptnD",
+    "shortUrl": "https://trello.com/c/ANa0ptnD",
+    "url": "https://trello.com/c/ANa0ptnD/596-thinker"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 180660,
+      "date": "2026-10-26T20:55:02.199Z",
+      "id": "6af25330efcf475a03388571",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_215501482.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3cf/attachments/6af25330efcf475a03388571/download/image_2026-10-26_215501482.png"
+    },
+    {
+      "bytes": 56876,
+      "date": "2026-10-26T20:55:44.001Z",
+      "id": "6af25330efcf475a03388578",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_215543646.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3cf/attachments/6af25330efcf475a03388578/download/image_2026-10-26_215543646.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:58.597Z",
+    "desc": "# **Purchaseable items:**\n\n[https://trello.com/c/76uctunM/120-mysterious-arrow](https://trello.com/c/76uctunM/120-mysterious-arrow \"smartCard-inline\") **(7 Tokens)**\n\n**4** [https://trello.com/c/2b4k3XR9/165-arrow-part](https://trello.com/c/2b4k3XR9/165-arrow-part \"smartCard-inline\")**(8 Tokens)**\n\n**4** [https://trello.com/c/erRcBHwW/248-steel-ingot](https://trello.com/c/erRcBHwW/248-steel-ingot \"smartCard-inline\") **(10 Tokens)**\n\n[https://trello.com/c/vHXvMkAt/558-lucky-arrow](https://trello.com/c/vHXvMkAt/558-lucky-arrow \"smartCard-inline\") **(17 Tokens)**\n\n[https://trello.com/c/hxJZDTQr/582-pescis-jacket](https://trello.com/c/hxJZDTQr/582-pescis-jacket \"smartCard-inline\") **(25 Tokens)**\n\n[https://trello.com/c/B72f5zxS/557-bizarre-arrow](https://trello.com/c/B72f5zxS/557-bizarre-arrow \"smartCard-inline\") **(33 Tokens)**\n\n[https://trello.com/c/nuJerLjd/723-mysterious-arrow-part-5](https://trello.com/c/nuJerLjd/723-mysterious-arrow-part-5 \"smartCard-inline\") **(40 Tokens)**\n\n[https://trello.com/c/YGb96GaD/382-stone-mask](https://trello.com/c/YGb96GaD/382-stone-mask \"smartCard-inline\") **(40 Tokens)**\n\n[https://trello.com/c/4CpREEmM/395-king-crimson-full](https://trello.com/c/4CpREEmM/395-king-crimson-full \"smartCard-inline\")  **Stand Chip (200 Tokens)**",
+    "id": "6af25326efcf475a0337d3cf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5b",
+    "labels": [],
+    "name": "Train Shop",
+    "pos": 140737488371712,
+    "shortLink": "UeLLY8B7",
+    "shortUrl": "https://trello.com/c/UeLLY8B7",
+    "url": "https://trello.com/c/UeLLY8B7/534-train-shop"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5b",
+    "name": "Raids/Bizarre Adventures",
+    "pos": 90112
+  }
+}

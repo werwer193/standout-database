@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 82412,
+      "date": "2026-09-29T12:40:59.120Z",
+      "id": "6af2532fefcf475a03387720",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d024/attachments/6af2532fefcf475a03387720/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.310Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0c2a7131ad6d5458d27/attachments/6abbb1dba8f1bc0542b03fef/previews/6abbb1dba8f1bc0542b03ff7/download/image.webp)",
+    "id": "6af25325efcf475a0337d024",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7fd",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fd",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Pineapple",
+    "pos": 140737488785408,
+    "shortLink": "2whH0O5H",
+    "shortUrl": "https://trello.com/c/2whH0O5H",
+    "url": "https://trello.com/c/2whH0O5H/221-pineapple"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

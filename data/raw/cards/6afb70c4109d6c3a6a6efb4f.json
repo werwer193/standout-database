@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 69709,
+      "date": "2026-11-16T21:08:30.992Z",
+      "id": "6afb70ce035a622356ce2999",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afb70c4109d6c3a6a6efb4f/attachments/6afb70ce035a622356ce2999/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T21:09:06.326Z",
+    "desc": "Fixed taking multiple hamon path quests at the same time\nFixed hustle infinite growing\nFixed BIG getting stuck hopefully\nZeppeli and Caesar hamon now infuse hamon into stands without breathing\nFixed hamon users cold gain being too fast\nVampire body snatch is more viable now\nReadded wall walking for pure vamps\nVampire cloak stays on unless you lose 25% HP, after that you have a 20 second window where it cant be knocked off after re-equip\nFixed buying and switching stand storage slots on console\nFixed people being able to take the driver seat while yo yo ma is driving the car\nU cant put gun wall mounts or other wall items over doorways anymore\nFixed an error spam after getting knocked into walls\nattempted to fix the 77 rings fling off wall bug?",
+    "id": "6afb70c4109d6c3a6a6efb4f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "11/16/2026 Bug fixes",
+    "pos": 140737487781888,
+    "shortLink": "pMGpG2vt",
+    "shortUrl": "https://trello.com/c/pMGpG2vt",
+    "url": "https://trello.com/c/pMGpG2vt/236-11-16-2026-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

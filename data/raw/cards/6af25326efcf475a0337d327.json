@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 575604,
+      "date": "2026-11-10T18:11:29.522Z",
+      "id": "6af35e512f716ac55758c57e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "zeppeli.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d327/attachments/6af35e512f716ac55758c57e/download/zeppeli.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T18:13:17.427Z",
+    "desc": "**Quest from** [https://trello.com/c/kUduhLaQ/468-lisa-lisa](https://trello.com/c/kUduhLaQ/468-lisa-lisa \"smartCard-inline\")\n\n**(NEED TO DO** [https://trello.com/c/IFeXDGts/469-hamon-training](https://trello.com/c/IFeXDGts/469-hamon-training \"smartCard-inline\") **FIRST.)**\n\n## Quest:\n\n**Take Lisa Lisa' lesson 0/1**\n\n**Cross the tightrope 0/1**\n\n**Defeat a VAMPIRE (bosses, NPCs, players all count) 0/1**\n\n**Plant a seed 0/1**\n\n**Harvest a grown plant 0/1**\n\n# Upon completion you get:\n\n[https://trello.com/c/8Q5nhYEr/472-zeppeli-hamon](https://trello.com/c/8Q5nhYEr/472-zeppeli-hamon \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d327",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Zeppeli Path",
+    "pos": 140737488365568,
+    "shortLink": "qEFLP9xm",
+    "shortUrl": "https://trello.com/c/qEFLP9xm",
+    "url": "https://trello.com/c/qEFLP9xm/478-zeppeli-path"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

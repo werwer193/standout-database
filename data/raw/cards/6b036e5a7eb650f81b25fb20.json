@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1116771,
+      "date": "2026-11-22T22:41:23.312Z",
+      "id": "6b036f936f2f5e6924640ac9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234122675.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036e5a7eb650f81b25fb20/attachments/6b036f936f2f5e6924640ac9/download/image_2026-11-22_234122675.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:41:25.428Z",
+    "desc": "",
+    "id": "6b036e5a7eb650f81b25fb20",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036dfec364e14a70b71e11",
+    "labels": [],
+    "name": "Passione",
+    "pos": 140737488371712,
+    "shortLink": "QcYTeBLl",
+    "shortUrl": "https://trello.com/c/QcYTeBLl",
+    "url": "https://trello.com/c/QcYTeBLl/270-passione"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036dfec364e14a70b71e11",
+    "name": "Gang Factions",
+    "pos": 123904
+  }
+}

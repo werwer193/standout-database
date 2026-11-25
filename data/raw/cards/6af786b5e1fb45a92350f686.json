@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 33785,
+      "date": "2026-11-13T21:52:57.908Z",
+      "id": "6af786b9e4dcc90f7527f7a6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-13_225257610.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af786b5e1fb45a92350f686/attachments/6af786b9e4dcc90f7527f7a6/download/image_2026-11-13_225257610.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T10:31:54.018Z",
+    "desc": "# 200 Robux",
+    "id": "6af786b5e1fb45a92350f686",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd52",
+    "labels": [],
+    "name": "Guitar",
+    "pos": 140737488354944,
+    "shortLink": "PTX6EFYl",
+    "shortUrl": "https://trello.com/c/PTX6EFYl",
+    "url": "https://trello.com/c/PTX6EFYl/215-guitar"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd52",
+    "name": "Robux Shop",
+    "pos": 139264
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 40385,
+      "date": "2026-11-14T23:27:17.251Z",
+      "id": "6af8ee5577009061a17fcaa4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-15_002716883.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af8ee3b062aa27881a78b19/attachments/6af8ee5577009061a17fcaa4/download/image_2026-11-15_002716883.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-14T23:27:57.231Z",
+    "desc": "`\nReworked KC blood throw\nAdded a new HUSTLE ex move\nAdded 2new TWAU moves\nVampire cloak added\nLowered seed price\n2 new CTR move\nnew MR move\nSilver Chariot Reworks\nPhotography Room and Gallery App\nLenny Mechanic Shop (to buy scrap and repair vehicles)\nNew Gang Base Room\nLife giving overdrive can now be used to heal and revive people as well\n\nfixed mobile buttons being small ( you can also change the size in settings to get them even bigger if u want)\nfixed some soft locks on stands\n\nfixed npc soft locks\nfixed some taxi stuff\nfixed charming man stuff?\nadded lyin eyes to cant roll in story pool (oops)\n\nAdded 2 more seats to darby\nyou can now access darby for stand storage even if all seats are taken\nDarby cheats 75% less now\n\nfixed some dialogue soft locks\nfixed rohan boooksehlf trap\nfixed some bugs with diamotec security\nmore charming man bug fixes\nfixes mattekudsai soft locK\nfixed vehicle blow up in water\nfixed mobile dash direction lock\nhopefully fixed jodio taking ur special rokas\nmade disable guis have no bind by default\n\nUpgraded Emote Menu QOL and Clarity\nYou can rotate during emotes now\nAdded \"mb all\" to clear combat tags\n\nfixed losing ur seed on seed quest\nfixed being able to use mobile walk in menu\nfixed iced tea\nfixed some random misc stand bugs\nfixed rewind + flashstep\nfixed cars being thrown inside of buildings maybe\n\nChanged default mobile layout\nFixed beyond the sea invis\nFixed npcs ignoring while driving\nFixed some floating npcs\nFixed party bugs (train raid, bounty claiming, etc)\n\nfixed lenny\nfixed strength getting on land\nfixed darby world boss cheese\n\nHustle EX barrage dmg nerfed by 35%",
+    "id": "6af8ee3b062aa27881a78b19",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "15/11/2026 (New Moves, Lenny, Reworks, Bug Fixes)",
+    "pos": 140737487814656,
+    "shortLink": "QeMhgCPH",
+    "shortUrl": "https://trello.com/c/QeMhgCPH",
+    "url": "https://trello.com/c/QeMhgCPH/224-15-11-2026-new-moves-lenny-reworks-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 262655,
+      "date": "2026-09-25T08:24:08.309Z",
+      "id": "6af2532fefcf475a033872e0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_102408541.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf34/attachments/6af2532fefcf475a033872e0/download/image_2026-09-25_102408541.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:06:31.813Z",
+    "desc": "# Located at [[https://trello.com/c/I4uc6jf8/65-big-chops-garden](https://trello.com/c/I4uc6jf8/65-big-chops-garden \"smartCard-inline\") ]\n\n# Used for mixing produce.",
+    "id": "6af25325efcf475a0337cf34",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      }
+    ],
+    "name": "Mixing",
+    "pos": 140737488330752,
+    "shortLink": "dotOtGwx",
+    "shortUrl": "https://trello.com/c/dotOtGwx",
+    "url": "https://trello.com/c/dotOtGwx/141-mixing"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

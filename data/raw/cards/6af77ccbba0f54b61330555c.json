@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T21:10:51.028Z",
+    "desc": "",
+    "id": "6af77ccbba0f54b61330555c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "sky_dark",
+        "id": "6af25326efcf475a0337d807",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 5",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d807",
+        "uses": 11
+      }
+    ],
+    "name": "Metallica",
+    "pos": 140737488318656,
+    "shortLink": "116ZRId8",
+    "shortUrl": "https://trello.com/c/116ZRId8",
+    "url": "https://trello.com/c/116ZRId8/213-metallica"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

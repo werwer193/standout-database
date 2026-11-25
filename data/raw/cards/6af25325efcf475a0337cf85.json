@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 210148,
+      "date": "2026-09-25T10:26:26.942Z",
+      "id": "6af2532fefcf475a03387484",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_122626736.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf85/attachments/6af2532fefcf475a03387484/download/image_2026-09-25_122626736.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:44:14.483Z",
+    "desc": "# Stand: [https://trello.com/c/B990gURj/10-glory-days](https://trello.com/c/B990gURj/10-glory-days \"‌\")",
+    "id": "6af25325efcf475a0337cf85",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Bobby Jean",
+    "pos": 140737488453632,
+    "shortLink": "ZxkgzRyP",
+    "shortUrl": "https://trello.com/c/ZxkgzRyP",
+    "url": "https://trello.com/c/ZxkgzRyP/168-bobby-jean"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

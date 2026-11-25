@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 296695,
+      "date": "2026-10-04T11:04:09.011Z",
+      "id": "6af2532fefcf475a03387af3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_130408556.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d12c/attachments/6af2532fefcf475a03387af3/download/image_2026-10-04_130408556.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:45:21.492Z",
+    "desc": "## Stand: [https://trello.com/c/wJ9sofSB/196-200-balloons](https://trello.com/c/wJ9sofSB/196-200-balloons \"smartCard-inline\")\n\n## Health: 280",
+    "id": "6af25325efcf475a0337d12c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      },
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d802",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d802",
+        "uses": 14
+      }
+    ],
+    "name": "Ningbo",
+    "pos": 140737488519168,
+    "shortLink": "6y52JPv6",
+    "shortUrl": "https://trello.com/c/6y52JPv6",
+    "url": "https://trello.com/c/6y52JPv6/309-ningbo"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

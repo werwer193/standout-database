@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 250743,
+      "date": "2026-11-01T18:00:02.569Z",
+      "id": "6af25330efcf475a03388801",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_190002194.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d594/attachments/6af25330efcf475a03388801/download/image_2026-11-01_190002194.png"
+    },
+    {
+      "bytes": 328408,
+      "date": "2026-11-02T20:08:17.639Z",
+      "id": "6af25330efcf475a03388808",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d594/attachments/6af25330efcf475a03388808/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:56:53.392Z",
+    "desc": "# Gives [https://trello.com/c/jVbTedrR/684-yo-yo-what-the-hell-ma](https://trello.com/c/jVbTedrR/684-yo-yo-what-the-hell-ma \"smartCard-inline\")\n\n# After finishing the quest for the first time, you get the option to spend your raid tokens through this NPC.\n\n# Every raid token you spend in this shop increases the coin reward you get from the quest by 1%.\n\n![image.webp](https://trello.com/1/cards/6ae77e14aa6531dba1fcddd0/attachments/6ae8edb190db5b829b5b607d/previews/6ae8edb290db5b829b5b6159/download/image.webp)\n\n# This NPCs location and name is randomized each time and it can only appear in sunny weather.",
+    "id": "6af25326efcf475a0337d594",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Lettuce Trader",
+    "pos": 140737488519168,
+    "shortLink": "rr16vmhB",
+    "shortUrl": "https://trello.com/c/rr16vmhB",
+    "url": "https://trello.com/c/rr16vmhB/685-lettuce-trader"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

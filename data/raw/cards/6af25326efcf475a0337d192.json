@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 21914,
+      "date": "2026-10-07T08:26:47.172Z",
+      "id": "6af2532fefcf475a03387c51",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-07_102647267.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d192/attachments/6af2532fefcf475a03387c51/download/image_2026-10-07_102647267.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.830Z",
+    "desc": "‌\n\n## 200 Balloons: Inflate's Slam variant creates 1 more balloon per 30 invested ability points, up to 5 extra. Total Balloons' EX meter drain is reduced by up to 1/3rd with ability investment\n\n## Beyond The Sea: Jellyfish Summon and Humu Summon lifespan scales\n\n## Cat Size: Ankle Snare's lifetime and trap duration scale with ability, up to 50% longer.\n\n## Catch The Rainbow: Motionless Rain creates 1 additional drop per arm for every 50 ability points invested.\n\n## Emperor: Hol Horse Philosophy time limit and Blind Shot bullet lifespan scale with ability, up to 50% longer. Emperor Pulemet's movement penalty scales with ability, removing up to 35% of the movement penalty.\n\n## Glory Days: Mag size scales with ability, increasing by 1 for every 30 points.\n\n## Harvest: Search Party's scouting interval scales and maximum finds scale with ability, up to 50% faster intervals and +3 max finds. All harvest poison damage scales with ability, dealing up to 50% more per tick.\n\n## Heaven's Door: Written Command's special effects from \"Forget Motion\" \"Forget Me\" and \"Lower Your Guard\" have their duration scale with ability, up to 50% longer. Safety Lock scales with ability, preventing up to 3 additional attacks.\n\n## Hermit Purple: Hermit's Sling search and travel range scales with ability, up to 50% further.\n\n## John Rod: Blind the Heavens' charge speed scales with ability, charging up to 33% faster\n\n## Magician's Red: Crossfire Hurricane's projectile range scales with ability, up to 50% further. With Life Detector, the homing detection range, homing duration, and homing turn speed scale with ability, up to 50% longer/faster. Life Detector's radius and lifespan scales with ability, up to 50% larger radius/longer lifespan.\n\n## Rolling Stones: Super Glue's healing and duration scale with ability, up to 50%. Rolling Stones begins moving sooner scaling with ability, up to 33% sooner. Rolling Stones' \"Within Death's Reach\" triggers earlier scaling with ability, from 10 seconds to a max of 15 seconds.\n\n## Smoke On The Water: Boil duration and Pressure Cooker duration scales off ability, up to 50% longer. Puddle size from Super Soaker and Hot Potato scales off ability, up to 50% wider/deeper puddles. Heat self damage scales off ability, up to 1/3rd less self damage.\n\n## Smooth Operators: All special effects from the EX moves have their duration scale with ability, up to 50% longer.\n\n## Super Fly: Damage Redirection's max damage stored scales with ability, from 120 up to a max of 180.\n\n## The Grateful Dead: Withering Mist range and aging stacks per tick scales with ability, up to 50% larger range and stacks applied per tick. Senior Citizen EX meter gain and age stacks scale off ability, up to 50% more meter gain and 33% less aging stacks. Ice Pack duration and unclaimed ice lifespan scale off ability, up to 50% longer.\n\n## The Sun: The Sun's model size scales with ability, capped at twice its normal size.\n\n## Tower of Gray: Acid Spit fires an additional glob per 30 points in ability, up to 5 extra.\n\n## Tubular Bells: Inflate Balloons' balloon slots increase by 1 per 30 points in ability. Pick Up Scent duration, Balloon Flower duration, and Balloon Parade duration scale off ability, up to 50%\n\n## Under World: Burrow and Unearth's Warrior lifespan scale with ability, up to 50% longer. Unearth and Prop Memory's wind ups shorten by up to 1/3rd. Every 30 ability points invested adds an additional Tora side bomb to Tora! Tora! Tora!\n\n## Walking Heart: Highest Heels duration scales with ability, from 10 seconds up to a max of 15 seconds. Heel length and other moves remain their fixed values.\n\n## West End Girl: Money Case lifespan and Gap Traverse range scale with ability, up to 50% longer.",
+    "id": "6af25326efcf475a0337d192",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Ability Scaling",
+    "pos": 140737488375872,
+    "shortLink": "BPMoAGWe",
+    "shortUrl": "https://trello.com/c/BPMoAGWe",
+    "url": "https://trello.com/c/BPMoAGWe/343-ability-scaling"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

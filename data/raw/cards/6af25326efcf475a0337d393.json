@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 23596,
+      "date": "2026-10-26T20:19:18.709Z",
+      "id": "6af25330efcf475a033884dd",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_211918279.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d393/attachments/6af25330efcf475a033884dd/download/image_2026-10-26_211918279.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:59.009Z",
+    "desc": "**It’s too hot out. Someone left a tea stand set up with everything you need. Make four glasses of iced tea and drink them.**\n\n**Requirements:**\n\n**No level requirement**\n\n**Time limit: 10:00**",
+    "id": "6af25326efcf475a0337d393",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "Four Iced Teas",
+    "pos": 140737488535552,
+    "shortLink": "KRtoD86L",
+    "shortUrl": "https://trello.com/c/KRtoD86L",
+    "url": "https://trello.com/c/KRtoD86L/514-four-iced-teas"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

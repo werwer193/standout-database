@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 67854,
+      "date": "2026-11-11T22:57:31.171Z",
+      "id": "6af4f2db2990171a449bf3f3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_235730751.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af4f28f5c3387c00786a9bf/attachments/6af4f2db2990171a449bf3f3/download/image_2026-11-11_235730751.png"
+    },
+    {
+      "bytes": 104158,
+      "date": "2026-11-13T17:33:28.603Z",
+      "id": "6af749e84c0ff21d5cea088f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-13_183328254.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af4f28f5c3387c00786a9bf/attachments/6af749e84c0ff21d5cea088f/download/image_2026-11-13_183328254.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T17:33:29.033Z",
+    "desc": "",
+    "id": "6af4f28f5c3387c00786a9bf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Alt 2",
+    "pos": 140737488912384,
+    "shortLink": "is4s6GWL",
+    "shortUrl": "https://trello.com/c/is4s6GWL",
+    "url": "https://trello.com/c/is4s6GWL/56-alt-2"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

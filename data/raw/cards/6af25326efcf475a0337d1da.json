@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 180713,
+      "date": "2026-10-11T08:00:01.388Z",
+      "id": "6af25330efcf475a03387df8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1da/attachments/6af25330efcf475a03387df8/download/image.png"
+    },
+    {
+      "bytes": 34824,
+      "date": "2026-10-11T08:00:09.512Z",
+      "id": "6af25330efcf475a03387dff",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_100010111.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1da/attachments/6af25330efcf475a03387dff/download/image_2026-10-11_100010111.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.139Z",
+    "desc": "# Removes your Stand, chances scale with the grade of the Roka.\n\n![image.webp](https://trello.com/1/cards/6acb413e9c6233c0042e9fbe/attachments/6acb4201a93b0f82513c1ea5/previews/6acb4201a93b0f82513c1f74/download/image.webp)",
+    "id": "6af25326efcf475a0337d1da",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd57",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      }
+    ],
+    "name": "Emerald Roka",
+    "pos": 140737488355328,
+    "shortLink": "kDkrTblC",
+    "shortUrl": "https://trello.com/c/kDkrTblC",
+    "url": "https://trello.com/c/kDkrTblC/367-emerald-roka"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd57",
+    "name": "Rokaka Mutations",
+    "pos": 44032
+  }
+}

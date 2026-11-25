@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 11253,
+      "date": "2026-10-13T09:10:43.815Z",
+      "id": "6af25330efcf475a0338820a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_111044083.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d303/attachments/6af25330efcf475a0338820a/download/image_2026-10-13_111044083.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.462Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d303",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "12/10/2026 (Star Platinum: The World)",
+    "pos": 140737488158720,
+    "shortLink": "h8xTYooL",
+    "shortUrl": "https://trello.com/c/h8xTYooL",
+    "url": "https://trello.com/c/h8xTYooL/466-12-10-2026-star-platinum-the-world"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

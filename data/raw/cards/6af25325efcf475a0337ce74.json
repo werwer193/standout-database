@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 811532,
+      "date": "2026-09-25T09:03:37.373Z",
+      "id": "6af2532fefcf475a0338700a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_110337204.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce74/attachments/6af2532fefcf475a0338700a/download/image_2026-09-25_110337204.png"
+    },
+    {
+      "bytes": 339622,
+      "date": "2026-09-26T17:40:10.485Z",
+      "id": "6af2532fefcf475a03387011",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_194010056.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce74/attachments/6af2532fefcf475a03387011/download/image_2026-09-26_194010056.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:06:17.994Z",
+    "desc": "# Located at [[https://trello.com/c/I4uc6jf8/65-big-chops-garden](https://trello.com/c/I4uc6jf8/65-big-chops-garden \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce74",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      }
+    ],
+    "name": "Gardening",
+    "pos": 140737488322560,
+    "shortLink": "WvDY3dH4",
+    "shortUrl": "https://trello.com/c/WvDY3dH4",
+    "url": "https://trello.com/c/WvDY3dH4/77-gardening"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

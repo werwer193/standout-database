@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:10:59.185Z",
+    "desc": "",
+    "id": "6af4f5e60099ce9fcb021cab",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "Smooth Operators",
+    "pos": 140737489747968,
+    "shortLink": "72zOe8iy",
+    "shortUrl": "https://trello.com/c/72zOe8iy",
+    "url": "https://trello.com/c/72zOe8iy/109-smooth-operators"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

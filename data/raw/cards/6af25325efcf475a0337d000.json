@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 86902,
+      "date": "2026-09-29T12:34:39.583Z",
+      "id": "6af2532fefcf475a033876b7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-29_143438858.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d000/attachments/6af2532fefcf475a033876b7/download/image_2026-09-29_143438858.png"
+    },
+    {
+      "bytes": 103635,
+      "date": "2026-09-29T12:34:41.037Z",
+      "id": "6af2532fefcf475a033876be",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d000/attachments/6af2532fefcf475a033876be/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:06:05.599Z",
+    "desc": "# Purchaseable from [https://trello.com/c/67A6ovLH/78-big-chop](https://trello.com/c/67A6ovLH/78-big-chop \"smartCard-inline\")\n\n## Drops from trees\n\n![image.webp](https://trello.com/1/cards/6abbb05afb174f3faec2e638/attachments/6abbb06199962a9dcb9e5d6e/previews/6abbb06199962a9dcb9e5db8/download/image.webp)",
+    "id": "6af25325efcf475a0337d000",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Wood",
+    "pos": 140737488437248,
+    "shortLink": "6HecTqnz",
+    "shortUrl": "https://trello.com/c/6HecTqnz",
+    "url": "https://trello.com/c/6HecTqnz/209-wood"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

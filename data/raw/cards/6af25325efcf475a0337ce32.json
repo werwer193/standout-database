@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 1256751,
+      "date": "2026-09-24T21:31:22.623Z",
+      "id": "6af2532fefcf475a03386f57",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image-41.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce32/attachments/6af2532fefcf475a03386f57/download/image-41.png"
+    },
+    {
+      "bytes": 996731,
+      "date": "2026-09-25T08:08:45.426Z",
+      "id": "6af2532fefcf475a03386f5f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_100845569.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce32/attachments/6af2532fefcf475a03386f5f/download/image_2026-09-25_100845569.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:41:58.998Z",
+    "desc": "# **\"Keep your story straight. They're taking notes.\"**\n\n**Contains:**\n\n- [https://trello.com/c/BqNH1GTb/76-petyr](https://trello.com/c/BqNH1GTb/76-petyr \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337ce32",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Police Station",
+    "pos": 140737488404480,
+    "shortLink": "t6n4WuUm",
+    "shortUrl": "https://trello.com/c/t6n4WuUm",
+    "url": "https://trello.com/c/t6n4WuUm/55-police-station"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

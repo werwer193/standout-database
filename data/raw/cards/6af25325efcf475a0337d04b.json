@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 70822,
+      "date": "2026-09-29T12:48:02.404Z",
+      "id": "6af2532fefcf475a03387790",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d04b/attachments/6af2532fefcf475a03387790/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:54.526Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb380334c5bb52d04278b/attachments/6abbb382ac9534752444733b/previews/6abbb382ac9534752444739c/download/image.webp)",
+    "id": "6af25325efcf475a0337d04b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      }
+    ],
+    "name": "Soda",
+    "pos": 140737488475648,
+    "shortLink": "ZluVoLEL",
+    "shortUrl": "https://trello.com/c/ZluVoLEL",
+    "url": "https://trello.com/c/ZluVoLEL/234-soda"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

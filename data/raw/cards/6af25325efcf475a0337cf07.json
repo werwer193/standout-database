@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 2097,
+      "date": "2026-09-25T07:58:51.819Z",
+      "id": "6af2532fefcf475a03387205",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_095852387.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf07/attachments/6af2532fefcf475a03387205/download/image_2026-09-25_095852387.png"
+    },
+    {
+      "bytes": 17969,
+      "date": "2026-10-13T10:46:37.724Z",
+      "id": "6af2532fefcf475a0338720c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_124637528.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf07/attachments/6af2532fefcf475a0338720c/download/image_2026-10-13_124637528.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.082Z",
+    "desc": "**The city needs cleaned up, you wanna help?**\n\n**Time Limit: 12 Minutes**",
+    "id": "6af25325efcf475a0337cf07",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "Dispose of the Vampires",
+    "pos": 140737488355328,
+    "shortLink": "fDSfA1oM",
+    "shortUrl": "https://trello.com/c/fDSfA1oM",
+    "url": "https://trello.com/c/fDSfA1oM/126-dispose-of-the-vampires"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

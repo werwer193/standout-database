@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 6324,
+      "date": "2026-11-22T22:42:50.201Z",
+      "id": "6b036fea778dbf95c1e43263",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234249641.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036fde9f48b7a741eb3271/attachments/6b036fea778dbf95c1e43263/download/image_2026-11-22_234249641.png"
+    },
+    {
+      "bytes": 1510,
+      "date": "2026-11-22T22:43:12.793Z",
+      "id": "6b037000e5cfb5b396dc53f4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234312245.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b036fde9f48b7a741eb3271/attachments/6b037000e5cfb5b396dc53f4/download/image_2026-11-22_234312245.png"
+    },
+    {
+      "bytes": 99552,
+      "date": "2026-11-22T22:44:11.007Z",
+      "id": "6b03703b1bb0e188c6757c1f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6b036fde9f48b7a741eb3271/attachments/6b03703b1bb0e188c6757c1f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:44:13.781Z",
+    "desc": "# You are able to paint your car:\n\n![image.webp](https://trello.com/1/cards/6b036fde9f48b7a741eb3271/attachments/6b03703b1bb0e188c6757c1f/previews/6b03703b1bb0e188c6757c37/download/image.webp)",
+    "id": "6b036fde9f48b7a741eb3271",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036efc0081088c72c4e86e",
+    "labels": [],
+    "name": "Paint",
+    "pos": 140737488371712,
+    "shortLink": "Oonfa3o7",
+    "shortUrl": "https://trello.com/c/Oonfa3o7",
+    "url": "https://trello.com/c/Oonfa3o7/275-paint"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036efc0081088c72c4e86e",
+    "name": "Car Tuning System",
+    "pos": 131584
+  }
+}

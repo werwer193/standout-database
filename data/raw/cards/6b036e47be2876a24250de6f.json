@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1382534,
+      "date": "2026-11-22T22:35:55.962Z",
+      "id": "6b036e4b34566807af316c00",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_233555279.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036e47be2876a24250de6f/attachments/6b036e4b34566807af316c00/download/image_2026-11-22_233555279.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:36:07.846Z",
+    "desc": "",
+    "id": "6b036e47be2876a24250de6f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036dfec364e14a70b71e11",
+    "labels": [],
+    "name": "Vampire",
+    "pos": 140737488355328,
+    "shortLink": "MzGiFRwW",
+    "shortUrl": "https://trello.com/c/MzGiFRwW",
+    "url": "https://trello.com/c/MzGiFRwW/269-vampire"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036dfec364e14a70b71e11",
+    "name": "Gang Factions",
+    "pos": 123904
+  }
+}

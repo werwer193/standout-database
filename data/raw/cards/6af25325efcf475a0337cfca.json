@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 384856,
+      "date": "2026-09-27T01:34:46.546Z",
+      "id": "6af2532fefcf475a0338757c",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "trashcan.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfca/attachments/6af2532fefcf475a0338757c/download/trashcan.gif"
+    },
+    {
+      "bytes": 498608,
+      "date": "2026-10-18T09:27:21.558Z",
+      "id": "6af2532fefcf475a03387582",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "trash.gif",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfca/attachments/6af2532fefcf475a03387582/download/trash.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:10:38.773Z",
+    "desc": "# Regular throwable, Can hide inside if using [https://trello.com/c/1Jom7GtC/6-the-sun](https://trello.com/c/1Jom7GtC/6-the-sun \"smartCard-inline\") .\n\n![trashcan.gif](https://trello.com/1/cards/6ab8704b17ba1ddb503068bb/attachments/6ab872b68871dda7536904ec/previews/6ab872b88871dda7536905cb/download/trashcan.gif)",
+    "id": "6af25325efcf475a0337cfca",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [
+      {
+        "color": "red_dark",
+        "id": "6af25326efcf475a0337d809",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d809",
+        "uses": 9
+      },
+      {
+        "color": "green_light",
+        "id": "6af25326efcf475a0337d805",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d805",
+        "uses": 11
+      }
+    ],
+    "name": "Trash Cans",
+    "pos": 140737488371456,
+    "shortLink": "xnfT0PvD",
+    "shortUrl": "https://trello.com/c/xnfT0PvD",
+    "url": "https://trello.com/c/xnfT0PvD/191-trash-cans"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

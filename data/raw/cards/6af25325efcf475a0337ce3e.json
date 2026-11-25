@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 986782,
+      "date": "2026-09-25T08:15:52.085Z",
+      "id": "6af2532fefcf475a03386f82",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101552069.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce3e/attachments/6af2532fefcf475a03386f82/download/image_2026-09-25_101552069.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:51.927Z",
+    "desc": "# \"Are they just sick? Or is it a enemy stand user...\"",
+    "id": "6af25325efcf475a0337ce3e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Hospital",
+    "pos": 140737488470016,
+    "shortLink": "JPlVY759",
+    "shortUrl": "https://trello.com/c/JPlVY759",
+    "url": "https://trello.com/c/JPlVY759/59-hospital"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

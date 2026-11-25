@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 301564,
+      "date": "2026-11-11T21:26:03.884Z",
+      "id": "6af4dd6b8c63075cac2fb4b6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "facepalm.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4b3/attachments/6af4dd6b8c63075cac2fb4b6/download/facepalm.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:26:06.880Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4b3",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Face Palm",
+    "pos": 140737488961536,
+    "shortLink": "SXZK4vyu",
+    "shortUrl": "https://trello.com/c/SXZK4vyu",
+    "url": "https://trello.com/c/SXZK4vyu/610-face-palm"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

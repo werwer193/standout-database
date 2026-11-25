@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 144412,
+      "date": "2026-11-15T19:59:08.633Z",
+      "id": "6afa0f0ccdd2f9a340a36577",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-15_205908142.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afa0ecaa7d644b9ae3e14ca/attachments/6afa0f0ccdd2f9a340a36577/download/image_2026-11-15_205908142.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-15T19:59:10.304Z",
+    "desc": "FIXES/IMPROVEMENTS\nYou now get half the rewards if you defeat the person who has a elimination target on you\nFixed gang raid job\nFixed gang base doors not opening in TS\nAdded 5min cd to invasions\nYou can re-obtain hamon mask now\nIncreased getting seed back (per harvested fruit) by 5%\nTutorial/noob protection is now turned on until level 10 (can be turned off in settings early)\nLowered invasion token gain, raised invasion EXP gain\nFixed november rain invis bug\nattempted another fix on pocket projectiles\nFixed dio boss getting stuck in road roller and becoming immortal after a mandom rewind\nFixed boats randomly stopping for 2 seconds\nFixed the car falling out of bounds when seats swap in the highway star raid\nFixed blood and nutrient bars overlapping\nFixed written command and page rip not working after book transmutation\nFixed the last of the lava rock not completing on the last step\nFixed gang gardens not letting u plant\nFixed pistol shots getting dropped when holding m1\nRemoved raid npcs having Yo Yo Ma (too op pls nerf)\nOrganized settings gui\nMade BIG see better at night\nHopefully fixed BDTH train raid cheese\nFixed bmsa pilot in ts\nFixed 10 hour shutdown rekicking poeople\nFixed mobile garden buttons perma shaking\nReduced NPC gun stun by 15%\nHopefully fixed another yacht soft lock\nIncreased the evasive cd on EVERY boss by 6 seconds\nKilling a raid boss now full heals you\nInvaders now get targeted properly by raid bosses\nFixed beach boy wall bug\nFixed crops bought with code money not sellable\nThe hustle EX beatdown should move properly now\nMade elimination targets be  +/- 5 levels if YOU are below lvl 35, above 35 its - 7 to +10 levels\nFixed being hittable in rage finisher\nMobile blocking is now a toggle\nMobile can now swipe and m1 easier (hopefully)\n\nAdded a block input setting, set it to toggle and one tap blocks and the next tap unblocks\nMobile players can now swipe the camera while pressing light or heavy\nTop 3 raid players now get a Heavens Door Prime chip at the weekly reset\nRaids no longer go on CD if you lose\n\nOPTIMIZATION\nAdded a new setting called map clutter, by default on, turning off removes small details around the map (ground pebbles, tires, boxes, etc)\nLeaves are no longer collidable (helps performance)\nCulled some lights across the game\n\nCOMBAT CHANGES\n\nM1s generally improved (reanimated and adjusted)\nThe wait after the last M1 of a string is 0.85 s on a miss or block and 0.7 s on a hit (was 1 s)\nEvery regular M1 link leaves the target stunned 0.16 s past the next hit, at any attack speed. This mostly changes Big Mouth, Zombie, Notorious B.I.G, Catch The Rainbow and slowed attackers, Pluck keeps its own longer stun\nDash cooldown is 1.2s for everyone, counted from the moment you dash (was about 1.7s before)\nFixed pressing dash and M1 together killing the dash’s speed\nFixed your stand falling behind you when you M1 out of a dash\nM2 speed re-adjusted and stabilized across the whole game\nStand M1 hitboxes are 5% wider and reach slightly behind the stand (people keep missing their m1s)\nThe parry window is 0.12s (was 0.1)\nA parry now adds 0.2s of endlag to the attacker\nLong barrages are shorter, with damage per hit raised so a full barrage deals the same total\nFrozen rain dagger M1s fixed, were horribly miss-timed and the multi-hit didn't work\nFixed an issue where M2s were sharing the M1 combo cooldown window, so now you can do your M1 combo and M2 immediately afterwards.\nNerfed path of violence damage\nMade it so there is now a slight amount of endlag on m1s if they are blocked\n\nBALANCE CHANGES\n\nKC\nDecree damage +20%\nDecree -2 seconds cooldown\nChop base damage +3, damage scaling increased by 15% (it was 80-20 strength ability before, now its 95 strength 20 ability, so beyond 100, its not 15% more than before)\nblood blind was gfiven strength scaling (it was missing it, so it was never getting stronger with strength)\n\nTHE HUSTLE\nBrutal beatdown costs 2 EX, damage reduced by 20%, and in general the strength scaling lowered\n\nTHROWABLES\ncar throwable damage reduced by 40%\n\nBIG MOUTH\nBig mouth barrage damage reduced by 20%, +2 seconds of cooldown\nGo for the throat damage reduced by -6 straight up\nEx shank endlag slightly increased, knockback increased by 50% so it's harder to extend off of it\nM1 and M2 speed nerfed by 10%\n\nVAMPIRE\n\nFixed vampires not regenerating health at all without blood\nBlood now scales with ability, so you can store up to 250 with max ability\nIncreased vampire laser range by 10%\n\nNEW CODE SORRY4SHUTDOWN",
+    "id": "6afa0ecaa7d644b9ae3e14ca",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "15/11/2026 (Bug Fixes, General Changes)",
+    "pos": 140737487798272,
+    "shortLink": "A6IebLfQ",
+    "shortUrl": "https://trello.com/c/A6IebLfQ",
+    "url": "https://trello.com/c/A6IebLfQ/232-15-11-2026-bug-fixes-general-changes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

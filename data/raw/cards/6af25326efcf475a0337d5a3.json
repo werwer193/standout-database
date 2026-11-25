@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23955,
+      "date": "2026-11-01T18:30:50.044Z",
+      "id": "6af25330efcf475a03388827",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193049646.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d5a3/attachments/6af25330efcf475a03388827/download/image_2026-11-01_193049646.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:20:10.192Z",
+    "desc": "# **Obtained from:** [https://trello.com/c/jVbTedrR/684-yo-yo-what-the-hell-ma](https://trello.com/c/jVbTedrR/684-yo-yo-what-the-hell-ma \"smartCard-inline\") **(Exclusive to the tenth clear)**\n\n# **When equipped gives you:**\n\n**-6 Ability**\n\n**-15 Strength**\n\n**-5 Health**\n\n**+15% Crop sale price**\n\n**+2% Delivery pay per gardening level**\n\n**+5% Seed discount**\n\n**Marked (Makes you appear more often on**[https://trello.com/c/La2NZMWQ/329-eliminations](https://trello.com/c/La2NZMWQ/329-eliminations \"smartCard-inline\") **)**\n\n**Stubborn straps (Doesn’t let you unequip the accessory until you complete 3** [https://trello.com/c/hBYpalv8/512-texts-garden-deliveries](https://trello.com/c/hBYpalv8/512-texts-garden-deliveries \"smartCard-inline\") **)**",
+    "id": "6af25326efcf475a0337d5a3",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Treasure of the Lettuce Dealer",
+    "pos": 140737489190912,
+    "shortLink": "XwZmbZgv",
+    "shortUrl": "https://trello.com/c/XwZmbZgv",
+    "url": "https://trello.com/c/XwZmbZgv/690-treasure-of-the-lettuce-dealer"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

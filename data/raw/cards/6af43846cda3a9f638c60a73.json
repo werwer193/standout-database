@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 292570,
+      "date": "2026-11-11T10:26:37.350Z",
+      "id": "6af442dd18c19b249bde4108",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_112636293.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af43846cda3a9f638c60a73/attachments/6af442dd18c19b249bde4108/download/image_2026-11-11_112636293.png"
+    },
+    {
+      "bytes": 361494,
+      "date": "2026-11-16T10:47:46.307Z",
+      "id": "6afadf52883da5286c5f5067",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-16_114746022.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af43846cda3a9f638c60a73/attachments/6afadf52883da5286c5f5067/download/image_2026-11-16_114746022.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T10:47:46.779Z",
+    "desc": "# Gives [https://trello.com/c/tTy3xVvl/5-clean-business](https://trello.com/c/tTy3xVvl/5-clean-business \"smartCard-inline\")\n\n# Located near the [https://trello.com/c/HtkEikLW/58-docks](https://trello.com/c/HtkEikLW/58-docks \"smartCard-inline\")",
+    "id": "6af43846cda3a9f638c60a73",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Sketchy Man",
+    "pos": 140737488568320,
+    "shortLink": "F8kWEMOc",
+    "shortUrl": "https://trello.com/c/F8kWEMOc",
+    "url": "https://trello.com/c/F8kWEMOc/8-sketchy-man"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

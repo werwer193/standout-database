@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 22931,
+      "date": "2026-11-11T10:38:15.029Z",
+      "id": "6af44597319699d1cce518ee",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_113814006.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af4458049743d59c1d4a78a/attachments/6af44597319699d1cce518ee/download/image_2026-11-11_113814006.png"
+    },
+    {
+      "bytes": 25393,
+      "date": "2026-11-16T10:47:23.444Z",
+      "id": "6afadf3bba21483c8ac797c5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-16_114723076.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af4458049743d59c1d4a78a/attachments/6afadf3bba21483c8ac797c5/download/image_2026-11-16_114723076.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T10:47:23.848Z",
+    "desc": "# Obtainable from: [https://trello.com/c/tTy3xVvl/5-sketchy-guy](https://trello.com/c/tTy3xVvl/5-sketchy-guy \"smartCard-inline\")\n\n# **When equipped gives you:**\n\n**+10 Strength**\n\n**+5 Health**\n\n**+10% Fire Resistance**",
+    "id": "6af4458049743d59c1d4a78a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "This Coat is on Fire",
+    "pos": 140737489256448,
+    "shortLink": "vtDmX3XW",
+    "shortUrl": "https://trello.com/c/vtDmX3XW",
+    "url": "https://trello.com/c/vtDmX3XW/11-this-coat-is-on-fire"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

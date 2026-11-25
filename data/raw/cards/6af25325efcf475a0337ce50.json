@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 811532,
+      "date": "2026-09-25T08:12:42.106Z",
+      "id": "6af2532fefcf475a03386fb3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101242301.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce50/attachments/6af2532fefcf475a03386fb3/download/image_2026-09-25_101242301.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:42:24.983Z",
+    "desc": "# \"Bro doesn't even have a house...\"\n\n# [https://trello.com/c/WvDY3dH4/77-gardening](https://trello.com/c/WvDY3dH4/77-gardening \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337ce50",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Big Chop's Garden",
+    "pos": 140737488584704,
+    "shortLink": "I4uc6jf8",
+    "shortUrl": "https://trello.com/c/I4uc6jf8",
+    "url": "https://trello.com/c/I4uc6jf8/65-big-chops-garden"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

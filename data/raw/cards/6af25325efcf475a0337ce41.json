@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 599953,
+      "date": "2026-09-25T08:16:20.825Z",
+      "id": "6af2532fefcf475a03386f8a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101621135.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce41/attachments/6af2532fefcf475a03386f8a/download/image_2026-09-25_101621135.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.213Z",
+    "desc": "# \"Nefarious things happen here...\"",
+    "id": "6af25325efcf475a0337ce41",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "McKinley Highschool",
+    "pos": 140737488486400,
+    "shortLink": "DrboiAuj",
+    "shortUrl": "https://trello.com/c/DrboiAuj",
+    "url": "https://trello.com/c/DrboiAuj/60-mckinley-highschool"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

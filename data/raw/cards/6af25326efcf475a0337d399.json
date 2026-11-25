@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 17036,
+      "date": "2026-10-26T20:24:49.975Z",
+      "id": "6af25330efcf475a033884e9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_212449433.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d399/attachments/6af25330efcf475a033884e9/download/image_2026-10-26_212449433.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:35:36.149Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n**+1 Damage**\n**+3 Health**\n\n# If equipped with [https://trello.com/c/qbO5cN9t/515-darbys-jacket](https://trello.com/c/qbO5cN9t/515-darbys-jacket \"smartCard-inline\")    you get +10% Money earned.\n\n# Obtained from [https://trello.com/c/HAvHAOyc/523-darbys-rematch](https://trello.com/c/HAvHAOyc/523-darbys-rematch \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d399",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "D'Arby's Pants",
+    "pos": 140737489108992,
+    "shortLink": "AAMGidRz",
+    "shortUrl": "https://trello.com/c/AAMGidRz",
+    "url": "https://trello.com/c/AAMGidRz/516-darbys-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

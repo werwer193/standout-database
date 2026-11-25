@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1550742,
+      "date": "2026-11-11T21:41:15.395Z",
+      "id": "6af4e0fb771b15360d55a23e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "spec.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4ec/attachments/6af4e0fb771b15360d55a23e/download/spec.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:41:25.033Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4ec",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Specialist",
+    "pos": 140737489272832,
+    "shortLink": "aKZii048",
+    "shortUrl": "https://trello.com/c/aKZii048",
+    "url": "https://trello.com/c/aKZii048/629-specialist"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

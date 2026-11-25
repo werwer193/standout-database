@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 11203,
+      "date": "2026-11-18T19:44:48.908Z",
+      "id": "6afe003012f5c483d5070a27",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-18_204448585.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afe00280f7444f5894e2aba/attachments/6afe003012f5c483d5070a27/download/image_2026-11-18_204448585.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:45:30.154Z",
+    "desc": "# Obtained by reaching INKED in the [https://trello.com/c/av7EpcDk/240-catalog](https://trello.com/c/av7EpcDk/240-catalog \"smartCard-inline\") tab.\n\n# **When equipped gives you:**\n\n**+5 Ability**\n\n**+2 Strength**\n\n**+4 Health**\n\n**+3% Guard**",
+    "id": "6afe00280f7444f5894e2aba",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [],
+    "name": "Heaven's Door Hat",
+    "pos": 140737488924672,
+    "shortLink": "jWKC5Tjp",
+    "shortUrl": "https://trello.com/c/jWKC5Tjp",
+    "url": "https://trello.com/c/jWKC5Tjp/259-heavens-door-hat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

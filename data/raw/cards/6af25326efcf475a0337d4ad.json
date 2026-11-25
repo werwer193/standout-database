@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 334878,
+      "date": "2026-11-11T21:23:42.377Z",
+      "id": "6af4dcdef42d8736aadc0025",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "fall.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4ad/attachments/6af4dcdef42d8736aadc0025/download/fall.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:23:45.406Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4ad",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Collapse",
+    "pos": 140737488928768,
+    "shortLink": "2yRjB3ja",
+    "shortUrl": "https://trello.com/c/2yRjB3ja",
+    "url": "https://trello.com/c/2yRjB3ja/608-collapse"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

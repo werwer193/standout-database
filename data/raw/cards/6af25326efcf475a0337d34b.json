@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 314367,
+      "date": "2026-10-18T09:40:04.176Z",
+      "id": "6af25330efcf475a0338831d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-18_114003673.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d34b/attachments/6af25330efcf475a0338831d/download/image_2026-10-18_114003673.png"
+    },
+    {
+      "bytes": 280573,
+      "date": "2026-10-26T20:40:55.252Z",
+      "id": "6af25330efcf475a03388324",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_214054815.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d34b/attachments/6af25330efcf475a03388324/download/image_2026-10-26_214054815.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:46:04.053Z",
+    "desc": "# Spawns on [https://trello.com/c/eZMlQSyN/53-the-shore](https://trello.com/c/eZMlQSyN/53-the-shore \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d34b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Seal",
+    "pos": 140737488601088,
+    "shortLink": "GplXKF4q",
+    "shortUrl": "https://trello.com/c/GplXKF4q",
+    "url": "https://trello.com/c/GplXKF4q/490-seal"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1205900,
+      "date": "2026-11-11T21:10:37.421Z",
+      "id": "6af4d9cd087de9f2331f80ee",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "mewing.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d486/attachments/6af4d9cd087de9f2331f80ee/download/mewing.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:10:43.546Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d486",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Mewing Streak",
+    "pos": 140737488715776,
+    "shortLink": "vbhMoWyO",
+    "shortUrl": "https://trello.com/c/vbhMoWyO",
+    "url": "https://trello.com/c/vbhMoWyO/595-mewing-streak"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

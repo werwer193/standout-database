@@ -1,0 +1,87 @@
+{
+  "attachments": [
+    {
+      "bytes": 2096,
+      "date": "2026-11-22T22:43:31.330Z",
+      "id": "6b0370137065c9589c8b212b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-22_234330829.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370137065c9589c8b212b/download/image_2026-11-22_234330829.png"
+    },
+    {
+      "bytes": 5335,
+      "date": "2026-11-22T22:47:06.339Z",
+      "id": "6b0370ead96d8c1379eeee3b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370ead96d8c1379eeee3b/download/image.png"
+    },
+    {
+      "bytes": 5492,
+      "date": "2026-11-22T22:47:12.641Z",
+      "id": "6b0370f08852cbcca73e43f5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370f08852cbcca73e43f5/download/image.png"
+    },
+    {
+      "bytes": 5834,
+      "date": "2026-11-22T22:47:17.995Z",
+      "id": "6b0370f5c51b2e369419370d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370f5c51b2e369419370d/download/image.png"
+    },
+    {
+      "bytes": 26840,
+      "date": "2026-11-22T22:47:33.309Z",
+      "id": "6b0371057715ea97e67d7a16",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0371057715ea97e67d7a16/download/image.png"
+    },
+    {
+      "bytes": 402291,
+      "date": "2026-11-22T22:47:40.611Z",
+      "id": "6b03710c1f7cc1d65471ca10",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b03710c1f7cc1d65471ca10/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:48:10.975Z",
+    "desc": "# There are three spring kits:\n\n# Stock:\n\n![image.webp](https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370ead96d8c1379eeee3b/previews/6b0370ead96d8c1379eeee82/download/image.webp)\n\n# Sport:\n\n![image.webp](https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370f08852cbcca73e43f5/previews/6b0370f18852cbcca73e44dc/download/image.webp)\n\n# Comfort:\n\n![image.webp](https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0370f5c51b2e369419370d/previews/6b0370f6c51b2e369419376f/download/image.webp)\n\n# You can also adjust your cars height!\n\n![image.webp](https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b0371057715ea97e67d7a16/previews/6b0371057715ea97e67d7c0e/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6b036fe3aeec305cfd3c1545/attachments/6b03710c1f7cc1d65471ca10/previews/6b03710d1f7cc1d65471caf9/download/image.webp)",
+    "id": "6b036fe3aeec305cfd3c1545",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036efc0081088c72c4e86e",
+    "labels": [],
+    "name": "Suspension",
+    "pos": 140737488404480,
+    "shortLink": "doHi5mOO",
+    "shortUrl": "https://trello.com/c/doHi5mOO",
+    "url": "https://trello.com/c/doHi5mOO/277-suspension"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036efc0081088c72c4e86e",
+    "name": "Car Tuning System",
+    "pos": 131584
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 23860,
+      "date": "2026-10-28T08:56:42.375Z",
+      "id": "6af25330efcf475a0338875c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-28_095641791.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d561/attachments/6af25330efcf475a0338875c/download/image_2026-10-28_095641791.png"
+    },
+    {
+      "bytes": 132697,
+      "date": "2026-10-28T08:56:56.822Z",
+      "id": "6af25330efcf475a03388763",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-28_095656290.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d561/attachments/6af25330efcf475a03388763/download/image_2026-10-28_095656290.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:06:32.786Z",
+    "desc": "# **It only awakens Part 3 Stands, each at the same chance, except The World and Star Platinum at 5%.**\n\n# Can be obtained from [https://trello.com/c/GlFJq85p/140-crafting-station](https://trello.com/c/GlFJq85p/140-crafting-station \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d561",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      },
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d800",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 3",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d800",
+        "uses": 17
+      }
+    ],
+    "name": "Mysterious Arrow [Part 3]",
+    "pos": 140737488416768,
+    "shortLink": "6xAnGp5K",
+    "shortUrl": "https://trello.com/c/6xAnGp5K",
+    "url": "https://trello.com/c/6xAnGp5K/668-mysterious-arrow-part-3"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

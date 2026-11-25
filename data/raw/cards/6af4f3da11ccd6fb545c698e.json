@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T23:01:54.144Z",
+    "desc": "",
+    "id": "6af4f3da11ccd6fb545c698e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "The Grateful Dead",
+    "pos": 140737489174528,
+    "shortLink": "FLIYxBbY",
+    "shortUrl": "https://trello.com/c/FLIYxBbY",
+    "url": "https://trello.com/c/FLIYxBbY/74-the-grateful-dead"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

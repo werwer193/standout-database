@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 47313,
+      "date": "2026-10-13T23:52:25.286Z",
+      "id": "6af25330efcf475a03388266",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-14_015224978.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d32d/attachments/6af25330efcf475a03388266/download/image_2026-10-14_015224978.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.682Z",
+    "desc": "Added HOWLER cases, these are 10 random cases around the map that give exp and coins, finding all the cases unlocks Howler's outfit\nAdded the GIFT app, used for stuff like BADGE REWARDS!!!! (if you didnt know, for every play test badge you own, you will get a reward for it)\nPhone map can now be turned into a minimap\nbuuuuuug fixes\n\nADDED A CODE CALLED PLAYTEST (THIS WILL WORK DURING THE PLAYTEST THIS WEEKEND) dont forget...\n\n[DATA WILL BE RESET ON RELEASE. THIS MEANS YOU CAN CLAIM THESE BADGE REWARDS DURING THE PLAY TEST, AND AGAIN DURING RELEASE!]\n\nCinderlla fixes\nCHARACTER SLOTS\n\nSteel can drop from metal destructables now\nWood can drop from trees now\nbug fixes",
+    "id": "6af25326efcf475a0337d32d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "14/10/2026 (Cinderella, HOWLER cases,Character Slots)",
+    "pos": 140737488125952,
+    "shortLink": "e8uNCmQA",
+    "shortUrl": "https://trello.com/c/e8uNCmQA",
+    "url": "https://trello.com/c/e8uNCmQA/480-14-10-2026-cinderella-howler-casescharacter-slots"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

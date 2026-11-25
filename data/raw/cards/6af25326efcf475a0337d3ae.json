@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 21950,
+      "date": "2026-10-26T20:19:07.693Z",
+      "id": "6af25330efcf475a03388520",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_211907228.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d3ae/attachments/6af25330efcf475a03388520/download/image_2026-10-26_211907228.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:12:36.603Z",
+    "desc": "[https://trello.com/c/f3FV02iE/354-darby-stand-storage](https://trello.com/c/f3FV02iE/354-darby-stand-storage \"smartCard-inline\")  **is looking for a rematch. Visit his table and beat him at** [https://trello.com/c/bVqoz3tG/528-go-fish](https://trello.com/c/bVqoz3tG/528-go-fish \"smartCard-inline\")\n\n**Requirements:**\n\n**No level requirement**\n\n**Time limit: 10:00**\n\n# Can drop:\n\n[https://trello.com/c/qbO5cN9t/515-darbys-jacket](https://trello.com/c/qbO5cN9t/515-darbys-jacket \"smartCard-inline\")\n\n[https://trello.com/c/AAMGidRz/516-darbys-pants](https://trello.com/c/AAMGidRz/516-darbys-pants \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d3ae",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "D'arby's Rematch",
+    "pos": 140737488551936,
+    "shortLink": "HAvHAOyc",
+    "shortUrl": "https://trello.com/c/HAvHAOyc",
+    "url": "https://trello.com/c/HAvHAOyc/523-darbys-rematch"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

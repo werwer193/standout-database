@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 64271,
+      "date": "2026-10-04T10:52:15.454Z",
+      "id": "6af2532fefcf475a03387aec",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_125215221.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d129/attachments/6af2532fefcf475a03387aec/download/image_2026-10-04_125215221.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:44:45.944Z",
+    "desc": "## Stand:[https://trello.com/c/XIOKXhMm/293-west-end-girl](https://trello.com/c/XIOKXhMm/293-west-end-girl \"smartCard-inline\") (Buffed Version)\n\n## Health:",
+    "id": "6af25325efcf475a0337d129",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d802",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d802",
+        "uses": 14
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      },
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      }
+    ],
+    "name": "Key West",
+    "pos": 140737488478208,
+    "shortLink": "QReDgcZA",
+    "shortUrl": "https://trello.com/c/QReDgcZA",
+    "url": "https://trello.com/c/QReDgcZA/308-key-west"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

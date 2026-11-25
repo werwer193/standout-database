@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 69278,
+      "date": "2026-09-23T21:55:31.548Z",
+      "id": "6af2532fefcf475a03386eb1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-23_235531827.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce05/attachments/6af2532fefcf475a03386eb1/download/image_2026-09-23_235531827.png"
+    },
+    {
+      "bytes": 128141,
+      "date": "2026-09-23T21:55:49.043Z",
+      "id": "6af2532fefcf475a03386eb9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-23_235549223.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce05/attachments/6af2532fefcf475a03386eb9/download/image_2026-09-23_235549223.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:35:39.103Z",
+    "desc": "**Awakening/EX Bars are used for EX Moves. (Activateable by holding T)**\n\n**gained by doing damage/**[https://trello.com/c/T2PilSut/43-posing](https://trello.com/c/T2PilSut/43-posing \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337ce05",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Awakening Bar (EX Bar)",
+    "pos": 140737488355328,
+    "shortLink": "bKgZApEb",
+    "shortUrl": "https://trello.com/c/bKgZApEb",
+    "url": "https://trello.com/c/bKgZApEb/40-awakening-bar-ex-bar"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

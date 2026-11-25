@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T22:37:23.157Z",
+    "desc": "# Factions are the type of gang you choose when creating one.\n\n# Every type has different jobs, rooms, furniture and more…",
+    "id": "6b036e6de73b7d5fd37defb5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b036dfec364e14a70b71e11",
+    "labels": [],
+    "name": "What are factions?",
+    "pos": 140737488322560,
+    "shortLink": "waRgDZjb",
+    "shortUrl": "https://trello.com/c/waRgDZjb",
+    "url": "https://trello.com/c/waRgDZjb/272-what-are-factions"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b036dfec364e14a70b71e11",
+    "name": "Gang Factions",
+    "pos": 123904
+  }
+}

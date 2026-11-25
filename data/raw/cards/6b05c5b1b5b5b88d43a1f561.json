@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-24T17:13:50.121Z",
+    "desc": "",
+    "id": "6b05c5b1b5b5b88d43a1f561",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "blue_dark",
+        "id": "6af25326efcf475a0337d81c",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 2",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d81c",
+        "uses": 3
+      }
+    ],
+    "name": "Cyborg",
+    "pos": 140737488302272,
+    "shortLink": "xKGt7WBK",
+    "shortUrl": "https://trello.com/c/xKGt7WBK",
+    "url": "https://trello.com/c/xKGt7WBK/284-cyborg"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

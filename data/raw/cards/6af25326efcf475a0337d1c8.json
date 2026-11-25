@@ -1,0 +1,67 @@
+{
+  "attachments": [
+    {
+      "bytes": 130788,
+      "date": "2026-11-02T22:56:32.254Z",
+      "id": "6af2532fefcf475a03387db9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c8/attachments/6af2532fefcf475a03387db9/download/image.png"
+    },
+    {
+      "bytes": 17335,
+      "date": "2026-11-02T22:58:59.248Z",
+      "id": "6af2532fefcf475a03387dbf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c8/attachments/6af2532fefcf475a03387dbf/download/image.png"
+    },
+    {
+      "bytes": 15425,
+      "date": "2026-11-02T22:59:24.624Z",
+      "id": "6af2532fefcf475a03387dc5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c8/attachments/6af2532fefcf475a03387dc5/download/image.png"
+    },
+    {
+      "bytes": 15849,
+      "date": "2026-11-02T22:59:43.174Z",
+      "id": "6af2532fefcf475a03387dcb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c8/attachments/6af2532fefcf475a03387dcb/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:37:26.940Z",
+    "desc": "# Gang jobs can consist of:\n\n- A good week (Complete another gang job)\n- Clean Up (Complete 2 [https://trello.com/c/La2NZMWQ/329-eliminations](https://trello.com/c/La2NZMWQ/329-eliminations \"smartCard-inline\") )\n\n---\n\n# Rewards\n\n![image.webp](https://trello.com/1/cards/6acb3d49d33ac81de221c29e/attachments/6ae915cce201f71be85a2298/previews/6ae915cde201f71be85a22b5/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6acb3d49d33ac81de221c29e/attachments/6ae915df22866a0f4f835723/previews/6ae915df22866a0f4f83580f/download/image.webp)",
+    "id": "6af25326efcf475a0337d1c8",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Gang Jobs",
+    "pos": 140737488404480,
+    "shortLink": "FC08MOBi",
+    "shortUrl": "https://trello.com/c/FC08MOBi",
+    "url": "https://trello.com/c/FC08MOBi/361-gang-jobs"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 2708003,
+      "date": "2026-10-04T21:44:16.939Z",
+      "id": "6af2532fefcf475a03387589",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hydrant.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfcd/attachments/6af2532fefcf475a03387589/download/hydrant.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:11:21.693Z",
+    "desc": "# Can be utilized by stands like [https://trello.com/c/EnFTMQ9U/175-smoke-on-the-water](https://trello.com/c/EnFTMQ9U/175-smoke-on-the-water \"smartCard-inline\")   and [https://trello.com/c/gkqducJQ/37-dark-blue-moon](https://trello.com/c/gkqducJQ/37-dark-blue-moon \"‌\")",
+    "id": "6af25325efcf475a0337cfcd",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [
+      {
+        "color": "red_dark",
+        "id": "6af25326efcf475a0337d809",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d809",
+        "uses": 9
+      },
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d804",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "ELEMENT",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d804",
+        "uses": 12
+      }
+    ],
+    "name": "Fire Hydrants",
+    "pos": 140737488383936,
+    "shortLink": "KrcraQMG",
+    "shortUrl": "https://trello.com/c/KrcraQMG",
+    "url": "https://trello.com/c/KrcraQMG/192-fire-hydrants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

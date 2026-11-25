@@ -1,0 +1,484 @@
+{
+  "attachments": [
+    {
+      "bytes": 423103,
+      "date": "2026-11-16T18:27:06.510Z",
+      "id": "6afb4afaf47633b8be1b3d12",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-16_192706067.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6afb4afaf47633b8be1b3d12/download/image_2026-11-16_192706067.png"
+    },
+    {
+      "bytes": 410639,
+      "date": "2026-11-19T22:26:09.299Z",
+      "id": "6aff7781b6c7662a7a3159dd",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-19_232608890.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6aff7781b6c7662a7a3159dd/download/image_2026-11-19_232608890.png"
+    },
+    {
+      "bytes": 153726,
+      "date": "2026-11-21T13:53:26.625Z",
+      "id": "6b01a256cd8dfe363ba431a6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-21_145326835.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01a256cd8dfe363ba431a6/download/image_2026-11-21_145326835.png"
+    },
+    {
+      "bytes": 48440,
+      "date": "2026-11-21T19:50:23.411Z",
+      "id": "6b01f5ffd73c3af806e4bdcb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f5ffd73c3af806e4bdcb/download/image.png"
+    },
+    {
+      "bytes": 212900,
+      "date": "2026-11-21T19:50:30.100Z",
+      "id": "6b01f60605a71c04eab833f4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f60605a71c04eab833f4/download/image.png"
+    },
+    {
+      "bytes": 2589289,
+      "date": "2026-11-21T19:52:51.016Z",
+      "id": "6b01f69382f2b3c9e1519561",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "dora.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f69382f2b3c9e1519561/download/dora.gif"
+    },
+    {
+      "bytes": 592273,
+      "date": "2026-11-21T19:53:08.703Z",
+      "id": "6b01f6a4b92a46b0c08bc062",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "dorara.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f6a4b92a46b0c08bc062/download/dorara.gif"
+    },
+    {
+      "bytes": 508097,
+      "date": "2026-11-21T19:54:46.300Z",
+      "id": "6b01f7067c8e774e2661a67c",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "dorarara.gif",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f7067c8e774e2661a67c/download/dorarara.gif"
+    },
+    {
+      "bytes": 915887,
+      "date": "2026-11-21T19:55:33.413Z",
+      "id": "6b01f73560436738626e0b4f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "holdkick.gif",
+      "pos": 140737488486400,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f73560436738626e0b4f/download/holdkick.gif"
+    },
+    {
+      "bytes": 1760551,
+      "date": "2026-11-21T19:57:09.480Z",
+      "id": "6b01f795029810d23ed9d684",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "wall.gif",
+      "pos": 140737488502784,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f795029810d23ed9d684/download/wall.gif"
+    },
+    {
+      "bytes": 1278200,
+      "date": "2026-11-21T19:57:48.206Z",
+      "id": "6b01f7bc2cdd3b4a975bcb32",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "topple.gif",
+      "pos": 140737488519168,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f7bc2cdd3b4a975bcb32/download/topple.gif"
+    },
+    {
+      "bytes": 970893,
+      "date": "2026-11-21T19:59:08.358Z",
+      "id": "6b01f80cbc8a0c83a93c7995",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "heavy.gif",
+      "pos": 140737488535552,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f80cbc8a0c83a93c7995/download/heavy.gif"
+    },
+    {
+      "bytes": 1031113,
+      "date": "2026-11-21T19:59:51.788Z",
+      "id": "6b01f8379f425a843466c723",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "crazy.gif",
+      "pos": 140737488551936,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f8379f425a843466c723/download/crazy.gif"
+    },
+    {
+      "bytes": 838600,
+      "date": "2026-11-21T20:01:31.334Z",
+      "id": "6b01f89b40f0b325ebb49d93",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restore.gif",
+      "pos": 140737488568320,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f89b40f0b325ebb49d93/download/restore.gif"
+    },
+    {
+      "bytes": 94558,
+      "date": "2026-11-21T20:02:34.289Z",
+      "id": "6b01f8daafc90437590b09f7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488584704,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f8daafc90437590b09f7/download/image.png"
+    },
+    {
+      "bytes": 1885920,
+      "date": "2026-11-21T20:03:31.501Z",
+      "id": "6b01f9134bcf257655a78c23",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restorebarrage.gif",
+      "pos": 140737488601088,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f9134bcf257655a78c23/download/restorebarrage.gif"
+    },
+    {
+      "bytes": 1885920,
+      "date": "2026-11-21T20:04:01.363Z",
+      "id": "6b01f931bc3f2406c7f230a8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restorebarrage.gif",
+      "pos": 140737488617472,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f931bc3f2406c7f230a8/download/restorebarrage.gif"
+    },
+    {
+      "bytes": 569340,
+      "date": "2026-11-21T20:04:43.973Z",
+      "id": "6b01f95b895fd843d9805ddf",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "donuts.gif",
+      "pos": 140737488633856,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f95b895fd843d9805ddf/download/donuts.gif"
+    },
+    {
+      "bytes": 632806,
+      "date": "2026-11-21T20:06:41.961Z",
+      "id": "6b01f9d17c1a991f7145f2cd",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bloods.gif",
+      "pos": 140737488650240,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f9d17c1a991f7145f2cd/download/bloods.gif"
+    },
+    {
+      "bytes": 838600,
+      "date": "2026-11-21T20:07:32.076Z",
+      "id": "6b01fa046841decdcc06ba57",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restore.gif",
+      "pos": 140737488666624,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa046841decdcc06ba57/download/restore.gif"
+    },
+    {
+      "bytes": 1885920,
+      "date": "2026-11-21T20:07:44.248Z",
+      "id": "6b01fa10baff78e1be0801bf",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restorebarrage.gif",
+      "pos": 140737488683008,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa10baff78e1be0801bf/download/restorebarrage.gif"
+    },
+    {
+      "bytes": 569340,
+      "date": "2026-11-21T20:08:20.654Z",
+      "id": "6b01fa34ee7f4d32fa6ec45a",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "donuts.gif",
+      "pos": 140737488699392,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa34ee7f4d32fa6ec45a/download/donuts.gif"
+    },
+    {
+      "bytes": 569340,
+      "date": "2026-11-21T20:09:02.934Z",
+      "id": "6b01fa5ee6f90f8eefae216e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "donuts.gif",
+      "pos": 140737488715776,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa5ee6f90f8eefae216e/download/donuts.gif"
+    },
+    {
+      "bytes": 2683528,
+      "date": "2026-11-21T20:09:34.007Z",
+      "id": "6b01fa7e7d8a659b80e61267",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "airborne.gif",
+      "pos": 140737488732160,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa7e7d8a659b80e61267/download/airborne.gif"
+    },
+    {
+      "bytes": 632806,
+      "date": "2026-11-21T20:10:23.388Z",
+      "id": "6b01faaf90c7ad7b1cc72be2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bloods.gif",
+      "pos": 140737488748544,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01faaf90c7ad7b1cc72be2/download/bloods.gif"
+    },
+    {
+      "bytes": 874499,
+      "date": "2026-11-21T20:13:22.568Z",
+      "id": "6b01fb62438b7c87d5f7bf2e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bearings.gif",
+      "pos": 140737488764928,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb62438b7c87d5f7bf2e/download/bearings.gif"
+    },
+    {
+      "bytes": 667988,
+      "date": "2026-11-21T20:13:56.499Z",
+      "id": "6b01fb84b2eb10c0e27b9a91",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "headshots.gif",
+      "pos": 140737488781312,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb84b2eb10c0e27b9a91/download/headshots.gif"
+    },
+    {
+      "bytes": 566307,
+      "date": "2026-11-21T20:14:15.448Z",
+      "id": "6b01fb97373c59217ca1acf4",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "shardshot.gif",
+      "pos": 140737488797696,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb97373c59217ca1acf4/download/shardshot.gif"
+    },
+    {
+      "bytes": 4752385,
+      "date": "2026-11-21T20:19:21.499Z",
+      "id": "6b01fcc9e2c8c9a06daabaa8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "carhea.gif",
+      "pos": 140737488814080,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fcc9e2c8c9a06daabaa8/download/carhea.gif"
+    },
+    {
+      "bytes": 1167897,
+      "date": "2026-11-21T20:21:21.261Z",
+      "id": "6b01fd41ebcd32f7fc143eee",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "reviveee.gif",
+      "pos": 140737488830464,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fd41ebcd32f7fc143eee/download/reviveee.gif"
+    },
+    {
+      "bytes": 950498,
+      "date": "2026-11-21T20:22:32.083Z",
+      "id": "6b01fd880181fc66618d91c0",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "tandeeem.gif",
+      "pos": 140737488846848,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fd880181fc66618d91c0/download/tandeeem.gif"
+    },
+    {
+      "bytes": 786980,
+      "date": "2026-11-21T20:25:07.023Z",
+      "id": "6b01fe23cccc215d1cf08793",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "deconsrtuct.gif",
+      "pos": 140737488863232,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe23cccc215d1cf08793/download/deconsrtuct.gif"
+    },
+    {
+      "bytes": 915942,
+      "date": "2026-11-21T20:25:38.848Z",
+      "id": "6b01fe42823c9676c4db03d6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "thraw.gif",
+      "pos": 140737488879616,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe42823c9676c4db03d6/download/thraw.gif"
+    },
+    {
+      "bytes": 1076770,
+      "date": "2026-11-21T20:26:10.933Z",
+      "id": "6b01fe62c41cda07d92d41c6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "restoreit.gif",
+      "pos": 140737488896000,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe62c41cda07d92d41c6/download/restoreit.gif"
+    },
+    {
+      "bytes": 544758,
+      "date": "2026-11-21T20:27:58.262Z",
+      "id": "6b01fece215f76ef934f97a5",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "stairacase.gif",
+      "pos": 140737488912384,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fece215f76ef934f97a5/download/stairacase.gif"
+    },
+    {
+      "bytes": 1237869,
+      "date": "2026-11-21T20:28:32.222Z",
+      "id": "6b01fef0d5ca2e6fa50597d2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "boost.gif",
+      "pos": 140737488928768,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fef0d5ca2e6fa50597d2/download/boost.gif"
+    },
+    {
+      "bytes": 1517381,
+      "date": "2026-11-21T20:28:50.110Z",
+      "id": "6b01ff0258f73ba3944242a0",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pillaaar.gif",
+      "pos": 140737488945152,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ff0258f73ba3944242a0/download/pillaaar.gif"
+    },
+    {
+      "bytes": 1180710,
+      "date": "2026-11-21T20:30:08.527Z",
+      "id": "6b01ff50eaf9d183b6e9e083",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "topples.gif",
+      "pos": 140737488961536,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ff50eaf9d183b6e9e083/download/topples.gif"
+    },
+    {
+      "bytes": 4409312,
+      "date": "2026-11-21T20:31:41.301Z",
+      "id": "6b01ffadbfded3f82b72a2ad",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "HAAIR.gif",
+      "pos": 140737488977920,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ffadbfded3f82b72a2ad/download/HAAIR.gif"
+    },
+    {
+      "bytes": 2262167,
+      "date": "2026-11-21T20:33:02.841Z",
+      "id": "6b01fffe5a6bb971425abcd7",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "underwear.gif",
+      "pos": 140737488994304,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fffe5a6bb971425abcd7/download/underwear.gif"
+    },
+    {
+      "bytes": 1571325,
+      "date": "2026-11-21T20:35:04.712Z",
+      "id": "6b0200780548876f48732b5a",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "angelo.gif",
+      "pos": 140737489010688,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b0200780548876f48732b5a/download/angelo.gif"
+    },
+    {
+      "bytes": 1423022,
+      "date": "2026-11-21T20:36:21.013Z",
+      "id": "6b0200c5884d4ebc64efcfe2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "statue.gif",
+      "pos": 140737489027072,
+      "url": "https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b0200c5884d4ebc64efcfe2/download/statue.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-22T20:48:00.799Z",
+    "desc": "# Lore:\n\n# \"Watch your mouth!!\"\n\n**Josuke Higashikata’s Crazy Diamond can punch a wall to pieces and put it back together. It can mend someone else’s wounds the same way. Josuke can’t use it on himself or bring anyone back from the dead.**\n\n---\n\n![image.webp](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f5ffd73c3af806e4bdcb/previews/6b01f5ffd73c3af806e4be26/download/image.webp)\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f60605a71c04eab833f4/previews/6b01f60605a71c04eab83514/download/image.webp)\n\n---\n\n## Restoration Mode\n\n**Tap G to heal enemies too. A full light combo restores up to 20 health before bonuses. A heavy restores 8. Healing can still stagger or push the target. Enough healing during bleedout gets them back on their feet. Crazy Diamond can’t heal its own user or bring back the dead.**\n\n![restore.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa046841decdcc06ba57/previews/6b01fa066841decdcc06be13/download/restore.gif)\n\n## Saving someone during bleedout:\n\n![reviveee.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fd41ebcd32f7fc143eee/previews/6b01fd45ebcd32f7fc144607/download/reviveee.gif)\n\n## Reconstruction\n\n**Release over damaged scenery or a vehicle to repair it. Broken prop pieces rebuild in front of the user. A deconstructed cube or its scrap pile rebuilds the original prop or vehicle.**\n\n**Aim at a standing wall, staircase or pillar to lower it. Wall rubble raises the wall again and loose wall shards fly back. Broken pillars can be rebuilt where they fell for 4 seconds. Heavy punches can also break a patch of ground for Restoration to repair.**\n\n![carhea.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fcc9e2c8c9a06daabaa8/previews/6b01fcd3e2c8c9a06daac716/download/carhea.gif)\n\n## Dora Barrage\n\n**Punch in quick succession and finish with a guard break. The final punch can be perfect blocked. Healing Barrage restores health on each hit. During Rage the barrage lasts longer and Crazy Diamond can keep punching while you walk. Its final punch leaves the enemy’s face crooked until they respawn.**\n\n**Strength raises barrage damage. A full Healing Barrage restores 30 health, or 45 at 151 Ability.**\n\n**Each blocked hit shows the defender’s remaining guard at that impact point.**\n\n**Base cooldown 23s**\n\n![dora.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f69382f2b3c9e1519561/previews/6b01f69f82f2b3c9e151b79f/download/dora.gif)\n\n## Restore Variant:\n\n![restorebarrage.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa10baff78e1be0801bf/previews/6b01fa15baff78e1be0807bf/download/restorebarrage.gif)\n\n## Crazy Uppercut\n\n**Launch the target with a rising punch.**\n\n**In Restoration, Fixed Donut grabs them, heals them and clears harmful effects.**\n\n**In Rage with Restoration off, Fresh Pair Of Underwear grabs through block, heals on contact and starts a barrage three seconds later. The more health it restores, the harder the barrage hits.**\n\n**Strength raises uppercut damage. Ability raises healing from 20 to 30, reaching 30 at 151 Ability.**\n\n**Base cooldown 18s**\n\n![dorara.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f6a4b92a46b0c08bc062/previews/6b01f6a7b92a46b0c08bc73b/download/dorara.gif)\n\n## Fixed Donut (Restore Variant)\n\n![donuts.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa5ee6f90f8eefae216e/previews/6b01fa61e6f90f8eefae22d2/download/donuts.gif)\n\n## Shining Kick\n\n**Hold to kick farther, then release where you’re aiming. Charging raises the chance of breaking a leg. Hold for a full second to knock them off their feet. Aim at an airborne enemy to chase them and kick them flying in the direction you aimed. During Rage the kick tracks nearby enemies. Kicking a Diamond Wall sends its shards a shorter distance than a heavy attack.**\n\n**Damage scales with Strength.**\n\n**Base cooldown 28s**\n\n![dorarara.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f7067c8e774e2661a67c/previews/6b01f7087c8e774e2661aaee/download/dorarara.gif)\n\n## Held:\n\n![holdkick.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f73560436738626e0b4f/previews/6b01f73a60436738626e0e4b/download/holdkick.gif)\n\n## Fracture:\n\n![image.webp](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f8daafc90437590b09f7/previews/6b01f8daafc90437590b0ac0/download/image.webp)\n\n## Airborne Enemy:\n\n![airborne.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fa7e7d8a659b80e61267/previews/6b01fa827d8a659b80e617cf/download/airborne.gif)\n\n## Blood Knife (Restore Variant)\n\n**Send a slash of blood forward. Anyone hit by the slash, its trail or its splash gets marked for 10 seconds. Use Bearing Shot on a marked enemy to send a shard after them.**\n\n**Shot damage scales 80% with Strength and 20% with Ability.**\n\n**Base cooldown 14s**\n\n![bloods.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01faaf90c7ad7b1cc72be2/previews/6b01fab490c7ad7b1cc73606/download/bloods.gif)\n\n## Diamond Wall\n\n**Barrage the ground to raise a wall for 6 seconds. It blocks projectiles. An enemy punch tips it toward the attacker. Three of your light hits topple it, a heavy scatters shards and an uppercut rains rocks down in front. Knocking someone into the wall breaks it too. Turn on Restoration to swap this move for Bearing Shot.**\n\n**In Rage with Restoration off, Yo Angelo knocks the target down and barrages them into the ground. Rocks slow survivors for 6 seconds. The move turns a target who is bleeding out or drops below 10% health during the attack into a throwable statue. Three light hits tip the statue over. A heavy sends it flying. Hold Restoration on its broken pieces to rebuild it.**\n\n**Wall damage scales with Strength. The wall can take 80 damage.**\n\n**Base cooldown 20s**\n\n![wall.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f795029810d23ed9d684/previews/6b01f79a029810d23ed9da00/download/wall.gif)\n\n## Topple:\n\n![topple.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f7bc2cdd3b4a975bcb32/previews/6b01f7c02cdd3b4a975bcff7/download/topple.gif)\n\n## Heavy:\n\n![heavy.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f80cbc8a0c83a93c7995/previews/6b01f811bc8a0c83a93c7f41/download/heavy.gif)\n\n## Crazy Uppercut:\n\n![crazy.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01f8379f425a843466c723/previews/6b01f83c9f425a843466caa1/download/crazy.gif)\n\n## Bearing Shot (Restore Variant)\n\n**Hold to aim and release to fire a bearing up to 390 studs. On foot, aim at an enemy marked by Blood Knife to send a tracking shard after them. During Rage, fire three shards at a marked enemy or a rifle bullet at an unmarked one. Rifle bullets cause bleeding and deal extra damage on a headshot. Ordinary bearings deal 15% more damage on a headshot. You can fire them from a motorcycle.**\n\n**Shot damage scales 80% with Strength and 20% with Ability.**\n\n**Base cooldown 14s**\n\n![bearings.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb62438b7c87d5f7bf2e/previews/6b01fb66438b7c87d5f7c393/download/bearings.gif)\n\n## Headshot:\n\n![headshots.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb84b2eb10c0e27b9a91/previews/6b01fb87b2eb10c0e27b9d9c/download/headshots.gif)\n\n## Marked:\n\n![shardshot.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fb97373c59217ca1acf4/previews/6b01fb9b373c59217ca1b168/download/shardshot.gif)\n\n---\n\n# EX Moves (Awakening Moves)\n\n## Tandem Uppercut (2 Bars)\n\n**Send Crazy Diamond behind an enemy to uppercut them back toward you.**\n\n**Base cooldown 45s**\n\n![tandeeem.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fd880181fc66618d91c0/previews/6b01fd8d0181fc66618d99bb/download/tandeeem.gif)\n\n## Deconstruction (2 Bars)\n\n**Hold to aim, then release to send Crazy Diamond after a vehicle or prop. It punches the pieces into a throwable cube, even if someone is holding the prop. It can also take apart a streetlight. Restore a cube beside an enemy to coat them in scrap and slow their attacks for 4 seconds. Dropped crafted items break down into ingredients. On your motorcycle, the bike comes apart and carries you up and forward while it rebuilds.**\n\n**Base cooldown: 16s**\n\n![deconsrtuct.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe23cccc215d1cf08793/previews/6b01fe27cccc215d1cf08dca/download/deconsrtuct.gif)\n\n## Thrown:\n\n![thraw.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe42823c9676c4db03d6/previews/6b01fe46823c9676c4db0b1b/download/thraw.gif)\n\n## Restored:\n\n![restoreit.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fe62c41cda07d92d41c6/previews/6b01fe67c41cda07d92d4a1c/download/restoreit.gif)\n\n## Rock Staircase (1 Bar)\n\n**Stand still to raise steps that launch enemies up and forward. Move forward to ride a slanted pillar that knocks enemies ahead. Cast in midair to rise on a straight pillar and knock nearby enemies away.**\n\n**Three light hits topple a pillar. A heavy sends it forward.**\n\n**Base cooldown 6s**\n\n![stairacase.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fece215f76ef934f97a5/previews/6b01fed0215f76ef934f9a99/download/stairacase.gif)\n\n## Pillar:\n\n![boost.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fef0d5ca2e6fa50597d2/previews/6b01fef2d5ca2e6fa5059968/download/boost.gif)\n\n![pillaaar.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ff0258f73ba3944242a0/previews/6b01ff0558f73ba394424c1f/download/pillaaar.gif)\n\n## Toppled Pillar:\n\n![topples.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ff50eaf9d183b6e9e083/previews/6b01ff55eaf9d183b6e9eeef/download/topples.gif)\n\n## WHAT DID YOU SAY? (5 Bars)\n\n**With five full EX bars, the closest opponent within 24 studs insults your hair and starts Rage. Another player can also start Rage by insulting your hair in chat within 24 studs. Rage drains one EX bar every 12 seconds. Land hits to earn EX. Rage ends when your EX runs out or the song finishes.**\n\n**Light attacks deal double damage or healing. Heavy stand punches and eligible base attacks deal 15% more damage. Base moves cool down 20% faster on foot.**\n\n**Base cooldown 12s**\n\n## Rage\n\n**With Crazy Diamond summoned and Rage ready, a player within sight can say “Your hair sucks”, “What’s wrong with your haircut”, “Ugly hair” or “Your hair is ugly”. The closest eligible user reacts. During Rage, Heaven’s Door can’t turn you into a book or write new commands on you. Effects that already landed keep their remaining time.**\n\n![HAAIR.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01ffadbfded3f82b72a2ad/previews/6b01ffb6bfded3f82b72be06/download/HAAIR.gif)\n\n## Fresh Pair Of Underwear\n\n**In Rage with Restoration off, Fresh Pair Of Underwear grabs through block, heals on contact and starts a barrage three seconds later. The more health it restores, the harder the barrage hits.**\n\n![underwear.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b01fffe5a6bb971425abcd7/previews/6b0200095a6bb971425ad2b1/download/underwear.gif)\n\n## Yo Angelo\n\n**In Rage with Restoration off, Yo Angelo knocks the target down and barrages them into the ground. Rocks slow survivors for 6 seconds. The move turns a target who is bleeding out or drops below 10% health during the attack into a throwable statue. Three light hits tip the statue over. A heavy sends it flying. Hold Restoration on its broken pieces to rebuild it.**\n\n![angelo.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b0200780548876f48732b5a/previews/6b0200800548876f487334bf/download/angelo.gif)\n\n## Execute:\n\n![statue.gif](https://trello.com/1/cards/6af48613e66aa310dd1d2009/attachments/6b0200c5884d4ebc64efcfe2/previews/6b0200c9884d4ebc64efd69c/download/statue.gif)",
+    "id": "6af48613e66aa310dd1d2009",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd3f",
+    "labels": [
+      {
+        "color": "green_dark",
+        "id": "6af25326efcf475a0337d810",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 4",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d810",
+        "uses": 11
+      },
+      {
+        "color": "red",
+        "id": "6af25326efcf475a0337d7fc",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fc",
+        "uses": 40
+      },
+      {
+        "color": "black",
+        "id": "6af25326efcf475a0337d81d",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "REALITY",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d81d",
+        "uses": 4
+      },
+      {
+        "color": "black_dark",
+        "id": "6af25326efcf475a0337d80d",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Pinnacle",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80d",
+        "uses": 7
+      }
+    ],
+    "name": "Crazy Diamond",
+    "pos": 140737488354688,
+    "shortLink": "VecwqvNo",
+    "shortUrl": "https://trello.com/c/VecwqvNo",
+    "url": "https://trello.com/c/VecwqvNo/14-crazy-diamond"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd3f",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

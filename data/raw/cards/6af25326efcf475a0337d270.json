@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 24044,
+      "date": "2026-10-11T11:55:55.793Z",
+      "id": "6af25330efcf475a0338803a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_135556297.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d270/attachments/6af25330efcf475a0338803a/download/image_2026-10-11_135556297.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:30:19.284Z",
+    "desc": "# **When equipped gives you:**\n\n**+6 Ability**\n\n**+10 Damage**\n\n**+7 Health**\n\n# If equipped with [https://trello.com/c/PyQR7K2P/418-enricos-pants](https://trello.com/c/PyQR7K2P/418-enricos-pants \"smartCard-inline\")    you get +15% Walkspeed",
+    "id": "6af25326efcf475a0337d270",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Enrico's Jacket",
+    "pos": 140737488519168,
+    "shortLink": "rLfjw7yU",
+    "shortUrl": "https://trello.com/c/rLfjw7yU",
+    "url": "https://trello.com/c/rLfjw7yU/417-enricos-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

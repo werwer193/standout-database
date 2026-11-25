@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-21T13:09:48.082Z",
+    "desc": "# Every Stand barrage is a evasive that can be used in stun at the cost of 1 EX bar.\n\n# If you are using a Stand without a barrage or built in evasive your subability EX move is a evasive.\n\n# If you are using a Stand with a barrage evasive or built in evasive your subability EX move is a regular attack.",
+    "id": "6afdf9018c1a124c35b82388",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd51",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Evasives",
+    "pos": 140737488338944,
+    "shortLink": "omNzIknY",
+    "shortUrl": "https://trello.com/c/omNzIknY",
+    "url": "https://trello.com/c/omNzIknY/251-evasives"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd51",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

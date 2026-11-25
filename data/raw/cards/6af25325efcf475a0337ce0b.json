@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1759976,
+      "date": "2026-09-23T22:05:48.341Z",
+      "id": "6af2532fefcf475a03386ed2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "room.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce0b/attachments/6af2532fefcf475a03386ed2/download/Sn%C3%ADmek_obrazovky_2026-09-24_000452.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:41:24.130Z",
+    "desc": "## Exit Mr. Presidents pocket dimension by talking to [https://trello.com/c/xHDStGkT/174-bill](https://trello.com/c/xHDStGkT/174-bill \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337ce0b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd44",
+    "labels": [],
+    "name": "Mr. President's Pocket Dimension",
+    "pos": 140737488355328,
+    "shortLink": "JcycZpEO",
+    "shortUrl": "https://trello.com/c/JcycZpEO",
+    "url": "https://trello.com/c/JcycZpEO/42-mr-presidents-pocket-dimension"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd44",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

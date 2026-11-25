@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 22108,
+      "date": "2026-09-26T15:24:38.200Z",
+      "id": "6af2532fefcf475a033874f4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_172437974.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf9d/attachments/6af2532fefcf475a033874f4/download/image_2026-09-26_172437974.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.666Z",
+    "desc": "`- Trees can be knocked over, Light Poles can be knocked over`\n`_ Fire Hydrants breakable and spew water and apply soaked status`\n`- vfx/indicator on heavy attack (idk we will see if people like this or if it needs tweaks)`\n`- Boiling Water Stand added (no I am not joking)`\n`- Setting to change EX showing to a toggle added`\n\n`added the ability to override someone else’s timestop instantly, freezing them and removing their immunity for your full timestop duration`\n`added quick timestop by holding the move, with no startup and half duration`\n`fixd NPCs getting stuck in water, they now teleport back to spawn with an effect`\n`fixed summoned NPC kills not counting toward quests, including Unearth, Jellyfish and Humu`\n`fixd heat aging people forever after turning off Withering Mist`\n`fixed Catch the Rainbow having no way to drop on mobile and controller, crouch now drops you`\n`fixd The Sun leaving your rotation disabled after hiding and piloting near climbable objects`\n`fixed barraging, unpiloting and piloting again leaving Silver Chariot, Star Platinum and The World stuck`\n`added saved EX hold or toggle settings for keyboard, controller and mobile`\n`fixd carrying Rolling Stones bugging or flinging the carrier’s stand`\n`fixed Rolling Stones disappearing below the map and becoming unusable`\n`fixd Mandos second and third move buttons not showing while unsummoned`\n`fixed Magician’s Red moves overlapping Life Detector’s stand animation`\n`fixd Catch the Rainbow’s idle animation disappearing after jumping`\n`fixed Star Platinum’s barrage grab giving the attacker iframes`\n`fxd being able to M1 before The World’s double-hit heavy finished`\n`fixed Magician’s Red and Heaven’s Door heavies hitting twice`\n`fixd Magicians Red and Heaven’s Door heavy damage happening before the animation hits`\n`fixed The World’s duplicate timestop clock sound`\n`fixed Walking Heart’s extended heels staying active while swimming`\n`fixed grabs not cancelling Walking Heart’s Spike Extension first`\n`fixd super Flys Screw Volley and Damage Redirection not working when an opponent was bound`\n`fixed Hey Ya’s hold to build luck not working`\n`fixed Harvest’s animation getting stuck after posing and unposing quickly`\n`added harvest missing pose sound`\n`fixed Strength’s moves being blocked while piloting over water`\n`fixd Tower of Gray’s flight attack cancelling when holding M1`\n`fixed Billy not letting you get Hamon again after losing it`\n\nfixd Walking Heart staying extended after ragdolling\nfixed Heel Zip pulling you backward toward where you started the jump\nfixd heavy and final M1 knockback leaving Walking Heart users stuck on the ground\nfixed missing or outdated character parts causing knockback errors\nfixed Catch the Rainbow’s Triple Shot erroring when aim data was missing\nfixd Triple Shot getting interrupted by delayed aim responses\nfixed Triple Shot’s impact handling and movement cleanup\nremoved the highlight from Mandom’s model\n\nadded puddles where Weapons of Rain projectiles land, including drench and boiling support\nfixed Catch the Rainbow’s flying water footsteps not showing for other players\nfixd Under World’s Burrow not cancelling when touching water, including during startup and pilot\n\nincreased rain density scaling above 1x while keeping the 1x setting unchanged\nfixd rain placement following character direction instead of the camera\nadjusted rain to spread across the screen with more nearby drops\nreduced wind’s effect on rain direction\nfixed rain emission being slowed by individual drop effects\n\nfixd rain event drops not boiling near Boiling Water\nfixed nearby water visuals not boiling at zero heat or while unsummoned\nadded boiling support for Footdive and Beyond the Sea’s flying water puddles\nfixed wide puddles only boiling when their center was nearby\nadded boiling for blood droplets, splats, chunks, streaks and mist\nadded boiling for Bleed Out’s blood drops and puddles\n\nfixd street lamps sitting wrong in your hands\nfixed street lamps requiring the wrong strength to throw, now one level below cars\nfixd quick timestop sound playing twice\nfixed Star Platinum’s initial barrage giving the user iframes\nfxd projectiles doing no damage to barrage users, stands still deflect them\nfixed Super Fly’s Screw Volley and Damage Redirection not working with both players inside\nfixd Strength’s Hull Trap dropping victims through the ship\nfixed loose panels inside Strength\nfxd Catch the Rainbow’s footdive getting stuck against walls and ledges\nfixed mobile jump holds interfering with footdive recovery\nfixd the area banner being way too big on mobile\nfixed area and tutorial UI using fixed pixel sizing and positioning instead of scale\nfixd Strength’s hook jolting the ship when its rope reconnects\nfixed Strength freezing after pulling a dummy\nfxd Star Platinum staying in front of you after releasing block during its M1 catch recovery",
+    "id": "6af25325efcf475a0337cf9d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "26/9/2026 (Boiling Water, Fire Hydrants,Timestop Additions, Bug Fixes)",
+    "pos": 140737488351232,
+    "shortLink": "z5dT2cf3",
+    "shortUrl": "https://trello.com/c/z5dT2cf3",
+    "url": "https://trello.com/c/z5dT2cf3/176-26-9-2026-boiling-water-fire-hydrantstimestop-additions-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

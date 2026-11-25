@@ -1,0 +1,77 @@
+{
+  "attachments": [
+    {
+      "bytes": 70216,
+      "date": "2026-11-13T17:29:37.811Z",
+      "id": "6af74901fd410dc50d2ca918",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-13_182937507.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6af74901fd410dc50d2ca918/download/image_2026-11-13_182937507.png"
+    },
+    {
+      "bytes": 81194,
+      "date": "2026-11-15T21:29:45.236Z",
+      "id": "6afa24493f38af4ce366754d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24493f38af4ce366754d/download/image.png"
+    },
+    {
+      "bytes": 73829,
+      "date": "2026-11-15T21:30:07.529Z",
+      "id": "6afa245fa0f4ba9d42e290f8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa245fa0f4ba9d42e290f8/download/image.png"
+    },
+    {
+      "bytes": 80111,
+      "date": "2026-11-15T21:31:28.490Z",
+      "id": "6afa24b074365f0a9fec9911",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24b074365f0a9fec9911/download/image.png"
+    },
+    {
+      "bytes": 89899,
+      "date": "2026-11-15T21:31:38.284Z",
+      "id": "6afa24baf5642fa16d3d2d5e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24baf5642fa16d3d2d5e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-15T21:31:42.592Z",
+    "desc": "## Overview\n\nTravel through the perilous “77 Rings”, a brutal knights' training grounds, defeating evil along the way.\n\n---\n\n## STAGE 1:\n\n### 'SURVIVE THE DEAD IN THE GRAVEYARD'\n\nFight through waves of the undead in order to progress onto the second stage, this stage typically includes 3 waves, remaining relatively the same ease throughout.\n\n---\n\n## STAGE 2:\n\n### 'CROSS THE BROKEN BRIDGE'\n\nThis stage features a parkour segment in which you must pass spikes coming out of the ground, and hopping from broken bridge pieces in order to make it to the other side safely, watch out for hypothermia!\n\n‌\n\n### ‘BEAT THE KNIGHTS AT THE FOOT OF THE MOUNTAIN’\n\nThe second part of this stage requires you to defeat 1 wave of undead ‘Trainee Knights’, they are unarmed, and solely use fists. Watch out for fall, it’s a long way down (and they hit quite hard).\n\n### ‘CLIMB TO THE FIRST DOOR'\n\nThe third part of this stage requires you to complete more parkour, of higher difficulty.\n\n---\n\n## STAGE 3:\n\n### ‘GET THROUGH THE TRAINING HALL’\n\nThe first part of the third stage requires you to journey to the ‘Training Hall’ where you will need to fight and kill ‘Hall Guards’ whilst doing minor parkour such as dodging spike traps & falling floors.\n\n### ‘DEFEAT TARKUS'\n\nLocked in a room, you must defeat the boss ‘Tarkus’ who has extreme physical capabilities and vampiric powers.\n\n### ‘FIND THE WAY OUT OF THE HALL'\n\nRun forth, dodging (or fighting) knight enemies to escape the miniature-labyrinth after defeating Tarkus, escaping through a tunnel, you are met with the next stage.\n\n---\n\n## STAGE 4:\n\n### ‘CLIMB THE FROZEN MOUNTAIN BEFORE THE COLD TAKES YOU’\n\nThis stage requires you to yet again, complete parkour whilst scaling the mountain, the cold is harsh, so do not be afraid to use the camp-fires when possible. This stage features falling icicles and a ton of climbing, it is hard.\n\n---\n\n## STAGE 5:\n\n### ‘DEFEAT DIO AT THE SHRINE'\n\nEverything has lead up to this, defeat the DIO boss at the top of the mountain. DIO’s moveset includes Vampiric Abilities (that are highly buffed) and the ability to summon knights to attack you.\n\n---\n\n## REGULAR DIFFICULTY: REWARDS\n\n![image.webp](https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24b074365f0a9fec9911/previews/6afa24b174365f0a9fec9a0d/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24baf5642fa16d3d2d5e/previews/6afa24baf5642fa16d3d2d9e/download/image.webp)\n\n## HARD DIFFICULTY: REWARDS\n\n![image.webp](https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa24493f38af4ce366754d/previews/6afa24493f38af4ce3667562/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6af7415f686318b25a052974/attachments/6afa245fa0f4ba9d42e290f8/previews/6afa2460a0f4ba9d42e2918a/download/image.webp)\n\n##",
+    "id": "6af7415f686318b25a052974",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5b",
+    "labels": [],
+    "name": "77 Rings Raid",
+    "pos": 140737488613376,
+    "shortLink": "DJVrV4fk",
+    "shortUrl": "https://trello.com/c/DJVrV4fk",
+    "url": "https://trello.com/c/DJVrV4fk/199-77-rings-raid"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5b",
+    "name": "Raids/Bizarre Adventures",
+    "pos": 90112
+  }
+}

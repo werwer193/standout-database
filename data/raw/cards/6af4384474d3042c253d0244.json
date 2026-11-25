@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 202611,
+      "date": "2026-11-11T09:41:38.769Z",
+      "id": "6af43852c49ac1c19712f983",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-11_104137791.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af4384474d3042c253d0244/attachments/6af43852c49ac1c19712f983/download/image_2026-11-11_104137791.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:57:38.707Z",
+    "desc": "# Gives [https://trello.com/c/BA8EVHpC/6-museum-errands](https://trello.com/c/BA8EVHpC/6-museum-errands \"smartCard-inline\")\n\n# Located inside of [https://trello.com/c/GZGsvWOH/57-museum-of-oahu](https://trello.com/c/GZGsvWOH/57-museum-of-oahu \"smartCard-inline\")",
+    "id": "6af4384474d3042c253d0244",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Museum Receptionist",
+    "pos": 140737488551936,
+    "shortLink": "2CbDZIh2",
+    "shortUrl": "https://trello.com/c/2CbDZIh2",
+    "url": "https://trello.com/c/2CbDZIh2/7-museum-receptionist"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

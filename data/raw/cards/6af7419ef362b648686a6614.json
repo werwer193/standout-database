@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-16T16:48:08.229Z",
+    "desc": "",
+    "id": "6af7419ef362b648686a6614",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6afb33aac1bbbc6f880d6cbd",
+    "labels": [],
+    "name": "RELEASE (3 Mysterious Arrows)",
+    "pos": 140737488494592,
+    "shortLink": "8m71vzMz",
+    "shortUrl": "https://trello.com/c/8m71vzMz",
+    "url": "https://trello.com/c/8m71vzMz/202-release-3-mysterious-arrows"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6afb33aac1bbbc6f880d6cbd",
+    "name": "Codes",
+    "pos": 8960
+  }
+}

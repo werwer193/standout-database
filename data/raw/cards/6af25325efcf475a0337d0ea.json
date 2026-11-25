@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 17037,
+      "date": "2026-10-02T13:37:23.310Z",
+      "id": "6af2532fefcf475a033879dc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0ea/attachments/6af2532fefcf475a033879dc/download/image.png"
+    },
+    {
+      "bytes": 9870177,
+      "date": "2026-10-02T13:40:47.258Z",
+      "id": "6af2532fefcf475a033879e3",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "2026-10-0214-34-16-ezgif.com-cut.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0ea/attachments/6af2532fefcf475a033879e3/download/2026-10-0214-34-16-ezgif.com-cut.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:00:59.306Z",
+    "desc": "**“Steady breathing restores health and strengthens dashes.”**\n\n---\n\n**Obtainment:**\n\n**‘Hamonic’** is obtained from the [https://trello.com/c/kOBYzrf7/473-jonathan-hamon](https://trello.com/c/kOBYzrf7/473-jonathan-hamon \"smartCard-inline\")   ability. Specifically, the “6” move “Hamonic Breath”\n\n![2026-10-0214-34-16-ezgif.com-cut.gif](https://trello.com/1/cards/6abfb30bb60100be29fc04f3/attachments/6abfb45ff2d001ee2a2eedd8/download/2026-10-0214-34-16-ezgif.com-cut.gif)",
+    "id": "6af25325efcf475a0337d0ea",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd54",
+    "labels": [],
+    "name": "Hamonic",
+    "pos": 140737488683008,
+    "shortLink": "3qj3HXZd",
+    "shortUrl": "https://trello.com/c/3qj3HXZd",
+    "url": "https://trello.com/c/3qj3HXZd/287-hamonic"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd54",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

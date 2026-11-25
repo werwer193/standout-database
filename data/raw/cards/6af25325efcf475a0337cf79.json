@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 26862,
+      "date": "2026-09-25T08:59:06.455Z",
+      "id": "6af2532fefcf475a03387460",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_105906441.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf79/attachments/6af2532fefcf475a03387460/download/image_2026-09-25_105906441.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.446Z",
+    "desc": "# EXP is obtainable from Quests/Storyline/Bounties\n\n# Each level gives 3 SP (Stat Points)\n\n# Max level: 50",
+    "id": "6af25325efcf475a0337cf79",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd48",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Levels and EXP",
+    "pos": 140737488375936,
+    "shortLink": "3bQPCOe0",
+    "shortUrl": "https://trello.com/c/3bQPCOe0",
+    "url": "https://trello.com/c/3bQPCOe0/164-levels-and-exp"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd48",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

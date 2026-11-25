@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 138350,
+      "date": "2026-10-11T07:36:50.934Z",
+      "id": "6af2532fefcf475a03387d92",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_093651604.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1b9/attachments/6af2532fefcf475a03387d92/download/image_2026-10-11_093651604.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:56.289Z",
+    "desc": "# Phone application that serves as a main HUD for ur gang.",
+    "id": "6af25326efcf475a0337d1b9",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4e",
+    "labels": [],
+    "name": "Gangs",
+    "pos": 140737488437248,
+    "shortLink": "ksQFIBUz",
+    "shortUrl": "https://trello.com/c/ksQFIBUz",
+    "url": "https://trello.com/c/ksQFIBUz/356-gangs"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4e",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

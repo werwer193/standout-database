@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 315409,
+      "date": "2026-10-13T10:18:34.176Z",
+      "id": "6af25330efcf475a033881a0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_121833999.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2f1/attachments/6af25330efcf475a033881a0/download/image_2026-10-13_121833999.png"
+    },
+    {
+      "bytes": 12968,
+      "date": "2026-10-13T10:19:22.215Z",
+      "id": "6af25330efcf475a033881a6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2f1/attachments/6af25330efcf475a033881a6/download/image.png"
+    },
+    {
+      "bytes": 102410,
+      "date": "2026-10-27T18:40:34.763Z",
+      "id": "6af25330efcf475a033881ae",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2f1/attachments/6af25330efcf475a033881ae/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.428Z",
+    "desc": "# Every gang can raid eachother.\n\n# **Getting raided results in losing your stored gang money.**\n\n![image.webp](https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ace05aa98b1c0179d6712e8/previews/6ace05aa98b1c0179d6713a9/download/image.webp)\n\n#\n\nUpon succesfully raiding someone you get the option to reclaim the plot/destroy the enemy gang base/keep it intact.\n\n![image.webp](https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ae0f022b25398e3d41ef97a/previews/6ae0f023b25398e3d41efca4/download/image.webp)",
+    "id": "6af25326efcf475a0337d2f1",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Raids",
+    "pos": 140737488429056,
+    "shortLink": "BcmSH9BK",
+    "shortUrl": "https://trello.com/c/BcmSH9BK",
+    "url": "https://trello.com/c/BcmSH9BK/460-raids"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

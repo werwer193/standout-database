@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:38.191Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d2eb",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Daily Quests",
+    "pos": 140737488437248,
+    "shortLink": "iErRdhYz",
+    "shortUrl": "https://trello.com/c/iErRdhYz",
+    "url": "https://trello.com/c/iErRdhYz/458-daily-quests"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

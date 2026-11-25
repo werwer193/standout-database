@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-13T17:34:00.398Z",
+    "desc": "",
+    "id": "6af74a00451a56e9b6577eec",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af4edd32c579bfa3e04bd9a",
+    "labels": [],
+    "name": "The Hustle",
+    "pos": 140737491140608,
+    "shortLink": "ZkbFtszw",
+    "shortUrl": "https://trello.com/c/ZkbFtszw",
+    "url": "https://trello.com/c/ZkbFtszw/209-the-hustle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af4edd32c579bfa3e04bd9a",
+    "name": "Alternative Color Schemes",
+    "pos": 21504
+  }
+}

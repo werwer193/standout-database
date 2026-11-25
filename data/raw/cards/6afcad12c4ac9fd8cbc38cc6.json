@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 298426,
+      "date": "2026-11-17T19:43:30.196Z",
+      "id": "6afcae62c45c1b640f8dc88e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-17_204329804.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afcad12c4ac9fd8cbc38cc6/attachments/6afcae62c45c1b640f8dc88e/download/image_2026-11-17_204329804.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-17T19:43:46.278Z",
+    "desc": "",
+    "id": "6afcad12c4ac9fd8cbc38cc6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Tarkus",
+    "pos": 140737488773120,
+    "shortLink": "vl5pyveJ",
+    "shortUrl": "https://trello.com/c/vl5pyveJ",
+    "url": "https://trello.com/c/vl5pyveJ/247-tarkus"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

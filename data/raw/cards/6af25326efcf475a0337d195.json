@@ -1,0 +1,284 @@
+{
+  "attachments": [
+    {
+      "bytes": 97598,
+      "date": "2026-10-10T20:51:16.629Z",
+      "id": "6af2532fefcf475a03387c57",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-10_225116313.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c57/download/image_2026-10-10_225116313.png"
+    },
+    {
+      "bytes": 313420,
+      "date": "2026-10-10T20:53:15.780Z",
+      "id": "6af2532fefcf475a03387c5f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-10_225315389.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c5f/download/image_2026-10-10_225315389.png"
+    },
+    {
+      "bytes": 59462,
+      "date": "2026-10-10T20:53:43.887Z",
+      "id": "6af2532fefcf475a03387c67",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-10_225343604.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c67/download/image_2026-10-10_225343604.png"
+    },
+    {
+      "bytes": 234700,
+      "date": "2026-10-10T21:00:37.946Z",
+      "id": "6af2532fefcf475a03387c6e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-10_230037433.png",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c6e/download/image_2026-10-10_230037433.png"
+    },
+    {
+      "bytes": 676358,
+      "date": "2026-10-10T21:13:48.802Z",
+      "id": "6af2532fefcf475a03387c74",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "boss.gif",
+      "pos": 140737488551936,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c74/download/boss.gif"
+    },
+    {
+      "bytes": 23932,
+      "date": "2026-10-10T21:18:09.018Z",
+      "id": "6af2532fefcf475a03387c7b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488584704,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c7b/download/image.png"
+    },
+    {
+      "bytes": 3259312,
+      "date": "2026-10-10T22:06:20.601Z",
+      "id": "6af2532fefcf475a03387c82",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "kcbarrage.gif",
+      "pos": 140737488601088,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c82/download/kcbarrage.gif"
+    },
+    {
+      "bytes": 396686,
+      "date": "2026-10-10T22:11:04.759Z",
+      "id": "6af2532fefcf475a03387c88",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "chop.gif",
+      "pos": 140737488617472,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c88/download/chop.gif"
+    },
+    {
+      "bytes": 1058224,
+      "date": "2026-10-10T22:11:59.799Z",
+      "id": "6af2532fefcf475a03387c8f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "cutchop.gif",
+      "pos": 140737488633856,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c8f/download/cutchop.gif"
+    },
+    {
+      "bytes": 616750,
+      "date": "2026-10-10T22:15:01.050Z",
+      "id": "6af2532fefcf475a03387c96",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "decree.gif",
+      "pos": 140737488650240,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2532fefcf475a03387c96/download/decree.gif"
+    },
+    {
+      "bytes": 1125827,
+      "date": "2026-10-10T22:15:34.067Z",
+      "id": "6af2533befcf475a03389d15",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "IMPALE.gif",
+      "pos": 140737488666624,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389d15/download/IMPALE.gif"
+    },
+    {
+      "bytes": 660311,
+      "date": "2026-10-10T22:17:35.735Z",
+      "id": "6af2533befcf475a03389d0f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "tandem combo.gif",
+      "pos": 140737488683008,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389d0f/download/tandem_combo.gif"
+    },
+    {
+      "bytes": 2477888,
+      "date": "2026-10-10T22:20:31.503Z",
+      "id": "6af2533befcf475a03389d09",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "epitaph.gif",
+      "pos": 140737488699392,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389d09/download/epitaph.gif"
+    },
+    {
+      "bytes": 695453,
+      "date": "2026-10-10T22:22:06.702Z",
+      "id": "6af2533befcf475a03389d02",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "TIMESKIP.gif",
+      "pos": 140737488715776,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389d02/download/TIMESKIP.gif"
+    },
+    {
+      "bytes": 3357027,
+      "date": "2026-10-10T22:22:41.158Z",
+      "id": "6af2533befcf475a03389cf5",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "TIMESKIP2.gif",
+      "pos": 140737488732160,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389cf5/download/TIMESKIP2.gif"
+    },
+    {
+      "bytes": 459755,
+      "date": "2026-10-10T22:28:35.168Z",
+      "id": "6af2533befcf475a03389cee",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "blind.gif",
+      "pos": 140737488748544,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389cee/download/blind.gif"
+    },
+    {
+      "bytes": 7606030,
+      "date": "2026-10-10T22:30:12.722Z",
+      "id": "6af2533befcf475a03389ce7",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "timeerase.gif",
+      "pos": 140737488764928,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389ce7/download/timeerase.gif"
+    },
+    {
+      "bytes": 365673,
+      "date": "2026-10-27T21:54:38.127Z",
+      "id": "6af2533befcf475a03389ce0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488781312,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6af2533befcf475a03389ce0/download/image.png"
+    },
+    {
+      "bytes": 812284,
+      "date": "2026-11-21T13:26:22.666Z",
+      "id": "6b019bfe4b9493bffc44dab1",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "decree.gif",
+      "pos": 140737488797696,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019bfe4b9493bffc44dab1/download/decree.gif"
+    },
+    {
+      "bytes": 1007837,
+      "date": "2026-11-21T13:26:41.030Z",
+      "id": "6b019c1171e3e65dcc62e273",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "decree2.gif",
+      "pos": 140737488814080,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019c1171e3e65dcc62e273/download/decree2.gif"
+    },
+    {
+      "bytes": 914895,
+      "date": "2026-11-21T13:30:38.693Z",
+      "id": "6b019cfe6f138179210976a9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "blood.gif",
+      "pos": 140737488830464,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019cfe6f138179210976a9/download/blood.gif"
+    },
+    {
+      "bytes": 1114245,
+      "date": "2026-11-21T13:30:59.307Z",
+      "id": "6b019d13759387031a344b54",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "epitaph.gif",
+      "pos": 140737488846848,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019d13759387031a344b54/download/epitaph.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-21T13:31:08.669Z",
+    "desc": "## Lore:\n\n**Diavolo’s King Crimson erases a span of time, leaving only its results. Epitaph shows him a glimpse of the future, allowing him to avoid a fate others cannot change. Doppio can borrow its arms and Epitaph without revealing the full Stand.**\n\n---\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6ae11d9e924d0a8289be80bc/previews/6ae11d9e924d0a8289be81fb/download/image.webp)\n\n![image\\_2026-10-10\\_225343604.webp](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acaa5d7cae6e6fbcc432a16/previews/6acaa5d9cae6e6fbcc432cd6/download/image_2026-10-10_225343604.webp)\n\n---\n\n# Doppio Mode: [https://trello.com/c/iMDvFDrd/407-king-crimson-doppio-moveset](https://trello.com/c/iMDvFDrd/407-king-crimson-doppio-moveset \"smartCard-inline\")\n\n---\n\n## King Of The Court (Alter Ego)\n\n**After three Frog Phone calls, the user unleashes King Crimson in its full potential. This switches the users avatar to their ALTER EGO avatar.**\n\n![boss.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acaaa8c09309818fbe5d78e/previews/6acaaa8f09309818fbe5dad0/download/boss.gif)\n\n## Two Identities\n\n**Use ALTER EGO in the character customizer to change your other form’s appearance. At stage 3, hold E to become that form. Hold it out of combat to return to Doppio at stage 0.**\n\n![image.webp](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acaab91fc631a6cdba02091/previews/6acaab91fc631a6cdba0213e/download/image.webp)\n\n**(In character customizer)**\n\n## Barrage\n\n**Hammer the enemy with a two-second barrage of punches.**\n\n**Base cooldown: 23s**\n\n![kcbarrage.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acab6dc6a20bf5a2a709812/previews/6acab6e46a20bf5a2a709e58/download/kcbarrage.gif)\n\n## Chop\n\n**Stun the enemy with a blockable chop to extend a combo. A successful hit recovers twice as fast. Has a 25% chance to cut off their left arm and deal bonus damage. Ends Time Erase.**\n\n**Base cooldown: 14s**\n\n![chop.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acab7f8a246141b013ceeb5/previews/6acab7fba246141b013cf16f/download/chop.gif)\n\n## Cutting off left arm:\n\n![cutchop.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acab82fbfa16379a340763e/previews/6acab835bfa16379a3407ad3/download/cutchop.gif)\n\n## Decree\n\n**An armored, guard-breaking strike that can be parried. Hit from behind to impale the enemy for double damage. Misses recover more slowly. Ends Time Erase.**\n\n**Base cooldown: 22s**\n\n![decree.gif](https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019bfe4b9493bffc44dab1/previews/6b019c024b9493bffc44e91e/download/decree.gif)\n\n## From behind:\n\n![decree2.gif](https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019c1171e3e65dcc62e273/previews/6b019c1471e3e65dcc62ea6d/download/decree2.gif)\n\n# Blood Blind\n\n**Spend 5 health to fling blood into an enemy’s eyes, blinding them for 3 seconds. During Time Erase, the blood stays on their face and blinds them when erasure ends.**\n\n**Base cooldown: 12s**\n\n![blood.gif](https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019cfe6f138179210976a9/previews/6b019d056f13817921098875/download/blood.gif)\n\n‌\n\n---\n\n# EX: [Awakening Moves]\n\n## Tandem Combo [2 Bars]\n\n**Send King Crimson behind an enemy for three hits. The last knocks them away. You can move and attack during the combo.**\n\n**Base cooldown: 45s**\n\n![tandem\\_combo.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acab97f056fe25f5377a6da/previews/6acab982056fe25f5377ad38/download/tandem_combo.gif)\n\n## **Time Skip [1 Bar] / HOLD: PREVIEW / RELEASE: SKIP**\n\n**Skip 2 seconds within 100 studs. Moves people, projectiles and cars forward. Also advances ongoing attacks , cooldowns, bleeding, burning and healing. Hold to choose where you appear, then release. Use Epitaph to predict where things end up.**\n\n**Base cooldown: 24s**\n\n![TIMESKIP.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acaba8e5e31e80ed776bf9a/previews/6acaba935e31e80ed776c300/download/TIMESKIP.gif)\n\n![TIMESKIP2.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acabab1fba2f358fc200e40/previews/6acababafba2f358fc201365/download/TIMESKIP2.gif)\n\n## Time Erase [2 Bars] / HOLD: DOUBLE / TAP: ERASE OR END\n\n**Leave a double behind and move unseen. Hold to choose whether it fights, runs away or stands still. The double can fight and take damage normally. Only other Time Erase users can see and hit you. Tap again to end early and reappear where you are.**\n\n**Base cooldown: 30s**\n\n**Ability Scaling: Lasts 5 seconds at 1 ability and 10 seconds at 100 Ability.**\n\n![timeerase.gif](https://trello.com/1/cards/6ac602a0a67570b152cd592a/attachments/6acabc743ddc6d8a288ba3df/previews/6acabc8b3ddc6d8a288bca3a/download/timeerase.gif)\n\n## Epitaph+ [2 Bars]\n\n**Dodge up to two hits over two seconds, or three once both arms are out. Move left or right to choose your dodge direction. Red outlines show where nearby enemies and projectiles are heading.**\n\n**Base cooldown: 18s**\n\n![epitaph.gif](https://trello.com/1/cards/6af25326efcf475a0337d195/attachments/6b019d13759387031a344b54/previews/6b019d16759387031a3453a2/download/epitaph.gif)",
+    "id": "6af25326efcf475a0337d195",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd3f",
+    "labels": [
+      {
+        "color": "sky_dark",
+        "id": "6af25326efcf475a0337d807",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 5",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d807",
+        "uses": 11
+      },
+      {
+        "color": "red",
+        "id": "6af25326efcf475a0337d7fc",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fc",
+        "uses": 40
+      },
+      {
+        "color": "blue",
+        "id": "6af25326efcf475a0337d808",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "TIME",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d808",
+        "uses": 9
+      },
+      {
+        "color": "black_dark",
+        "id": "6af25326efcf475a0337d80d",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Pinnacle",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d80d",
+        "uses": 7
+      }
+    ],
+    "name": "King Crimson (Full)",
+    "pos": 140737488354560,
+    "shortLink": "PuCb64p0",
+    "shortUrl": "https://trello.com/c/PuCb64p0",
+    "url": "https://trello.com/c/PuCb64p0/344-king-crimson-full"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd3f",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

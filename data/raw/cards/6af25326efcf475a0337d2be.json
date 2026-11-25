@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23914,
+      "date": "2026-10-11T12:18:03.822Z",
+      "id": "6af25330efcf475a033880e6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141804040.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d2be/attachments/6af25330efcf475a033880e6/download/image_2026-10-11_141804040.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:38:22.883Z",
+    "desc": "# Obtained by reaching SERIALIZED in the [https://trello.com/c/av7EpcDk/240-catalog](https://trello.com/c/av7EpcDk/240-catalog \"smartCard-inline\") tab.\n\n# **When equipped gives you:**\n\n**+8 Ability**\n\n**+6 Strength**\n\n**+6 Health**\n\n**+5% Walkspeed**\n\n# If equipped with [https://trello.com/c/yEJjHNaS/442-rohans-jacket](https://trello.com/c/yEJjHNaS/442-rohans-jacket \"smartCard-inline\") you get +10 Ability and +5% Money earned.",
+    "id": "6af25326efcf475a0337d2be",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Rohan's Pants",
+    "pos": 140737488945152,
+    "shortLink": "40Ou6PUD",
+    "shortUrl": "https://trello.com/c/40Ou6PUD",
+    "url": "https://trello.com/c/40Ou6PUD/443-rohans-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

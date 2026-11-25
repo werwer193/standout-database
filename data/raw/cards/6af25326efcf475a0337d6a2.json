@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 147456,
+      "date": "2026-11-04T16:04:33.946Z",
+      "id": "6af25330efcf475a03388a5b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-04_170433590.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d6a2/attachments/6af25330efcf475a03388a5b/download/image_2026-11-04_170433590.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:12:00.190Z",
+    "desc": "# Corroded scrap metal dug out of the beach, the same junk that floats out at sea.",
+    "id": "6af25326efcf475a0337d6a2",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Scrap",
+    "pos": 140737488617472,
+    "shortLink": "I2U4X9xN",
+    "shortUrl": "https://trello.com/c/I2U4X9xN",
+    "url": "https://trello.com/c/I2U4X9xN/775-scrap"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}

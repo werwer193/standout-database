@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:37.465Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337cfaf",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [],
+    "name": "Interactables",
+    "pos": 140737488388096,
+    "shortLink": "ogArJ60b",
+    "shortUrl": "https://trello.com/c/ogArJ60b",
+    "url": "https://trello.com/c/ogArJ60b/182-interactables"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

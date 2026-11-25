@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 294242,
+      "date": "2026-11-11T21:28:08.863Z",
+      "id": "6af4dde8a3e78ee554ea768f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "lord.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4bc/attachments/6af4dde8a3e78ee554ea768f/download/lord.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:28:12.324Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4bc",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "My Lord",
+    "pos": 140737489010688,
+    "shortLink": "lz72xifW",
+    "shortUrl": "https://trello.com/c/lz72xifW",
+    "url": "https://trello.com/c/lz72xifW/613-my-lord"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

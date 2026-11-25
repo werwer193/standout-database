@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 297804,
+      "date": "2026-11-11T21:38:26.255Z",
+      "id": "6af4e0520b92b2210a1898f1",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "flash.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4e0/attachments/6af4e0520b92b2210a1898f1/download/flash.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:38:28.724Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4e0",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Caught in 4K",
+    "pos": 140737489207296,
+    "shortLink": "vytW1Liu",
+    "shortUrl": "https://trello.com/c/vytW1Liu",
+    "url": "https://trello.com/c/vytW1Liu/625-caught-in-4k"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

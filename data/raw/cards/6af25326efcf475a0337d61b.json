@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8432,
+      "date": "2026-11-02T23:14:36.195Z",
+      "id": "6af25330efcf475a03388944",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d61b/attachments/6af25330efcf475a03388944/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-10T18:08:12.326Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d61b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd54",
+    "labels": [],
+    "name": "Emotional Damage",
+    "pos": 140737489043456,
+    "shortLink": "fc1KDKKH",
+    "shortUrl": "https://trello.com/c/fc1KDKKH",
+    "url": "https://trello.com/c/fc1KDKKH/730-emotional-damage"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd54",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

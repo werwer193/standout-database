@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 10261252,
+      "date": "2026-09-25T19:06:32.118Z",
+      "id": "6af2532fefcf475a03387498",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "arrow.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf91/attachments/6af2532fefcf475a03387498/download/arrow.gif"
+    },
+    {
+      "bytes": 10261252,
+      "date": "2026-09-25T19:06:53.845Z",
+      "id": "6af2532fefcf475a0338749f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "arrow.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf91/attachments/6af2532fefcf475a0338749f/download/arrow.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T20:34:52.939Z",
+    "desc": "# Its simple really, You get a Stand Arrow after doing the tutorial!\n\n# [https://trello.com/c/TXt4Fno5/98-mysterious-arrow](https://trello.com/c/TXt4Fno5/98-mysterious-arrow \"smartCard-inline\")",
+    "id": "6af25325efcf475a0337cf91",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd3f",
+    "labels": [],
+    "name": "How do i get a Stand?",
+    "pos": 140737488322560,
+    "shortLink": "TyEmDYSl",
+    "shortUrl": "https://trello.com/c/TyEmDYSl",
+    "url": "https://trello.com/c/TyEmDYSl/172-how-do-i-get-a-stand"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd3f",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

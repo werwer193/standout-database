@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 20542,
+      "date": "2026-11-04T10:47:03.520Z",
+      "id": "6af25330efcf475a03388a54",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-04_114703246.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d69f/attachments/6af25330efcf475a03388a54/download/image_2026-11-04_114703246.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:12:00.098Z",
+    "desc": "Lyin' Eyes\nDo The Hustle\nThe MATTEKUDASAI\nNovember Rain\nBig Mouth Strikes Again\n\nthank mr jello",
+    "id": "6af25326efcf475a0337d69f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "03/11/2026 (November Rain, The MATTEKUDASAI, Big Mouth Strikes Again, The Hustle, Lying Eyes)",
+    "pos": 140737487880192,
+    "shortLink": "GaAWTiR3",
+    "shortUrl": "https://trello.com/c/GaAWTiR3",
+    "url": "https://trello.com/c/GaAWTiR3/774-03-11-2026-november-rain-the-mattekudasai-big-mouth-strikes-again-the-hustle-lying-eyes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

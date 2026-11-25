@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 218834,
+      "date": "2026-09-25T08:12:18.740Z",
+      "id": "6af2532fefcf475a03387018",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101219055.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce77/attachments/6af2532fefcf475a03387018/download/image_2026-09-25_101219055.png"
+    },
+    {
+      "bytes": 956082,
+      "date": "2026-09-25T08:39:20.995Z",
+      "id": "6af2532fefcf475a03387020",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce77/attachments/6af2532fefcf475a03387020/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:50:00.432Z",
+    "desc": "# Provides gardening supplies and guidance.\n\n## Gives [https://trello.com/c/u53t3wIo/483-big-chops-daily-garden](https://trello.com/c/u53t3wIo/483-big-chops-daily-garden \"smartCard-inline\") quest.\n\n![image.webp](https://trello.com/1/cards/6ab56707ecb6dbcefed18348/attachments/6ab63338d3f3a79c4186cb50/previews/6ab6333ad3f3a79c4186cbe8/download/image.webp)\n\n# Located at [[https://trello.com/c/I4uc6jf8/65-big-chops-garden](https://trello.com/c/I4uc6jf8/65-big-chops-garden \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce77",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Big Chop",
+    "pos": 140737488175104,
+    "shortLink": "67A6ovLH",
+    "shortUrl": "https://trello.com/c/67A6ovLH",
+    "url": "https://trello.com/c/67A6ovLH/78-big-chop"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

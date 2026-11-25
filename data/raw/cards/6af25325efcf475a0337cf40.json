@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 55742,
+      "date": "2026-09-25T08:34:27.256Z",
+      "id": "6af2532fefcf475a0338730b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_103427408.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf40/attachments/6af2532fefcf475a0338730b/download/image_2026-09-25_103427408.png"
+    },
+    {
+      "bytes": 78538,
+      "date": "2026-09-25T08:35:06.202Z",
+      "id": "6af2532fefcf475a03387312",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cf40/attachments/6af2532fefcf475a03387312/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:53.040Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab631b500474295f47a3dd5/attachments/6ab6323a7ad49cae47f8226c/previews/6ab6323a7ad49cae47f822c0/download/image.webp)",
+    "id": "6af25325efcf475a0337cf40",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd50",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6af25326efcf475a0337d7f9",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f9",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Tomato Seed",
+    "pos": 140737488453632,
+    "shortLink": "wh1tiQAX",
+    "shortUrl": "https://trello.com/c/wh1tiQAX",
+    "url": "https://trello.com/c/wh1tiQAX/145-tomato-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd50",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 628019,
+      "date": "2026-10-04T13:23:26.736Z",
+      "id": "6af2532fefcf475a03387b1e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d13b/attachments/6af2532fefcf475a03387b1e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:55.991Z",
+    "desc": "# Talk to Howler: 0/1\n\n**Howler - You’re back. Follow me inside. We’re going to finish this conversation**\n\n# Quest Completed! + 1 Mysterious Arrow",
+    "id": "6af25325efcf475a0337d13b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd41",
+    "labels": [],
+    "name": "Return to the Yacht (Storyline #43.)",
+    "pos": 140737489076224,
+    "shortLink": "jVSWwPd7",
+    "shortUrl": "https://trello.com/c/jVSWwPd7",
+    "url": "https://trello.com/c/jVSWwPd7/314-return-to-the-yacht-storyline-43"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd41",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

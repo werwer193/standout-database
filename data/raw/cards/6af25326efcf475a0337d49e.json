@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1035155,
+      "date": "2026-11-11T21:18:47.067Z",
+      "id": "6af4dbb7580be7e002f78f6d",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "takethel.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d49e/attachments/6af4dbb7580be7e002f78f6d/download/takethel.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:18:51.489Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d49e",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Take The L",
+    "pos": 140737488846848,
+    "shortLink": "G5tGMz1D",
+    "shortUrl": "https://trello.com/c/G5tGMz1D",
+    "url": "https://trello.com/c/G5tGMz1D/603-take-the-l"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 20802,
+      "date": "2026-11-14T16:40:28.892Z",
+      "id": "6af88efcb7335cd982762bf7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-14_174028567.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af88ef6045c7181f1587262/attachments/6af88efcb7335cd982762bf7/download/image_2026-11-14_174028567.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:18:06.118Z",
+    "desc": "# Obtainable from: [https://trello.com/c/DJVrV4fk/199-77-rings-raid](https://trello.com/c/DJVrV4fk/199-77-rings-raid \"smartCard-inline\")\n\n# **When equipped gives you:**\n\n**+1 Strength**\n\n**+3 Health**\n\n**-10% Walk Speed**\n\n**+20% Damage Resistance**",
+    "id": "6af88ef6045c7181f1587262",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Tarkus's Helmet",
+    "pos": 140737489272832,
+    "shortLink": "5xm9to9D",
+    "shortUrl": "https://trello.com/c/5xm9to9D",
+    "url": "https://trello.com/c/5xm9to9D/220-tarkuss-helmet"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

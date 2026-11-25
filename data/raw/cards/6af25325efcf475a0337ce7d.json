@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 254479,
+      "date": "2026-09-24T20:44:45.247Z",
+      "id": "6af2532fefcf475a0338702c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_224445253.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce7d/attachments/6af2532fefcf475a0338702c/download/image_2026-09-24_224445253.png"
+    },
+    {
+      "bytes": 159918,
+      "date": "2026-10-18T09:15:17.888Z",
+      "id": "6af2532fefcf475a03387033",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-18_111517594.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce7d/attachments/6af2532fefcf475a03387033/download/image_2026-10-18_111517594.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.486Z",
+    "desc": "## Health: 45",
+    "id": "6af25325efcf475a0337ce7d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4b",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6af25326efcf475a0337d7fa",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fa",
+        "uses": 61
+      },
+      {
+        "color": "red_light",
+        "id": "6af25326efcf475a0337d7ff",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7ff",
+        "uses": 30
+      }
+    ],
+    "name": "Cop",
+    "pos": 140737488355328,
+    "shortLink": "FVOvkmIi",
+    "shortUrl": "https://trello.com/c/FVOvkmIi",
+    "url": "https://trello.com/c/FVOvkmIi/80-cop"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4b",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

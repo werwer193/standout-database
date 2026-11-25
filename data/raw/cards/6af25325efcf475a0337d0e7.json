@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 4952791,
+      "date": "2026-11-02T23:51:56.218Z",
+      "id": "6af2532fefcf475a033879ce",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "o0fj4Japaa5IY7F2M3mXTQ-ezgif.com-video-to-gif-converter.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0e7/attachments/6af2532fefcf475a033879ce/download/o0fj4Japaa5IY7F2M3mXTQ-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "bytes": 4952791,
+      "date": "2026-11-02T23:52:35.315Z",
+      "id": "6af2532fefcf475a033879d6",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "o0fj4Japaa5IY7F2M3mXTQ-ezgif.com-video-to-gif-converter.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337d0e7/attachments/6af2532fefcf475a033879d6/download/o0fj4Japaa5IY7F2M3mXTQ-ezgif.com-video-to-gif-converter.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:16:16.931Z",
+    "desc": "## **Perfect block an incoming guardbreak by blocking (F) just before the attack connects. Timing it correctly will negate the guardbreak move & leave your opponent open for attacks.**",
+    "id": "6af25325efcf475a0337d0e7",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd51",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d7fe",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fe",
+        "uses": 27
+      }
+    ],
+    "name": "Perfect Blocking",
+    "pos": 140737488363520,
+    "shortLink": "iahBHX3P",
+    "shortUrl": "https://trello.com/c/iahBHX3P",
+    "url": "https://trello.com/c/iahBHX3P/286-perfect-blocking"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd51",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

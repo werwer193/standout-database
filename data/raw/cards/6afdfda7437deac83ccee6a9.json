@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 53022,
+      "date": "2026-11-18T19:34:05.166Z",
+      "id": "6afdfdad48041996172234cb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdfda7437deac83ccee6a9/attachments/6afdfdad48041996172234cb/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:35:52.570Z",
+    "desc": "# Obtained by reaching STORYBOARD in the [https://trello.com/c/av7EpcDk/240-catalog](https://trello.com/c/av7EpcDk/240-catalog \"smartCard-inline\") tab.\n\n# **When equipped gives you:**\n\n**+5 Ability**\n\n**+3 Strength**\n\n**+3% Money Earned**",
+    "id": "6afdfda7437deac83ccee6a9",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Rohan's G-Pen",
+    "pos": 140737488953344,
+    "shortLink": "1UDzjaQA",
+    "shortUrl": "https://trello.com/c/1UDzjaQA",
+    "url": "https://trello.com/c/1UDzjaQA/257-rohans-g-pen"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

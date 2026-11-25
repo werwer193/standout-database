@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 357169,
+      "date": "2026-09-25T08:10:17.479Z",
+      "id": "6af2532fefcf475a03387002",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101017856.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce71/attachments/6af2532fefcf475a03387002/download/image_2026-09-25_101017856.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:50:16.329Z",
+    "desc": "# Provides Bounty Quests.\n\n# Located in [[https://trello.com/c/t6n4WuUm/55-police-station](https://trello.com/c/t6n4WuUm/55-police-station \"smartCard-inline\") ]",
+    "id": "6af25325efcf475a0337ce71",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Petyr",
+    "pos": 140737488191488,
+    "shortLink": "BqNH1GTb",
+    "shortUrl": "https://trello.com/c/BqNH1GTb",
+    "url": "https://trello.com/c/BqNH1GTb/76-petyr"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

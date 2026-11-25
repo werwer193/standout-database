@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 30004,
+      "date": "2026-10-11T08:27:26.158Z",
+      "id": "6af25330efcf475a03387fcf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_102726766.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d246/attachments/6af25330efcf475a03387fcf/download/image_2026-10-11_102726766.png"
+    },
+    {
+      "bytes": 32519,
+      "date": "2026-10-11T16:26:02.872Z",
+      "id": "6af25330efcf475a03387fd4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d246/attachments/6af25330efcf475a03387fd4/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:56.871Z",
+    "desc": "**Visit Rohan Kishibe outside his front doors. Challenge him to draw a Heaven’s Door head, and finish yours before he finishes his.**\n\n**Level Required: 25**\n\n**Time Limit: 9 Minutes**\n\n# Rewards:\n\n![image.webp](https://trello.com/1/cards/6acb4844ce4b25a483d44a17/attachments/6acbb89a47c7e3b1b69c80d8/previews/6acbb89b47c7e3b1b69c80e8/download/image.webp)",
+    "id": "6af25326efcf475a0337d246",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4c",
+    "labels": [],
+    "name": "Rohan's Drawing Contest",
+    "pos": 140737488502784,
+    "shortLink": "gMwXwSqT",
+    "shortUrl": "https://trello.com/c/gMwXwSqT",
+    "url": "https://trello.com/c/gMwXwSqT/403-rohans-drawing-contest"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4c",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

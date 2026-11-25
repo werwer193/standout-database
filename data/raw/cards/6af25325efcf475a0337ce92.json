@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 161169,
+      "date": "2026-10-27T18:56:18.484Z",
+      "id": "6af2532fefcf475a033870a9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_195618108.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337ce92/attachments/6af2532fefcf475a033870a9/download/image_2026-10-27_195618108.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:52.202Z",
+    "desc": "",
+    "id": "6af25325efcf475a0337ce92",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "sky_dark",
+        "id": "6af25326efcf475a0337d807",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 5",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d807",
+        "uses": 11
+      },
+      {
+        "color": "red",
+        "id": "6af25326efcf475a0337d7fc",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fc",
+        "uses": 40
+      }
+    ],
+    "name": "Sticky Fingers",
+    "pos": 140737488513024,
+    "shortLink": "8bBAdbzK",
+    "shortUrl": "https://trello.com/c/8bBAdbzK",
+    "url": "https://trello.com/c/8bBAdbzK/87-sticky-fingers"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

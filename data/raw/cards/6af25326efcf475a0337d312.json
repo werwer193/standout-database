@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 43175,
+      "date": "2026-10-13T17:02:56.031Z",
+      "id": "6af25330efcf475a0338822d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_190255747.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d312/attachments/6af25330efcf475a0338822d/download/image_2026-10-13_190255747.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:57.568Z",
+    "desc": "Added Hamon training (talk to lisa lisa)\nTalk to her to complete basic hamon training, then pick a path\nHas quests for all 3 hamon paths (zeppeli hamon soon...)\nBilly still unlocks Hermit Purple for hamon users",
+    "id": "6af25326efcf475a0337d312",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd45",
+    "labels": [],
+    "name": "13/10/2026 (Hamon Training, Hamon Paths, Lisa Lisa)",
+    "pos": 140737488142336,
+    "shortLink": "eOTeUYwZ",
+    "shortUrl": "https://trello.com/c/eOTeUYwZ",
+    "url": "https://trello.com/c/eOTeUYwZ/471-13-10-2026-hamon-training-hamon-paths-lisa-lisa"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd45",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

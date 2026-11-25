@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 617013,
+      "date": "2026-11-11T21:15:41.327Z",
+      "id": "6af4dafd952f0d167e7ea599",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "relief.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d495/attachments/6af4dafd952f0d167e7ea599/download/relief.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:15:45.250Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d495",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Relief",
+    "pos": 140737488797696,
+    "shortLink": "eqmoAwQi",
+    "shortUrl": "https://trello.com/c/eqmoAwQi",
+    "url": "https://trello.com/c/eqmoAwQi/600-relief"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

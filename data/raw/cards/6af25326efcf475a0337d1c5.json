@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 505132,
+      "date": "2026-10-11T15:55:09.379Z",
+      "id": "6af2532fefcf475a03387db2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_175509018.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d1c5/attachments/6af2532fefcf475a03387db2/download/image_2026-10-11_175509018.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-09T23:11:56.432Z",
+    "desc": "# Every base comes with a free garage!",
+    "id": "6af25326efcf475a0337d1c5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd55",
+    "labels": [],
+    "name": "Gang Vehicle",
+    "pos": 140737488388096,
+    "shortLink": "5m54BztG",
+    "shortUrl": "https://trello.com/c/5m54BztG",
+    "url": "https://trello.com/c/5m54BztG/360-gang-vehicle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd55",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

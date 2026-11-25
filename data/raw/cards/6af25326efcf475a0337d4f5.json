@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 171196,
+      "date": "2026-11-11T21:43:47.692Z",
+      "id": "6af4e193be8f80a593a87d0e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "dap.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4f5/attachments/6af4e193be8f80a593a87d0e/download/dap.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:43:50.603Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4f5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Dap Up",
+    "pos": 140737489321984,
+    "shortLink": "ixEtNtUK",
+    "shortUrl": "https://trello.com/c/ixEtNtUK",
+    "url": "https://trello.com/c/ixEtNtUK/632-dap-up"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

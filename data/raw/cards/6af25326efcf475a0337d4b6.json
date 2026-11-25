@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1745587,
+      "date": "2026-11-11T21:26:35.688Z",
+      "id": "6af4dd8b42e979fff0b539e9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "light.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d4b6/attachments/6af4dd8b42e979fff0b539e9/download/light.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:26:42.936Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d4b6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Superlight",
+    "pos": 140737488977920,
+    "shortLink": "vRuj58Vn",
+    "shortUrl": "https://trello.com/c/vRuj58Vn",
+    "url": "https://trello.com/c/vRuj58Vn/611-superlight"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

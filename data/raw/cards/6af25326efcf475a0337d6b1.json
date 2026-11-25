@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-16T16:48:14.550Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d6b1",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5d",
+    "labels": [],
+    "name": "----",
+    "pos": 140737488453632,
+    "shortLink": "GrTb4PRn",
+    "shortUrl": "https://trello.com/c/GrTb4PRn",
+    "url": "https://trello.com/c/GrTb4PRn/780-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5d",
+    "name": "FAQ (Frequently Asked Questions)",
+    "pos": 8704
+  }
+}

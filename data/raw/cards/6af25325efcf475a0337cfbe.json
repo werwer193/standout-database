@@ -1,0 +1,95 @@
+{
+  "attachments": [
+    {
+      "bytes": 327009,
+      "date": "2026-09-27T08:22:00.217Z",
+      "id": "6af2532fefcf475a0338754d",
+      "isUpload": true,
+      "mimeType": "video/mp4",
+      "name": "gun.mp4",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfbe/attachments/6af2532fefcf475a0338754d/download/gun.mp4"
+    },
+    {
+      "bytes": 473333,
+      "date": "2026-09-27T08:22:33.150Z",
+      "id": "6af2532fefcf475a03387554",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "gun2.gif",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfbe/attachments/6af2532fefcf475a03387554/download/gun2.gif"
+    },
+    {
+      "bytes": 770691,
+      "date": "2026-10-04T21:40:52.469Z",
+      "id": "6af2532fefcf475a0338755b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "gasss.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfbe/attachments/6af2532fefcf475a0338755b/download/gasss.gif"
+    },
+    {
+      "bytes": 609888,
+      "date": "2026-10-18T09:31:57.873Z",
+      "id": "6af2532fefcf475a03387561",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "gas.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6af25325efcf475a0337cfbe/attachments/6af2532fefcf475a03387561/download/gas.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T01:10:17.765Z",
+    "desc": "# Can be utilized by stands and sub-abilities like [https://trello.com/c/rPyyjL5D/28-magicians-red](https://trello.com/c/rPyyjL5D/28-magicians-red \"smartCard-inline\")  and [https://trello.com/c/kOBYzrf7/473-jonathan-hamon](https://trello.com/c/kOBYzrf7/473-jonathan-hamon \"smartCard-inline\")  and any ability with a gun.\n\n![gun2.gif](https://trello.com/1/cards/6ab86f455ef069af1423c1d8/attachments/6ab8d249da066eed5ce713ef/previews/6ab8d24dda066eed5ce715b5/download/gun2.gif)\n\n## Infused with Hamon:\n\n![throwgas.gif](https://trello.com/1/cards/6ab86f455ef069af1423c1d8/attachments/6ab873ab29bc46fb4844b882/previews/6ab873b729bc46fb4844c3d6/download/throwgas.gif)",
+    "id": "6af25325efcf475a0337cfbe",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd53",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6af25326efcf475a0337d805",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d805",
+        "uses": 11
+      },
+      {
+        "color": "orange_dark",
+        "id": "6af25326efcf475a0337d804",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "ELEMENT",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d804",
+        "uses": 12
+      },
+      {
+        "color": "red_dark",
+        "id": "6af25326efcf475a0337d809",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d809",
+        "uses": 9
+      }
+    ],
+    "name": "Gasoline Cans",
+    "pos": 140737488369664,
+    "shortLink": "KGI5jcx3",
+    "shortUrl": "https://trello.com/c/KGI5jcx3",
+    "url": "https://trello.com/c/KGI5jcx3/187-gasoline-cans"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd53",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

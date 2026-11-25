@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 602475,
+      "date": "2026-11-11T21:09:39.219Z",
+      "id": "6af4d9937eaa776e3c57ac85",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "power.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d480/attachments/6af4d9937eaa776e3c57ac85/download/power.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T21:09:44.588Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d480",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Power Up",
+    "pos": 140737488683008,
+    "shortLink": "FwRDxFiw",
+    "shortUrl": "https://trello.com/c/FwRDxFiw",
+    "url": "https://trello.com/c/FwRDxFiw/593-power-up"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

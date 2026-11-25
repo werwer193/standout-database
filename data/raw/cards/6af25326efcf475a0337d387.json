@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 163579,
+      "date": "2026-10-26T21:06:46.388Z",
+      "id": "6af25330efcf475a033884b9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_220646046.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d387/attachments/6af25330efcf475a033884b9/download/image_2026-10-26_220646046.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:55:51.026Z",
+    "desc": "# Lets you rent a raft ([https://trello.com/c/lxwA4caq/159-boats](https://trello.com/c/lxwA4caq/159-boats \"smartCard-inline\") ) for 100 [https://trello.com/c/Fsc3Vx1q/162-coins](https://trello.com/c/Fsc3Vx1q/162-coins \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d387",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4a",
+    "labels": [],
+    "name": "Dockhand",
+    "pos": 140737488470016,
+    "shortLink": "M213mSEt",
+    "shortUrl": "https://trello.com/c/M213mSEt",
+    "url": "https://trello.com/c/M213mSEt/510-dockhand"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4a",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

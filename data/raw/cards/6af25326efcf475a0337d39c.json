@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 1800,
+      "date": "2026-10-26T20:25:49.889Z",
+      "id": "6af25330efcf475a033884ee",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_212549428.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d39c/attachments/6af25330efcf475a033884ee/download/image_2026-10-26_212549428.png"
+    },
+    {
+      "bytes": 1811,
+      "date": "2026-10-26T20:26:04.804Z",
+      "id": "6af25330efcf475a033884f3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_212604397.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d39c/attachments/6af25330efcf475a033884f3/download/image_2026-10-26_212604397.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-11T19:36:11.758Z",
+    "desc": "# **When equipped gives you:**\n\n**+6 Ability**\n**+8 Damage**\n**+8 Health**\n**+5% Water Stand Damage**\n\n# Obtainable from [https://trello.com/c/I38LveAq/488-train-raid](https://trello.com/c/I38LveAq/488-train-raid \"smartCard-inline\") ,[https://trello.com/c/UeLLY8B7/534-train-shop](https://trello.com/c/UeLLY8B7/534-train-shop \"smartCard-inline\")",
+    "id": "6af25326efcf475a0337d39c",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd58",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6af25326efcf475a0337d7fb",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7fb",
+        "uses": 61
+      }
+    ],
+    "name": "Pesci's Jacket",
+    "pos": 140737489125376,
+    "shortLink": "W365lUC8",
+    "shortUrl": "https://trello.com/c/W365lUC8",
+    "url": "https://trello.com/c/W365lUC8/517-pescis-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd58",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

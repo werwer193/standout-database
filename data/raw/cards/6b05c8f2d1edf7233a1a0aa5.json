@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-24T17:29:30.757Z",
+    "desc": "",
+    "id": "6b05c8f2d1edf7233a1a0aa5",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd46",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6af25326efcf475a0337d819",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Part 8",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d819",
+        "uses": 3
+      }
+    ],
+    "name": "Rock Human",
+    "pos": 140737488302272,
+    "shortLink": "zW2GGMyk",
+    "shortUrl": "https://trello.com/c/zW2GGMyk",
+    "url": "https://trello.com/c/zW2GGMyk/285-rock-human"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd46",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 29696
+  }
+}

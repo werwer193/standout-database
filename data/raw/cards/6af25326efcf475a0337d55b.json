@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 281766,
+      "date": "2026-09-24T21:21:00.822Z",
+      "id": "6af25330efcf475a03388747",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_232100973.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d55b/attachments/6af25330efcf475a03388747/download/image_2026-09-24_232100973.png"
+    },
+    {
+      "bytes": 269984,
+      "date": "2026-11-04T15:56:36.299Z",
+      "id": "6af25330efcf475a0338874e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-04_165635774.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6af25326efcf475a0337d55b/attachments/6af25330efcf475a0338874e/download/image_2026-11-04_165635774.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-10T21:22:00.771Z",
+    "desc": "# **“evil bandit beater quest”**\n\n**Quest from:** [https://trello.com/c/rCIOgmYu/75-usagi](https://trello.com/c/rCIOgmYu/75-usagi \"smartCard-inline\")\n\n## Quest:\n\n**Defeat Bandits 0/5**",
+    "id": "6af25326efcf475a0337d55b",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd4d",
+    "labels": [],
+    "name": "Bandit Problem",
+    "pos": 140737488427008,
+    "shortLink": "N0G5G6hp",
+    "shortUrl": "https://trello.com/c/N0G5G6hp",
+    "url": "https://trello.com/c/N0G5G6hp/666-bandit-problem"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd4d",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-11-11T21:07:42.194Z",
+    "desc": "",
+    "id": "6af25326efcf475a0337d483",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd5a",
+    "labels": [],
+    "name": "Rick Roll",
+    "pos": 140737488699392,
+    "shortLink": "jPK6JVTz",
+    "shortUrl": "https://trello.com/c/jPK6JVTz",
+    "url": "https://trello.com/c/jPK6JVTz/594-rick-roll"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd5a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

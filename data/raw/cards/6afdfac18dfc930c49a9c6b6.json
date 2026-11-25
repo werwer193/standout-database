@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 30781,
+      "date": "2026-11-18T19:23:10.225Z",
+      "id": "6afdfb1edb13a74702538f02",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6afdfac18dfc930c49a9c6b6/attachments/6afdfb1edb13a74702538f02/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-18T19:24:00.074Z",
+    "desc": "# Obtained from: [https://trello.com/c/DJVrV4fk/199-77-rings-raid](https://trello.com/c/DJVrV4fk/199-77-rings-raid \"smartCard-inline\")\n\n# Join this old knight’s gold sword crossguard to the blade and handle at a workbench.",
+    "id": "6afdfac18dfc930c49a9c6b6",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6af25325efcf475a0337cd47",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 131
+      }
+    ],
+    "name": "Pluck Guard",
+    "pos": 140737488715776,
+    "shortLink": "mbE4ADVm",
+    "shortUrl": "https://trello.com/c/mbE4ADVm",
+    "url": "https://trello.com/c/mbE4ADVm/255-pluck-guard"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6af25325efcf475a0337cd47",
+    "name": "Items",
+    "pos": 40960
+  }
+}
