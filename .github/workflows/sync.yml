@@ -38,7 +38,7 @@ jobs:
           from urllib.parse import urlencode, urlsplit, urlunsplit
           from urllib.request import Request, urlopen
           
-          BOARD = '7IlUxQPN'
+          BOARD = 'VDzjwDz2'
           ROOT = Path.cwd()
           DATA = ROOT / 'data'
           BASE = 'https://api.trello.com/1'
