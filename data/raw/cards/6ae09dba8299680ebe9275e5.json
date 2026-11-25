@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:48:58.405Z",
+    "desc": "",
+    "id": "6ae09dba8299680ebe9275e5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Arms Folded (Right)",
+    "pos": 140737489387520,
+    "shortLink": "a7KRrFmW",
+    "shortUrl": "https://trello.com/c/a7KRrFmW",
+    "url": "https://trello.com/c/a7KRrFmW/706-arms-folded-right"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

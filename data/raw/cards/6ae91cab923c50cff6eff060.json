@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 13793,
+      "date": "2026-11-02T23:28:45.691Z",
+      "id": "6ae91cadaae54e75fbe5e6b5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91cab923c50cff6eff060/attachments/6ae91cadaae54e75fbe5e6b5/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:28:51.906Z",
+    "desc": "",
+    "id": "6ae91cab923c50cff6eff060",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Withered",
+    "pos": 140737489551360,
+    "shortLink": "srSlByOR",
+    "shortUrl": "https://trello.com/c/srSlByOR",
+    "url": "https://trello.com/c/srSlByOR/837-withered"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

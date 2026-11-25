@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 307442,
+      "date": "2026-09-24T22:09:23.847Z",
+      "id": "6ab59f9323f266a22d1bf661",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_000923971.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59f765d7ad940be05a465/attachments/6ab59f9323f266a22d1bf661/download/image_2026-09-25_000923971.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:43:33.063Z",
+    "desc": "# Extract the Bags' Groove units 0/5\n\n# Quest Completed! +650 EXP",
+    "id": "6ab59f765d7ad940be05a465",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Extract Bags' Groove (Storyline #31.)",
+    "pos": 140737488879616,
+    "shortLink": "K1A4dVYL",
+    "shortUrl": "https://trello.com/c/K1A4dVYL",
+    "url": "https://trello.com/c/K1A4dVYL/144-extract-bags-groove-storyline-31"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5289,
+      "date": "2026-11-02T23:24:27.457Z",
+      "id": "6ae91bab815e43c98927a0a8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91ba9e0001b4021812427/attachments/6ae91bab815e43c98927a0a8/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:24:28.872Z",
+    "desc": "",
+    "id": "6ae91ba9e0001b4021812427",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Ripple",
+    "pos": 140737489338368,
+    "shortLink": "CPOfTHQb",
+    "shortUrl": "https://trello.com/c/CPOfTHQb",
+    "url": "https://trello.com/c/CPOfTHQb/824-ripple"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:18:59.091Z",
+    "desc": "",
+    "id": "6ab62e6bfcad8a5475a1a4fa",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "---",
+    "pos": 140737488338944,
+    "shortLink": "7Assf5OX",
+    "shortUrl": "https://trello.com/c/7Assf5OX",
+    "url": "https://trello.com/c/7Assf5OX/160-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

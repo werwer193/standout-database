@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 2708003,
+      "date": "2026-10-04T21:44:16.939Z",
+      "id": "6ac2c8b0bb8686dada437b83",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hydrant.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab8714f859785c747dfc6f8/attachments/6ac2c8b0bb8686dada437b83/download/hydrant.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-04T21:44:27.055Z",
+    "desc": "# Can be utilized by stands like [https://trello.com/c/nDxQ9ZT6/208-boiling-water](https://trello.com/c/nDxQ9ZT6/208-boiling-water \"smartCard-inline\")  and [https://trello.com/c/ScxMTmo1/46-dark-blue-moon](https://trello.com/c/ScxMTmo1/46-dark-blue-moon \"smartCard-inline\")",
+    "id": "6ab8714f859785c747dfc6f8",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [
+      {
+        "color": "red_dark",
+        "id": "6ab873e28d0d748697c44f49",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873e28d0d748697c44f49",
+        "uses": 9
+      },
+      {
+        "color": "orange_dark",
+        "id": "6ab6608a115e4a4cfef427ab",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "ELEMENT",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6608a115e4a4cfef427ab",
+        "uses": 11
+      }
+    ],
+    "name": "Fire Hydrants",
+    "pos": 140737488383936,
+    "shortLink": "xElvXdJW",
+    "shortUrl": "https://trello.com/c/xElvXdJW",
+    "url": "https://trello.com/c/xElvXdJW/230-fire-hydrants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

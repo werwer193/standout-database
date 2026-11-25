@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 369445,
+      "date": "2026-10-04T21:41:36.300Z",
+      "id": "6ac2c810b8e361be9f8f7792",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "table.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab86f4827b3d31ad6fb5c84/attachments/6ac2c810b8e361be9f8f7792/download/table.gif"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-18T09:37:07.781Z",
+    "desc": "",
+    "id": "6ab86f4827b3d31ad6fb5c84",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6ab873f3761b94ac402e36f6",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873f3761b94ac402e36f6",
+        "uses": 11
+      },
+      {
+        "color": "red_dark",
+        "id": "6ab873e28d0d748697c44f49",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873e28d0d748697c44f49",
+        "uses": 9
+      }
+    ],
+    "name": "Tables",
+    "pos": 140737488370688,
+    "shortLink": "8KQ4bCN4",
+    "shortUrl": "https://trello.com/c/8KQ4bCN4",
+    "url": "https://trello.com/c/8KQ4bCN4/224-tables"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 55050,
+      "date": "2026-10-19T15:37:45.525Z",
+      "id": "6ad639490ab25737e077c84d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-19_173745294.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ad6393c691af63b68e767be/attachments/6ad639490ab25737e077c84d/download/image_2026-10-19_173745294.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-19T15:37:53.110Z",
+    "desc": "Fixed walking heart + hamon = fall in water bug\nFixed walking back into ts not stopping u bug\nFixed emote wheel resolution\nFixed underworld global sfX\nFixed weird subability keybinds\nFixed cinderlla + smooth operators maybe i think idk i hope hard to test myself\nFixed hypnosis on pilot\nFixed mandom rwind duping rapier\nFixed Armor rewind stuff\nFixed mr pres blocking infront of u\nFixed kc frog spwaning outside of train\nFixed tower needle\nFixed bandit problem rewind\nFixed hermit purple rewind sutf\nFixed strength turning speed\nMade hamon pillar have less fall dmg",
+    "id": "6ad6393c691af63b68e767be",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "19/10/2026 (Bug Fixes)",
+    "pos": 140737488076800,
+    "shortLink": "GuzbnB94",
+    "shortUrl": "https://trello.com/c/GuzbnB94",
+    "url": "https://trello.com/c/GuzbnB94/559-19-10-2026-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

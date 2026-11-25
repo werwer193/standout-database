@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 9058,
+      "date": "2026-09-25T08:59:33.448Z",
+      "id": "6ab637f52881d3402b35d1a5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_105933443.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab637b18014dbbf367d47df/attachments/6ab637f52881d3402b35d1a5/download/image_2026-09-25_105933443.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-30T19:44:28.169Z",
+    "desc": "",
+    "id": "6ab637b18014dbbf367d47df",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Status Effects",
+    "pos": 140737488355328,
+    "shortLink": "CyhCb0PZ",
+    "shortUrl": "https://trello.com/c/CyhCb0PZ",
+    "url": "https://trello.com/c/CyhCb0PZ/190-status-effects"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

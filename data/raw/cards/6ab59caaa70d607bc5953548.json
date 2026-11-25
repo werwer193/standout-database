@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 155115,
+      "date": "2026-09-24T21:57:25.954Z",
+      "id": "6ab59cc564b43a68b3096ecc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_235726076.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59caaa70d607bc5953548/attachments/6ab59cc564b43a68b3096ecc/download/image_2026-09-24_235726076.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:43:06.693Z",
+    "desc": "# Talk to Jodio about the hospital plan 0/1\n\n**Jodio - Stick together. If something goes wrong, I’d rather hear about it before it turns into a fight.**\n\n**–> I’ll keep that in mind.**\n\n**Jodio - Usagi’s eye is bleeding, and Charming Man says the thing inside him is moving in a pattern. Get him to the hospital ICU first. If White’s tablet is still there, Dragona has one chance to file against HOWLER before we run the MRI.**\n\n**–> Get to the hospital.**\n\n**Quest Completed! +550 EXP**\n\n**–> Not yet**",
+    "id": "6ab59caaa70d607bc5953548",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Bags' Groove Symptoms (Storyline #25.)",
+    "pos": 140737488781312,
+    "shortLink": "Z7B1kZNH",
+    "shortUrl": "https://trello.com/c/Z7B1kZNH",
+    "url": "https://trello.com/c/Z7B1kZNH/138-bags-groove-symptoms-storyline-25"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

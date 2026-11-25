@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 167578,
+      "date": "2026-09-25T13:45:59.629Z",
+      "id": "6ab67b174f05802d02269d75",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_154558928.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab67b12ace7ad5dce53ed50/attachments/6ab67b174f05802d02269d75/download/image_2026-09-25_154558928.png"
+    },
+    {
+      "bytes": 125216,
+      "date": "2026-10-26T20:53:06.473Z",
+      "id": "6adfbdb24a4b9f40107c23a8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_215306075.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab67b12ace7ad5dce53ed50/attachments/6adfbdb24a4b9f40107c23a8/download/image_2026-10-26_215306075.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-27T22:29:41.681Z",
+    "desc": "# Located at [[https://trello.com/c/Hy15S0TX/72-museum-of-oahu](https://trello.com/c/Hy15S0TX/72-museum-of-oahu \"smartCard-inline\") ]\n\n# Gives Quest: [https://trello.com/c/WcKxU2ip/509-bandit-problem](https://trello.com/c/WcKxU2ip/509-bandit-problem \"smartCard-inline\")",
+    "id": "6ab67b12ace7ad5dce53ed50",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Bukay",
+    "pos": 140737488355328,
+    "shortLink": "DCkJv9PV",
+    "shortUrl": "https://trello.com/c/DCkJv9PV",
+    "url": "https://trello.com/c/DCkJv9PV/202-bukay"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 473450,
+      "date": "2026-10-04T21:42:30.074Z",
+      "id": "6ac2c846d2789a0eac4971b5",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "light.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab8705bc438b247d33e546c/attachments/6ac2c846d2789a0eac4971b5/download/light.gif"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-18T09:37:10.848Z",
+    "desc": "",
+    "id": "6ab8705bc438b247d33e546c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6ab873f3761b94ac402e36f6",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873f3761b94ac402e36f6",
+        "uses": 11
+      },
+      {
+        "color": "red_dark",
+        "id": "6ab873e28d0d748697c44f49",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873e28d0d748697c44f49",
+        "uses": 9
+      }
+    ],
+    "name": "Lights",
+    "pos": 140737488379776,
+    "shortLink": "E40NSDKg",
+    "shortUrl": "https://trello.com/c/E40NSDKg",
+    "url": "https://trello.com/c/E40NSDKg/229-lights"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

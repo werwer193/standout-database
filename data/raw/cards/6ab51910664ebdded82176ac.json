@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 3108758,
+      "date": "2026-09-24T12:39:18.279Z",
+      "id": "6ab519f6369b03fc014311c5",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hamon.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab51910664ebdded82176ac/attachments/6ab519f6369b03fc014311c5/download/hamon.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-24T12:40:44.486Z",
+    "desc": "**The Ripple (or Hamon) is energy identical to the Sun's rays, which the human body can produce through controlled breathing, having the effect of producing ripples of energy propagating from the bloodstream to the rest of the body and other objects in contact with it. The Ripple manifests itself as electricity-like sparks, and it can be seen by ordinary humans.**\n**Ripple can also affect non-living things. An object charged with Ripple energy will have one or several attributes enhanced by the energy, making it a more effective tool, or weapon. Liquids conduct the Ripple especially well,It is mentioned by Joseph Joestar that objects covered in oil can conduct Ripple much easier. However while all materials can conduct the Ripple more or less well, an inorganic material such as metal cannot store the energy, which simply passes through.**\n\n**Hamon is mainly used to defeat vampires as it is used to channel sunlight into a punch through a vampire's body.**",
+    "id": "6ab51910664ebdded82176ac",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab518fb3e7e842eb834347a",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "What is Hamon?",
+    "pos": 140737488371712,
+    "shortLink": "uve9QgFv",
+    "shortUrl": "https://trello.com/c/uve9QgFv",
+    "url": "https://trello.com/c/uve9QgFv/58-what-is-hamon"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab518fb3e7e842eb834347a",
+    "name": "For people who aren't familiar with JoJo",
+    "pos": 4096
+  }
+}

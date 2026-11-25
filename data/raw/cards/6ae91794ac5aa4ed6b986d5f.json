@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5810,
+      "date": "2026-11-02T23:07:09.119Z",
+      "id": "6ae9179d745562b3339c0af0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91794ac5aa4ed6b986d5f/attachments/6ae9179d745562b3339c0af0/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:07:11.313Z",
+    "desc": "",
+    "id": "6ae91794ac5aa4ed6b986d5f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Bleed",
+    "pos": 140737488863232,
+    "shortLink": "sqK23k0B",
+    "shortUrl": "https://trello.com/c/sqK23k0B",
+    "url": "https://trello.com/c/sqK23k0B/794-bleed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8673,
+      "date": "2026-11-02T23:16:46.549Z",
+      "id": "6ae919def012e6144ff72673",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae919d71e7f8a5658361b1a/attachments/6ae919def012e6144ff72673/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:16:48.008Z",
+    "desc": "",
+    "id": "6ae919d71e7f8a5658361b1a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Miracle",
+    "pos": 140737489108992,
+    "shortLink": "B9cJeTAm",
+    "shortUrl": "https://trello.com/c/B9cJeTAm",
+    "url": "https://trello.com/c/B9cJeTAm/809-miracle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

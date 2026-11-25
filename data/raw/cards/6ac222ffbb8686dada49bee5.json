@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 678270,
+      "date": "2026-10-04T09:57:33.335Z",
+      "id": "6ac2230d6079b9c92e6ec4a2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac222ffbb8686dada49bee5/attachments/6ac2230d6079b9c92e6ec4a2/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-24T16:03:46.652Z",
+    "desc": "**Stand:** [https://trello.com/c/7XudWHzF/3-star-platinum](https://trello.com/c/7XudWHzF/3-star-platinum \"smartCard-inline\")\n\n**Health: 800**\n\n**Spawns during the day.**\n\n**Drops scale with damage dealt.**\n\n**Can drop:**\n\n[https://trello.com/c/76uctunM/120-mysterious-arrow](https://trello.com/c/76uctunM/120-mysterious-arrow \"smartCard-inline\")[https://trello.com/c/oMrSWmgY/480-jotaros-pants](https://trello.com/c/oMrSWmgY/480-jotaros-pants \"smartCard-inline\") [https://trello.com/c/p34cpe7r/479-jotaros-jacket](https://trello.com/c/p34cpe7r/479-jotaros-jacket \"smartCard-inline\")[https://trello.com/c/aUwXPT3l/508-stand-chip](https://trello.com/c/aUwXPT3l/508-stand-chip \"smartCard-inline\") (Star Platinum)",
+    "id": "6ac222ffbb8686dada49bee5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432940afd4f03bd3cb643",
+    "labels": [
+      {
+        "color": "blue_dark",
+        "id": "6ab6625cdf15cdb7650597f2",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6625cdf15cdb7650597f2",
+        "uses": 12
+      },
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      }
+    ],
+    "name": "Jotaro",
+    "pos": 140737488330752,
+    "shortLink": "GJLelhlD",
+    "shortUrl": "https://trello.com/c/GJLelhlD",
+    "url": "https://trello.com/c/GJLelhlD/346-jotaro"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432940afd4f03bd3cb643",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

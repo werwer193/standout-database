@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 2425,
+      "date": "2026-11-03T00:05:55.352Z",
+      "id": "6ae9256328f496d08698fa9c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09cb84e6c30de1fb6ca31/attachments/6ae9256328f496d08698fa9c/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:06:29.691Z",
+    "desc": "",
+    "id": "6ae09cb84e6c30de1fb6ca31",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Angry Cry",
+    "pos": 140737488617472,
+    "shortLink": "Cbd7chvP",
+    "shortUrl": "https://trello.com/c/Cbd7chvP",
+    "url": "https://trello.com/c/Cbd7chvP/634-angry-cry"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

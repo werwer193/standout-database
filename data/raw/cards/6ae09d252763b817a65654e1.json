@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 535993,
+      "date": "2026-10-30T08:52:44.250Z",
+      "id": "6ae45adc7505a5b4181e8e1b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "grave.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09d252763b817a65654e1/attachments/6ae45adc7505a5b4181e8e1b/download/grave.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T08:52:49.211Z",
+    "desc": "",
+    "id": "6ae09d252763b817a65654e1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Packwatch",
+    "pos": 140737488650240,
+    "shortLink": "0nUavK6S",
+    "shortUrl": "https://trello.com/c/0nUavK6S",
+    "url": "https://trello.com/c/0nUavK6S/661-packwatch"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

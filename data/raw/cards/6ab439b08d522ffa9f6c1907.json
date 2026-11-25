@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 304909,
+      "date": "2026-09-25T15:11:59.505Z",
+      "id": "6ab68f3f250de6f460605158",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_171159234.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab439b08d522ffa9f6c1907/attachments/6ab68f3f250de6f460605158/download/image_2026-09-25_171159234.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:15:02.859Z",
+    "desc": "",
+    "id": "6ab439b08d522ffa9f6c1907",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6b82d352dd38e58e759e9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 7",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b82d352dd38e58e759e9",
+        "uses": 6
+      }
+    ],
+    "name": "In a Silent Way",
+    "pos": 140737488673024,
+    "shortLink": "jNgY3Hik",
+    "shortUrl": "https://trello.com/c/jNgY3Hik",
+    "url": "https://trello.com/c/jNgY3Hik/48-in-a-silent-way"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

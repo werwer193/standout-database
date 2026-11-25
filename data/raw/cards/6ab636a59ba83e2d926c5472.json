@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-25T08:54:14.241Z",
+    "desc": "",
+    "id": "6ab636a59ba83e2d926c5472",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Billy",
+    "pos": 140737488355328,
+    "shortLink": "vtEHyli0",
+    "shortUrl": "https://trello.com/c/vtEHyli0",
+    "url": "https://trello.com/c/vtEHyli0/187-billy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

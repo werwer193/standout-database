@@ -1,0 +1,77 @@
+{
+  "attachments": [
+    {
+      "bytes": 1854814,
+      "date": "2026-09-23T22:47:36.158Z",
+      "id": "6ab457089a0837f813f40c03",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_004736041.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab456f5900cecec2d7d2c26/attachments/6ab457089a0837f813f40c03/download/image_2026-09-24_004736041.png"
+    },
+    {
+      "bytes": 2881735,
+      "date": "2026-09-24T12:42:09.574Z",
+      "id": "6ab51aa1043cdbef2fa1977a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_144208772.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab456f5900cecec2d7d2c26/attachments/6ab51aa1043cdbef2fa1977a/download/image_2026-09-24_144208772.png"
+    },
+    {
+      "bytes": 485460,
+      "date": "2026-09-25T10:14:28.822Z",
+      "id": "6ab6498446d711db1440cf12",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_121428358.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab456f5900cecec2d7d2c26/attachments/6ab6498446d711db1440cf12/download/image_2026-09-25_121428358.png"
+    },
+    {
+      "bytes": 228666,
+      "date": "2026-10-18T14:50:15.384Z",
+      "id": "6ad4dca7d7bbae54702bbf9f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6ab456f5900cecec2d7d2c26/attachments/6ad4dca7d7bbae54702bbf9f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-18T14:50:19.887Z",
+    "desc": "**P to Pose**\n\n**Posing fills** [https://trello.com/c/Kus9CS84/50-awakening-bar](https://trello.com/c/Kus9CS84/50-awakening-bar \"smartCard-inline\") **(1%/s)**\n\n![image.webp](https://trello.com/1/cards/6ab456f5900cecec2d7d2c26/attachments/6ad4dca7d7bbae54702bbf9f/previews/6ad4dca7d7bbae54702bc0f1/download/image.webp)",
+    "id": "6ab456f5900cecec2d7d2c26",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab81bf294ed291cde3f5586",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Posing",
+    "pos": 140737488371712,
+    "shortLink": "ev5NTeZH",
+    "shortUrl": "https://trello.com/c/ev5NTeZH",
+    "url": "https://trello.com/c/ev5NTeZH/53-posing"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

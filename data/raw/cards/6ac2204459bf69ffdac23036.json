@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 678278,
+      "date": "2026-10-04T10:04:35.627Z",
+      "id": "6ac224b3a722cabbbb85eb26",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac2204459bf69ffdac23036/attachments/6ac224b3a722cabbbb85eb26/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T23:39:26.666Z",
+    "desc": "# Complete 5 Side Activities (bounties, eliminations or side quests.)",
+    "id": "6ac2204459bf69ffdac23036",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "Complete 5 Side Activities (Storyline #35.)",
+    "pos": 140737488945152,
+    "shortLink": "oF3Y2n9h",
+    "shortUrl": "https://trello.com/c/oF3Y2n9h",
+    "url": "https://trello.com/c/oF3Y2n9h/345-complete-5-side-activities-storyline-35"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

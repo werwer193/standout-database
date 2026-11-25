@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 35091,
+      "date": "2026-11-02T23:03:25.458Z",
+      "id": "6ae916bd870a86d1523472ca",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_000325090.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae916091b7f6d56f1eb8d9e/attachments/6ae916bd870a86d1523472ca/download/image_2026-11-03_000325090.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:03:27.084Z",
+    "desc": "# **When equipped gives you:**\n\n**+5 Ability**\n\n**+3 Strength**\n\n**+5 Health**\n\n**Fate’s Chosen (**[https://trello.com/c/paFHCpA8/108-rolling-stones](https://trello.com/c/paFHCpA8/108-rolling-stones \"smartCard-inline\") **is more likely to choose you as its target, and is faster while following you.)**\n\n**Crimson’s Mark (You take more damage from** [https://trello.com/c/4CpREEmM/395-king-crimson-full](https://trello.com/c/4CpREEmM/395-king-crimson-full \"smartCard-inline\") **after the user uses Timeskip, Time Erase or Epitaph for 10 seconds.**\n\n**One-time Epitaph (After getting hit 10 times, you activate a one-time Epitaph effect, dodging the next attack.)**\n\n## **Obtained from:** [https://trello.com/c/W2k56kIE/785-the-statue-of-sorrow](https://trello.com/c/W2k56kIE/785-the-statue-of-sorrow \"smartCard-inline\") (If caught by Rolling Stones)",
+    "id": "6ae916091b7f6d56f1eb8d9e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [],
+    "name": "Slave Of Fate",
+    "pos": 140737489223680,
+    "shortLink": "GGHrdEXI",
+    "shortUrl": "https://trello.com/c/GGHrdEXI",
+    "url": "https://trello.com/c/GGHrdEXI/789-slave-of-fate"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

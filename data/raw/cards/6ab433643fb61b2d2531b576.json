@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 398653,
+      "date": "2026-09-23T20:15:32.100Z",
+      "id": "6ab433643fb61b2d2531b587",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab433643fb61b2d2531b576/attachments/6ab433643fb61b2d2531b587/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-23T20:15:43.493Z",
+    "desc": "",
+    "id": "6ab433643fb61b2d2531b576",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432751f31f8e781c95686",
+    "labels": [],
+    "name": "image.png",
+    "pos": 140737488388096,
+    "shortLink": "6EfsXlAw",
+    "shortUrl": "https://trello.com/c/6EfsXlAw",
+    "url": "https://trello.com/c/6EfsXlAw/11-imagepng"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432751f31f8e781c95686",
+    "name": "STAND OUT",
+    "pos": 8192
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 11179,
+      "date": "2026-11-02T23:25:39.718Z",
+      "id": "6ae91bf3c6ff861a2bd42dc3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91bf13bc3508fb72abeef/attachments/6ae91bf3c6ff861a2bd42dc3/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:25:46.204Z",
+    "desc": "",
+    "id": "6ae91bf13bc3508fb72abeef",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Slippery",
+    "pos": 140737489387520,
+    "shortLink": "V4MvVT78",
+    "shortUrl": "https://trello.com/c/V4MvVT78",
+    "url": "https://trello.com/c/V4MvVT78/827-slippery"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

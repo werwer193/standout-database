@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 22876,
+      "date": "2026-10-25T11:02:43.604Z",
+      "id": "6adde1d3e6300a77420b6a8d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-25_120243324.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adde1a68dcdfd3dfc1a17ec/attachments/6adde1d3e6300a77420b6a8d/download/image_2026-10-25_120243324.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-25T11:02:53.939Z",
+    "desc": "# 800 Robux",
+    "id": "6adde1a68dcdfd3dfc1a17ec",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab83f4b70eb74c46a8f5465",
+    "labels": [],
+    "name": "Private Server",
+    "pos": 140737488420864,
+    "shortLink": "bnN3ixVQ",
+    "shortUrl": "https://trello.com/c/bnN3ixVQ",
+    "url": "https://trello.com/c/bnN3ixVQ/586-private-server"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab83f4b70eb74c46a8f5465",
+    "name": "Shop (Developer Products)",
+    "pos": 139264
+  }
+}

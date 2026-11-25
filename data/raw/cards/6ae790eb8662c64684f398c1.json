@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T19:20:15.106Z",
+    "desc": "",
+    "id": "6ae790eb8662c64684f398c1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "---",
+    "pos": 140737488494592,
+    "shortLink": "APYZXTdC",
+    "shortUrl": "https://trello.com/c/APYZXTdC",
+    "url": "https://trello.com/c/APYZXTdC/774-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

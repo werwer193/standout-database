@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-23T20:36:50.737Z",
+    "desc": "",
+    "id": "6ab4354e0b22441cf26a348f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [],
+    "name": "The Sun",
+    "pos": 140737488353248,
+    "shortLink": "5okDvSF8",
+    "shortUrl": "https://trello.com/c/5okDvSF8",
+    "url": "https://trello.com/c/5okDvSF8/29-the-sun"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

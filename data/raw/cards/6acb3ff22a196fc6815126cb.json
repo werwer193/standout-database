@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 105129,
+      "date": "2026-10-11T07:51:24.519Z",
+      "id": "6acb3ffc5fe6e512b3d5a20a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_095125176.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb3ff22a196fc6815126cb/attachments/6acb3ffc5fe6e512b3d5a20a/download/image_2026-10-11_095125176.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:56:18.343Z",
+    "desc": "# Each faction has its own standing.\n\n**These can be:**\n\n- **Passione**\n- **Fruit Company**\n- **Pillarman Covenant**",
+    "id": "6acb3ff22a196fc6815126cb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "Standings",
+    "pos": 140737488486400,
+    "shortLink": "KxnVXEuc",
+    "shortUrl": "https://trello.com/c/KxnVXEuc",
+    "url": "https://trello.com/c/KxnVXEuc/418-standings"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-26T20:06:25.673Z",
+    "desc": "",
+    "id": "6adfb0524b805faca28df6f6",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "orange",
+        "id": "6ab6b8084d36c480c45877c9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 9",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b8084d36c480c45877c9",
+        "uses": 14
+      }
+    ],
+    "name": "November Rain",
+    "pos": 140737488580608,
+    "shortLink": "FHrf3G38",
+    "shortUrl": "https://trello.com/c/FHrf3G38",
+    "url": "https://trello.com/c/FHrf3G38/593-november-rain"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

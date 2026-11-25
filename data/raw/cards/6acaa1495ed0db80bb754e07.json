@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 645615,
+      "date": "2026-10-11T07:34:05.824Z",
+      "id": "6acb3bed5b8660c53cab0b84",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_093406381.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acaa1495ed0db80bb754e07/attachments/6acb3bed5b8660c53cab0b84/download/image_2026-10-11_093406381.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T12:34:53.223Z",
+    "desc": "# Serves as Stand Storage\n\n## Can turn your stand into a [https://trello.com/c/aUwXPT3l/508-stand-chip](https://trello.com/c/aUwXPT3l/508-stand-chip \"smartCard-inline\")\n\n# Located at [[https://trello.com/c/2v2S755t/73-docks](https://trello.com/c/2v2S755t/73-docks \"smartCard-inline\")]",
+    "id": "6acaa1495ed0db80bb754e07",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "D'Arby (Stand Storage)",
+    "pos": 140737488158720,
+    "shortLink": "PW4c1YHG",
+    "shortUrl": "https://trello.com/c/PW4c1YHG",
+    "url": "https://trello.com/c/PW4c1YHG/405-darby-stand-storage"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

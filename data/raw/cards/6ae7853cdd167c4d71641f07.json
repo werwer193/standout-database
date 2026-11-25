@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 20074,
+      "date": "2026-11-01T18:31:19.369Z",
+      "id": "6ae78577d76cf7decf63ae80",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193118873.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae7853cdd167c4d71641f07/attachments/6ae78577d76cf7decf63ae80/download/image_2026-11-01_193118873.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:33:15.301Z",
+    "desc": "# **When equipped gives you:**\n\n**+10 Strength**\n\n**+5 Health**\n\n**+5% Guard**\n\n## Obtained from: [https://trello.com/c/PlqLECLw/755-yo-yo-what-the-hell-ma](https://trello.com/c/PlqLECLw/755-yo-yo-what-the-hell-ma \"smartCard-inline\") (Exclusive to the fifth clear)",
+    "id": "6ae7853cdd167c4d71641f07",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Coat of a Dedicated Bodyguard",
+    "pos": 140737489174528,
+    "shortLink": "N0mvGpjz",
+    "shortUrl": "https://trello.com/c/N0mvGpjz",
+    "url": "https://trello.com/c/N0mvGpjz/760-coat-of-a-dedicated-bodyguard"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 3400,
+      "date": "2026-11-03T00:10:43.167Z",
+      "id": "6ae926835db19fe6eab1a171",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae11966c77e70ead76da51b/attachments/6ae926835db19fe6eab1a171/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:15:46.777Z",
+    "desc": "",
+    "id": "6ae11966c77e70ead76da51b",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Panic",
+    "pos": 140737488945152,
+    "shortLink": "QTqIuU4r",
+    "shortUrl": "https://trello.com/c/QTqIuU4r",
+    "url": "https://trello.com/c/QTqIuU4r/730-panic"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

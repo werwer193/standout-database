@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 158277,
+      "date": "2026-09-24T21:40:19.710Z",
+      "id": "6ab598c31b4f103bf0e262ff",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "ch.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab5986c4edab2f548cec349/attachments/6ab598c31b4f103bf0e262ff/download/Sn%C3%ADmek_obrazovky_2026-09-24_233932.png"
+    },
+    {
+      "bytes": 128637,
+      "date": "2026-09-24T21:40:36.409Z",
+      "id": "6ab598d4a41f288942eb0c79",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab5986c4edab2f548cec349/attachments/6ab598d4a41f288942eb0c79/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:42:15.353Z",
+    "desc": "# Defeat Charming Man 0/1\n\n# Quest Completed! +800 EXP +750 Coins\n\n# Bring the stolen items and Charming Man back to Iko Iko.",
+    "id": "6ab5986c4edab2f548cec349",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Charming Man Ambush (Storyline #17.)",
+    "pos": 140737488650240,
+    "shortLink": "oaCmEUQN",
+    "shortUrl": "https://trello.com/c/oaCmEUQN",
+    "url": "https://trello.com/c/oaCmEUQN/130-charming-man-ambush-storyline-17"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

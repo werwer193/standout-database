@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 97121,
+      "date": "2026-09-25T08:48:21.831Z",
+      "id": "6ab6355552c922717a0b49fa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab43595add5d1ef2b11e8fd/attachments/6ab6355552c922717a0b49fa/download/image.png"
+    },
+    {
+      "bytes": 60235,
+      "date": "2026-10-02T16:20:09.203Z",
+      "id": "6abfd9b9e99df2772929cf1b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab43595add5d1ef2b11e8fd/attachments/6abfd9b9e99df2772929cf1b/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-02T16:20:19.441Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab43595add5d1ef2b11e8fd/attachments/6abfd9b9e99df2772929cf1b/previews/6abfd9b9e99df2772929cf2f/download/image.webp)",
+    "id": "6ab43595add5d1ef2b11e8fd",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [],
+    "name": "Legendary",
+    "pos": 140737488351232,
+    "shortLink": "XthIh6RO",
+    "shortUrl": "https://trello.com/c/XthIh6RO",
+    "url": "https://trello.com/c/XthIh6RO/40-legendary"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

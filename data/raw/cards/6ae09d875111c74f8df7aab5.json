@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:48:07.346Z",
+    "desc": "",
+    "id": "6ae09d875111c74f8df7aab5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Caramelldansen",
+    "pos": 140737489158144,
+    "shortLink": "5b19nPEh",
+    "shortUrl": "https://trello.com/c/5b19nPEh",
+    "url": "https://trello.com/c/5b19nPEh/692-caramelldansen"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

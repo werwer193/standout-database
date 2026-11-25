@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5761,
+      "date": "2026-11-03T00:10:21.177Z",
+      "id": "6ae9266d61e29796f0b150c4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae119618ead7710a1686590/attachments/6ae9266d61e29796f0b150c4/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:15:53.679Z",
+    "desc": "",
+    "id": "6ae119618ead7710a1686590",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Strained",
+    "pos": 140737488912384,
+    "shortLink": "lKhZ5jeh",
+    "shortUrl": "https://trello.com/c/lKhZ5jeh",
+    "url": "https://trello.com/c/lKhZ5jeh/728-strained"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

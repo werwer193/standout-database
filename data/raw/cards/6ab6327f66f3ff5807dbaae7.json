@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 55653,
+      "date": "2026-09-25T08:36:18.474Z",
+      "id": "6ab6328253b4128212a5f48d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab6327f66f3ff5807dbaae7/attachments/6ab6328253b4128212a5f48d/download/image.png"
+    },
+    {
+      "bytes": 44887,
+      "date": "2026-09-25T08:36:20.273Z",
+      "id": "6ab6328418d113d7cf9a329c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_103620346.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab6327f66f3ff5807dbaae7/attachments/6ab6328418d113d7cf9a329c/download/image_2026-09-25_103620346.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-27T01:49:23.586Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab6327f66f3ff5807dbaae7/attachments/6ab6328253b4128212a5f48d/previews/6ab6328353b4128212a5f495/download/image.webp)",
+    "id": "6ab6327f66f3ff5807dbaae7",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Jar",
+    "pos": 140737488453704,
+    "shortLink": "m22jkCap",
+    "shortUrl": "https://trello.com/c/m22jkCap",
+    "url": "https://trello.com/c/m22jkCap/173-jar"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

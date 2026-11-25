@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 57223,
+      "date": "2026-09-29T13:23:43.230Z",
+      "id": "6abbbbdf93abb57e9f2b4998",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb70ddfb5f639c1701503/attachments/6abbbbdf93abb57e9f2b4998/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T13:24:07.240Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb70ddfb5f639c1701503/attachments/6abbbbdf93abb57e9f2b4998/previews/6abbbbdf93abb57e9f2b49a0/download/image.webp)",
+    "id": "6abbb70ddfb5f639c1701503",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Chili Pepper Seed",
+    "pos": 140737488478144,
+    "shortLink": "lgZZW9HA",
+    "shortUrl": "https://trello.com/c/lgZZW9HA",
+    "url": "https://trello.com/c/lgZZW9HA/294-chili-pepper-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

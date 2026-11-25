@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 421108,
+      "date": "2026-10-18T09:38:03.110Z",
+      "id": "6ad4937be6369a22a095cc81",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "chair.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab86f522e6d7def86c38bf5/attachments/6ad4937be6369a22a095cc81/download/chair.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-18T09:38:05.399Z",
+    "desc": "",
+    "id": "6ab86f522e6d7def86c38bf5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6ab873f3761b94ac402e36f6",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873f3761b94ac402e36f6",
+        "uses": 11
+      },
+      {
+        "color": "red_dark",
+        "id": "6ab873e28d0d748697c44f49",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873e28d0d748697c44f49",
+        "uses": 9
+      }
+    ],
+    "name": "Chairs",
+    "pos": 140737488371200,
+    "shortLink": "Wc3sd6kj",
+    "shortUrl": "https://trello.com/c/Wc3sd6kj",
+    "url": "https://trello.com/c/Wc3sd6kj/225-chairs"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

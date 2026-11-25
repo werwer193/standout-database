@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 605777,
+      "date": "2026-09-24T20:55:49.048Z",
+      "id": "6ab58e5504b5094e4f4d6163",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_225548929.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab58d32f2e955e48cefc05b/attachments/6ab58e5504b5094e4f4d6163/download/image_2026-09-24_225548929.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:41:32.233Z",
+    "desc": "# **Get Meryl’s Rohan heist briefing 0/1**\n\n‌\n\n**Quest Completed! +300 EXP, 100 Coins (Not repeatable)**\n\n**Meryl Mei Qi - I don’t know who you are, but you showed up. so you’re on the team now. Here, take this phone. Keep it on you and answer when I call. We’ve got work to do.**\n\n**–> I’m in.**\n\n**Rohan Kishibe is staying in Hawaii with a diamond worth stealing. You’re on the crew for the villa job.**\n\n**Meryl sent you after Rohan Kishibe’s diamond.**\n\n**–> Maybe later**",
+    "id": "6ab58d32f2e955e48cefc05b",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Meet Meryl Mei Qi (Storyline #2.)",
+    "pos": 140737488404480,
+    "shortLink": "f5tLUiqn",
+    "shortUrl": "https://trello.com/c/f5tLUiqn",
+    "url": "https://trello.com/c/f5tLUiqn/104-meet-meryl-mei-qi-storyline-2"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

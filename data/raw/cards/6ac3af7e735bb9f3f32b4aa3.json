@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 92600,
+      "date": "2026-10-05T14:09:19.429Z",
+      "id": "6ac3af8fe7a826e4d562559f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_160919742.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac3af7e735bb9f3f32b4aa3/attachments/6ac3af8fe7a826e4d562559f/download/image_2026-10-05_160919742.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T17:06:30.967Z",
+    "desc": "# Eliminations are player and NPC bounties, upon eliminating a player or a NPC there is a 20% chance of you getting a [https://trello.com/c/76uctunM/120-mysterious-arrow](https://trello.com/c/76uctunM/120-mysterious-arrow \"smartCard-inline\")\n\n# You also get 33% of your EXP bar.",
+    "id": "6ac3af7e735bb9f3f32b4aa3",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "Eliminations",
+    "pos": 140737488420864,
+    "shortLink": "CVACYYbT",
+    "shortUrl": "https://trello.com/c/CVACYYbT",
+    "url": "https://trello.com/c/CVACYYbT/378-eliminations"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

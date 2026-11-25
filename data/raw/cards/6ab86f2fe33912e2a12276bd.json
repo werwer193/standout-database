@@ -1,0 +1,65 @@
+{
+  "attachments": [
+    {
+      "bytes": 525605,
+      "date": "2026-10-18T09:29:25.885Z",
+      "id": "6ad49175462fe3a821f6ead4",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "sss.gif",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab86f2fe33912e2a12276bd/attachments/6ad49175462fe3a821f6ead4/download/sss.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-18T09:29:28.564Z",
+    "desc": "# **Only throwable with stands that have Elevated Strength. (**[https://trello.com/c/xI56CoCe/25-walking-heart](https://trello.com/c/xI56CoCe/25-walking-heart \"smartCard-inline\") ,[https://trello.com/c/8Etqsp2n/4-the-world](https://trello.com/c/8Etqsp2n/4-the-world \"smartCard-inline\") ,[https://trello.com/c/7XudWHzF/3-star-platinum](https://trello.com/c/7XudWHzF/3-star-platinum \"smartCard-inline\") ,[https://trello.com/c/1eUdXttM/34-the-world-alternative-universe](https://trello.com/c/1eUdXttM/34-the-world-alternative-universe \"smartCard-inline\"),[https://trello.com/c/RzgNn0me/37-magicians-red](https://trello.com/c/RzgNn0me/37-magicians-red \"smartCard-inline\")",
+    "id": "6ab86f2fe33912e2a12276bd",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [
+      {
+        "color": "green_light",
+        "id": "6ab873f3761b94ac402e36f6",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Throwable",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873f3761b94ac402e36f6",
+        "uses": 11
+      },
+      {
+        "color": "black_light",
+        "id": "6ab874119c2d2b18abb72ec9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Heavy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab874119c2d2b18abb72ec9",
+        "uses": 3
+      },
+      {
+        "color": "red_dark",
+        "id": "6ab873e28d0d748697c44f49",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Object",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab873e28d0d748697c44f49",
+        "uses": 9
+      }
+    ],
+    "name": "Phone Booth",
+    "pos": 140737488367616,
+    "shortLink": "NwUsYSno",
+    "shortUrl": "https://trello.com/c/NwUsYSno",
+    "url": "https://trello.com/c/NwUsYSno/219-phone-booth"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

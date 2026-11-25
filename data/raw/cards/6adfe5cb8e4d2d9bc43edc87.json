@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T23:45:53.664Z",
+    "desc": "# **You can either get a car by building a gang base and building the garage room, or by finding a driveable car on the map (for example the police car at the police station)**",
+    "id": "6adfe5cb8e4d2d9bc43edc87",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adfba0cd9b25488d4258899",
+    "labels": [],
+    "name": "How do i get a car?",
+    "pos": 140737488371712,
+    "shortLink": "mDaVW460",
+    "shortUrl": "https://trello.com/c/mDaVW460",
+    "url": "https://trello.com/c/mDaVW460/608-how-do-i-get-a-car"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adfba0cd9b25488d4258899",
+    "name": "FAQ (Frequently Asked Questions)",
+    "pos": 8704
+  }
+}

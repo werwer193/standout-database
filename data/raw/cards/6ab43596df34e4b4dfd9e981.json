@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 70867,
+      "date": "2026-09-25T08:48:31.303Z",
+      "id": "6ab6355f4bd7b752ae1e131e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab43596df34e4b4dfd9e981/attachments/6ab6355f4bd7b752ae1e131e/download/image.png"
+    },
+    {
+      "bytes": 34139,
+      "date": "2026-10-02T16:19:39.913Z",
+      "id": "6abfd99bf4df34c8488c5067",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab43596df34e4b4dfd9e981/attachments/6abfd99bf4df34c8488c5067/download/image.png"
+    },
+    {
+      "bytes": 96080,
+      "date": "2026-10-14T15:11:53.937Z",
+      "id": "6acf9bb934d64063c958240d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab43596df34e4b4dfd9e981/attachments/6acf9bb934d64063c958240d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-14T15:11:56.150Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab43596df34e4b4dfd9e981/attachments/6acf9bb934d64063c958240d/previews/6acf9bba34d64063c958246b/download/image.webp)",
+    "id": "6ab43596df34e4b4dfd9e981",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [],
+    "name": "Mythical",
+    "pos": 140737488353280,
+    "shortLink": "v4f8C36X",
+    "shortUrl": "https://trello.com/c/v4f8C36X",
+    "url": "https://trello.com/c/v4f8C36X/41-mythical"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

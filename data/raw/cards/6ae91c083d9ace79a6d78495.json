@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8952,
+      "date": "2026-11-02T23:26:02.306Z",
+      "id": "6ae91c0ac08718cfd235d941",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91c083d9ace79a6d78495/attachments/6ae91c0ac08718cfd235d941/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:26:10.250Z",
+    "desc": "",
+    "id": "6ae91c083d9ace79a6d78495",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Slumber",
+    "pos": 140737489420288,
+    "shortLink": "4p7tGg1F",
+    "shortUrl": "https://trello.com/c/4p7tGg1F",
+    "url": "https://trello.com/c/4p7tGg1F/829-slumber"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

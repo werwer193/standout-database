@@ -1,0 +1,107 @@
+{
+  "attachments": [
+    {
+      "bytes": 889803,
+      "date": "2026-09-25T08:24:22.404Z",
+      "id": "6ab62fb6ca2a5ccef1aad2b0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_102422518.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ab62fb6ca2a5ccef1aad2b0/download/image_2026-09-25_102422518.png"
+    },
+    {
+      "bytes": 196604,
+      "date": "2026-09-25T08:25:09.748Z",
+      "id": "6ab62fe563b7a5977e2f4c5f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ab62fe563b7a5977e2f4c5f/download/image.png"
+    },
+    {
+      "bytes": 216186,
+      "date": "2026-10-28T08:55:01.463Z",
+      "id": "6ae1b865d3aa77b1386b3d6d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b865d3aa77b1386b3d6d/download/image.png"
+    },
+    {
+      "bytes": 98032,
+      "date": "2026-10-28T08:55:15.477Z",
+      "id": "6ae1b873750ae49681104294",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b873750ae49681104294/download/image.png"
+    },
+    {
+      "bytes": 92372,
+      "date": "2026-10-28T08:55:21.836Z",
+      "id": "6ae1b879a54faf79283aad91",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b879a54faf79283aad91/download/image.png"
+    },
+    {
+      "bytes": 96313,
+      "date": "2026-10-28T08:55:27.988Z",
+      "id": "6ae1b87f0f49c105560efe74",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b87f0f49c105560efe74/download/image.png"
+    },
+    {
+      "bytes": 105224,
+      "date": "2026-10-28T08:55:33.867Z",
+      "id": "6ae1b88516a2a11088b1a15e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b88516a2a11088b1a15e/download/image.png"
+    },
+    {
+      "bytes": 121777,
+      "date": "2026-10-28T08:55:42.347Z",
+      "id": "6ae1b88e2438b49d7446554a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b88e2438b49d7446554a/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:51:36.864Z",
+    "desc": "# Located at [[https://trello.com/c/fq4RAS8x](https://trello.com/c/fq4RAS8x \"smartCard-inline\")]\n\n# Used for crafting various recipes.\n\n# Existing Recipes:\n\n![image.webp](https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b873750ae49681104294/previews/6ae1b873750ae496811044d5/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b879a54faf79283aad91/previews/6ae1b87aa54faf79283aadd3/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b87f0f49c105560efe74/previews/6ae1b8800f49c105560efec4/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b88516a2a11088b1a15e/previews/6ae1b88616a2a11088b1a1bb/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ab62f7d974b72c3283c5cd7/attachments/6ae1b88e2438b49d7446554a/previews/6ae1b88e2438b49d74465623/download/image.webp)",
+    "id": "6ab62f7d974b72c3283c5cd7",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab86f0a028b25da693eb425",
+    "labels": [],
+    "name": "Crafting Station",
+    "pos": 140737488412672,
+    "shortLink": "HOLY5OZv",
+    "shortUrl": "https://trello.com/c/HOLY5OZv",
+    "url": "https://trello.com/c/HOLY5OZv/162-crafting-station"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  }
+}

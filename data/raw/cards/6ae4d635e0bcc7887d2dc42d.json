@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 45850,
+      "date": "2026-10-30T17:39:21.072Z",
+      "id": "6ae4d649947b1efbb6703612",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-30_183920789.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae4d635e0bcc7887d2dc42d/attachments/6ae4d649947b1efbb6703612/download/image_2026-10-30_183920789.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T17:39:23.644Z",
+    "desc": "",
+    "id": "6ae4d635e0bcc7887d2dc42d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "30/10/2026 (Gang Wars, Gang Jobs, Bug Fixes)",
+    "pos": 140737487912960,
+    "shortLink": "B7KQdozq",
+    "shortUrl": "https://trello.com/c/B7KQdozq",
+    "url": "https://trello.com/c/B7KQdozq/752-30-10-2026-gang-wars-gang-jobs-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 312638,
+      "date": "2026-11-02T22:43:46.705Z",
+      "id": "6ae91222765d1963952fbcfe",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-02_234346146.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae9121e8a71e72cc19e0879/attachments/6ae91222765d1963952fbcfe/download/image_2026-11-02_234346146.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:05:40.836Z",
+    "desc": "# This NPC only appears when its Foggy.\n\n# Gives [https://trello.com/c/W2k56kIE/785-the-statue-of-sorrow](https://trello.com/c/W2k56kIE/785-the-statue-of-sorrow \"smartCard-inline\")\n\n# Located behind [https://trello.com/c/LM3VZSm7/77-iko-iko](https://trello.com/c/LM3VZSm7/77-iko-iko \"smartCard-inline\")",
+    "id": "6ae9121e8a71e72cc19e0879",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Old Lady",
+    "pos": 140737488535552,
+    "shortLink": "q0K2qyHB",
+    "shortUrl": "https://trello.com/c/q0K2qyHB",
+    "url": "https://trello.com/c/q0K2qyHB/786-old-lady"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

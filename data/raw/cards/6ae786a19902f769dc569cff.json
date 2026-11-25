@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 494683,
+      "date": "2026-11-01T18:53:41.548Z",
+      "id": "6ae78ab5f890997d2c05fa5e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "ledge.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae786a19902f769dc569cff/attachments/6ae78ab5f890997d2c05fa5e/download/ledge.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:54:03.197Z",
+    "desc": "# When jumping near a ledge, press jump again and youll climb up!",
+    "id": "6ae786a19902f769dc569cff",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab81bf294ed291cde3f5586",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Ledge Climbing",
+    "pos": 140737488404480,
+    "shortLink": "cQxhkbrK",
+    "shortUrl": "https://trello.com/c/cQxhkbrK",
+    "url": "https://trello.com/c/cQxhkbrK/763-ledge-climbing"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

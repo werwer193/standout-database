@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 612012,
+      "date": "2026-10-27T12:39:39.201Z",
+      "id": "6ae09b8be679ebdd56830687",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pushup.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09b862ac13aff3efff83f/attachments/6ae09b8be679ebdd56830687/download/pushup.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:39:42.957Z",
+    "desc": "",
+    "id": "6ae09b862ac13aff3efff83f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "1 Arm Pushup",
+    "pos": 140737488404480,
+    "shortLink": "KKW4ni9l",
+    "shortUrl": "https://trello.com/c/KKW4ni9l",
+    "url": "https://trello.com/c/KKW4ni9l/615-1-arm-pushup"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 60653,
+      "date": "2026-09-29T12:19:56.770Z",
+      "id": "6abbacec6fe9bb885302a77e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-29_141955987.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbace48e1cbfac1234c600/attachments/6abbacec6fe9bb885302a77e/download/image_2026-09-29_141955987.png"
+    },
+    {
+      "bytes": 74429,
+      "date": "2026-09-29T12:19:59.763Z",
+      "id": "6abbacef376080525b82a40d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbace48e1cbfac1234c600/attachments/6abbacef376080525b82a40d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:21:14.696Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbace48e1cbfac1234c600/attachments/6abbacef376080525b82a40d/previews/6abbacf0376080525b82a45f/download/image.webp)",
+    "id": "6abbace48e1cbfac1234c600",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Dragon Fruit",
+    "pos": 140737488490496,
+    "shortLink": "3m2E8cgc",
+    "shortUrl": "https://trello.com/c/3m2E8cgc",
+    "url": "https://trello.com/c/3m2E8cgc/237-dragon-fruit"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

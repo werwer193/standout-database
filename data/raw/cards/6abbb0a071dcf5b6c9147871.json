@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 93180,
+      "date": "2026-09-29T12:45:09.722Z",
+      "id": "6abbb2d567bbcabbd826844d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb0a071dcf5b6c9147871/attachments/6abbb2d567bbcabbd826844d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:45:14.699Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0a071dcf5b6c9147871/attachments/6abbb2d567bbcabbd826844d/previews/6abbb2d667bbcabbd82684ec/download/image.webp)",
+    "id": "6abbb0a071dcf5b6c9147871",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      }
+    ],
+    "name": "Jar of Grapes",
+    "pos": 140737488637952,
+    "shortLink": "bUjJ09xh",
+    "shortUrl": "https://trello.com/c/bUjJ09xh",
+    "url": "https://trello.com/c/bUjJ09xh/250-jar-of-grapes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:48:50.016Z",
+    "desc": "",
+    "id": "6ae09db14716c6dc459909ea",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Rock Paper Scissors",
+    "pos": 140737489354752,
+    "shortLink": "YeciT9qC",
+    "shortUrl": "https://trello.com/c/YeciT9qC",
+    "url": "https://trello.com/c/YeciT9qC/704-rock-paper-scissors"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

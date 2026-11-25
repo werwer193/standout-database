@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 493213,
+      "date": "2026-10-26T21:10:13.699Z",
+      "id": "6adfc1b58a8076975269ad1f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_221013203.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adfc15cec979068db20491d/attachments/6adfc1b58a8076975269ad1f/download/image_2026-10-26_221013203.png"
+    },
+    {
+      "bytes": 446456,
+      "date": "2026-10-26T21:11:38.647Z",
+      "id": "6adfc20a766132296fc8fdf3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6adfc15cec979068db20491d/attachments/6adfc20a766132296fc8fdf3/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-28T18:00:04.880Z",
+    "desc": "**Quest from:** [https://trello.com/c/7g1H7AL3/584-angelo](https://trello.com/c/7g1H7AL3/584-angelo \"smartCard-inline\")\n\n# Quest:\n\n**Finish a Bizzare Adventure (Raid) 0/1**\n\n**Complete 3 Bounties 0/3**\n\n**Finish 10 eliminations 0/10**\n\n## Upon completion gives you:\n\n**1** [https://trello.com/c/B72f5zxS/557-bizarre-arrow](https://trello.com/c/B72f5zxS/557-bizarre-arrow \"smartCard-inline\")\n\n**2500** [https://trello.com/c/TgTg3eR6/188-coins](https://trello.com/c/TgTg3eR6/188-coins \"smartCard-inline\")\n\n**1 SSS-Rank** [https://trello.com/c/fe4fHeSk/271-watermelon-seed](https://trello.com/c/fe4fHeSk/271-watermelon-seed \"smartCard-inline\")",
+    "id": "6adfc15cec979068db20491d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62998bbf9a5dd343040fd",
+    "labels": [],
+    "name": "Big Business",
+    "pos": 140737488445440,
+    "shortLink": "RU7J5Ghm",
+    "shortUrl": "https://trello.com/c/RU7J5Ghm",
+    "url": "https://trello.com/c/RU7J5Ghm/604-big-business"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62998bbf9a5dd343040fd",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

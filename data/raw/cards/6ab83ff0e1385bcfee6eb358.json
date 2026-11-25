@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 44292,
+      "date": "2026-09-26T21:58:12.874Z",
+      "id": "6ab83ff4ae36472249c07225",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_235812642.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab83ff0e1385bcfee6eb358/attachments/6ab83ff4ae36472249c07225/download/image_2026-09-26_235812642.png"
+    },
+    {
+      "bytes": 100354,
+      "date": "2026-10-13T17:58:55.567Z",
+      "id": "6ace715f18023e72e63ba4e3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_195855275.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab83ff0e1385bcfee6eb358/attachments/6ace715f18023e72e63ba4e3/download/image_2026-10-13_195855275.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T20:49:21.071Z",
+    "desc": "# 2x Exp Booster (15 minutes) - 39 Robux\n\n# 2x Exp Booster (1 hour) - 396 Robux\n\n---\n\n# 2x Drops Booster (15 minutes) - 99 Robux\n\n# 2x Drops Booster (1 hour) - 236 Robux\n\n---\n\n# 2x Coins Booster (15 minutes) - 39 Robux\n\n# 2x Coins Booster (1 hour) - 156 Robux",
+    "id": "6ab83ff0e1385bcfee6eb358",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab83f4b70eb74c46a8f5465",
+    "labels": [],
+    "name": "2x Boosters",
+    "pos": 140737488371712,
+    "shortLink": "NkKtOizZ",
+    "shortUrl": "https://trello.com/c/NkKtOizZ",
+    "url": "https://trello.com/c/NkKtOizZ/214-2x-boosters"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab83f4b70eb74c46a8f5465",
+    "name": "Shop (Developer Products)",
+    "pos": 139264
+  }
+}

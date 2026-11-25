@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 352138,
+      "date": "2026-09-24T21:50:20.858Z",
+      "id": "6ab59b1cb9737fbfc2e32e2e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_235020924.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59a93ef5895cd853aa5db/attachments/6ab59b1cb9737fbfc2e32e2e/download/image_2026-09-24_235020924.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:42:45.696Z",
+    "desc": "# Ask the clerk for HOWLER deeds 0/1\n\n**Land Registry Clerk - HOWLER Company land deeds? Wait here. I will bring the original records from the archive.**\n\n**–> I’ll wait.**\n\n**Quest Completed! +500 EXP**\n\n**–> Not yet**",
+    "id": "6ab59a93ef5895cd853aa5db",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Request HOWLER Deeds (Storyline #21.)",
+    "pos": 140737488715776,
+    "shortLink": "NrJM5DSJ",
+    "shortUrl": "https://trello.com/c/NrJM5DSJ",
+    "url": "https://trello.com/c/NrJM5DSJ/134-request-howler-deeds-storyline-21"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

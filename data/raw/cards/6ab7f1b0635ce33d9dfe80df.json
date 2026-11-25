@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 116960,
+      "date": "2026-09-26T16:24:41.858Z",
+      "id": "6ab7f1c93fb8176201d6b295",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_182441562.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab7f1b0635ce33d9dfe80df/attachments/6ab7f1c93fb8176201d6b295/download/image_2026-09-26_182441562.png"
+    },
+    {
+      "bytes": 8308962,
+      "date": "2026-10-03T10:52:52.383Z",
+      "id": "6ac0de84026c9dcf9b429784",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "overwrite (1).gif",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab7f1b0635ce33d9dfe80df/attachments/6ac0de84026c9dcf9b429784/download/overwrite_(1).gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-14T15:20:01.355Z",
+    "desc": "## **If two players are using a Stand with a Time Stop ability, They can overwrite eachothers Time Stop by pressing the move in the others Time Stop.**",
+    "id": "6ab7f1b0635ce33d9dfe80df",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab81bf294ed291cde3f5586",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Overwriting Time Stop",
+    "pos": 140737488355328,
+    "shortLink": "6bGJvVzJ",
+    "shortUrl": "https://trello.com/c/6bGJvVzJ",
+    "url": "https://trello.com/c/6bGJvVzJ/210-overwriting-time-stop"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

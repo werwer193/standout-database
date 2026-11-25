@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 92600,
+      "date": "2026-10-26T23:39:55.039Z",
+      "id": "6adfe4cbf1407b0ea205b058",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_003954682.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ade16d838a88c63a662d0d1/attachments/6adfe4cbf1407b0ea205b058/download/image_2026-10-27_003954682.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T23:40:03.810Z",
+    "desc": "# Complete 1 Elimination",
+    "id": "6ade16d838a88c63a662d0d1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "Complete 1 Elimination (Storyline #35.5)",
+    "pos": 140737488953344,
+    "shortLink": "yaQjBGrA",
+    "shortUrl": "https://trello.com/c/yaQjBGrA",
+    "url": "https://trello.com/c/yaQjBGrA/590-complete-1-elimination-storyline-355"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 182176,
+      "date": "2026-09-25T08:14:31.937Z",
+      "id": "6ab62d674a58acccc90b34d6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_101432169.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab55ea03a3f499a8a79db4e/attachments/6ab62d674a58acccc90b34d6/download/image_2026-09-25_101432169.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:40:35.119Z",
+    "desc": "# Located in [[https://trello.com/c/Bn2j8tQ2](https://trello.com/c/Bn2j8tQ2 \"smartCard-inline\")]",
+    "id": "6ab55ea03a3f499a8a79db4e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Congressman",
+    "pos": 140737488289792,
+    "shortLink": "1K2gFSI7",
+    "shortUrl": "https://trello.com/c/1K2gFSI7",
+    "url": "https://trello.com/c/1K2gFSI7/88-congressman"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

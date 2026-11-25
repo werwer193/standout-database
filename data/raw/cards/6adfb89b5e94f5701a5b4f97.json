@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 1338882,
+      "date": "2026-10-26T20:39:01.989Z",
+      "id": "6adfba65551fad672e4d987b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "pilot.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adfb89b5e94f5701a5b4f97/attachments/6adfba65551fad672e4d987b/download/pilot.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T20:39:22.703Z",
+    "desc": "# Nearly every Stand can be remote controlled by pressing Left Control.",
+    "id": "6adfb89b5e94f5701a5b4f97",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab81bf294ed291cde3f5586",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Pilot",
+    "pos": 140737488370688,
+    "shortLink": "UOY0o0ns",
+    "shortUrl": "https://trello.com/c/UOY0o0ns",
+    "url": "https://trello.com/c/UOY0o0ns/597-pilot"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

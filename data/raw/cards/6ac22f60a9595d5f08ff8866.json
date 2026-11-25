@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 149350,
+      "date": "2026-10-04T10:50:17.190Z",
+      "id": "6ac22f69a722cabbbb93e5bc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_125016932.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac22f60a9595d5f08ff8866/attachments/6ac22f69a722cabbbb93e5bc/download/image_2026-10-04_125016932.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-04T10:51:32.902Z",
+    "desc": "# Located at [[https://trello.com/c/YDLQnwAH/352-howlers-yacht](https://trello.com/c/YDLQnwAH/352-howlers-yacht \"smartCard-inline\") ]",
+    "id": "6ac22f60a9595d5f08ff8866",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Howler",
+    "pos": 140737488388096,
+    "shortLink": "AkeDC935",
+    "shortUrl": "https://trello.com/c/AkeDC935",
+    "url": "https://trello.com/c/AkeDC935/354-howler"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

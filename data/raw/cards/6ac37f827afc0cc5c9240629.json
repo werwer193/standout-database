@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 50969,
+      "date": "2026-10-05T10:44:24.302Z",
+      "id": "6ac37f88def6c3df7894ef6d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_124424549.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac37f827afc0cc5c9240629/attachments/6ac37f88def6c3df7894ef6d/download/image_2026-10-05_124424549.png"
+    },
+    {
+      "bytes": 63715,
+      "date": "2026-10-05T10:44:34.267Z",
+      "id": "6ac37f926e5ba8ba873b0569",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac37f827afc0cc5c9240629/attachments/6ac37f926e5ba8ba873b0569/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-25T14:20:43.703Z",
+    "desc": "## Purchaseable at [https://trello.com/c/ji4Hw59y/99-big-chop](https://trello.com/c/ji4Hw59y/99-big-chop \"smartCard-inline\")\n\n# Protects [https://trello.com/c/UTTXLBfJ/2-vampire](https://trello.com/c/UTTXLBfJ/2-vampire \"smartCard-inline\") from burning in the sun.\n\n![image.webp](https://trello.com/1/cards/6ac37f827afc0cc5c9240629/attachments/6ac37f926e5ba8ba873b0569/previews/6ac37f926e5ba8ba873b057d/download/image.webp)",
+    "id": "6ac37f827afc0cc5c9240629",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43b01bbbc097b9d5ab372",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Black Umbrella",
+    "pos": 140737488470016,
+    "shortLink": "KOa1LiT2",
+    "shortUrl": "https://trello.com/c/KOa1LiT2",
+    "url": "https://trello.com/c/KOa1LiT2/370-black-umbrella"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  }
+}

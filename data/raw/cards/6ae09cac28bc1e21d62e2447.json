@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 6874,
+      "date": "2026-11-03T00:04:52.516Z",
+      "id": "6ae92524edb2f8e82b1bcc7d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09cac28bc1e21d62e2447/attachments/6ae92524edb2f8e82b1bcc7d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:05:06.873Z",
+    "desc": "",
+    "id": "6ae09cac28bc1e21d62e2447",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Blank Stare",
+    "pos": 140737488535552,
+    "shortLink": "k9dmaRa1",
+    "shortUrl": "https://trello.com/c/k9dmaRa1",
+    "url": "https://trello.com/c/k9dmaRa1/629-blank-stare"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

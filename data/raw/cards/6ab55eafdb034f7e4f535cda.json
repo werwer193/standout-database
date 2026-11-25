@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 100348,
+      "date": "2026-09-24T20:31:49.972Z",
+      "id": "6ab588b5352e2b2d9fe87d3b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_223150130.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab55eafdb034f7e4f535cda/attachments/6ab588b5352e2b2d9fe87d3b/download/image_2026-09-24_223150130.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:11:50.142Z",
+    "desc": "# Located in [[https://trello.com/c/Bn2j8tQ2](https://trello.com/c/Bn2j8tQ2 \"smartCard-inline\")]\n\n# Interact to obtain [[https://trello.com/c/ZjuUoo9i](https://trello.com/c/ZjuUoo9i \"smartCard-inline\")]",
+    "id": "6ab55eafdb034f7e4f535cda",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Billy",
+    "pos": 140737488273408,
+    "shortLink": "uUA2ATkW",
+    "shortUrl": "https://trello.com/c/uUA2ATkW",
+    "url": "https://trello.com/c/uUA2ATkW/89-billy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 653016,
+      "date": "2026-09-25T09:18:32.162Z",
+      "id": "6ab63c6888dfdff4024c63c6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab54ab5677f47550e7dd8c1/attachments/6ab63c6888dfdff4024c63c6/download/image.png"
+    },
+    {
+      "bytes": 212339,
+      "date": "2026-09-25T09:21:31.105Z",
+      "id": "6ab63d1baea6bad515d05282",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_112130886.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab54ab5677f47550e7dd8c1/attachments/6ab63d1baea6bad515d05282/download/image_2026-09-25_112130886.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T18:01:33.679Z",
+    "desc": "# Two meteors are falling from the sky…\n\n# Upon landing, it drops Arrow Parts near itself.\n\n![image.webp](https://trello.com/1/cards/6ab54ab5677f47550e7dd8c1/attachments/6ab63c6888dfdff4024c63c6/previews/6ab63c6888dfdff4024c6448/download/image.webp)",
+    "id": "6ab54ab5677f47550e7dd8c1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432940afd4f03bd3cb643",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6ab6b6fdd0f1eb22581ce66c",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b6fdd0f1eb22581ce66c",
+        "uses": 5
+      }
+    ],
+    "name": "Meteor",
+    "pos": 140737488355328,
+    "shortLink": "qYSuUM6F",
+    "shortUrl": "https://trello.com/c/qYSuUM6F",
+    "url": "https://trello.com/c/qYSuUM6F/61-meteor"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432940afd4f03bd3cb643",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 2021847,
+      "date": "2026-09-24T21:31:31.669Z",
+      "id": "6ab596b306198ce817769402",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image-26.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab54c9ddf8d9a560e8fccd5/attachments/6ab596b306198ce817769402/download/image-26.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:15:21.793Z",
+    "desc": "# \"Hard hats recommended. Mind the falling debris.\"",
+    "id": "6ab54c9ddf8d9a560e8fccd5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4329c1b48cb3918a5a69b",
+    "labels": [],
+    "name": "Construction Zone",
+    "pos": 140737488420864,
+    "shortLink": "w1FQLXYr",
+    "shortUrl": "https://trello.com/c/w1FQLXYr",
+    "url": "https://trello.com/c/w1FQLXYr/71-construction-zone"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4329c1b48cb3918a5a69b",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

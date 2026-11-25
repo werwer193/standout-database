@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 26794,
+      "date": "2026-10-11T12:22:21.589Z",
+      "id": "6acb7f7d9e4bda7f0b10b270",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_142221757.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb78068de4374f48a52ff2/attachments/6acb7f7d9e4bda7f0b10b270/download/image_2026-10-11_142221757.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:31:27.896Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Damage**\n\n**+4 Ability**\n\n# Drops from Bounties",
+    "id": "6acb78068de4374f48a52ff2",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Usagi's Pants",
+    "pos": 140737489059840,
+    "shortLink": "vmKLOLLh",
+    "shortUrl": "https://trello.com/c/vmKLOLLh",
+    "url": "https://trello.com/c/vmKLOLLh/504-usagis-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

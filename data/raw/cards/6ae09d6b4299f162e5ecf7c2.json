@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:47:39.218Z",
+    "desc": "",
+    "id": "6ae09d6b4299f162e5ecf7c2",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Take Out The Trash",
+    "pos": 140737488994304,
+    "shortLink": "RZTOyWMo",
+    "shortUrl": "https://trello.com/c/RZTOyWMo",
+    "url": "https://trello.com/c/RZTOyWMo/682-take-out-the-trash"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

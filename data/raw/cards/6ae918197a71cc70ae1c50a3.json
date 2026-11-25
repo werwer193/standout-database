@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 29694,
+      "date": "2026-11-02T23:09:19.679Z",
+      "id": "6ae9181f362390d9314ff01d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae918197a71cc70ae1c50a3/attachments/6ae9181f362390d9314ff01d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:09:21.682Z",
+    "desc": "",
+    "id": "6ae918197a71cc70ae1c50a3",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Blindness",
+    "pos": 140737488896000,
+    "shortLink": "Qw6F0E2q",
+    "shortUrl": "https://trello.com/c/Qw6F0E2q",
+    "url": "https://trello.com/c/Qw6F0E2q/796-blindness"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

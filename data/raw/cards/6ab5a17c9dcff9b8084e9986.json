@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 347063,
+      "date": "2026-09-24T22:21:33.279Z",
+      "id": "6ab5a26d0a278b3394ab61fe",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_002133152.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab5a17c9dcff9b8084e9986/attachments/6ab5a26d0a278b3394ab61fe/download/image_2026-09-25_002133152.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:43:42.065Z",
+    "desc": "# Show Meryl Yokohama’s documents 0/1\n\n**Meryl Mei Qi - Yokohama’s papers show the filing is only the opening. HOWLER is buried in debt, and its assets are the leverage we need. Let me see the holder.**\n\n**–> Show Meryl the documents.**\n\n**Quest Completed! +1500 EXP**\n\n**Meryl has the documents. The next HOWLER operation is being prepared.**\n\n**–> I need a minute.**",
+    "id": "6ab5a17c9dcff9b8084e9986",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Report to Meryl at Iko Iko (Storyline #34.)",
+    "pos": 140737488928768,
+    "shortLink": "526nQoMZ",
+    "shortUrl": "https://trello.com/c/526nQoMZ",
+    "url": "https://trello.com/c/526nQoMZ/147-report-to-meryl-at-iko-iko-storyline-34"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

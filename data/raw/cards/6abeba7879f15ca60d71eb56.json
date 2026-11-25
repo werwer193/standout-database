@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 10113531,
+      "date": "2026-10-01T19:59:06.788Z",
+      "id": "6abebb8a37b75403569d9b89",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "2026-10-0120-52-42-ezgif.com-cut.gif",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6abeba7879f15ca60d71eb56/attachments/6abebb8a37b75403569d9b89/download/2026-10-0120-52-42-ezgif.com-cut.gif"
+    },
+    {
+      "bytes": 12783,
+      "date": "2026-10-02T16:35:06.005Z",
+      "id": "6abfdd3a2c3de1372961e3b2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6abeba7879f15ca60d71eb56/attachments/6abfdd3a2c3de1372961e3b2/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-02T16:35:06.782Z",
+    "desc": "**“Walking leaves tear puddles that briefly slide people crossing them.”**\n\n---\n\n**‘Emotional Damage’** is obtained from consuming the Onion item.\n\nThe Onion item is grown from the ‘Onion Seed’ purchasable from [https://trello.com/c/ji4Hw59y](https://trello.com/c/ji4Hw59y \"smartCard-inline\")  & grown by  [https://trello.com/c/naSGoTSr](https://trello.com/c/naSGoTSr \"smartCard-inline\") .\n\n‌\n\n![2026-10-0120-52-42-ezgif.com-cut.gif](https://trello.com/1/cards/6abeba7879f15ca60d71eb56/attachments/6abebb8a37b75403569d9b89/download/2026-10-0120-52-42-ezgif.com-cut.gif)",
+    "id": "6abeba7879f15ca60d71eb56",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Emotional Damage",
+    "pos": 140737488535552,
+    "shortLink": "bTzffjxv",
+    "shortUrl": "https://trello.com/c/bTzffjxv",
+    "url": "https://trello.com/c/bTzffjxv/315-emotional-damage"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

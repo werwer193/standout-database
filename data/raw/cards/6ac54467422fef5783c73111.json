@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 961346,
+      "date": "2026-10-06T18:57:24.208Z",
+      "id": "6ac544943e0443af46ff0ab5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac54467422fef5783c73111/attachments/6ac544943e0443af46ff0ab5/download/image.png"
+    },
+    {
+      "bytes": 961346,
+      "date": "2026-10-06T18:57:36.643Z",
+      "id": "6ac544a00e4b45edbf4e41e7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac54467422fef5783c73111/attachments/6ac544a00e4b45edbf4e41e7/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-06T18:59:39.700Z",
+    "desc": "# DEFEAT KEY WEST: 0/2\n\n**Dragona - She’s weakened! Get behind her and push her into the pool. A heavy hit will work too.**\n\n# PUSH KEY WEST INTO THE POOL: 1/2\n\n# Quest Completed!",
+    "id": "6ac54467422fef5783c73111",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "Defeat Key West (Storyline #46.)",
+    "pos": 140737489125376,
+    "shortLink": "RMvUXAeR",
+    "shortUrl": "https://trello.com/c/RMvUXAeR",
+    "url": "https://trello.com/c/RMvUXAeR/388-defeat-key-west-storyline-46"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

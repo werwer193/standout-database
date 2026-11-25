@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 19131,
+      "date": "2026-11-03T00:04:34.269Z",
+      "id": "6ae925128df0050e254a70ee",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09ca27aca54ccbd43f176/attachments/6ae925128df0050e254a70ee/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:04:57.095Z",
+    "desc": "",
+    "id": "6ae09ca27aca54ccbd43f176",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Camera",
+    "pos": 140737488486400,
+    "shortLink": "O5Pls5j8",
+    "shortUrl": "https://trello.com/c/O5Pls5j8",
+    "url": "https://trello.com/c/O5Pls5j8/626-camera"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

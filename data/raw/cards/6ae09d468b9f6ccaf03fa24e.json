@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:47:02.945Z",
+    "desc": "",
+    "id": "6ae09d468b9f6ccaf03fa24e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Action Ready",
+    "pos": 140737488863232,
+    "shortLink": "6v3y1QYY",
+    "shortUrl": "https://trello.com/c/6v3y1QYY",
+    "url": "https://trello.com/c/6v3y1QYY/674-action-ready"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

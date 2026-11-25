@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 250553,
+      "date": "2026-10-13T16:01:27.644Z",
+      "id": "6ace55d79ecb0333a8c96ede",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "traininghumu.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ace55c6c8403683743e95c4/attachments/6ace55d79ecb0333a8c96ede/download/Sn%C3%ADmek_obrazovky_2026-10-13_010132.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T16:01:37.037Z",
+    "desc": "",
+    "id": "6ace55c6c8403683743e95c4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [],
+    "name": "Training Humu",
+    "pos": 140737488584704,
+    "shortLink": "93nUiVO8",
+    "shortUrl": "https://trello.com/c/93nUiVO8",
+    "url": "https://trello.com/c/93nUiVO8/524-training-humu"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

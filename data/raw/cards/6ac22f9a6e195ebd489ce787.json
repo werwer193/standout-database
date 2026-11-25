@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 64271,
+      "date": "2026-10-04T10:51:12.800Z",
+      "id": "6ac22fa057c884683268733d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_125112553.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac22f9a6e195ebd489ce787/attachments/6ac22fa057c884683268733d/download/image_2026-10-04_125112553.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-04T10:51:36.105Z",
+    "desc": "# Located at [[https://trello.com/c/YDLQnwAH/352-howlers-yacht](https://trello.com/c/YDLQnwAH/352-howlers-yacht \"smartCard-inline\") ]",
+    "id": "6ac22f9a6e195ebd489ce787",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Key West",
+    "pos": 140737488404480,
+    "shortLink": "olkg7MTB",
+    "shortUrl": "https://trello.com/c/olkg7MTB",
+    "url": "https://trello.com/c/olkg7MTB/355-key-west"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

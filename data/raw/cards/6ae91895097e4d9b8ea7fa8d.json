@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 14489,
+      "date": "2026-11-02T23:11:25.331Z",
+      "id": "6ae9189d43883d7eb56849b4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91895097e4d9b8ea7fa8d/attachments/6ae9189d43883d7eb56849b4/download/image.png"
+    },
+    {
+      "bytes": 14466,
+      "date": "2026-11-02T23:11:38.263Z",
+      "id": "6ae918aa5cc13925f35cb967",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ae91895097e4d9b8ea7fa8d/attachments/6ae918aa5cc13925f35cb967/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:12:42.743Z",
+    "desc": "# To obtain this status effect, you must eat a [https://trello.com/c/wcPjvGJZ/277-popping-candy](https://trello.com/c/wcPjvGJZ/277-popping-candy \"smartCard-inline\")\n\n![image.webp](https://trello.com/1/cards/6ae91895097e4d9b8ea7fa8d/attachments/6ae918aa5cc13925f35cb967/previews/6ae918aa5cc13925f35cba7d/download/image.webp)",
+    "id": "6ae91895097e4d9b8ea7fa8d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Cackling",
+    "pos": 140737488961536,
+    "shortLink": "eo4fQwnz",
+    "shortUrl": "https://trello.com/c/eo4fQwnz",
+    "url": "https://trello.com/c/eo4fQwnz/800-cackling"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

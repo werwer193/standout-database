@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 218834,
+      "date": "2026-10-26T23:41:09.394Z",
+      "id": "6adfe515fae629c8a2956f8a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_004108887.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ade0cff131cbb4e4b20899b/attachments/6adfe515fae629c8a2956f8a/download/image_2026-10-27_004108887.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T23:41:10.970Z",
+    "desc": "",
+    "id": "6ade0cff131cbb4e4b20899b",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "The Good Stuff: Grow (Storyline #19.5)",
+    "pos": 140737488691200,
+    "shortLink": "ekIO5AT9",
+    "shortUrl": "https://trello.com/c/ekIO5AT9",
+    "url": "https://trello.com/c/ekIO5AT9/587-the-good-stuff-grow-storyline-195"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

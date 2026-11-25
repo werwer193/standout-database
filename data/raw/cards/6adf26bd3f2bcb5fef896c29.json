@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 219804,
+      "date": "2026-10-26T10:09:22.002Z",
+      "id": "6adf26d2b25865d259bfe741",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_110921701.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adf26bd3f2bcb5fef896c29/attachments/6adf26d2b25865d259bfe741/download/image_2026-10-26_110921701.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T21:40:28.530Z",
+    "desc": "Right click and middle click dont cancel emotes anymore, only left click does\nAdded an emote button top left for mobile and console\nIf ur piloting a humanoid stand the stand does the emote now\nBadge, community and story rewards are bound to ur account now\nU can only drop items once u have ur phone  now too\nHighway star deep sniff doesnt track seals and animals anymore\nFixed highway star taking damage while its out on a pursuit\nFixed highway star looking naked when it reforms from foot form\nFixed highway star spinning around when u spam space in shiftlock (maybe)\nHighway star marks go away when u change stand now (maybe)\nStands that cant fly jump on space when piloted (highway star, grateful dead and more)\nPiloted humanoid stands can be grabbed now\nGetting slept while piloting kicks u out of pilot now\nFixed ur stand showing inside ur body when u summon during lag (maybe)\nFixed big getting his users torso back from donut gore\nBig can eat driveable cars now (maybe)\nFixed kc epitaph putting u inside walls (maybe)\nTower of gray's gray fly now needs and drains ex, cooldown is way shorter\nYo yo ma ex4 can swallow beyond the sea now (maybe)\nFixed harvest pose money being tilted\nFixed under world prop memory popping items onto the floor above (maybe)\nFixed pilot throws sometimes throwing from ur body (maybe)\nCant pick up throwables during a mandom rewind anymore, held ones drop in front of u after (maybe)\nMandom doesnt kick u out of go fish anymore (maybe)\nDarby only plays one person at a time now so u cant get kicked out of go fish (maybe)\nRagdolled players float up in water now instead of sinking (maybe)\nFixed mr pres entrap thru a ghost room door sending u back out (maybe)\nFixed the rohan jungle cats bugging out in parties (maybe)\nLand registry and diamotch guards wait their turn again after the guy who hit them dies (maybe)\nBurning down the house, catch the rainbow and strength cant come from arrows until u beat the story\nAdded a tutorial step to read ur stand in the archive before stats\nAdded a story step after getting the phone where u take a huber to rohans villa\nComplete 3 bounties is now complete 5 side activities (bounties, eliminations or side quests) and open side quests on the phone map\nSpawn garden has way more slots now\nSwat van cash shows a hold bar now\nSwat guards dont block the cash claim anymore\nCop car and basic car have back seats now\nFixed hydrant splash paritcle not being a flipbook\nFixed destroyed ground disappearing for a sec (maybe)\nFixed the diamotch watch not sitting in the display case\nfixed mandom on go fish\nfixd highway star grabs into water\nfixd aggro on the land registry fight with 2 people\ntesters pls test entrap thru ghost room doors\nfixd rohan cats with a party\nhopefully fixed rohan phone cutscene bug\nMAYBE fixed train lag and other stuff with it, again go test maybe fix\nalso maybe fixed rolling stone pickup in pilot\nUr tutorial cop has a red outline now so u know which one is urs\nYacht money minigame bar changes speed and green size every press now\nRolling stones doesnt target seals anymore\nU can switch emotes by clicking a different one now\nMoving cancels emotes that keep u in place now\nAll bullet stun is 25% shorter\nFixed the story arrow odds not showing all the locked stands\nVR camera turns way faster now, snap or smooth from ur roblox settings\nIn VR u walk where ur looking now\nVR camera sits higher now\nVR controls: R3 crouches, flick right stick up for EX (hold R2 for auxiliary), flick down for menu\nVR players get the menu and emote buttons top left now\n(idk i dont feel like plugging my vr in to test lmao)\ntesters pls test the tutorial cop outline with 2 new players\nvr players pls test the new controls\nfixed weird west end girl block thing prob\nAdded 14 new emojis (THANKS ARTISTS!)\n\nwhole lotta maybes testers go test all the maybes\n\nFixed pilot stands being able to attack and use moves while grabbed or stunned\nFixed pilot stands teleporting back after getting grabbed, they fly back now\nfixed some more grabs not working on pilots\nFixed big getting spat out of conceal when the stand user unpilots (maybe)\nFixed harvest scouts getting stuck and never coming back (maybe)\nbuffed search party on harvest\nFixed big throwable stuff prob\nmessed with vr controls a bit more\nAdded another batch of new emojis\nYou can cheat in go fish now\nMagicians Red can explode gas cans with projectiles now\nfixed some other misc bugs",
+    "id": "6adf26bd3f2bcb5fef896c29",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "26/10/2026 (GIGA Bug Fixes)",
+    "pos": 140737487978496,
+    "shortLink": "4KRKLqGU",
+    "shortUrl": "https://trello.com/c/4KRKLqGU",
+    "url": "https://trello.com/c/4KRKLqGU/592-26-10-2026-giga-bug-fixes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

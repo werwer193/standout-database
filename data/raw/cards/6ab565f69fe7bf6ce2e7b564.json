@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 811532,
+      "date": "2026-09-25T09:03:37.373Z",
+      "id": "6ab638e9b5f5c57b85b793cf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_110337204.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab565f69fe7bf6ce2e7b564/attachments/6ab638e9b5f5c57b85b793cf/download/image_2026-09-25_110337204.png"
+    },
+    {
+      "bytes": 339622,
+      "date": "2026-09-26T17:40:10.485Z",
+      "id": "6ab8037a5b8af23c77cc7ec1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_194010056.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab565f69fe7bf6ce2e7b564/attachments/6ab8037a5b8af23c77cc7ec1/download/image_2026-09-26_194010056.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-26T17:40:10.888Z",
+    "desc": "# Located at [[https://trello.com/c/fq4RAS8x](https://trello.com/c/fq4RAS8x \"smartCard-inline\")]",
+    "id": "6ab565f69fe7bf6ce2e7b564",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      }
+    ],
+    "name": "Gardening",
+    "pos": 140737488322560,
+    "shortLink": "naSGoTSr",
+    "shortUrl": "https://trello.com/c/naSGoTSr",
+    "url": "https://trello.com/c/naSGoTSr/98-gardening"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

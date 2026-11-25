@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 27827,
+      "date": "2026-10-11T12:08:50.707Z",
+      "id": "6acb7c52d543595fbde13db5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_140851049.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb778070cef2a5d8725a13/attachments/6acb7c52d543595fbde13db5/download/image_2026-10-11_140851049.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T15:33:50.674Z",
+    "desc": "# **When equipped gives you:**\n\n**+5 Ability**\n\n**+15 Damage**\n\n**+5 Health**\n\n# If equipped with [https://trello.com/c/p34cpe7r/479-jotaros-jacket](https://trello.com/c/p34cpe7r/479-jotaros-jacket \"smartCard-inline\")  you get +15 Ability and 10% more Rage Finish damage\n\n# Drops from: [https://trello.com/c/GJLelhlD/346-jotaro](https://trello.com/c/GJLelhlD/346-jotaro \"smartCard-inline\")",
+    "id": "6acb778070cef2a5d8725a13",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Jotaro's Pants",
+    "pos": 140737488666624,
+    "shortLink": "oMrSWmgY",
+    "shortUrl": "https://trello.com/c/oMrSWmgY",
+    "url": "https://trello.com/c/oMrSWmgY/480-jotaros-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

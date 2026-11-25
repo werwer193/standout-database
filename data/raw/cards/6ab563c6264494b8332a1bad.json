@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-25T08:45:19.292Z",
+    "desc": "",
+    "id": "6ab563c6264494b8332a1bad",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab448eaa73550de3b5e0bcd",
+    "labels": [],
+    "name": "World Events",
+    "pos": 140737488379904,
+    "shortLink": "G1x5lT14",
+    "shortUrl": "https://trello.com/c/G1x5lT14",
+    "url": "https://trello.com/c/G1x5lT14/96-world-events"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab448eaa73550de3b5e0bcd",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

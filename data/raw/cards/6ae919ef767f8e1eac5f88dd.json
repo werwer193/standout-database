@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7844,
+      "date": "2026-11-02T23:17:09.247Z",
+      "id": "6ae919f5874209aa651d7f7d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae919ef767f8e1eac5f88dd/attachments/6ae919f5874209aa651d7f7d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:17:11.026Z",
+    "desc": "",
+    "id": "6ae919ef767f8e1eac5f88dd",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Misfortune",
+    "pos": 140737489125376,
+    "shortLink": "qIwgzLc9",
+    "shortUrl": "https://trello.com/c/qIwgzLc9",
+    "url": "https://trello.com/c/qIwgzLc9/810-misfortune"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

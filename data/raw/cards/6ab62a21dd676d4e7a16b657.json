@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 3864,
+      "date": "2026-09-25T08:04:55.923Z",
+      "id": "6ab62b27faad8c3534296bbf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_100456416.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab62a21dd676d4e7a16b657/attachments/6ab62b27faad8c3534296bbf/download/image_2026-09-25_100456416.png"
+    },
+    {
+      "bytes": 25360,
+      "date": "2026-10-11T08:28:03.748Z",
+      "id": "6acb48938b0de804707134b5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_102804375.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab62a21dd676d4e7a16b657/attachments/6acb48938b0de804707134b5/download/image_2026-10-11_102804375.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T08:28:04.135Z",
+    "desc": "**Chubby Baby, Chubby Baby, so adorable… a mysterious Stand user summoned EVIL Jellyfish to steal him.. find and save him!!!**\n\n**Limited Deaths: 8**",
+    "id": "6ab62a21dd676d4e7a16b657",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62994fdc1e8c91358f993",
+    "labels": [],
+    "name": "Save Chubby Baby",
+    "pos": 140737488388096,
+    "shortLink": "UnVBOOOf",
+    "shortUrl": "https://trello.com/c/UnVBOOOf",
+    "url": "https://trello.com/c/UnVBOOOf/152-save-chubby-baby"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62994fdc1e8c91358f993",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

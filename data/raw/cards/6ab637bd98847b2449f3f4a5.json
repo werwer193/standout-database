@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-30T19:44:12.056Z",
+    "desc": "",
+    "id": "6ab637bd98847b2449f3f4a5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab448eaa73550de3b5e0bcd",
+    "labels": [],
+    "name": "---",
+    "pos": 140737488375296,
+    "shortLink": "MO1KndMt",
+    "shortUrl": "https://trello.com/c/MO1KndMt",
+    "url": "https://trello.com/c/MO1KndMt/191-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab448eaa73550de3b5e0bcd",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

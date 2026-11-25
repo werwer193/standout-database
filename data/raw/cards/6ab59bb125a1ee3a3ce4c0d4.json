@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 777690,
+      "date": "2026-09-24T21:54:32.266Z",
+      "id": "6ab59c189134b71be404f6a3",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_235432271.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59bb125a1ee3a3ce4c0d4/attachments/6ab59c189134b71be404f6a3/download/image_2026-09-24_235432271.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:43:00.216Z",
+    "desc": "# Walk out of the registry 0/1\n\n# Quest Completed! +450 EXP",
+    "id": "6ab59bb125a1ee3a3ce4c0d4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Exit the Registry (Storyline #23.)",
+    "pos": 140737488748544,
+    "shortLink": "dSsbf2bv",
+    "shortUrl": "https://trello.com/c/dSsbf2bv",
+    "url": "https://trello.com/c/dSsbf2bv/136-exit-the-registry-storyline-23"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

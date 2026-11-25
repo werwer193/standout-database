@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4671,
+      "date": "2026-11-03T00:08:48.547Z",
+      "id": "6ae92610ceb90e721730ef5e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09cdc8358543dd8079c36/attachments/6ae92610ceb90e721730ef5e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:09:48.562Z",
+    "desc": "",
+    "id": "6ae09cdc8358543dd8079c36",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Glare",
+    "pos": 140737488830464,
+    "shortLink": "Tc4dSQOv",
+    "shortUrl": "https://trello.com/c/Tc4dSQOv",
+    "url": "https://trello.com/c/Tc4dSQOv/647-glare"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

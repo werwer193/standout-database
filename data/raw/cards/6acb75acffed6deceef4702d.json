@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 15362,
+      "date": "2026-10-11T11:40:37.311Z",
+      "id": "6acb75b570cef2a5d86f489e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_134037928.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb75acffed6deceef4702d/attachments/6acb75b570cef2a5d86f489e/download/image_2026-10-11_134037928.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T11:40:51.605Z",
+    "desc": "# No bonuses.",
+    "id": "6acb75acffed6deceef4702d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Blackmore's Mask",
+    "pos": 140737488388096,
+    "shortLink": "rKQ7Sx5b",
+    "shortUrl": "https://trello.com/c/rKQ7Sx5b",
+    "url": "https://trello.com/c/rKQ7Sx5b/463-blackmores-mask"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

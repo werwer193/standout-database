@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5447,
+      "date": "2026-11-03T00:13:36.674Z",
+      "id": "6ae927309eb166d59355934b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae9270437ce882968caf86f/attachments/6ae927309eb166d59355934b/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:14:50.911Z",
+    "desc": "",
+    "id": "6ae9270437ce882968caf86f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Devilish Grin",
+    "pos": 140737489190912,
+    "shortLink": "EDlaer2J",
+    "shortUrl": "https://trello.com/c/EDlaer2J",
+    "url": "https://trello.com/c/EDlaer2J/840-devilish-grin"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

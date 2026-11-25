@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23653,
+      "date": "2026-09-25T08:21:29.973Z",
+      "id": "6ab62f097404926a8a72fb27",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_102130204.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab62e63d609aae22d9b7859/attachments/6ab62f097404926a8a72fb27/download/image_2026-09-25_102130204.png"
+    },
+    {
+      "bytes": 425017,
+      "date": "2026-09-26T11:59:14.345Z",
+      "id": "6ab7b392b3c56fc8768964ea",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "www.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab62e63d609aae22d9b7859/attachments/6ab7b392b3c56fc8768964ea/download/www.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-26T11:59:21.194Z",
+    "desc": "# Your everyday ride.\n\n# **Huber**\n\n#  **serves as a fast-travel that costs 50 coins every ride.**\n\n![www.gif](https://trello.com/1/cards/6ab62e63d609aae22d9b7859/attachments/6ab7b392b3c56fc8768964ea/previews/6ab7b393b3c56fc876896857/download/www.gif)",
+    "id": "6ab62e63d609aae22d9b7859",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "Huber",
+    "pos": 140737488371712,
+    "shortLink": "fqUc1ar6",
+    "shortUrl": "https://trello.com/c/fqUc1ar6",
+    "url": "https://trello.com/c/fqUc1ar6/158-huber"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

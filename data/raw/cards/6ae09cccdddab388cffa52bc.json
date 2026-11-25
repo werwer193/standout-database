@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 35319,
+      "date": "2026-11-03T00:07:31.006Z",
+      "id": "6ae925c393919fd795f069d1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09cccdddab388cffa52bc/attachments/6ae925c393919fd795f069d1/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:07:47.857Z",
+    "desc": "",
+    "id": "6ae09cccdddab388cffa52bc",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Oh My God",
+    "pos": 140737488715776,
+    "shortLink": "GMZ9lk6E",
+    "shortUrl": "https://trello.com/c/GMZ9lk6E",
+    "url": "https://trello.com/c/GMZ9lk6E/640-oh-my-god"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

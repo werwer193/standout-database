@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 58405,
+      "date": "2026-09-29T12:57:19.131Z",
+      "id": "6abbb5af1c30b895d6d51d15",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb5a6303556889c09efb8/attachments/6abbb5af1c30b895d6d51d15/download/image.png"
+    },
+    {
+      "bytes": 58405,
+      "date": "2026-09-29T12:57:28.743Z",
+      "id": "6abbb5b8c713115c2e82c51f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbb5a6303556889c09efb8/attachments/6abbb5b8c713115c2e82c51f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:58:33.385Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb5a6303556889c09efb8/attachments/6abbb5b8c713115c2e82c51f/previews/6abbb5b9c713115c2e82c585/download/image.webp)",
+    "id": "6abbb5a6303556889c09efb8",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      }
+    ],
+    "name": "Salt",
+    "pos": 140737488477952,
+    "shortLink": "sf1M1Hjy",
+    "shortUrl": "https://trello.com/c/sf1M1Hjy",
+    "url": "https://trello.com/c/sf1M1Hjy/284-salt"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

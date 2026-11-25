@@ -1,0 +1,385 @@
+{
+  "attachments": [
+    {
+      "bytes": 167065,
+      "date": "2026-10-16T08:02:03.206Z",
+      "id": "6ad1d9fbc9f71bd734caa2fb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-16_100202606.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1d9fbc9f71bd734caa2fb/download/image_2026-10-16_100202606.png"
+    },
+    {
+      "bytes": 87946,
+      "date": "2026-10-16T08:08:34.991Z",
+      "id": "6ad1db82fe0536551935ff73",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1db82fe0536551935ff73/download/image.png"
+    },
+    {
+      "bytes": 221106,
+      "date": "2026-10-16T08:08:49.109Z",
+      "id": "6ad1db91f849b0f8d791ea2f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1db91f849b0f8d791ea2f/download/image.png"
+    },
+    {
+      "bytes": 3423674,
+      "date": "2026-10-16T09:34:20.339Z",
+      "id": "6ad1ef9c47abef2f2d048c74",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "reel.gif",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ef9c47abef2f2d048c74/download/reel.gif"
+    },
+    {
+      "bytes": 43338,
+      "date": "2026-10-16T09:36:09.913Z",
+      "id": "6ad1f009516ca8280a650216",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-16_113609536.png",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f009516ca8280a650216/download/image_2026-10-16_113609536.png"
+    },
+    {
+      "bytes": 1744573,
+      "date": "2026-10-16T09:36:16.074Z",
+      "id": "6ad1f0104a4a6839ffcfeda9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "vibrations.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f0104a4a6839ffcfeda9/download/vibrations.gif"
+    },
+    {
+      "bytes": 195026,
+      "date": "2026-10-16T09:37:26.839Z",
+      "id": "6ad1f056ac99153620c9109e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "object.gif",
+      "pos": 140737488453632,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f056ac99153620c9109e/download/object.gif"
+    },
+    {
+      "bytes": 360693,
+      "date": "2026-10-16T09:38:41.521Z",
+      "id": "6ad1f0a192c39419dccb81e2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "quickcast.gif",
+      "pos": 140737488470016,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f0a192c39419dccb81e2/download/quickcast.gif"
+    },
+    {
+      "bytes": 51984,
+      "date": "2026-10-16T09:42:19.078Z",
+      "id": "6ad1f17bbfeea671966bf221",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488486400,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f17bbfeea671966bf221/download/image.png"
+    },
+    {
+      "bytes": 46149,
+      "date": "2026-10-16T09:42:41.892Z",
+      "id": "6ad1f19137b04a8b3e4ced2f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488502784,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f19137b04a8b3e4ced2f/download/image.png"
+    },
+    {
+      "bytes": 909590,
+      "date": "2026-10-16T09:45:34.958Z",
+      "id": "6ad1f23ed23feb3a2c3987b1",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "reels.gif",
+      "pos": 140737488519168,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f23ed23feb3a2c3987b1/download/reels.gif"
+    },
+    {
+      "bytes": 423243,
+      "date": "2026-10-16T09:46:00.419Z",
+      "id": "6ad1f2589d74a9e659d3c939",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "tear.gif",
+      "pos": 140737488535552,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f2589d74a9e659d3c939/download/tear.gif"
+    },
+    {
+      "bytes": 327578,
+      "date": "2026-10-16T09:49:08.600Z",
+      "id": "6ad1f314b4b2369ed1dbf263",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "doublesnag.gif",
+      "pos": 140737488551936,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f314b4b2369ed1dbf263/download/doublesnag.gif"
+    },
+    {
+      "bytes": 466663,
+      "date": "2026-10-16T09:50:58.263Z",
+      "id": "6ad1f382f6909aef29de5194",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "half.gif",
+      "pos": 140737488568320,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f382f6909aef29de5194/download/half.gif"
+    },
+    {
+      "bytes": 1430707,
+      "date": "2026-10-16T09:58:18.524Z",
+      "id": "6ad1f53a4d57f8689e1f01dd",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "rpull.gif",
+      "pos": 140737488584704,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f53a4d57f8689e1f01dd/download/rpull.gif"
+    },
+    {
+      "bytes": 3104711,
+      "date": "2026-10-16T09:58:48.177Z",
+      "id": "6ad1f5581f199751fbd54833",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "m1reel.gif",
+      "pos": 140737488601088,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f5581f199751fbd54833/download/m1reel.gif"
+    },
+    {
+      "bytes": 301283,
+      "date": "2026-10-16T10:03:27.028Z",
+      "id": "6ad1f66f1ae42dac2c02df6f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "SNAG.gif",
+      "pos": 140737488617472,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f66f1ae42dac2c02df6f/download/SNAG.gif"
+    },
+    {
+      "bytes": 862043,
+      "date": "2026-10-16T10:04:02.201Z",
+      "id": "6ad1f6922b297678c3dbd2cf",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "directionsnag.gif",
+      "pos": 140737488633856,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f6922b297678c3dbd2cf/download/directionsnag.gif"
+    },
+    {
+      "bytes": 271268,
+      "date": "2026-10-16T10:05:34.743Z",
+      "id": "6ad1f6ee6f2ef066ae5ae9a8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "switch.gif",
+      "pos": 140737488650240,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f6ee6f2ef066ae5ae9a8/download/switch.gif"
+    },
+    {
+      "bytes": 645603,
+      "date": "2026-10-16T10:07:43.822Z",
+      "id": "6ad1f76fec507f49d4fb4e9b",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "heart.gif",
+      "pos": 140737488666624,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f76fec507f49d4fb4e9b/download/heart.gif"
+    },
+    {
+      "bytes": 289049,
+      "date": "2026-10-16T10:08:39.744Z",
+      "id": "6ad1f7a7e2b6cb85454a7422",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "head.gif",
+      "pos": 140737488683008,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7a7e2b6cb85454a7422/download/head.gif"
+    },
+    {
+      "bytes": 273299,
+      "date": "2026-10-16T10:09:19.359Z",
+      "id": "6ad1f7cf45c576f5085a3973",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "arm.gif",
+      "pos": 140737488699392,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7cf45c576f5085a3973/download/arm.gif"
+    },
+    {
+      "bytes": 322514,
+      "date": "2026-10-16T10:09:34.088Z",
+      "id": "6ad1f7de3b8def2ed91f87e8",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "leg.gif",
+      "pos": 140737488715776,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7de3b8def2ed91f87e8/download/leg.gif"
+    },
+    {
+      "bytes": 558885,
+      "date": "2026-10-16T10:18:19.605Z",
+      "id": "6ad1f9eb6f24d3616ea6d404",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "focused.gif",
+      "pos": 140737488732160,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f9eb6f24d3616ea6d404/download/focused.gif"
+    },
+    {
+      "bytes": 484768,
+      "date": "2026-10-16T10:37:22.663Z",
+      "id": "6ad1fe6224ab7e31d0695719",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "bossraidoni.gif",
+      "pos": 140737488748544,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fe6224ab7e31d0695719/download/bossraidoni.gif"
+    },
+    {
+      "bytes": 814288,
+      "date": "2026-10-16T10:37:44.718Z",
+      "id": "6ad1fe7865393da1289c5896",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "execute.gif",
+      "pos": 140737488764928,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fe7865393da1289c5896/download/execute.gif"
+    },
+    {
+      "bytes": 61394,
+      "date": "2026-10-16T10:41:57.729Z",
+      "id": "6ad1ff7537dfda1d75406251",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488781312,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ff7537dfda1d75406251/download/image.png"
+    },
+    {
+      "bytes": 116816,
+      "date": "2026-10-16T10:42:07.941Z",
+      "id": "6ad1ff7f0ff1f4d63f15ef7f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488797696,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ff7f0ff1f4d63f15ef7f/download/image.png"
+    },
+    {
+      "bytes": 838237,
+      "date": "2026-10-16T10:42:20.542Z",
+      "id": "6ad1ff8c08e7d8ff4ea2918e",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "plaque.gif",
+      "pos": 140737488814080,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ff8c08e7d8ff4ea2918e/download/plaque.gif"
+    },
+    {
+      "bytes": 1202391,
+      "date": "2026-10-16T10:44:04.710Z",
+      "id": "6ad1fff447e3a134fb448a45",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hearttoheart.gif",
+      "pos": 140737488830464,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fff447e3a134fb448a45/download/hearttoheart.gif"
+    },
+    {
+      "bytes": 1288028,
+      "date": "2026-10-16T10:44:53.813Z",
+      "id": "6ad200253726bb1b5dd7c6db",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "eye.gif",
+      "pos": 140737488846848,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad200253726bb1b5dd7c6db/download/eye.gif"
+    },
+    {
+      "bytes": 1026775,
+      "date": "2026-10-16T10:45:51.744Z",
+      "id": "6ad2005f1c49d79d88dcaa23",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "die.gif",
+      "pos": 140737488863232,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad2005f1c49d79d88dcaa23/download/die.gif"
+    },
+    {
+      "bytes": 863775,
+      "date": "2026-10-16T10:46:50.089Z",
+      "id": "6ad2009a3bbd7d8e72ef1fb2",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "legs.gif",
+      "pos": 140737488879616,
+      "url": "https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad2009a3bbd7d8e72ef1fb2/download/legs.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-17T15:23:32.628Z",
+    "desc": "## Lore:\n\n## “Got him! He took the bait!”\n\n**The stand of Pesci, a member of La Squadra Esecuzioni. Beach Boy is a fishing rod whose line and hook pass through anything but their prey. Any attack on the line travels into whoever is hooked.**\n\n---\n\n## Pose:\n\n![image.webp](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1db91f849b0f8d791ea2f/previews/6ad1db91f849b0f8d791eb21/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1db82fe0536551935ff73/previews/6ad1db83fe05365519360157/download/image.webp)\n\n---\n\n## Ability Scaling\n\n**Ability makes your line longer and your reel stronger. The line can reach up to 225 studs.**\n\n## For My Bro!\n\n**Anyone who kills a member of your party is marked for 20 seconds. Your hook sinks into them 50% faster.**\n\n## Cast Out (Ctrl)\n\n**Steer your hook through walls and floors to catch someone. Use again to stop steering, then again to resume. Heavy attacks reels it back.**\n\n**Base cooldown: 1s**\n\n![reel.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ef9c47abef2f2d048c74/previews/6ad1efa247abef2f2d049d3e/download/reel.gif)\n\n## The Line Carries\n\n**You and your allies can hit the line to damage whoever is hooked. Hamon also travels through it.**\n\n## An Angler’s Hold\n\n**Being ragdolled or hit with heavy knockback releases whoever you have hooked, including during Focused Fishing.**\n\n## Big Catches\n\n**Hook a large object, such as a car. Hold M1 to reel yourself toward it, or press R for a quick pull.**\n\n## Quick Pull (R)\n\n![rpull.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f53a4d57f8689e1f01dd/previews/6ad1f5404d57f8689e1f0a0d/download/rpull.gif)\n\n## Reel (M1)\n\n![m1reel.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f5581f199751fbd54833/previews/6ad1f5641f199751fbd55563/download/m1reel.gif)\n\n## Good Vibrations\n\n**While steering the hook inside a wall or underground, nearby people appear as pink squares and loose objects appear as pale squares.**\n\n![vibrations.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f0104a4a6839ffcfeda9/previews/6ad1f0154a4a6839ffcff51f/download/vibrations.gif)\n\n## Objects:\n\n![object.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f056ac99153620c9109e/previews/6ad1f05aac99153620c91526/download/object.gif)\n\n## Quickcast\n\n**Cast your hook toward your aim in a shallow arc. It catches people, sticks into large objects, or stays where it lands.**\n\n**Base cooldown: 6s**\n\n![quickcast.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f0a192c39419dccb81e2/previews/6ad1f0a592c39419dccb83f3/download/quickcast.gif)\n\n## Hook Depth\n\n**Hold M1 to reel someone in and build depth. More Strength makes the hook sink faster. Deeper hooks slow them more and deal more damage when pulled out. At 25% depth or more, R tears the hook out. They escape if they get too far beyond your line's reach.**\n\n![image.webp](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f19137b04a8b3e4ced2f/previews/6ad1f19237b04a8b3e4cee24/download/image.webp)\n\n## M1 Reel:\n\n![reels.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f23ed23feb3a2c3987b1/previews/6ad1f24bd23feb3a2c399764/download/reels.gif)\n\n## R Tear: (With Depth)\n\n![tear.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f2589d74a9e659d3c939/previews/6ad1f25c9d74a9e659d3d1c2/download/tear.gif)\n\n## Double Snag\n\n**Whip the hook twice. Landing both hits causes bleeding. If someone is already hooked, tear it out and try to hook them again at half depth.**\n\n**Base cooldown: 12s**\n\n![doublesnag.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f314b4b2369ed1dbf263/previews/6ad1f317b4b2369ed1dbf432/download/doublesnag.gif)\n\n## If hooked:\n\n![half.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f382f6909aef29de5194/previews/6ad1f385f6909aef29de553a/download/half.gif)\n\n**(Tearing heart out and proccing bleed, then re-entering with half the depth: 77% to 39%.)**\n\n## Set the Hook\n\n**Drive the hook deeper (25%) and fling your catch. Move sideways to throw them left or right. Otherwise, pull them back. Can smash them into breakable walls.**\n\n**Base cooldown: 16s**\n\n![SNAG.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f66f1ae42dac2c02df6f/previews/6ad1f6711ae42dac2c02e2ed/download/SNAG.gif)\n\n## Smashing them into a wall\n\n![directionsnag.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f6922b297678c3dbd2cf/previews/6ad1f6942b297678c3dbd4eb/download/directionsnag.gif)\n\n**(Holding A to fling the enemy to the left side.)**\n\n## Target Swap\n\n**Switch between your catch’s heart, head, arm and leg. Keep 75% of the hook’s depth. (This affects what youre going to rip out.)**\n\n**Base cooldown: 2s**\n\n![switch.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f6ee6f2ef066ae5ae9a8/previews/6ad1f6f16f2ef066ae5afc4a/download/switch.gif)\n\n## Targets\n\n**Heart: causes bleeding when pulled out.**\n\n![heart.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f76fec507f49d4fb4e9b/previews/6ad1f774ec507f49d4fb51e7/download/heart.gif)\n\n**Head: takes longer to reach. Pulling it out blinds and briefly stuns them.**\n\n![head.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7a7e2b6cb85454a7422/previews/6ad1f7a9e2b6cb85454a76ce/download/head.gif)\n\n**Arm: reached faster and slows their attacks.**\n\n![arm.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7cf45c576f5085a3973/previews/6ad1f7d145c576f5085a3c7a/download/arm.gif)\n\n**Leg: reached faster, slows movement more and trips them when pulled out.**\n\n![leg.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f7de3b8def2ed91f87e8/previews/6ad1f7e03b8def2ed91f8b0e/download/leg.gif)\n\n---\n\n## EX [Awakening Moves]\n\n## **Focused Fishing**\n\n**Hold to reel your catch in faster and sink the hook deeper. You cannot move it while using it, and it drains EX.**\n\n**Base cooldown: 3s**\n\n![focused.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1f9eb6f24d3616ea6d404/previews/6ad1f9f16f24d3616ea6d995/download/focused.gif)\n\n## Fatal Resolve [1 Bar]\n\n**Stomp in front of you to finish downed enemies and knock standing enemies away.**\n\n**Available with your Stand summoned or dismissed. Uses its own input.**\n\n**Base cooldown: 8s**\n\n![bossraidoni.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fe6224ab7e31d0695719/previews/6ad1fe6624ab7e31d0695f15/download/bossraidoni.gif)\n\n## Execute:\n\n![execute.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fe7865393da1289c5896/previews/6ad1fe7d65393da1289c6772/download/execute.gif)\n\n## Trophy Catch [3 Bars]\n\n**Slam a plaque with your last kill mounted on it, then pick it up and throw it. If you have no kills, It shows Bill.**\n\n**Base cooldown: 18s**\n\n![plaque.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ff8c08e7d8ff4ea2918e/previews/6ad1ff8f08e7d8ff4ea29559/download/plaque.gif)\n\n![image.webp](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1ff7f0ff1f4d63f15ef7f/previews/6ad1ff800ff1f4d63f15f0fc/download/image.webp)\n\n**(Last kill was a Vampire)**\n\n## Fish Filet [2 Bars]\n\n**Try to tear out an eye or limb, with a higher chance at greater depth. Targeting the heart causes bleeding and finishes enemies at 20% health  or less once depth reaches 100%. Can be perfect blocked.**\n\n**Base cooldown: 14s**\n\n## Head (Eye)\n\n![eye.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad200253726bb1b5dd7c6db/previews/6ad2002a3726bb1b5dd7cce4/download/eye.gif)\n\n## Heart (Execute)\n\n![hearttoheart.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad1fff447e3a134fb448a45/previews/6ad1fffc47e3a134fb449271/download/hearttoheart.gif)\n\n## Limb (Arm)\n\n![die.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad2005f1c49d79d88dcaa23/previews/6ad200641c49d79d88dcb431/download/die.gif)\n\n## Limb (Leg)\n\n![legs.gif](https://trello.com/1/cards/6ad1d959c077dd6581a2e4ac/attachments/6ad2009a3bbd7d8e72ef1fb2/previews/6ad2009e3bbd7d8e72ef270e/download/legs.gif)",
+    "id": "6ad1d959c077dd6581a2e4ac",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [
+      {
+        "color": "sky_dark",
+        "id": "6ab6b7f0d695e93401c9d779",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 5",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b7f0d695e93401c9d779",
+        "uses": 10
+      },
+      {
+        "color": "red",
+        "id": "6ab6605419d036269aa430a4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6605419d036269aa430a4",
+        "uses": 31
+      },
+      {
+        "color": "sky_dark",
+        "id": "6ab4e41df03ebdc9a8aaaa93",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Rare",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab4e41df03ebdc9a8aaaa93",
+        "uses": 7
+      }
+    ],
+    "name": "Beach Boy",
+    "pos": 140737488340992,
+    "shortLink": "FV542skf",
+    "shortUrl": "https://trello.com/c/FV542skf",
+    "url": "https://trello.com/c/FV542skf/547-beach-boy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

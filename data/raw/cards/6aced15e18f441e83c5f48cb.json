@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 9295,
+      "date": "2026-10-14T00:48:53.550Z",
+      "id": "6aced175570f6d6d0eacf49a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-14_024853168.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6aced15e18f441e83c5f48cb/attachments/6aced175570f6d6d0eacf49a/download/image_2026-10-14_024853168.png"
+    },
+    {
+      "bytes": 177939,
+      "date": "2026-10-14T01:00:34.686Z",
+      "id": "6aced432479ad5a978587728",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-14_030034209.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6aced15e18f441e83c5f48cb/attachments/6aced432479ad5a978587728/download/image_2026-10-14_030034209.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-07T13:28:59.745Z",
+    "desc": "# Used for claiming codes/playtest badge rewards.",
+    "id": "6aced15e18f441e83c5f48cb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "Gifts (Codes)",
+    "pos": 140737488429056,
+    "shortLink": "zv3y5mOC",
+    "shortUrl": "https://trello.com/c/zv3y5mOC",
+    "url": "https://trello.com/c/zv3y5mOC/543-gifts-codes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

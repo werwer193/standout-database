@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 33449,
+      "date": "2026-09-25T08:29:43.998Z",
+      "id": "6ab630f7a73f1c16b4e6533c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_102944200.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab630f35b26c6387b56785b/attachments/6ab630f7a73f1c16b4e6533c/download/image_2026-09-25_102944200.png"
+    },
+    {
+      "bytes": 46027,
+      "date": "2026-09-25T08:32:29.326Z",
+      "id": "6ab6319d615c62c510270ff8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab630f35b26c6387b56785b/attachments/6ab6319d615c62c510270ff8/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-28T09:00:47.152Z",
+    "desc": "# **Obtained from** [https://trello.com/c/qYSuUM6F/61-meteor](https://trello.com/c/qYSuUM6F/61-meteor \"smartCard-inline\"),[https://trello.com/c/dFd1NZK9/572-money-transport](https://trello.com/c/dFd1NZK9/572-money-transport \"smartCard-inline\") ,[https://trello.com/c/2BAIbf5Y/574-metal-detector](https://trello.com/c/2BAIbf5Y/574-metal-detector \"smartCard-inline\"),[https://trello.com/c/qMjkhgQi/602-raid-shop](https://trello.com/c/qMjkhgQi/602-raid-shop \"smartCard-inline\")\n\n# Used for crafting [https://trello.com/c/76uctunM/120-mysterious-arrow](https://trello.com/c/76uctunM/120-mysterious-arrow \"smartCard-inline\")\n\n![image.webp](https://trello.com/1/cards/6ab630f35b26c6387b56785b/attachments/6ab6319d615c62c510270ff8/previews/6ab6319f615c62c510271051/download/image.webp)",
+    "id": "6ab630f35b26c6387b56785b",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43b01bbbc097b9d5ab372",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Arrow Part",
+    "pos": 140737488400384,
+    "shortLink": "2b4k3XR9",
+    "shortUrl": "https://trello.com/c/2b4k3XR9",
+    "url": "https://trello.com/c/2b4k3XR9/165-arrow-part"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  }
+}

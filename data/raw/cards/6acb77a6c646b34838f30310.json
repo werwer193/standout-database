@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 25052,
+      "date": "2026-10-11T12:13:16.578Z",
+      "id": "6acb7d5ce6b260c061472569",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141316847.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb77a6c646b34838f30310/attachments/6acb7d5ce6b260c061472569/download/image_2026-10-11_141316847.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:30:07.904Z",
+    "desc": "# **When equipped gives you:**\n\n**+3 Damage**\n\n**+1 Health**\n\n# Drops from Bounties",
+    "id": "6acb77a6c646b34838f30310",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Meryl Mei Qi's Pants",
+    "pos": 140737488797696,
+    "shortLink": "ytRp7vTm",
+    "shortUrl": "https://trello.com/c/ytRp7vTm",
+    "url": "https://trello.com/c/ytRp7vTm/488-meryl-mei-qis-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

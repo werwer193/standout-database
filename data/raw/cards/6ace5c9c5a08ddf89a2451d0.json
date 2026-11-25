@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 17937,
+      "date": "2026-10-13T16:30:32.818Z",
+      "id": "6ace5ca8cfe1455ad2a54a9c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_183032483.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ace5c9c5a08ddf89a2451d0/attachments/6ace5ca8cfe1455ad2a54a9c/download/image_2026-10-13_183032483.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T20:22:56.289Z",
+    "desc": "# **When equipped gives you:**\n\n**+3 Ability**\n\n# Bought from [https://trello.com/c/p3xN5QUy/525-lisa-lisa](https://trello.com/c/p3xN5QUy/525-lisa-lisa \"smartCard-inline\")",
+    "id": "6ace5c9c5a08ddf89a2451d0",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Ripple Training Mask",
+    "pos": 140737489076224,
+    "shortLink": "LogNIIkh",
+    "shortUrl": "https://trello.com/c/LogNIIkh",
+    "url": "https://trello.com/c/LogNIIkh/527-ripple-training-mask"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8213,
+      "date": "2026-11-03T00:09:17.386Z",
+      "id": "6ae9262daf959c53b80c4612",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae11957bf846aec5b662d31/attachments/6ae9262daf959c53b80c4612/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:09:54.074Z",
+    "desc": "",
+    "id": "6ae11957bf846aec5b662d31",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Cackle",
+    "pos": 140737488846848,
+    "shortLink": "b7LGGQqJ",
+    "shortUrl": "https://trello.com/c/b7LGGQqJ",
+    "url": "https://trello.com/c/b7LGGQqJ/724-cackle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 9261,
+      "date": "2026-11-01T18:38:48.582Z",
+      "id": "6ae78738a23991158c2ed92e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193848243.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab6376126e7e5afe2caa218/attachments/6ae78738a23991158c2ed92e/download/image_2026-11-01_193848243.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:20:00.300Z",
+    "desc": "# Ingame currency used to purchase items.",
+    "id": "6ab6376126e7e5afe2caa218",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab448eaa73550de3b5e0bcd",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Coins",
+    "pos": 140737488376320,
+    "shortLink": "TgTg3eR6",
+    "shortUrl": "https://trello.com/c/TgTg3eR6",
+    "url": "https://trello.com/c/TgTg3eR6/188-coins"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab448eaa73550de3b5e0bcd",
+    "name": "Game Mechanics",
+    "pos": 10240
+  }
+}

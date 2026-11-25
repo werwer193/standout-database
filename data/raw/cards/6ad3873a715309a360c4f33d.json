@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 102669,
+      "date": "2026-10-18T09:24:57.339Z",
+      "id": "6ad49069da47f85f14f47f8a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-18_112456984.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ad3873a715309a360c4f33d/attachments/6ad49069da47f85f14f47f8a/download/image_2026-10-18_112456984.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-18T09:25:04.373Z",
+    "desc": "Added 'Train' raid (tester locked for now)\nMade it so you cant see people moving in time stop\nAdded teaming protection to M1s\nMade story npcs scaled to party size\nMade beyond the sea fly drain EX bar\nMade usagi storyline step have a timer\nFall damage readded\nAdded a storyline step after complete 3 bounties to do a elimination to get introduced to that system better\nThrowables reworked\n4 new types (Pierce, stab/knockback, heavy, light) + gasoline has a new anim\nAdded persistence stat to stands (so stands like tower of grey take more dmg in pilot mode)\nUpgraded Strength ocean farming pool\nDid a bunch more optimization changes related to loading, shadows, and collisions (testers pls test general game stuff like gang bases, night time, dying, teleporting, and destruction for me)\nAlso ported optimized terrain, game part count is even lower now for better performance\nAlso changed streaming system from where you are looking, to distance, so spinning around shouldnt lag now\n(testers pls also tell if anything specific lags now too)\nAlso had to recode some stands like grateful dead partially to work with npcs cause we got lazy, testers go test it too pls, specificlaly stands with grabs\nbuuuuug fixes\nGAME MOVED TO BETA\n(this means nothing besides the devs are more confident in the games state)",
+    "id": "6ad3873a715309a360c4f33d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "17/10/2026 (Bug Fixes, Train Raid, Optimizations)",
+    "pos": 140737488109568,
+    "shortLink": "hklsmgoS",
+    "shortUrl": "https://trello.com/c/hklsmgoS",
+    "url": "https://trello.com/c/hklsmgoS/548-17-10-2026-bug-fixes-train-raid-optimizations"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

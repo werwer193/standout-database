@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 327467,
+      "date": "2026-10-11T11:13:19.510Z",
+      "id": "6acb6f4f37954fb30a5af916",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_131320136.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb6f4a297c1228390d8217/attachments/6acb6f4f37954fb30a5af916/download/image_2026-10-11_131320136.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-12T22:36:24.894Z",
+    "desc": "# Gives [https://trello.com/c/BCTLx1o1/459-blackmore](https://trello.com/c/BCTLx1o1/459-blackmore \"smartCard-inline\") Quest\n\n# Only spawns during the rain.\n\n# Located behind the highschool.",
+    "id": "6acb6f4a297c1228390d8217",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Blackmore",
+    "pos": 140737488420864,
+    "shortLink": "kVL6pSi4",
+    "shortUrl": "https://trello.com/c/kVL6pSi4",
+    "url": "https://trello.com/c/kVL6pSi4/460-blackmore"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

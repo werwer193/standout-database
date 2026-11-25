@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 860613,
+      "date": "2026-10-13T17:35:58.206Z",
+      "id": "6ace6bfe8ee32fc7e5da615f",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "sunlight.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ace6bf2b9458017b23c2fb9/attachments/6ace6bfe8ee32fc7e5da615f/download/sunlight.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T17:50:43.461Z",
+    "desc": "**Quest from** [https://trello.com/c/p3xN5QUy/525-lisa-lisa](https://trello.com/c/p3xN5QUy/525-lisa-lisa \"smartCard-inline\")\n\n**(NEED TO DO** [https://trello.com/c/lwSU9PF3/526-hamon-training](https://trello.com/c/lwSU9PF3/526-hamon-training \"smartCard-inline\") **FIRST.)**\n\n## Quest:\n\n**Break the rock under the frog 0/5**\n\n**Equip and use the** [https://trello.com/c/x0eWoaeu/537-wine-glass](https://trello.com/c/x0eWoaeu/537-wine-glass \"smartCard-inline\") **0/1**\n\n**Deal damage holding the wine 0/500**\n\n**Run on water without stopping (seconds) 0/90**\n\n# Upon completion you get:\n\n[https://trello.com/c/TRHgH9tP/533-jonathan-hamon](https://trello.com/c/TRHgH9tP/533-jonathan-hamon \"smartCard-inline\")",
+    "id": "6ace6bf2b9458017b23c2fb9",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62998bbf9a5dd343040fd",
+    "labels": [],
+    "name": "Jonathan Path",
+    "pos": 140737488353280,
+    "shortLink": "nEHYW59t",
+    "shortUrl": "https://trello.com/c/nEHYW59t",
+    "url": "https://trello.com/c/nEHYW59t/535-jonathan-path"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62998bbf9a5dd343040fd",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 519135,
+      "date": "2026-10-27T15:19:00.563Z",
+      "id": "6ae0c0e4c197514718f994ef",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_161900376.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae0c06603a3e3fcf91a1108/attachments/6ae0c0e4c197514718f994ef/download/image_2026-10-27_161900376.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T15:20:46.061Z",
+    "desc": "## Stand: [https://trello.com/c/QJktFQti/182-the-grateful-dead](https://trello.com/c/QJktFQti/182-the-grateful-dead \"smartCard-inline\")",
+    "id": "6ae0c06603a3e3fcf91a1108",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [
+      {
+        "color": "blue_dark",
+        "id": "6ab6625cdf15cdb7650597f2",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6625cdf15cdb7650597f2",
+        "uses": 12
+      },
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      }
+    ],
+    "name": "Prosciutto",
+    "pos": 140737488633856,
+    "shortLink": "rfprbbja",
+    "shortUrl": "https://trello.com/c/rfprbbja",
+    "url": "https://trello.com/c/rfprbbja/710-prosciutto"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

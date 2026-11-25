@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 231635,
+      "date": "2026-10-05T17:21:53.235Z",
+      "id": "6ac3dcb1fead505ca059cfe8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_192152977.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac3dca3350f682ced325e40/attachments/6ac3dcb1fead505ca059cfe8/download/image_2026-10-05_192152977.png"
+    },
+    {
+      "bytes": 100348,
+      "date": "2026-10-06T13:56:49.621Z",
+      "id": "6ac4fe21c1a1827a8cabffbb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-06_155649377.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac3dca3350f682ced325e40/attachments/6ac4fe21c1a1827a8cabffbb/download/image_2026-10-06_155649377.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-31T16:26:35.111Z",
+    "desc": "**Quest from** [https://trello.com/c/uUA2ATkW/89-billy](https://trello.com/c/uUA2ATkW/89-billy \"smartCard-inline\")\n\n## Quest:\n\n**Defeat DIO 0/1**\n\n**Use Life-Giving Overdrive on plants 0/15**\n\n# Upon completion get:\n\n[https://trello.com/c/noSpC0K8/393-hermit-purple](https://trello.com/c/noSpC0K8/393-hermit-purple \"smartCard-inline\")\n\n‌\n\n## Need to be Standless and have [https://trello.com/c/TRHgH9tP/533-jonathan-hamon](https://trello.com/c/TRHgH9tP/533-jonathan-hamon \"smartCard-inline\") .",
+    "id": "6ac3dca3350f682ced325e40",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62998bbf9a5dd343040fd",
+    "labels": [],
+    "name": "Obtain Hermit Purple!",
+    "pos": 140737488371712,
+    "shortLink": "0Ul5K8MW",
+    "shortUrl": "https://trello.com/c/0Ul5K8MW",
+    "url": "https://trello.com/c/0Ul5K8MW/383-obtain-hermit-purple"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62998bbf9a5dd343040fd",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T11:12:47.050Z",
+    "desc": "",
+    "id": "6acb6f28ace8a1b662d877fd",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62998bbf9a5dd343040fd",
+    "labels": [],
+    "name": "Side Quests",
+    "pos": 140737488388096,
+    "shortLink": "UD7X9aUh",
+    "shortUrl": "https://trello.com/c/UD7X9aUh",
+    "url": "https://trello.com/c/UD7X9aUh/458-side-quests"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62998bbf9a5dd343040fd",
+    "name": "Quests",
+    "pos": 61440
+  }
+}

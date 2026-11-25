@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 120911,
+      "date": "2026-10-26T21:19:08.184Z",
+      "id": "6adfc3ccd952672681c26232",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_221907760.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adcda5be6300a77428ee87c/attachments/6adfc3ccd952672681c26232/download/image_2026-10-26_221907760.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T21:19:21.565Z",
+    "desc": "# A ingame music player!",
+    "id": "6adcda5be6300a77428ee87c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "Standify",
+    "pos": 140737488486400,
+    "shortLink": "pimCuPPS",
+    "shortUrl": "https://trello.com/c/pimCuPPS",
+    "url": "https://trello.com/c/pimCuPPS/576-standify"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

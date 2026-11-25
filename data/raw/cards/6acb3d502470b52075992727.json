@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 209834,
+      "date": "2026-10-11T07:49:16.419Z",
+      "id": "6acb3f7cccf2ec96906974b1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_094917058.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb3d502470b52075992727/attachments/6acb3f7cccf2ec96906974b1/download/image_2026-10-11_094917058.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T07:49:54.723Z",
+    "desc": "## The gang bank can be deposited in by all members of the gang, said money can be used to build, buy furniture, upgrade cars and more…",
+    "id": "6acb3d502470b52075992727",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "Bank",
+    "pos": 140737488420864,
+    "shortLink": "jfiVHZ5A",
+    "shortUrl": "https://trello.com/c/jfiVHZ5A",
+    "url": "https://trello.com/c/jfiVHZ5A/414-bank"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

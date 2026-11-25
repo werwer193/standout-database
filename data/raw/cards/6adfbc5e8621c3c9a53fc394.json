@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 158520,
+      "date": "2026-10-26T20:48:04.140Z",
+      "id": "6adfbc848c1cb21a5ff2d67c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_214803726.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adfbc5e8621c3c9a53fc394/attachments/6adfbc848c1cb21a5ff2d67c/download/image_2026-10-26_214803726.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T20:48:06.202Z",
+    "desc": "# You can purchase a SSS-Rank roka for 80 robux.\n\n[https://trello.com/c/G7MPEKzu/419-emerald-roka](https://trello.com/c/G7MPEKzu/419-emerald-roka \"smartCard-inline\")\n\n[https://trello.com/c/kmgxNjeN/438-sapphire-roka](https://trello.com/c/kmgxNjeN/438-sapphire-roka \"smartCard-inline\")",
+    "id": "6adfbc5e8621c3c9a53fc394",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab83f4b70eb74c46a8f5465",
+    "labels": [],
+    "name": "Rokas",
+    "pos": 140737488470016,
+    "shortLink": "2bcInYjO",
+    "shortUrl": "https://trello.com/c/2bcInYjO",
+    "url": "https://trello.com/c/2bcInYjO/600-rokas"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab83f4b70eb74c46a8f5465",
+    "name": "Shop (Developer Products)",
+    "pos": 139264
+  }
+}

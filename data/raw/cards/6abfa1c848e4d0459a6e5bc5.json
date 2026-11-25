@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 17049,
+      "date": "2026-10-02T12:21:32.548Z",
+      "id": "6abfa1ccc6f6bb9a69e24b74",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abfa1c848e4d0459a6e5bc5/attachments/6abfa1ccc6f6bb9a69e24b74/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-02T12:27:48.183Z",
+    "desc": "**“Doubles eligible coin rewards whilst active.”**\n\n---\n\n**Obtainment:**\n\n**Coin Boost** is obtained via the Shop within the menu for a price of 39 Robux per 15 minute increments.\n\n![image.png](https://trello.com/1/cards/6abecf039c20062adba36aab/attachments/6abfa2291dc2a4d837eca224/download/image.png)",
+    "id": "6abfa1c848e4d0459a6e5bc5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Coin Boost",
+    "pos": 140737488592896,
+    "shortLink": "asMS9dZk",
+    "shortUrl": "https://trello.com/c/asMS9dZk",
+    "url": "https://trello.com/c/asMS9dZk/324-coin-boost"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

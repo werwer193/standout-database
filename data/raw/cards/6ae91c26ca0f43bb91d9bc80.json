@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8791,
+      "date": "2026-11-02T23:26:33.040Z",
+      "id": "6ae91c29a13803f21652091f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91c26ca0f43bb91d9bc80/attachments/6ae91c29a13803f21652091f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:26:38.793Z",
+    "desc": "",
+    "id": "6ae91c26ca0f43bb91d9bc80",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Sourpuss",
+    "pos": 140737489453056,
+    "shortLink": "GpUpl4Ol",
+    "shortUrl": "https://trello.com/c/GpUpl4Ol",
+    "url": "https://trello.com/c/GpUpl4Ol/831-sourpuss"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

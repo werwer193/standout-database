@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 165444,
+      "date": "2026-11-02T23:09:16.234Z",
+      "id": "6ae9181c810d036d88cbf1a8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-03_000915948.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae790d2c975bdf1c13a9a28/attachments/6ae9181c810d036d88cbf1a8/download/image_2026-11-03_000915948.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:10:53.779Z",
+    "desc": "",
+    "id": "6ae790d2c975bdf1c13a9a28",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      }
+    ],
+    "name": "SWAT",
+    "pos": 140737488699392,
+    "shortLink": "5lIKsNQT",
+    "shortUrl": "https://trello.com/c/5lIKsNQT",
+    "url": "https://trello.com/c/5lIKsNQT/773-swat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

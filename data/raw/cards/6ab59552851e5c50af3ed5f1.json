@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 169836,
+      "date": "2026-09-24T21:33:22.109Z",
+      "id": "6ab5972239314495ea63dc4b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_233322185.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59552851e5c50af3ed5f1/attachments/6ab5972239314495ea63dc4b/download/image_2026-09-24_233322185.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:41:57.280Z",
+    "desc": "# Answer the Diamotch guard 0/1\n\n**Diamotch Guard - The Camera shows the watch vanish while you were in the room. You are not walking out until security handles this.**\n\n**–> Then try to stop me.**\n\n**Quest Completed! +500 EXP**\n\n**–> We didnt steal it!!!!**\n\n**Quest Completed! +500 EXP**",
+    "id": "6ab59552851e5c50af3ed5f1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Accused on Camera (Storyline #11.)",
+    "pos": 140737488551936,
+    "shortLink": "rxzrOkB7",
+    "shortUrl": "https://trello.com/c/rxzrOkB7",
+    "url": "https://trello.com/c/rxzrOkB7/123-accused-on-camera-storyline-11"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

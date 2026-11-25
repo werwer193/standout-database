@@ -1,0 +1,36 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-11T15:18:49.438Z",
+    "desc": "",
+    "id": "6acba7a87a3983f25d596473",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      }
+    ],
+    "name": "Bandit",
+    "pos": 140737488584704,
+    "shortLink": "jcrOCz04",
+    "shortUrl": "https://trello.com/c/jcrOCz04",
+    "url": "https://trello.com/c/jcrOCz04/510-bandit"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

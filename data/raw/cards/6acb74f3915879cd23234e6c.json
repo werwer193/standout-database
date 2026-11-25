@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 22056,
+      "date": "2026-10-11T11:38:43.442Z",
+      "id": "6acb7543bba4a1bde521786f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_133844075.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb74f3915879cd23234e6c/attachments/6acb7543bba4a1bde521786f/download/image_2026-10-11_133844075.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T11:39:14.198Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+2 Damage**\n\n**+4 Health**",
+    "id": "6acb74f3915879cd23234e6c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Blackmore's Jacket",
+    "pos": 140737488355328,
+    "shortLink": "N0T8WWsB",
+    "shortUrl": "https://trello.com/c/N0T8WWsB",
+    "url": "https://trello.com/c/N0T8WWsB/461-blackmores-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

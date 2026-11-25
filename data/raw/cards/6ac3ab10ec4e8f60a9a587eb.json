@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 85878,
+      "date": "2026-10-05T13:50:14.368Z",
+      "id": "6ac3ab1620826e42a3eb825c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_155014669.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac3ab10ec4e8f60a9a587eb/attachments/6ac3ab1620826e42a3eb825c/download/image_2026-10-05_155014669.png"
+    },
+    {
+      "bytes": 101918,
+      "date": "2026-10-05T13:50:38.015Z",
+      "id": "6ac3ab2e28aec7db77ac9962",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac3ab10ec4e8f60a9a587eb/attachments/6ac3ab2e28aec7db77ac9962/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-05T13:50:45.801Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ac3ab10ec4e8f60a9a587eb/attachments/6ac3ab2e28aec7db77ac9962/previews/6ac3ab2e28aec7db77ac9986/download/image.webp)",
+    "id": "6ac3ab10ec4e8f60a9a587eb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43b01bbbc097b9d5ab372",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Your ID",
+    "pos": 140737488486400,
+    "shortLink": "Zu9KLeLf",
+    "shortUrl": "https://trello.com/c/Zu9KLeLf",
+    "url": "https://trello.com/c/Zu9KLeLf/371-your-id"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  }
+}

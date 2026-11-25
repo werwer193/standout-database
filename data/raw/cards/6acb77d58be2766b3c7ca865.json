@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 23657,
+      "date": "2026-10-11T12:16:23.957Z",
+      "id": "6acb7e171263303b71d6efb9",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_141624132.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb77d58be2766b3c7ca865/attachments/6acb7e171263303b71d6efb9/download/image_2026-10-11_141624132.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:30:26.966Z",
+    "desc": "**No bonuses.**\n\n# Drops from Bounties",
+    "id": "6acb77d58be2766b3c7ca865",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Paco's Hat",
+    "pos": 140737488879616,
+    "shortLink": "T9hp1Nz2",
+    "shortUrl": "https://trello.com/c/T9hp1Nz2",
+    "url": "https://trello.com/c/T9hp1Nz2/493-pacos-hat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

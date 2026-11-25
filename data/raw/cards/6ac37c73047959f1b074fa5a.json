@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 973607,
+      "date": "2026-10-05T10:43:31.986Z",
+      "id": "6ac37f538836e6f81b50e90c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_124332146.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac37c73047959f1b074fa5a/attachments/6ac37f538836e6f81b50e90c/download/image_2026-10-05_124332146.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-05T10:43:35.391Z",
+    "desc": "",
+    "id": "6ac37c73047959f1b074fa5a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4329c1b48cb3918a5a69b",
+    "labels": [],
+    "name": "Vampire Cave",
+    "pos": 140737488633856,
+    "shortLink": "eR22SUNQ",
+    "shortUrl": "https://trello.com/c/eR22SUNQ",
+    "url": "https://trello.com/c/eR22SUNQ/369-vampire-cave"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4329c1b48cb3918a5a69b",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 10257,
+      "date": "2026-11-02T23:27:33.831Z",
+      "id": "6ae91c651cd5a012c7aa69ae",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ae91c3f5061762a81fe579e/attachments/6ae91c651cd5a012c7aa69ae/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:27:40.736Z",
+    "desc": "",
+    "id": "6ae91c3f5061762a81fe579e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Stress",
+    "pos": 140737489485824,
+    "shortLink": "fuBWep8N",
+    "shortUrl": "https://trello.com/c/fuBWep8N",
+    "url": "https://trello.com/c/fuBWep8N/833-stress"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

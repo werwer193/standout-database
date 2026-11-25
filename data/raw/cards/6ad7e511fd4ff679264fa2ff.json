@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7823,
+      "date": "2026-10-20T22:03:24.612Z",
+      "id": "6ad7e52c58b306764c92ddd8",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-21_000324388.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ad7e511fd4ff679264fa2ff/attachments/6ad7e52c58b306764c92ddd8/download/image_2026-10-21_000324388.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-20T22:03:25.854Z",
+    "desc": "",
+    "id": "6ad7e511fd4ff679264fa2ff",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "21/10/2026 (Yo-Yo Ma)",
+    "pos": 140737488060416,
+    "shortLink": "cLTxmS6l",
+    "shortUrl": "https://trello.com/c/cLTxmS6l",
+    "url": "https://trello.com/c/cLTxmS6l/564-21-10-2026-yo-yo-ma"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "attachments": [
+    {
+      "bytes": 84089,
+      "date": "2026-11-08T12:32:06.022Z",
+      "id": "6af06bc63a55622a8f9dd46c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06bc63a55622a8f9dd46c/download/image.png"
+    },
+    {
+      "bytes": 125050,
+      "date": "2026-11-08T12:36:34.737Z",
+      "id": "6af06cd20a0420c0f5fe14ff",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "the hustle.gif",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06cd20a0420c0f5fe14ff/download/the_hustle.gif"
+    },
+    {
+      "bytes": 135045,
+      "date": "2026-11-08T12:37:01.851Z",
+      "id": "6af06ced03c9b4d48bc701b1",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "hustle.gif",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06ced03c9b4d48bc701b1/download/hustle.gif"
+    },
+    {
+      "bytes": 738829,
+      "date": "2026-11-08T12:40:00.061Z",
+      "id": "6af06da01da2eac46d7f6d31",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "parry.gif",
+      "pos": 140737488420864,
+      "url": "https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06da01da2eac46d7f6d31/download/parry.gif"
+    },
+    {
+      "bytes": 3341842,
+      "date": "2026-11-08T12:42:29.901Z",
+      "id": "6af06e3549ad937d998bd5c3",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "climb.gif",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06e3549ad937d998bd5c3/download/climb.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-08T12:57:53.734Z",
+    "desc": "# CARD UNFINISHED BEFORE RELEASE\n\n#\nLore:\n\n## “The Hustle! Time to do your stuff!”\n\n**Paco Laburante’s Stand has no body of its own. It lives in his muscles and gives him total control over them, so he can swell them to crush a throat, harden them to shrug off a blow or crawl up a wall with them.**\n\n---\n\n![image.webp](https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06bc63a55622a8f9dd46c/previews/6af06bc63a55622a8f9dd481/download/image.webp)\n\n---\n\n## Chiseled Like A Rock\n\n**Summoning The Hustle grows muscles on your body. While it’s out you take 10% less damage, deal 5% more melee damage and deal 50% more damage to piloted Stands. Use R while blocking to knock bullets away.**\n\n![the\\_hustle.gif](https://trello.com/1/cards/6ae906558dde2ede23744046/attachments/6af06cd20a0420c0f5fe14ff/previews/6af06cd30a0420c0f5fe158d/download/the_hustle.gif)",
+    "id": "6ae906558dde2ede23744046",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "orange",
+        "id": "6ab6b8084d36c480c45877c9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 9",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b8084d36c480c45877c9",
+        "uses": 14
+      },
+      {
+        "color": "red",
+        "id": "6ab6605419d036269aa430a4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6605419d036269aa430a4",
+        "uses": 31
+      }
+    ],
+    "name": "The Hustle",
+    "pos": 140737488416768,
+    "shortLink": "oKY3hnvq",
+    "shortUrl": "https://trello.com/c/oKY3hnvq",
+    "url": "https://trello.com/c/oKY3hnvq/778-the-hustle"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

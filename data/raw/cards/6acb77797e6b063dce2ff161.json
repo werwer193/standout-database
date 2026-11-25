@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 22402,
+      "date": "2026-10-11T12:00:27.894Z",
+      "id": "6acb7a5bfd95228ae82d086d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_140028209.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb77797e6b063dce2ff161/attachments/6acb7a5bfd95228ae82d086d/download/image_2026-10-11_140028209.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:28:32.660Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+6 Health**\n\n# Drops from Bounties",
+    "id": "6acb77797e6b063dce2ff161",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Jodio's Pants",
+    "pos": 140737488633856,
+    "shortLink": "Wizt7Md8",
+    "shortUrl": "https://trello.com/c/Wizt7Md8",
+    "url": "https://trello.com/c/Wizt7Md8/478-jodios-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

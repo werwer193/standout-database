@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 301025,
+      "date": "2026-09-25T09:08:08.846Z",
+      "id": "6ab639f80ce77fe8c7ad1f76",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_110808715.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab54ab92e239c2a1a999595/attachments/6ab639f80ce77fe8c7ad1f76/download/image_2026-09-25_110808715.png"
+    },
+    {
+      "bytes": 1319965,
+      "date": "2026-10-13T10:48:21.277Z",
+      "id": "6ace0c759a2e551cc8adf3ae",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_124820957.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab54ab92e239c2a1a999595/attachments/6ace0c759a2e551cc8adf3ae/download/image_2026-10-13_124820957.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T10:48:22.281Z",
+    "desc": "",
+    "id": "6ab54ab92e239c2a1a999595",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432940afd4f03bd3cb643",
+    "labels": [
+      {
+        "color": "sky_light",
+        "id": "6ab6b6fdd0f1eb22581ce66c",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Weather",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b6fdd0f1eb22581ce66c",
+        "uses": 5
+      }
+    ],
+    "name": "Rain",
+    "pos": 140737488371712,
+    "shortLink": "DPfBazPc",
+    "shortUrl": "https://trello.com/c/DPfBazPc",
+    "url": "https://trello.com/c/DPfBazPc/62-rain"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432940afd4f03bd3cb643",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

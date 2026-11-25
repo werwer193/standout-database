@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 537498,
+      "date": "2026-11-06T00:26:31.332Z",
+      "id": "6aed1eb716fd649cda79092d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6aed1e78e252af95b837a9e7/attachments/6aed1eb716fd649cda79092d/download/image.png"
+    },
+    {
+      "bytes": 364002,
+      "date": "2026-11-06T00:29:25.645Z",
+      "id": "6aed1f6506e95fcb4f1bca63",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488437248,
+      "url": "https://trello.com/1/cards/6aed1e78e252af95b837a9e7/attachments/6aed1f6506e95fcb4f1bca63/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-06T00:29:45.537Z",
+    "desc": "# For reference this is the actual stand:\n\n![image.webp](https://trello.com/1/cards/6aed1e78e252af95b837a9e7/attachments/6aed1f6506e95fcb4f1bca63/previews/6aed1f6606e95fcb4f1bcaa0/download/image.webp)",
+    "id": "6aed1e78e252af95b837a9e7",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "red",
+        "id": "6ab6b9422b9fa1fa96a362cf",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Custom (Non-Canon)",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b9422b9fa1fa96a362cf",
+        "uses": 2
+      }
+    ],
+    "name": "Jojosapiens",
+    "pos": 140737488433152,
+    "shortLink": "EQeteJsG",
+    "shortUrl": "https://trello.com/c/EQeteJsG",
+    "url": "https://trello.com/c/EQeteJsG/852-jojosapiens"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

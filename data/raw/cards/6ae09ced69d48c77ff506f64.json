@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1629021,
+      "date": "2026-10-30T08:40:08.727Z",
+      "id": "6ae457e89c70add39a07c683",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "griddy.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09ced69d48c77ff506f64/attachments/6ae457e89c70add39a07c683/download/griddy.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T08:40:14.815Z",
+    "desc": "",
+    "id": "6ae09ced69d48c77ff506f64",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Griddy",
+    "pos": 140737488470016,
+    "shortLink": "nyf8vHwr",
+    "shortUrl": "https://trello.com/c/nyf8vHwr",
+    "url": "https://trello.com/c/nyf8vHwr/649-griddy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

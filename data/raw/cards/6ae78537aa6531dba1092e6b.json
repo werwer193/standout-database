@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 21625,
+      "date": "2026-11-01T18:31:07.948Z",
+      "id": "6ae7856b886a188db2c6650b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193107542.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae78537aa6531dba1092e6b/attachments/6ae7856b886a188db2c6650b/download/image_2026-11-01_193107542.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:32:41.044Z",
+    "desc": "# **When equipped gives you:**\n\n**No flat stat bonuses.**\n\n**When worn by a** [https://trello.com/c/UTTXLBfJ/2-vampire](https://trello.com/c/UTTXLBfJ/2-vampire \"smartCard-inline\")**, daylight can’t burn them.**\n\n## Obtained from: WIP",
+    "id": "6ae78537aa6531dba1092e6b",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Cloak",
+    "pos": 140737489158144,
+    "shortLink": "AvHNjARr",
+    "shortUrl": "https://trello.com/c/AvHNjARr",
+    "url": "https://trello.com/c/AvHNjARr/759-cloak"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

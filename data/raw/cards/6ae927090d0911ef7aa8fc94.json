@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4421,
+      "date": "2026-11-03T00:14:09.409Z",
+      "id": "6ae92751ac88cdc0730cd560",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae927090d0911ef7aa8fc94/attachments/6ae92751ac88cdc0730cd560/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:14:39.047Z",
+    "desc": "",
+    "id": "6ae927090d0911ef7aa8fc94",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Brooding",
+    "pos": 140737489223680,
+    "shortLink": "GV9XN175",
+    "shortUrl": "https://trello.com/c/GV9XN175",
+    "url": "https://trello.com/c/GV9XN175/842-brooding"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 25394,
+      "date": "2026-10-11T11:59:04.807Z",
+      "id": "6acb7a087686801119a4e1e4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_135905302.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb7770a246141b013e5e9e/attachments/6acb7a087686801119a4e1e4/download/image_2026-10-11_135905302.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-28T20:46:07.588Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+3 Damage**\n\n**+4 Health**\n\n# Obtainable from [https://trello.com/c/p5xF8Rey/735-howler-crates](https://trello.com/c/p5xF8Rey/735-howler-crates \"smartCard-inline\")",
+    "id": "6acb7770a246141b013e5e9e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Howler's Pants",
+    "pos": 140737488584704,
+    "shortLink": "kA7nMQ5l",
+    "shortUrl": "https://trello.com/c/kA7nMQ5l",
+    "url": "https://trello.com/c/kA7nMQ5l/475-howlers-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

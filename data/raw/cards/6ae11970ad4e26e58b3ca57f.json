@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 8404,
+      "date": "2026-11-03T00:11:01.018Z",
+      "id": "6ae926959d818d44b6d2181c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae11970ad4e26e58b3ca57f/attachments/6ae926959d818d44b6d2181c/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:15:36.446Z",
+    "desc": "",
+    "id": "6ae11970ad4e26e58b3ca57f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Side-Eye Smirk",
+    "pos": 140737488994304,
+    "shortLink": "z4cUOXSx",
+    "shortUrl": "https://trello.com/c/z4cUOXSx",
+    "url": "https://trello.com/c/z4cUOXSx/733-side-eye-smirk"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

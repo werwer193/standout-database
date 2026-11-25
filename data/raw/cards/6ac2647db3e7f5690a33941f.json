@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 470137,
+      "date": "2026-10-05T14:06:46.654Z",
+      "id": "6ac3aef60ae11c5c0d38b010",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "VAMP.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac2647db3e7f5690a33941f/attachments/6ac3aef60ae11c5c0d38b010/download/VAMP.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T08:23:44.608Z",
+    "desc": "## To remove your Sub-Ability, Eat a [https://trello.com/c/kmgxNjeN/438-sapphire-roka](https://trello.com/c/kmgxNjeN/438-sapphire-roka \"smartCard-inline\")",
+    "id": "6ac2647db3e7f5690a33941f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325ed44232844797c30f",
+    "labels": [],
+    "name": "How do i remove my Sub-Ability?",
+    "pos": 140737488338944,
+    "shortLink": "eIMjFkSc",
+    "shortUrl": "https://trello.com/c/eIMjFkSc",
+    "url": "https://trello.com/c/eIMjFkSc/367-how-do-i-remove-my-sub-ability"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325ed44232844797c30f",
+    "name": "Sub-Abilities",
+    "pos": 22528
+  }
+}

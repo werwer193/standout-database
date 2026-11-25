@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 369107,
+      "date": "2026-09-25T08:21:47.160Z",
+      "id": "6ab62f1b26ee340bf3a96533",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_102147398.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab62e657e46de46f1203622/attachments/6ab62f1b26ee340bf3a96533/download/image_2026-09-25_102147398.png"
+    },
+    {
+      "bytes": 95954,
+      "date": "2026-10-05T14:10:35.748Z",
+      "id": "6ac3afdb1a1e3a045b6db0e1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_161036058.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab62e657e46de46f1203622/attachments/6ac3afdb1a1e3a045b6db0e1/download/image_2026-10-05_161036058.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-05T14:10:52.193Z",
+    "desc": "# Bounties are repeatable quests that refresh every 1 hour.\n\n# You can choose a bounty difficulty via level tiers.",
+    "id": "6ab62e657e46de46f1203622",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62e4fbad5c4385dcabefe",
+    "labels": [],
+    "name": "Bounties",
+    "pos": 140737488388096,
+    "shortLink": "cWCBqYSl",
+    "shortUrl": "https://trello.com/c/cWCBqYSl",
+    "url": "https://trello.com/c/cWCBqYSl/159-bounties"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  }
+}

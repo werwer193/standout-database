@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 60319,
+      "date": "2026-09-25T08:34:50.236Z",
+      "id": "6ab6322a85d6a13f61ceb801",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_103450287.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab631df6d4130b5d43b1fbb/attachments/6ab6322a85d6a13f61ceb801/download/image_2026-09-25_103450287.png"
+    },
+    {
+      "bytes": 75158,
+      "date": "2026-09-25T08:34:52.930Z",
+      "id": "6ab6322c937f3b8dc0da57ef",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab631df6d4130b5d43b1fbb/attachments/6ab6322c937f3b8dc0da57ef/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-27T01:49:56.861Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab631df6d4130b5d43b1fbb/attachments/6ab6322c937f3b8dc0da57ef/previews/6ab6322d937f3b8dc0da5996/download/image.webp)",
+    "id": "6ab631df6d4130b5d43b1fbb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Dragon Fruit Seed",
+    "pos": 140737488462848,
+    "shortLink": "RBnjYk0i",
+    "shortUrl": "https://trello.com/c/RBnjYk0i",
+    "url": "https://trello.com/c/RBnjYk0i/169-dragon-fruit-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

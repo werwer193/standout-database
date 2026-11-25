@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 54906,
+      "date": "2026-09-25T08:37:32.534Z",
+      "id": "6ab632ccd84eaf07391e9df6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab632a519c91e0dd5e93ec6/attachments/6ab632ccd84eaf07391e9df6/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-27T01:50:07.707Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6ab632a519c91e0dd5e93ec6/attachments/6ab632ccd84eaf07391e9df6/previews/6ab632cdd84eaf07391e9e7d/download/image.webp)",
+    "id": "6ab632a519c91e0dd5e93ec6",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Potato Seed",
+    "pos": 140737488474112,
+    "shortLink": "nQHXkAd0",
+    "shortUrl": "https://trello.com/c/nQHXkAd0",
+    "url": "https://trello.com/c/nQHXkAd0/176-potato-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

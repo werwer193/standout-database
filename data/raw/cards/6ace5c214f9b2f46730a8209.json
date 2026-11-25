@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 152796,
+      "date": "2026-10-13T16:28:20.663Z",
+      "id": "6ace5c240ce9a83f3cc6ad7b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-13_182820345.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ace5c214f9b2f46730a8209/attachments/6ace5c240ce9a83f3cc6ad7b/download/image_2026-10-13_182820345.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T17:39:28.683Z",
+    "desc": "# Located on top of the [https://trello.com/c/iF4bJdUj/536-volcano](https://trello.com/c/iF4bJdUj/536-volcano \"smartCard-inline\")\n\n# Gives all hamon-related quests and lets you switch paths.\n\n# Quests:\n\n[https://trello.com/c/lwSU9PF3/526-hamon-training](https://trello.com/c/lwSU9PF3/526-hamon-training \"smartCard-inline\") **(10000 Coins)**\n\n[https://trello.com/c/nEHYW59t/535-jonathan-path](https://trello.com/c/nEHYW59t/535-jonathan-path \"smartCard-inline\")\n\n[https://trello.com/c/VKk9yUrO/534-ceasar-path](https://trello.com/c/VKk9yUrO/534-ceasar-path \"smartCard-inline\")",
+    "id": "6ace5c214f9b2f46730a8209",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [],
+    "name": "Lisa Lisa",
+    "pos": 140737488453632,
+    "shortLink": "p3xN5QUy",
+    "shortUrl": "https://trello.com/c/p3xN5QUy",
+    "url": "https://trello.com/c/p3xN5QUy/525-lisa-lisa"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 4824,
+      "date": "2026-11-03T00:14:03.770Z",
+      "id": "6ae9274b08f55cff126fdc66",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae92715332958ede7d6948c/attachments/6ae9274b08f55cff126fdc66/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:14:30.203Z",
+    "desc": "",
+    "id": "6ae92715332958ede7d6948c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Fierce Mask",
+    "pos": 140737489256448,
+    "shortLink": "Wn9SmJT1",
+    "shortUrl": "https://trello.com/c/Wn9SmJT1",
+    "url": "https://trello.com/c/Wn9SmJT1/844-fierce-mask"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

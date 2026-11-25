@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 5241,
+      "date": "2026-11-03T00:10:54.183Z",
+      "id": "6ae9268e3d700aa1399f5e0f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae1196c3057745db08bef2f/attachments/6ae9268e3d700aa1399f5e0f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:15:40.704Z",
+    "desc": "",
+    "id": "6ae1196c3057745db08bef2f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Aghast",
+    "pos": 140737488977920,
+    "shortLink": "wFUC4Txm",
+    "shortUrl": "https://trello.com/c/wFUC4Txm",
+    "url": "https://trello.com/c/wFUC4Txm/732-aghast"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

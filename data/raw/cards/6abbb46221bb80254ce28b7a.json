@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 61330,
+      "date": "2026-09-29T12:51:48.726Z",
+      "id": "6abbb4645e71d722619a8d21",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb46221bb80254ce28b7a/attachments/6abbb4645e71d722619a8d21/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:52:09.056Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb46221bb80254ce28b7a/attachments/6abbb4645e71d722619a8d21/previews/6abbb4655e71d722619a8d29/download/image.webp)",
+    "id": "6abbb46221bb80254ce28b7a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      }
+    ],
+    "name": "Rokaka Seed",
+    "pos": 140737488477504,
+    "shortLink": "O76IdZ3M",
+    "shortUrl": "https://trello.com/c/O76IdZ3M",
+    "url": "https://trello.com/c/O76IdZ3M/278-rokaka-seed"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

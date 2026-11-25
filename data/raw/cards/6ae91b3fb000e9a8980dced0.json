@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 19782,
+      "date": "2026-11-02T23:22:41.584Z",
+      "id": "6ae91b415b49a044e64716df",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91b3fb000e9a8980dced0/attachments/6ae91b415b49a044e64716df/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:22:47.330Z",
+    "desc": "",
+    "id": "6ae91b3fb000e9a8980dced0",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Ragdoll",
+    "pos": 140737489256448,
+    "shortLink": "cCTvPn9d",
+    "shortUrl": "https://trello.com/c/cCTvPn9d",
+    "url": "https://trello.com/c/cCTvPn9d/819-ragdoll"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

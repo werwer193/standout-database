@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 31282,
+      "date": "2026-10-11T11:54:59.239Z",
+      "id": "6acb7913fb39d8f80fcf542b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_135459788.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb7757b5e12cdc09d078c5/attachments/6acb7913fb39d8f80fcf542b/download/image_2026-10-11_135459788.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:29:08.882Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+3 Damage**\n\n**+4 Health**\n\n# Drops from Bounties",
+    "id": "6acb7757b5e12cdc09d078c5",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Dragona's Jacket",
+    "pos": 140737488486400,
+    "shortLink": "uAb1JRiP",
+    "shortUrl": "https://trello.com/c/uAb1JRiP",
+    "url": "https://trello.com/c/uAb1JRiP/469-dragonas-jacket"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

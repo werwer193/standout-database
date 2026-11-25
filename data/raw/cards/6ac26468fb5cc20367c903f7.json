@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 368845,
+      "date": "2026-10-05T14:03:52.963Z",
+      "id": "6ac3ae48ff896f8bd8e95fc0",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "standddd.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac26468fb5cc20367c903f7/attachments/6ac3ae48ff896f8bd8e95fc0/download/standddd.gif"
+    },
+    {
+      "bytes": 509504,
+      "date": "2026-10-11T08:33:06.061Z",
+      "id": "6acb49c222f023f04b59cbb9",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "emrald.gif",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac26468fb5cc20367c903f7/attachments/6acb49c222f023f04b59cbb9/download/emrald.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T08:33:08.809Z",
+    "desc": "## Removing a Stand unlocks your Sub-ability’s full moveset. (NEED HAMON/VAMPIRE TO REMOVE STAND.)\n\n## You can remove a Stand by eating a [https://trello.com/c/G7MPEKzu/419-emerald-roka](https://trello.com/c/G7MPEKzu/419-emerald-roka \"smartCard-inline\")",
+    "id": "6ac26468fb5cc20367c903f7",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [],
+    "name": "How do i remove my Stand?",
+    "pos": 140737488326656,
+    "shortLink": "x1utQ613",
+    "shortUrl": "https://trello.com/c/x1utQ613",
+    "url": "https://trello.com/c/x1utQ613/366-how-do-i-remove-my-stand"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7734,
+      "date": "2026-11-02T23:09:38.403Z",
+      "id": "6ae91832a4318a35741e4134",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae9182fc6b3a17817ea9bfe/attachments/6ae91832a4318a35741e4134/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:09:39.899Z",
+    "desc": "",
+    "id": "6ae9182fc6b3a17817ea9bfe",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Blur",
+    "pos": 140737488912384,
+    "shortLink": "Aoe7B3Dy",
+    "shortUrl": "https://trello.com/c/Aoe7B3Dy",
+    "url": "https://trello.com/c/Aoe7B3Dy/797-blur"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

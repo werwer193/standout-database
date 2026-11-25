@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 26782,
+      "date": "2026-10-25T11:02:19.564Z",
+      "id": "6adde1bb46a2d2cd09072a5e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-25_120219281.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adde1a24b8063bd7dc33f24/attachments/6adde1bb46a2d2cd09072a5e/download/image_2026-10-25_120219281.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-25T11:02:35.240Z",
+    "desc": "# 800 Robux\n\n# Accessible in the Main Menu",
+    "id": "6adde1a24b8063bd7dc33f24",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab83f4b70eb74c46a8f5465",
+    "labels": [],
+    "name": "Accessory Builder",
+    "pos": 140737488404480,
+    "shortLink": "eY6UQKBT",
+    "shortUrl": "https://trello.com/c/eY6UQKBT",
+    "url": "https://trello.com/c/eY6UQKBT/585-accessory-builder"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab83f4b70eb74c46a8f5465",
+    "name": "Shop (Developer Products)",
+    "pos": 139264
+  }
+}

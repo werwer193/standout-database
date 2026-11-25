@@ -1,0 +1,26 @@
+# Raids
+
+Official source: https://trello.com/c/ocuxnhnx
+List: Gang System
+Last activity: 2026-10-27T18:40:52.888Z
+Archived: False
+
+## Original description
+
+# Every gang can raid eachother.
+
+# **Getting raided results in losing your stored gang money.**
+
+![image.webp](https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ace05aa98b1c0179d6712e8/previews/6ace05aa98b1c0179d6713a9/download/image.webp)
+
+#
+
+Upon succesfully raiding someone you get the option to reclaim the plot/destroy the enemy gang base/keep it intact.
+
+![image.webp](https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ae0f022b25398e3d41ef97a/previews/6ae0f023b25398e3d41efca4/download/image.webp)
+
+## Attachments (metadata only)
+
+- image_2026-10-13_121833999.png: https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ace057a42e105e565459e4a/download/image_2026-10-13_121833999.png
+- image.png: https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ace05aa98b1c0179d6712e8/download/image.png
+- image.png: https://trello.com/1/cards/6acbfbdabb756e65b64ff022/attachments/6ae0f022b25398e3d41ef97a/download/image.png

@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T19:03:05.932Z",
+    "desc": "",
+    "id": "6ae78ce4919bfb716a38bc68",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ae0e4b0dda973a54b88bc06",
+    "labels": [],
+    "name": "---",
+    "pos": 140737488347136,
+    "shortLink": "AxZHcGd8",
+    "shortUrl": "https://trello.com/c/AxZHcGd8",
+    "url": "https://trello.com/c/AxZHcGd8/769-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ae0e4b0dda973a54b88bc06",
+    "name": "Car Types",
+    "pos": 132096
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 65638,
+      "date": "2026-09-29T12:44:02.881Z",
+      "id": "6abbb29210443c8b10cd964b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb0a8c9c48e5b12f8f5bf/attachments/6abbb29210443c8b10cd964b/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:44:08.511Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0a8c9c48e5b12f8f5bf/attachments/6abbb29210443c8b10cd964b/previews/6abbb29310443c8b10cd96b8/download/image.webp)",
+    "id": "6abbb0a8c9c48e5b12f8f5bf",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Chili Pepper",
+    "pos": 140737488654336,
+    "shortLink": "5HCck9y8",
+    "shortUrl": "https://trello.com/c/5HCck9y8",
+    "url": "https://trello.com/c/5HCck9y8/251-chili-pepper"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

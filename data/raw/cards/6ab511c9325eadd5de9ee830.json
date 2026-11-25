@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-24T12:04:59.673Z",
+    "desc": "",
+    "id": "6ab511c9325eadd5de9ee830",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4325be0216771a9c52fc5",
+    "labels": [],
+    "name": "----",
+    "pos": 140737488354176,
+    "shortLink": "SbqSOGqb",
+    "shortUrl": "https://trello.com/c/SbqSOGqb",
+    "url": "https://trello.com/c/SbqSOGqb/55-untitled"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  }
+}

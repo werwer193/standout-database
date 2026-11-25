@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 710727,
+      "date": "2026-09-24T21:19:54.976Z",
+      "id": "6ab593fad6970118feba5a60",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_231955014.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab592c78c0beec860744b61/attachments/6ab593fad6970118feba5a60/download/image_2026-09-24_231955014.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:41:46.376Z",
+    "desc": "# Talk to Jodio about testing the Lava Rock 0/1\n\n**Jodio - Diamotch is where we’ll test it. Touch the Lava Rock to one of those luxury watches and see what happens. If it really pulls value around, we’ll know.**\n\n**–> I’ll test it.**\n\n**Quest Completed +450 EXP (Not Repeatable)**\n\n**–> Not yet**",
+    "id": "6ab592c78c0beec860744b61",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Test the Lava Rock at Diamotch (Storyline #8.)",
+    "pos": 140737488502784,
+    "shortLink": "m1aDLpnm",
+    "shortUrl": "https://trello.com/c/m1aDLpnm",
+    "url": "https://trello.com/c/m1aDLpnm/117-test-the-lava-rock-at-diamotch-storyline-8"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

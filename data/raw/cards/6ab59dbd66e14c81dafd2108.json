@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 788589,
+      "date": "2026-09-24T22:06:19.398Z",
+      "id": "6ab59edb1104ded8a5979daa",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_000619417.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab59dbd66e14c81dafd2108/attachments/6ab59edb1104ded8a5979daa/download/image_2026-09-25_000619417.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:43:12.523Z",
+    "desc": "# Reach the hospital entrance 0/1\n\n# Quest Completed! +550 EXP",
+    "id": "6ab59dbd66e14c81dafd2108",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Go to the Hospital (Storyline #27.)",
+    "pos": 140737488814080,
+    "shortLink": "stY1DAde",
+    "shortUrl": "https://trello.com/c/stY1DAde",
+    "url": "https://trello.com/c/stY1DAde/140-go-to-the-hospital-storyline-27"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

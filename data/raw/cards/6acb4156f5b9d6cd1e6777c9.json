@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 161700,
+      "date": "2026-10-11T08:09:44.250Z",
+      "id": "6acb44485cd17672efcd361e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb4156f5b9d6cd1e6777c9/attachments/6acb44485cd17672efcd361e/download/image.png"
+    },
+    {
+      "bytes": 32617,
+      "date": "2026-10-11T08:09:51.109Z",
+      "id": "6acb444f4e2cd3cf1e4ff50c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_100951768.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6acb4156f5b9d6cd1e6777c9/attachments/6acb444f4e2cd3cf1e4ff50c/download/image_2026-10-11_100951768.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T08:09:55.609Z",
+    "desc": "## Turns a body part to stone to heal you and clear harmful statuses. Better quality improves the exchange.\n\n![image.webp](https://trello.com/1/cards/6acb4156f5b9d6cd1e6777c9/attachments/6acb44485cd17672efcd361e/previews/6acb44485cd17672efcd3626/download/image.webp)",
+    "id": "6acb4156f5b9d6cd1e6777c9",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acaafc460f87ef3d4b2713b",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Antimatter Roka",
+    "pos": 140737488420864,
+    "shortLink": "oyvAYfpV",
+    "shortUrl": "https://trello.com/c/oyvAYfpV",
+    "url": "https://trello.com/c/oyvAYfpV/424-antimatter-roka"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acaafc460f87ef3d4b2713b",
+    "name": "Rokaka Mutations",
+    "pos": 44032
+  }
+}

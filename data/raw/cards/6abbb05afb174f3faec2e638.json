@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 86902,
+      "date": "2026-09-29T12:34:39.583Z",
+      "id": "6abbb05f2e87033ff44915d2",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-29_143438858.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb05afb174f3faec2e638/attachments/6abbb05f2e87033ff44915d2/download/image_2026-09-29_143438858.png"
+    },
+    {
+      "bytes": 103635,
+      "date": "2026-09-29T12:34:41.037Z",
+      "id": "6abbb06199962a9dcb9e5d6e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbb05afb174f3faec2e638/attachments/6abbb06199962a9dcb9e5d6e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-14T14:17:50.363Z",
+    "desc": "# Purchaseable from [https://trello.com/c/ji4Hw59y/99-big-chop](https://trello.com/c/ji4Hw59y/99-big-chop \"smartCard-inline\")\n\n## Drops from trees\n\n![image.webp](https://trello.com/1/cards/6abbb05afb174f3faec2e638/attachments/6abbb06199962a9dcb9e5d6e/previews/6abbb06199962a9dcb9e5db8/download/image.webp)",
+    "id": "6abbb05afb174f3faec2e638",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43b01bbbc097b9d5ab372",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Wood",
+    "pos": 140737488437248,
+    "shortLink": "RtnGHTAL",
+    "shortUrl": "https://trello.com/c/RtnGHTAL",
+    "url": "https://trello.com/c/RtnGHTAL/247-wood"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  }
+}

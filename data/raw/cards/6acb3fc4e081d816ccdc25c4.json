@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 197673,
+      "date": "2026-10-11T07:50:44.891Z",
+      "id": "6acb3fd434a7e949d8c1da99",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_095045492.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb3fc4e081d816ccdc25c4/attachments/6acb3fd434a7e949d8c1da99/download/image_2026-10-11_095045492.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T07:52:44.902Z",
+    "desc": "## A fully customizable and custom badge that you and all your gang members can showcase!",
+    "id": "6acb3fc4e081d816ccdc25c4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "Emblem",
+    "pos": 140737488470016,
+    "shortLink": "QznNATWB",
+    "shortUrl": "https://trello.com/c/QznNATWB",
+    "url": "https://trello.com/c/QznNATWB/417-emblem"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

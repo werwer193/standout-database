@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1120565,
+      "date": "2026-10-26T20:42:20.667Z",
+      "id": "6adfbb2cba3abca6a481e2ae",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-26_214219926.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adfb65d1acd392a42fa4e3d/attachments/6adfbb2cba3abca6a481e2ae/download/image_2026-10-26_214219926.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T20:43:19.091Z",
+    "desc": "# Go Fish is a matching card game where players try to collect three sets of four cards.",
+    "id": "6adfb65d1acd392a42fa4e3d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acbabf659bcaf796dac5faf",
+    "labels": [],
+    "name": "Go Fish",
+    "pos": 140737488388096,
+    "shortLink": "ZkasO6j3",
+    "shortUrl": "https://trello.com/c/ZkasO6j3",
+    "url": "https://trello.com/c/ZkasO6j3/596-go-fish"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acbabf659bcaf796dac5faf",
+    "name": "Minigames",
+    "pos": 135168
+  }
+}

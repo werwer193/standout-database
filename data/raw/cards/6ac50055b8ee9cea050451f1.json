@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 127570,
+      "date": "2026-10-11T15:40:26.937Z",
+      "id": "6acbadea5fe5c0791d3863e5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_174026577.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac50055b8ee9cea050451f1/attachments/6acbadea5fe5c0791d3863e5/download/image_2026-10-11_174026577.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T15:40:28.333Z",
+    "desc": "",
+    "id": "6ac50055b8ee9cea050451f1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      }
+    ],
+    "name": "Vampire",
+    "pos": 140737488551936,
+    "shortLink": "ieZsy5MI",
+    "shortUrl": "https://trello.com/c/ieZsy5MI",
+    "url": "https://trello.com/c/ieZsy5MI/386-vampire"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

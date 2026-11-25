@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 9856,
+      "date": "2026-11-02T23:22:58.930Z",
+      "id": "6ae91b525dc210844ddf5830",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91b4b71fc2b826a4e1ddb/attachments/6ae91b525dc210844ddf5830/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:23:00.459Z",
+    "desc": "",
+    "id": "6ae91b4b71fc2b826a4e1ddb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Removed Limb",
+    "pos": 140737489272832,
+    "shortLink": "INUbxdI8",
+    "shortUrl": "https://trello.com/c/INUbxdI8",
+    "url": "https://trello.com/c/INUbxdI8/820-removed-limb"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

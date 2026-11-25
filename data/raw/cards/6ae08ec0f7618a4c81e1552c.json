@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1970235,
+      "date": "2026-10-27T11:47:03.861Z",
+      "id": "6ae08f37fd9d16479a9e0dc0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_124703585.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae08ec0f7618a4c81e1552c/attachments/6ae08f37fd9d16479a9e0dc0/download/image_2026-10-27_124703585.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T11:47:58.578Z",
+    "desc": "# “Lali-ho!”\n\n# You can only be brought here by [https://trello.com/c/mUVWCexw/399-death-thirteen](https://trello.com/c/mUVWCexw/399-death-thirteen \"smartCard-inline\")",
+    "id": "6ae08ec0f7618a4c81e1552c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4329c1b48cb3918a5a69b",
+    "labels": [],
+    "name": "Death 13's Dream World",
+    "pos": 140737488363520,
+    "shortLink": "YUPLMGFr",
+    "shortUrl": "https://trello.com/c/YUPLMGFr",
+    "url": "https://trello.com/c/YUPLMGFr/612-death-13s-dream-world"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4329c1b48cb3918a5a69b",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 140779,
+      "date": "2026-11-04T16:03:58.434Z",
+      "id": "6aeb576e60eb529a0fefecbb",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-04_170358064.png",
+      "pos": 140737488404480,
+      "url": "https://trello.com/1/cards/6ace6d9d400cd588a4d087e4/attachments/6aeb576e60eb529a0fefecbb/download/image_2026-11-04_170358064.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-04T16:04:05.570Z",
+    "desc": "",
+    "id": "6ace6d9d400cd588a4d087e4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43b01bbbc097b9d5ab372",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Glass",
+    "pos": 140737488584704,
+    "shortLink": "x0eWoaeu",
+    "shortUrl": "https://trello.com/c/x0eWoaeu",
+    "url": "https://trello.com/c/x0eWoaeu/537-glass"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  }
+}

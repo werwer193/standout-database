@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 57189,
+      "date": "2026-11-04T10:42:54.297Z",
+      "id": "6aeb0c2edd07fe9b21b6f2b7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-04_114253995.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae90760921660a7c679d282/attachments/6aeb0c2edd07fe9b21b6f2b7/download/image_2026-11-04_114253995.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-04T11:15:22.064Z",
+    "desc": "",
+    "id": "6ae90760921660a7c679d282",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "orange",
+        "id": "6ab6b8084d36c480c45877c9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 9",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b8084d36c480c45877c9",
+        "uses": 14
+      }
+    ],
+    "name": "The MATTEKUDASAI",
+    "pos": 140737488465920,
+    "shortLink": "x86OJBKx",
+    "shortUrl": "https://trello.com/c/x86OJBKx",
+    "url": "https://trello.com/c/x86OJBKx/780-the-mattekudasai"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

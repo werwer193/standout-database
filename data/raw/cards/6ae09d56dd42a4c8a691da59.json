@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:47:28.780Z",
+    "desc": "",
+    "id": "6ae09d56dd42a4c8a691da59",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Arm Bracer",
+    "pos": 140737488945152,
+    "shortLink": "KyR0Q1LA",
+    "shortUrl": "https://trello.com/c/KyR0Q1LA",
+    "url": "https://trello.com/c/KyR0Q1LA/679-arm-bracer"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

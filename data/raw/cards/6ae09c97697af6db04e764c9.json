@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 17664,
+      "date": "2026-11-02T23:59:18.266Z",
+      "id": "6ae923d69ac308913d92077a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09c97697af6db04e764c9/attachments/6ae923d69ac308913d92077a/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:03:02.617Z",
+    "desc": "",
+    "id": "6ae09c97697af6db04e764c9",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Wow",
+    "pos": 140737488404480,
+    "shortLink": "AlYhvVKa",
+    "shortUrl": "https://trello.com/c/AlYhvVKa",
+    "url": "https://trello.com/c/AlYhvVKa/621-wow"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

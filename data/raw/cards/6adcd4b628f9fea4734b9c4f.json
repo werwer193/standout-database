@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 118714,
+      "date": "2026-10-24T15:55:10.350Z",
+      "id": "6adcd4de296d1195801da8bf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-24_175510018.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6adcd4b628f9fea4734b9c4f/attachments/6adcd4de296d1195801da8bf/download/image_2026-10-24_175510018.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-24T15:55:12.608Z",
+    "desc": "fixed tubular bell no make dogs\nfixed metal detector stuff and nerfed it\nfixed some invis map st uff\nfixed go fish bugs\nfixed train raid bugs\nfixed beyon the sea flight softlock\nfixed death 13 watch set stuff\nfixed death 13 watch set stuff\nfixed yo yo ma bugs\nadded jump cd\nnerfed sunlight overdrive hitbox sidze\nbuffed death 13 m1 hitboxes\nmore bug fixes\nimproved and added some stuff to the robux shop\nadded 'Closest to Bounty' and 'Closest to Tracked NPC' huber options\nImproved point blank throwable hitboxes\nMade it so all seats in the game are now hold to sit instead of auto\nJotaro/DIO boss now properly can override ur TS\nMaybe also fixed anti teaming  ? (pls testers test ganging up on someone with m1s, it should cancel their stun and let them walk out)\nDropped items are now anchored and need a proximity prompt to pickup\nLaem Chabang outfit now drops from ocean/beach scavenging as well\nJotaro boss now has a chance to drop a Star Platinum chip\nDIO boss now has a chance to drop a The World chip\nFixed train roof npcs ganging up on u\nAdded a advanced piano option\nAll arrows USED PRE storyline completion now have a modified pool. This pool excludes stands that are bad to progress with, such as Super Fly, Rolling Stones, and Cinderlla\nAdded a archive tab to see all 1 time quests, daily quests, their drops (and %s) and a button to track the giver npc in ur phone map\nMandom watch set is now cancelable\nFixed piloted stands returning if hit, and not respecting walk speed changes\nAgent/Cop npcs now drop their tazers if hit, you can use it back against them if picked up\nAdded a new 'money transport' world event, grants money and chance for SWAT item pieces\nAdded a bounty to repeat the darby go fish fight\nAdded the ability to play go fish against other players\nUpdated the train raid terrain\nFixed Emperor NPCs\nCar customization BETA",
+    "id": "6adcd4b628f9fea4734b9c4f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "24/10/2026 (Bug Fixes,Misc)",
+    "pos": 140737488011264,
+    "shortLink": "PP9cRIRi",
+    "shortUrl": "https://trello.com/c/PP9cRIRi",
+    "url": "https://trello.com/c/PP9cRIRi/571-24-10-2026-bug-fixesmisc"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

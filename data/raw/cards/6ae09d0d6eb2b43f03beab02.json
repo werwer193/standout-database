@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 128118,
+      "date": "2026-10-30T08:47:01.336Z",
+      "id": "6ae45985a24608d129c5a0c4",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-30_094700832.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09d0d6eb2b43f03beab02/attachments/6ae45985a24608d129c5a0c4/download/image_2026-10-30_094700832.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T08:47:03.253Z",
+    "desc": "",
+    "id": "6ae09d0d6eb2b43f03beab02",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Hands In Pockets",
+    "pos": 140737488568320,
+    "shortLink": "HvEICSrk",
+    "shortUrl": "https://trello.com/c/HvEICSrk",
+    "url": "https://trello.com/c/HvEICSrk/656-hands-in-pockets"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

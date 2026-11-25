@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 491573,
+      "date": "2026-09-24T21:20:16.205Z",
+      "id": "6ab59410008c895aaf9c606a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "j2.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab55fb7159b745895d6ee62/attachments/6ab59410008c895aaf9c606a/download/Sn%C3%ADmek_obrazovky_2026-09-24_231922.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:40:40.066Z",
+    "desc": "# Located at [[https://trello.com/c/rtQfLwSF](https://trello.com/c/rtQfLwSF \"smartCard-inline\")]",
+    "id": "6ab55fb7159b745895d6ee62",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab551456b4a6fafc37077e2",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Jodio",
+    "pos": 140737488240640,
+    "shortLink": "iVG7oG36",
+    "shortUrl": "https://trello.com/c/iVG7oG36",
+    "url": "https://trello.com/c/iVG7oG36/91-jodio"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  }
+}

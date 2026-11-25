@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:47:51.090Z",
+    "desc": "",
+    "id": "6ae09d77f924c46ce205f07c",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Pick Me",
+    "pos": 140737489092608,
+    "shortLink": "lGIjZool",
+    "shortUrl": "https://trello.com/c/lGIjZool",
+    "url": "https://trello.com/c/lGIjZool/688-pick-me"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

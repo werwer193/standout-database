@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 91282,
+      "date": "2026-09-26T19:06:11.087Z",
+      "id": "6ab817a3eb0b3ae5be22e0af",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-26_210610832.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab8178d2e6d7def8652f513/attachments/6ab817a3eb0b3ae5be22e0af/download/image_2026-09-26_210610832.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-13T23:59:17.926Z",
+    "desc": "# send me a clip of you killing him atleast 3 times ingame and i will personally reward you with items",
+    "id": "6ab8178d2e6d7def8652f513",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab8177aae39b34333036295",
+    "labels": [],
+    "name": "Dirtyroutines / 34",
+    "pos": 140737488355328,
+    "shortLink": "DHAJnUth",
+    "shortUrl": "https://trello.com/c/DHAJnUth",
+    "url": "https://trello.com/c/DHAJnUth/211-dirtyroutines-34"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": true,
+    "id": "6ab8177aae39b34333036295",
+    "name": "Ingame Bounties",
+    "pos": 147456
+  }
+}

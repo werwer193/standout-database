@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 196024,
+      "date": "2026-10-11T19:51:36.358Z",
+      "id": "6acbe8c831ac1d71b6c685cc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_215136041.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acbabfb489c9a27f74a9723/attachments/6acbe8c831ac1d71b6c685cc/download/image_2026-10-11_215136041.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T19:51:41.022Z",
+    "desc": "",
+    "id": "6acbabfb489c9a27f74a9723",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acbabf659bcaf796dac5faf",
+    "labels": [],
+    "name": "Arm Wrestling",
+    "pos": 140737488371712,
+    "shortLink": "pGL3mlYK",
+    "shortUrl": "https://trello.com/c/pGL3mlYK",
+    "url": "https://trello.com/c/pGL3mlYK/512-arm-wrestling"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acbabf659bcaf796dac5faf",
+    "name": "Minigames",
+    "pos": 135168
+  }
+}

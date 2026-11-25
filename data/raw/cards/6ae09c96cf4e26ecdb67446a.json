@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 34629,
+      "date": "2026-11-02T23:59:08.593Z",
+      "id": "6ae923cca2cdf367e6dd168e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09c96cf4e26ecdb67446a/attachments/6ae923cca2cdf367e6dd168e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:59:22.318Z",
+    "desc": "",
+    "id": "6ae09c96cf4e26ecdb67446a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Angry Bee",
+    "pos": 140737488388096,
+    "shortLink": "T3c8jqiF",
+    "shortUrl": "https://trello.com/c/T3c8jqiF",
+    "url": "https://trello.com/c/T3c8jqiF/620-angry-bee"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

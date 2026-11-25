@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 426677,
+      "date": "2026-10-06T18:54:20.432Z",
+      "id": "6ac543dcbd22195ead30f68b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac54315a2b5a1beea1e475a/attachments/6ac543dcbd22195ead30f68b/download/image.png"
+    },
+    {
+      "bytes": 426677,
+      "date": "2026-10-06T18:54:45.221Z",
+      "id": "6ac543f54699c8357438de74",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ac54315a2b5a1beea1e475a/attachments/6ac543f54699c8357438de74/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-06T18:56:23.918Z",
+    "desc": "# INSPECT THE GAP: 0/1\n\n**Jodio - Follow the gold traces to the upper-deck and inspect the last gap. Watch out for Key West.**\n\n# Quest Completed!",
+    "id": "6ac54315a2b5a1beea1e475a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "Track Key West (Storyline #45.)",
+    "pos": 140737489108992,
+    "shortLink": "F86sunqV",
+    "shortUrl": "https://trello.com/c/F86sunqV",
+    "url": "https://trello.com/c/F86sunqV/387-track-key-west-storyline-45"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

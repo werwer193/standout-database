@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7573,
+      "date": "2026-11-03T00:12:14.421Z",
+      "id": "6ae926de6520f56141d0c19a",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae3be281c1f21d3d1a54b18/attachments/6ae926de6520f56141d0c19a/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-03T00:15:09.301Z",
+    "desc": "",
+    "id": "6ae3be281c1f21d3d1a54b18",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6adf26ab1e99d13d7deb7bdb",
+    "labels": [],
+    "name": "Sweating Bullets",
+    "pos": 140737489108992,
+    "shortLink": "96qdpZGe",
+    "shortUrl": "https://trello.com/c/96qdpZGe",
+    "url": "https://trello.com/c/96qdpZGe/747-sweating-bullets"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  }
+}

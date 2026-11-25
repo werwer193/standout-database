@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 111248,
+      "date": "2026-10-04T10:58:58.116Z",
+      "id": "6ac2317252bb86d646934147",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-04_125857872.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac22d8289e3c67f0f5022b4/attachments/6ac2317252bb86d646934147/download/image_2026-10-04_125857872.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-24T16:03:40.325Z",
+    "desc": "**Stand:** [https://trello.com/c/8Etqsp2n/4-the-world](https://trello.com/c/8Etqsp2n/4-the-world \"smartCard-inline\")\n\n**Health: 1000**\n\n**Sub-Ability:** [https://trello.com/c/UTTXLBfJ/2-vampire](https://trello.com/c/UTTXLBfJ/2-vampire \"smartCard-inline\")\n\n**Spawns during the night.**\n\n**Drops scale with damage dealt.**\n\n**Can drop:**\n\n[https://trello.com/c/YGb96GaD/382-vampire-mask](https://trello.com/c/YGb96GaD/382-vampire-mask \"smartCard-inline\"), [https://trello.com/c/76uctunM/120-mysterious-arrow](https://trello.com/c/76uctunM/120-mysterious-arrow \"smartCard-inline\")[https://trello.com/c/fy2CttII/467-dios-jacket](https://trello.com/c/fy2CttII/467-dios-jacket \"smartCard-inline\") [https://trello.com/c/ZUznXhD9/468-dios-pants](https://trello.com/c/ZUznXhD9/468-dios-pants \"smartCard-inline\")[https://trello.com/c/aUwXPT3l/508-stand-chip](https://trello.com/c/aUwXPT3l/508-stand-chip \"smartCard-inline\") (The World)",
+    "id": "6ac22d8289e3c67f0f5022b4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432940afd4f03bd3cb643",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      },
+      {
+        "color": "blue_dark",
+        "id": "6ab6625cdf15cdb7650597f2",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6625cdf15cdb7650597f2",
+        "uses": 12
+      }
+    ],
+    "name": "DIO",
+    "pos": 140737488334848,
+    "shortLink": "VFgUvknX",
+    "shortUrl": "https://trello.com/c/VFgUvknX",
+    "url": "https://trello.com/c/VFgUvknX/351-dio"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432940afd4f03bd3cb643",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  }
+}

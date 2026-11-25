@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 23382,
+      "date": "2026-10-11T11:39:30.815Z",
+      "id": "6acb7572cafb05121040e82d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_133931447.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb74f6786f9e26e85ef7f2/attachments/6acb7572cafb05121040e82d/download/image_2026-10-11_133931447.png"
+    },
+    {
+      "bytes": 22720,
+      "date": "2026-10-11T11:40:03.074Z",
+      "id": "6acb7593207c1d520f7ced3d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_134003658.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6acb74f6786f9e26e85ef7f2/attachments/6acb7593207c1d520f7ced3d/download/image_2026-10-11_134003658.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T11:40:03.788Z",
+    "desc": "# **When equipped gives you:**\n\n**+1 Ability**\n\n**+2 Damage**\n\n**+1 Health**",
+    "id": "6acb74f6786f9e26e85ef7f2",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Blackmore's Pants",
+    "pos": 140737488371712,
+    "shortLink": "zb17Y52Z",
+    "shortUrl": "https://trello.com/c/zb17Y52Z",
+    "url": "https://trello.com/c/zb17Y52Z/462-blackmores-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

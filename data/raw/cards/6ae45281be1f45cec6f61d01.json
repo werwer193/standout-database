@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 435721,
+      "date": "2026-10-30T08:17:13.056Z",
+      "id": "6ae45289c1e163ffc33c52ff",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-30_091712415.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae45281be1f45cec6f61d01/attachments/6ae45289c1e163ffc33c52ff/download/image_2026-10-30_091712415.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T08:17:15.436Z",
+    "desc": "",
+    "id": "6ae45281be1f45cec6f61d01",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ae0e4b0dda973a54b88bc06",
+    "labels": [],
+    "name": "SUV",
+    "pos": 140737488437248,
+    "shortLink": "aRra45bI",
+    "shortUrl": "https://trello.com/c/aRra45bI",
+    "url": "https://trello.com/c/aRra45bI/750-suv"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ae0e4b0dda973a54b88bc06",
+    "name": "Car Types",
+    "pos": 132096
+  }
+}

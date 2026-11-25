@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 7518,
+      "date": "2026-11-02T23:23:15.986Z",
+      "id": "6ae91b633754003cf79741d7",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae91b625aaa9fad1e360aaf/attachments/6ae91b633754003cf79741d7/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:23:19.599Z",
+    "desc": "",
+    "id": "6ae91b625aaa9fad1e360aaf",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6abd6676be4ec1ee5357fe6c",
+    "labels": [],
+    "name": "Researched",
+    "pos": 140737489289216,
+    "shortLink": "U5ItLHs4",
+    "shortUrl": "https://trello.com/c/U5ItLHs4",
+    "url": "https://trello.com/c/U5ItLHs4/821-researched"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  }
+}

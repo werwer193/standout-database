@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 67744,
+      "date": "2026-09-29T12:59:09.631Z",
+      "id": "6abbb61d8f130e8309352451",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb613fd5b8b4c7869c81d/attachments/6abbb61d8f130e8309352451/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T13:01:44.155Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb613fd5b8b4c7869c81d/attachments/6abbb61d8f130e8309352451/previews/6abbb61e8f130e83093524d7/download/image.webp)",
+    "id": "6abbb613fd5b8b4c7869c81d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Ice Cube",
+    "pos": 140737488477824,
+    "shortLink": "l1dxvqot",
+    "shortUrl": "https://trello.com/c/l1dxvqot",
+    "url": "https://trello.com/c/l1dxvqot/286-ice-cube"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

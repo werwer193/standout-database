@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 73377,
+      "date": "2026-09-29T12:27:38.409Z",
+      "id": "6abbaeba4e6ec26cb27a5fc6",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-29_142737647.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbaeb504472dfc891a4c84/attachments/6abbaeba4e6ec26cb27a5fc6/download/image_2026-09-29_142737647.png"
+    },
+    {
+      "bytes": 88414,
+      "date": "2026-09-29T12:29:11.361Z",
+      "id": "6abbaf17d7421a8b3b073415",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbaeb504472dfc891a4c84/attachments/6abbaf17d7421a8b3b073415/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:45:32.735Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbaeb504472dfc891a4c84/attachments/6abbaf17d7421a8b3b073415/previews/6abbaf17d7421a8b3b073463/download/image.webp)",
+    "id": "6abbaeb504472dfc891a4c84",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Potato",
+    "pos": 140737488588800,
+    "shortLink": "oZdPSMaK",
+    "shortUrl": "https://trello.com/c/oZdPSMaK",
+    "url": "https://trello.com/c/oZdPSMaK/244-potato"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

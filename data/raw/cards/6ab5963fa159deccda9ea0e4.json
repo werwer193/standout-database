@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 110898,
+      "date": "2026-09-24T21:33:44.361Z",
+      "id": "6ab59738d67f98359eb75478",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_233344529.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab5963fa159deccda9ea0e4/attachments/6ab59738d67f98359eb75478/download/image_2026-09-24_233344529.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T08:42:02.687Z",
+    "desc": "# Pick up the returned watch 0/1\n\n# Quest Completed! +450 EXP +1 Silver Watch",
+    "id": "6ab5963fa159deccda9ea0e4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Find the Returned Watch (Storyline #13.)",
+    "pos": 140737488584704,
+    "shortLink": "kpIZEQfX",
+    "shortUrl": "https://trello.com/c/kpIZEQfX",
+    "url": "https://trello.com/c/kpIZEQfX/126-find-the-returned-watch-storyline-13"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

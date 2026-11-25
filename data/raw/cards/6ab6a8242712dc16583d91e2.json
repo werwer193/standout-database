@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 529417,
+      "date": "2026-09-25T16:58:20.278Z",
+      "id": "6ab6a82c74fbcccabc131ece",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "Screenshot_20260925_115720_Discord.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab6a8242712dc16583d91e2/attachments/6ab6a82c74fbcccabc131ece/download/Screenshot_20260925_115720_Discord.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-09-25T18:03:01.426Z",
+    "desc": "",
+    "id": "6ab6a8242712dc16583d91e2",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432751f31f8e781c95686",
+    "labels": [],
+    "name": "Epik/experiencedplayer1- Trello Contributor",
+    "pos": 140737488470016,
+    "shortLink": "bbWGDfKS",
+    "shortUrl": "https://trello.com/c/bbWGDfKS",
+    "url": "https://trello.com/c/bbWGDfKS/203-epik-experiencedplayer1-trello-contributor"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432751f31f8e781c95686",
+    "name": "STAND OUT",
+    "pos": 8192
+  }
+}

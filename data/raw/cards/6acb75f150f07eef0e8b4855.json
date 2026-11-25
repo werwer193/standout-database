@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 36294,
+      "date": "2026-10-11T11:42:15.629Z",
+      "id": "6acb76179f85373ff55592e1",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_134216243.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb75f150f07eef0e8b4855/attachments/6acb76179f85373ff55592e1/download/image_2026-10-11_134216243.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:29:26.236Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Ability**\n\n**+2 Damage**\n\n**+5% Bullet Damage**\n\n# Drops from Bounties",
+    "id": "6acb75f150f07eef0e8b4855",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "Bobby Jean's Hat",
+    "pos": 140737488404480,
+    "shortLink": "Fl8Q61v9",
+    "shortUrl": "https://trello.com/c/Fl8Q61v9",
+    "url": "https://trello.com/c/Fl8Q61v9/464-bobby-jeans-hat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

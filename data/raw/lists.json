@@ -1,0 +1,206 @@
+[
+  {
+    "closed": false,
+    "id": "6ab518fb3e7e842eb834347a",
+    "name": "For people who aren't familiar with JoJo",
+    "pos": 4096
+  },
+  {
+    "closed": false,
+    "id": "6ab432751f31f8e781c95686",
+    "name": "STAND OUT",
+    "pos": 8192
+  },
+  {
+    "closed": false,
+    "id": "6adfba0cd9b25488d4258899",
+    "name": "FAQ (Frequently Asked Questions)",
+    "pos": 8704
+  },
+  {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  },
+  {
+    "closed": false,
+    "id": "6ab448eaa73550de3b5e0bcd",
+    "name": "Game Mechanics",
+    "pos": 10240
+  },
+  {
+    "closed": false,
+    "id": "6abd6676be4ec1ee5357fe6c",
+    "name": "Status Effects",
+    "pos": 10752
+  },
+  {
+    "closed": false,
+    "id": "6ab86f0a028b25da693eb425",
+    "name": "Objects/Interactables",
+    "pos": 11264
+  },
+  {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  },
+  {
+    "closed": false,
+    "id": "6ab4325be0216771a9c52fc5",
+    "name": "Stands (Arrow)",
+    "pos": 16384
+  },
+  {
+    "closed": false,
+    "id": "6ac4ff30d67668e332310906",
+    "name": "Evolution/Quest/AU Stands",
+    "pos": 20480
+  },
+  {
+    "closed": false,
+    "id": "6ab4325ed44232844797c30f",
+    "name": "Sub-Abilities",
+    "pos": 22528
+  },
+  {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  },
+  {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  },
+  {
+    "closed": false,
+    "id": "6ab43b01bbbc097b9d5ab372",
+    "name": "Items",
+    "pos": 40960
+  },
+  {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  },
+  {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  },
+  {
+    "closed": false,
+    "id": "6acaafc460f87ef3d4b2713b",
+    "name": "Rokaka Mutations",
+    "pos": 44032
+  },
+  {
+    "closed": false,
+    "id": "6ab62e4fbad5c4385dcabefe",
+    "name": "Phone Applications",
+    "pos": 45056
+  },
+  {
+    "closed": false,
+    "id": "6ab62994fdc1e8c91358f993",
+    "name": "Bounty Quests",
+    "pos": 57344
+  },
+  {
+    "closed": false,
+    "id": "6ab62998bbf9a5dd343040fd",
+    "name": "Quests",
+    "pos": 61440
+  },
+  {
+    "closed": false,
+    "id": "6ab432940afd4f03bd3cb643",
+    "name": "Weather Events/World Events",
+    "pos": 65536
+  },
+  {
+    "closed": false,
+    "id": "6ab4329c1b48cb3918a5a69b",
+    "name": "Locations",
+    "pos": 81920
+  },
+  {
+    "closed": false,
+    "id": "6ad48b595496b6e3a0ed12cc",
+    "name": "Raids/Bizarre Adventures",
+    "pos": 90112
+  },
+  {
+    "closed": false,
+    "id": "6ab551456b4a6fafc37077e2",
+    "name": "NPCs",
+    "pos": 98304
+  },
+  {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  },
+  {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  },
+  {
+    "closed": true,
+    "id": "6ae7925400d60f5b0583ec91",
+    "name": "Base Rooms",
+    "pos": 126976
+  },
+  {
+    "closed": false,
+    "id": "6ab635d9a85ef68fb94b2b08",
+    "name": "Fast Travel",
+    "pos": 131072
+  },
+  {
+    "closed": false,
+    "id": "6ae0e4b0dda973a54b88bc06",
+    "name": "Car Types",
+    "pos": 132096
+  },
+  {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  },
+  {
+    "closed": false,
+    "id": "6adf26ab1e99d13d7deb7bdb",
+    "name": "Emojis",
+    "pos": 134144
+  },
+  {
+    "closed": false,
+    "id": "6acbabf659bcaf796dac5faf",
+    "name": "Minigames",
+    "pos": 135168
+  },
+  {
+    "closed": false,
+    "id": "6ab83f4b70eb74c46a8f5465",
+    "name": "Shop (Developer Products)",
+    "pos": 139264
+  },
+  {
+    "closed": true,
+    "id": "6ab8177aae39b34333036295",
+    "name": "Ingame Bounties",
+    "pos": 147456
+  }
+]

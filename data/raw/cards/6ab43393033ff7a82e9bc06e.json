@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-13T23:59:06.960Z",
+    "desc": "",
+    "id": "6ab43393033ff7a82e9bc06e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab432751f31f8e781c95686",
+    "labels": [],
+    "name": "Trello Managers",
+    "pos": 140737488420864,
+    "shortLink": "dXVDObHb",
+    "shortUrl": "https://trello.com/c/dXVDObHb",
+    "url": "https://trello.com/c/dXVDObHb/14-trello-managers"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab432751f31f8e781c95686",
+    "name": "STAND OUT",
+    "pos": 8192
+  }
+}

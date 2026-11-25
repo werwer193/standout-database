@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T07:50:26.394Z",
+    "desc": "",
+    "id": "6acb3fc2bba4a1bde5d39df8",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "Rankings",
+    "pos": 140737488453632,
+    "shortLink": "OPxBAInR",
+    "shortUrl": "https://trello.com/c/OPxBAInR",
+    "url": "https://trello.com/c/OPxBAInR/416-rankings"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

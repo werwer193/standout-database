@@ -1,0 +1,76 @@
+{
+  "attachments": [
+    {
+      "bytes": 71570,
+      "date": "2026-09-29T12:41:37.838Z",
+      "id": "6abbb20103cc23c7739d0f2c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb0b8fe0f73c7b0005d00/attachments/6abbb20103cc23c7739d0f2c/download/image.png"
+    },
+    {
+      "bytes": 33107,
+      "date": "2026-10-05T14:03:04.232Z",
+      "id": "6ac3ae18c9c077642811cdd5",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-05_160304547.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbb0b8fe0f73c7b0005d00/attachments/6ac3ae18c9c077642811cdd5/download/image_2026-10-05_160304547.png"
+    },
+    {
+      "bytes": 43112,
+      "date": "2026-10-05T14:03:11.962Z",
+      "id": "6ac3ae1f6655d25a3670dfcf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6abbb0b8fe0f73c7b0005d00/attachments/6ac3ae1f6655d25a3670dfcf/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-05T14:03:15.006Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0b8fe0f73c7b0005d00/attachments/6ac3ae1f6655d25a3670dfcf/previews/6ac3ae206655d25a3670e045/download/image.webp)",
+    "id": "6abbb0b8fe0f73c7b0005d00",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Apple",
+    "pos": 140737488752640,
+    "shortLink": "GOdp6t54",
+    "shortUrl": "https://trello.com/c/GOdp6t54",
+    "url": "https://trello.com/c/GOdp6t54/257-apple"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

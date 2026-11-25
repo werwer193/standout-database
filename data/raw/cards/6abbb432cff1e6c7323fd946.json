@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 57840,
+      "date": "2026-09-29T12:51:00.857Z",
+      "id": "6abbb4343ff32faaee94b338",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb432cff1e6c7323fd946/attachments/6abbb4343ff32faaee94b338/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:51:32.847Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb432cff1e6c7323fd946/attachments/6abbb4343ff32faaee94b338/previews/6abbb4353ff32faaee94b40e/download/image.webp)",
+    "id": "6abbb432cff1e6c7323fd946",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "lime_dark",
+        "id": "6ab6344b817fd7907116fd1a",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Gardening",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6344b817fd7907116fd1a",
+        "uses": 71
+      },
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      }
+    ],
+    "name": "Popping Candy",
+    "pos": 140737488477568,
+    "shortLink": "wcPjvGJZ",
+    "shortUrl": "https://trello.com/c/wcPjvGJZ",
+    "url": "https://trello.com/c/wcPjvGJZ/277-popping-candy"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

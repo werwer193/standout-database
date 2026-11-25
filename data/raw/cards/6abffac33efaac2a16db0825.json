@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 914139,
+      "date": "2026-10-02T18:41:07.995Z",
+      "id": "6abffac33efaac2a16db0847",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abffac33efaac2a16db0825/attachments/6abffac33efaac2a16db0847/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": true,
+    "dateLastActivity": "2026-10-02T18:41:29.272Z",
+    "desc": "",
+    "id": "6abffac33efaac2a16db0825",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [],
+    "name": "image.png",
+    "pos": 140737488879616,
+    "shortLink": "itliZnvx",
+    "shortUrl": "https://trello.com/c/itliZnvx",
+    "url": "https://trello.com/c/itliZnvx/338-imagepng"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "attachments": [
+    {
+      "bytes": 74153,
+      "date": "2026-09-29T12:21:04.875Z",
+      "id": "6abbad302905519f328f5690",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-29_142104083.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbad2dfe3b2ccdc8de587d/attachments/6abbad302905519f328f5690/download/image_2026-09-29_142104083.png"
+    },
+    {
+      "bytes": 95276,
+      "date": "2026-09-29T12:46:06.947Z",
+      "id": "6abbb30efe3bbfac7aef202c",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6abbad2dfe3b2ccdc8de587d/attachments/6abbb30efe3bbfac7aef202c/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:46:09.918Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbad2dfe3b2ccdc8de587d/attachments/6abbb30efe3bbfac7aef202c/previews/6abbb30ffe3bbfac7aef20f4/download/image.webp)",
+    "id": "6abbad2dfe3b2ccdc8de587d",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      }
+    ],
+    "name": "Jar of Dragon Fruit",
+    "pos": 140737488506880,
+    "shortLink": "YXu8yy3R",
+    "shortUrl": "https://trello.com/c/YXu8yy3R",
+    "url": "https://trello.com/c/YXu8yy3R/238-jar-of-dragon-fruit"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

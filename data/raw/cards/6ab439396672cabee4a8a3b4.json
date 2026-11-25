@@ -1,0 +1,63 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T19:46:52.645Z",
+    "desc": "",
+    "id": "6ab439396672cabee4a8a3b4",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab436ab2fd94306d30230f7",
+    "labels": [
+      {
+        "color": "red",
+        "id": "6ab6605419d036269aa430a4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "PHYSICAL",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6605419d036269aa430a4",
+        "uses": 31
+      },
+      {
+        "color": "lime_light",
+        "id": "6ab6615bfc551d8202ec76e9",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "GRAVITY",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6615bfc551d8202ec76e9",
+        "uses": 2
+      },
+      {
+        "color": "black_light",
+        "id": "6ab6b84c04cf6a9ef7ad8479",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Part 6",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b84c04cf6a9ef7ad8479",
+        "uses": 8
+      },
+      {
+        "color": "red_dark",
+        "id": "6ab6b8779a6c5c0f046d7eb0",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Evolution",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6b8779a6c5c0f046d7eb0",
+        "uses": 4
+      }
+    ],
+    "name": "C-Moon",
+    "pos": 140737488773120,
+    "shortLink": "qdPJv8dY",
+    "shortUrl": "https://trello.com/c/qdPJv8dY",
+    "url": "https://trello.com/c/qdPJv8dY/47-c-moon"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab436ab2fd94306d30230f7",
+    "name": "Unfinished / In Testing / Reworking",
+    "pos": 24576
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 349683,
+      "date": "2026-11-02T23:14:56.347Z",
+      "id": "6ae91970a6328be2d74b6e4f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae790ceedabd9adf294f3e3/attachments/6ae91970a6328be2d74b6e4f/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-02T23:15:11.351Z",
+    "desc": "# [https://trello.com/c/5lIKsNQT/773-swat](https://trello.com/c/5lIKsNQT/773-swat \"smartCard-inline\")",
+    "id": "6ae790ceedabd9adf294f3e3",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ac23438103d1d9f99b5ae15",
+    "labels": [],
+    "name": "SWAT",
+    "pos": 140737488519168,
+    "shortLink": "KKLUqQOa",
+    "shortUrl": "https://trello.com/c/KKLUqQOa",
+    "url": "https://trello.com/c/KKLUqQOa/771-swat"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ac23438103d1d9f99b5ae15",
+    "name": "Gang System",
+    "pos": 122880
+  }
+}

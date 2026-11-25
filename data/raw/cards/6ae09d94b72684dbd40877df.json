@@ -1,0 +1,26 @@
+{
+  "attachments": [],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T12:48:20.692Z",
+    "desc": "",
+    "id": "6ae09d94b72684dbd40877df",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Akuma Pose",
+    "pos": 140737489223680,
+    "shortLink": "Wz26wNWC",
+    "shortUrl": "https://trello.com/c/Wz26wNWC",
+    "url": "https://trello.com/c/Wz26wNWC/696-akuma-pose"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

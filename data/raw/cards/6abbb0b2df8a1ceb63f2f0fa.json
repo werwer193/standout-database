@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 83503,
+      "date": "2026-09-29T12:43:39.285Z",
+      "id": "6abbb27be0167aac608efe2e",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6abbb0b2df8a1ceb63f2f0fa/attachments/6abbb27be0167aac608efe2e/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-29T12:43:44.080Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6abbb0b2df8a1ceb63f2f0fa/attachments/6abbb27be0167aac608efe2e/previews/6abbb27be0167aac608eff19/download/image.webp)",
+    "id": "6abbb0b2df8a1ceb63f2f0fa",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab6b9681f563a014d027cab",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6ab875f8b2cd46f80c752bb8",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab875f8b2cd46f80c752bb8",
+        "uses": 122
+      },
+      {
+        "color": "lime_dark",
+        "id": "6abbb1482e183d71fafb55bb",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Produce",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6abbb1482e183d71fafb55bb",
+        "uses": 31
+      }
+    ],
+    "name": "Jar of Cherries",
+    "pos": 140737488703488,
+    "shortLink": "VnORp8X6",
+    "shortUrl": "https://trello.com/c/VnORp8X6",
+    "url": "https://trello.com/c/VnORp8X6/254-jar-of-cherries"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab6b9681f563a014d027cab",
+    "name": "Gardening / Gardening Items",
+    "pos": 43008
+  }
+}

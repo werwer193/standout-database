@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 136818,
+      "date": "2026-11-01T18:36:26.789Z",
+      "id": "6ae786aa624056173fba3b05",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-01_193626438.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae7869690eb43311f61d113/attachments/6ae786aa624056173fba3b05/download/image_2026-11-01_193626438.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-01T18:43:49.979Z",
+    "desc": "# By pressing C you can crouch down and become invisible to cameras. (This also shows you their field of vision)",
+    "id": "6ae7869690eb43311f61d113",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab81bf294ed291cde3f5586",
+    "labels": [
+      {
+        "color": "orange_dark",
+        "id": "6ab51a4794f4c62b428e30b4",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Info",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab51a4794f4c62b428e30b4",
+        "uses": 24
+      }
+    ],
+    "name": "Crouching",
+    "pos": 140737488388096,
+    "shortLink": "7PGNULGW",
+    "shortUrl": "https://trello.com/c/7PGNULGW",
+    "url": "https://trello.com/c/7PGNULGW/762-crouching"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab81bf294ed291cde3f5586",
+    "name": "Combat/Character Mechanics",
+    "pos": 9216
+  }
+}

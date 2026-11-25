@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 20715,
+      "date": "2026-09-24T20:45:47.793Z",
+      "id": "6ab58bfb58e1c3df025527bc",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_224547875.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab58bea13fc97021451cbc1/attachments/6ab58bfb58e1c3df025527bc/download/image_2026-09-24_224547875.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-19T16:34:25.667Z",
+    "desc": "# Defeat the Cop\n\n**Hey Ya! - It’s time to go win your first fight!!!! Get that cop off of him!**\n\n**[Mouse1] LIGHT PUNCH**\n\n**[R] HEAVY PUNCH**\n\n**[F] BLOCK**\n\n**[**[https://trello.com/c/EhqDrbAt/102-agent](https://trello.com/c/EhqDrbAt/102-agent \"smartCard-inline\") **]**\n\n**Quest Completed!**\n\n**+50 EXP**\n**+ 500 Coins**",
+    "id": "6ab58bea13fc97021451cbc1",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [
+      {
+        "color": "lime",
+        "id": "6ab6336e89f2c2804ab37cde",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Story",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6336e89f2c2804ab37cde",
+        "uses": 61
+      }
+    ],
+    "name": "Hey Ya's Tutorial #2.",
+    "pos": 140737488388096,
+    "shortLink": "l2dxHdwJ",
+    "shortUrl": "https://trello.com/c/l2dxHdwJ",
+    "url": "https://trello.com/c/l2dxHdwJ/103-hey-yas-tutorial-2"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

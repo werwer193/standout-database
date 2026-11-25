@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 442183,
+      "date": "2026-10-30T08:43:33.287Z",
+      "id": "6ae458b514d106eff6b06129",
+      "isUpload": true,
+      "mimeType": "image/gif",
+      "name": "downs.gif",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae09cf3c8595d7deb79402a/attachments/6ae458b514d106eff6b06129/download/downs.gif"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-30T08:43:36.458Z",
+    "desc": "",
+    "id": "6ae09cf3c8595d7deb79402a",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acd6006865b9e4240a0b39a",
+    "labels": [],
+    "name": "Point Down",
+    "pos": 140737488519168,
+    "shortLink": "GaRvAMtV",
+    "shortUrl": "https://trello.com/c/GaRvAMtV",
+    "url": "https://trello.com/c/GaRvAMtV/652-point-down"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acd6006865b9e4240a0b39a",
+    "name": "Emotes",
+    "pos": 133120
+  }
+}

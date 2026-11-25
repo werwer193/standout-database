@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 41985,
+      "date": "2026-10-09T08:07:55.407Z",
+      "id": "6ac8a0dbb8005d01fb758c6f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-09_100755866.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac8a0cb98fe566230774cff/attachments/6ac8a0dbb8005d01fb758c6f/download/image_2026-10-09_100755866.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-09T08:08:05.549Z",
+    "desc": "Added Karaoke\nAdded a new Paco themed bounty\nAdded a new Usagi themed bounty\nAdded a new Rohan themed bounty\nAdded vanity inventory slots\nfixed bug\n\n(forgot to mention this earlier) but enabled some optimization stuff, this doubled most testers FPS\nthis is separate from the incoming map rework for optimization, so once everythings done most people should AT MINIMUM have a 2x performance boost, hopefully we can squeeze out more though",
+    "id": "6ac8a0cb98fe566230774cff",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab433ec25505088c5ab0351",
+    "labels": [],
+    "name": "09/10/2026 (Karaoke,Optimizations,Bounties)",
+    "pos": 140737488207872,
+    "shortLink": "r9ZQS1ge",
+    "shortUrl": "https://trello.com/c/r9ZQS1ge",
+    "url": "https://trello.com/c/r9ZQS1ge/398-09-10-2026-karaokeoptimizationsbounties"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab433ec25505088c5ab0351",
+    "name": "Updates/Changelogs",
+    "pos": 12288
+  }
+}

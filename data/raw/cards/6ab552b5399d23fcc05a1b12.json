@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1706562,
+      "date": "2026-09-24T21:06:38.964Z",
+      "id": "6ab590de706f6cba6d195c2f",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-24_230638906.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab552b5399d23fcc05a1b12/attachments/6ab590de706f6cba6d195c2f/download/image_2026-09-24_230638906.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-09-25T09:04:07.749Z",
+    "desc": "# \"An artist retreat. Best not to touch the collection.\"",
+    "id": "6ab552b5399d23fcc05a1b12",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab4329c1b48cb3918a5a69b",
+    "labels": [],
+    "name": "Rohan's Villa",
+    "pos": 140737488601088,
+    "shortLink": "LbFNk88t",
+    "shortUrl": "https://trello.com/c/LbFNk88t",
+    "url": "https://trello.com/c/LbFNk88t/82-rohans-villa"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab4329c1b48cb3918a5a69b",
+    "name": "Locations",
+    "pos": 81920
+  }
+}

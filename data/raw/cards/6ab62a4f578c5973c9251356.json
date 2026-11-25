@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 2757,
+      "date": "2026-09-25T08:05:33.385Z",
+      "id": "6ab62b4d5ef43a196974713d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-09-25_100533857.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ab62a4f578c5973c9251356/attachments/6ab62b4d5ef43a196974713d/download/image_2026-09-25_100533857.png"
+    },
+    {
+      "bytes": 18457,
+      "date": "2026-10-11T16:24:04.886Z",
+      "id": "6acbb824017c6faf769a1977",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_182404570.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6ab62a4f578c5973c9251356/attachments/6acbb824017c6faf769a1977/download/image_2026-10-11_182404570.png"
+    },
+    {
+      "bytes": 38482,
+      "date": "2026-10-11T16:27:53.040Z",
+      "id": "6acbb909392d347b5a395d77",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488388096,
+      "url": "https://trello.com/1/cards/6ab62a4f578c5973c9251356/attachments/6acbb909392d347b5a395d77/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:27:55.804Z",
+    "desc": "**A hidden genie has been granting wishes, but at a dubious cost. Find him and stop it!**\n\n**Time Limit: 12 Minutes**\n\n# Rewards:\n\n![image.webp](https://trello.com/1/cards/6ab62a4f578c5973c9251356/attachments/6acbb909392d347b5a395d77/previews/6acbb909392d347b5a395fdb/download/image.webp)",
+    "id": "6ab62a4f578c5973c9251356",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab62994fdc1e8c91358f993",
+    "labels": [],
+    "name": "Three Wishes",
+    "pos": 140737488437248,
+    "shortLink": "0ybzw5Iv",
+    "shortUrl": "https://trello.com/c/0ybzw5Iv",
+    "url": "https://trello.com/c/0ybzw5Iv/155-three-wishes"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab62994fdc1e8c91358f993",
+    "name": "Bounty Quests",
+    "pos": 57344
+  }
+}

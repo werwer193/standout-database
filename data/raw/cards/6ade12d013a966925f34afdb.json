@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 645615,
+      "date": "2026-10-26T23:40:22.192Z",
+      "id": "6adfe4e67347750feb4c5659",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_004021550.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ade12d013a966925f34afdb/attachments/6adfe4e67347750feb4c5659/download/image_2026-10-27_004021550.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-26T23:40:24.431Z",
+    "desc": "",
+    "id": "6ade12d013a966925f34afdb",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "D'Arby's Wager (Storyline #34.5)",
+    "pos": 140737488936960,
+    "shortLink": "Xmi3JWmh",
+    "shortUrl": "https://trello.com/c/Xmi3JWmh",
+    "url": "https://trello.com/c/Xmi3JWmh/589-darbys-wager-storyline-345"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}

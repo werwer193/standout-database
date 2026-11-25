@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "bytes": 615390,
+      "date": "2026-10-27T15:17:39.650Z",
+      "id": "6ae0c093aa5fbcaeca212b28",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-27_161739292.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ae0c065cc412324a00b019f/attachments/6ae0c093aa5fbcaeca212b28/download/image_2026-10-27_161739292.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-27T15:18:13.193Z",
+    "desc": "## Stand: [https://trello.com/c/FV542skf/547-beach-boy](https://trello.com/c/FV542skf/547-beach-boy \"smartCard-inline\")",
+    "id": "6ae0c065cc412324a00b019f",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab58ba6133eef87294f9911",
+    "labels": [
+      {
+        "color": "red_light",
+        "id": "6ab662790678c1d162ebd368",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Enemy",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab662790678c1d162ebd368",
+        "uses": 24
+      },
+      {
+        "color": "blue_dark",
+        "id": "6ab6625cdf15cdb7650597f2",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Stand User",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6ab6625cdf15cdb7650597f2",
+        "uses": 12
+      }
+    ],
+    "name": "Pesci",
+    "pos": 140737488617472,
+    "shortLink": "q0lyeR4s",
+    "shortUrl": "https://trello.com/c/q0lyeR4s",
+    "url": "https://trello.com/c/q0lyeR4s/709-pesci"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab58ba6133eef87294f9911",
+    "name": "Enemies/Bosses",
+    "pos": 114688
+  }
+}

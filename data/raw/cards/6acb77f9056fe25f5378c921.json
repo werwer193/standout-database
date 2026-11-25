@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 17123,
+      "date": "2026-10-11T12:21:43.419Z",
+      "id": "6acb7f570a62d32abaa6160b",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-10-11_142143611.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6acb77f9056fe25f5378c921/attachments/6acb7f570a62d32abaa6160b/download/image_2026-10-11_142143611.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-11T16:31:19.409Z",
+    "desc": "# **When equipped gives you:**\n\n**+2 Damage**\n\n**+5 Health**\n\n# If equipped with [https://trello.com/c/CwgSP0VX/501-swat-jacket](https://trello.com/c/CwgSP0VX/501-swat-jacket \"smartCard-inline\")  you get +5% Damage Resistance\n\n# Drops from Bounties",
+    "id": "6acb77f9056fe25f5378c921",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6acb4b95f027290341c5e36c",
+    "labels": [
+      {
+        "color": "purple_light",
+        "id": "6acb752d444ca706c7e41554",
+        "idBoard": "6ab42feae62367d0b4ca0e4e",
+        "idOrganization": "692366239879ed120f3e9977",
+        "name": "Accessory",
+        "nodeId": "ari:cloud:trello::label/workspace/692366239879ed120f3e9977/6acb752d444ca706c7e41554",
+        "uses": 52
+      }
+    ],
+    "name": "SWAT Pants",
+    "pos": 140737489027072,
+    "shortLink": "DoCgM388",
+    "shortUrl": "https://trello.com/c/DoCgM388",
+    "url": "https://trello.com/c/DoCgM388/502-swat-pants"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6acb4b95f027290341c5e36c",
+    "name": "Accessories",
+    "pos": 41984
+  }
+}

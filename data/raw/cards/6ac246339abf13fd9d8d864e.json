@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 1392293,
+      "date": "2026-10-04T12:27:49.076Z",
+      "id": "6ac246453791cc827e0f7a22",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6ac246339abf13fd9d8d864e/attachments/6ac246453791cc827e0f7a22/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-10-06T18:51:47.412Z",
+    "desc": "# Meet the group at IKO IKO 0/1",
+    "id": "6ac246339abf13fd9d8d864e",
+    "idBoard": "6ab42feae62367d0b4ca0e4e",
+    "idChecklists": [],
+    "idList": "6ab43264469483ff19ca41e1",
+    "labels": [],
+    "name": "Return to IKO IKO (Storyline #41.)",
+    "pos": 140737489043456,
+    "shortLink": "JaWIFKcG",
+    "shortUrl": "https://trello.com/c/JaWIFKcG",
+    "url": "https://trello.com/c/JaWIFKcG/361-return-to-iko-iko-storyline-41"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6ab43264469483ff19ca41e1",
+    "name": "Storyline",
+    "pos": 36864
+  }
+}
