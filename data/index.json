@@ -4972,6 +4972,17 @@
     "url": "https://trello.com/c/q7DhGek7"
   },
   {
+    "archived": false,
+    "id": "6b084ec18fc81f2f93f28e4c",
+    "json": "data/raw/cards/6b084ec18fc81f2f93f28e4c.json",
+    "last_activity": "2026-11-26T15:22:54.634Z",
+    "list": "Unfinished / In Testing / Reworking",
+    "list_id": "6af25325efcf475a0337cd46",
+    "markdown": "data/cards/6b084ec18fc81f2f93f28e4c.md",
+    "name": "Nijimura House",
+    "url": "https://trello.com/c/qnb2bW2T"
+  },
+  {
     "archived": true,
     "id": "6b05c5b1b5b5b88d43a1f561",
     "json": "data/raw/cards/6b05c5b1b5b5b88d43a1f561.json",

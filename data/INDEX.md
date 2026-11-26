@@ -504,6 +504,7 @@ Read original cards and later patch notes; archived cards may be obsolete.
 
 ## Unfinished / In Testing / Reworking
 
+- Nijimura House | data/cards/6b084ec18fc81f2f93f28e4c.md | https://trello.com/c/qnb2bW2T
 - Cyborg (archived) | data/cards/6b05c5b1b5b5b88d43a1f561.md | https://trello.com/c/xKGt7WBK
 - Rock Human | data/cards/6b05c8f2d1edf7233a1a0aa5.md | https://trello.com/c/zW2GGMyk
 - Metallica | data/cards/6af77ccbba0f54b61330555c.md | https://trello.com/c/116ZRId8
