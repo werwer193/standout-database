@@ -1,7 +1,7 @@
 name: Sync official Stand Out Trello
 on:
   workflow_dispatch:
-    schedule:
+  schedule:
     - cron: '7 * * * *'
     - cron: '37 * * * *'
   push:
