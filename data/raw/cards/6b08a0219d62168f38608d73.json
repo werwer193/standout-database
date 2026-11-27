@@ -1,0 +1,57 @@
+{
+  "attachments": [
+    {
+      "bytes": 24030,
+      "date": "2026-11-26T21:17:16.469Z",
+      "id": "6b08a1dcf50ef70b81bffd42",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_221716077.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b08a0219d62168f38608d73/attachments/6b08a1dcf50ef70b81bffd42/download/image_2026-11-26_221716077.png"
+    },
+    {
+      "bytes": 172269,
+      "date": "2026-11-26T21:17:26.390Z",
+      "id": "6b08a1e639cabb36d2a6855d",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b08a0219d62168f38608d73/attachments/6b08a1e639cabb36d2a6855d/download/image.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:17:30.572Z",
+    "desc": "![image.webp](https://trello.com/1/cards/6b08a0219d62168f38608d73/attachments/6b08a1e639cabb36d2a6855d/previews/6b08a1e639cabb36d2a685fe/download/image.webp)",
+    "id": "6b08a0219d62168f38608d73",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [
+      {
+        "color": "purple_dark",
+        "id": "6af25326efcf475a0337d7f8",
+        "idBoard": "6af25325efcf475a0337cd60",
+        "idOrganization": "6af251bf1cc1611c25bfbeb4",
+        "name": "Item",
+        "nodeId": "ari:cloud:trello::label/workspace/6af251bf1cc1611c25bfbeb4/6af25326efcf475a0337d7f8",
+        "uses": 132
+      }
+    ],
+    "name": "Turkey Dinner",
+    "pos": 140737488437248,
+    "shortLink": "4mrmbyha",
+    "shortUrl": "https://trello.com/c/4mrmbyha",
+    "url": "https://trello.com/c/4mrmbyha/295-turkey-dinner"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

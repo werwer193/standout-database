@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 140193,
+      "date": "2026-11-26T21:21:59.961Z",
+      "id": "6b08a2f719d85f8bfa309c76",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_222159451.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b08a0362bfa6aed7fe73f3f/attachments/6b08a2f719d85f8bfa309c76/download/image_2026-11-26_222159451.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:29:57.548Z",
+    "desc": "# By eating a [https://trello.com/c/4mrmbyha/295-turkey-dinner](https://trello.com/c/4mrmbyha/295-turkey-dinner \"smartCard-inline\") infront of any sort of Turkey, you can tame it and use it as a mount.",
+    "id": "6b08a0362bfa6aed7fe73f3f",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Turkey Mount (Taming)",
+    "pos": 140737488470016,
+    "shortLink": "vWivrBQs",
+    "shortUrl": "https://trello.com/c/vWivrBQs",
+    "url": "https://trello.com/c/vWivrBQs/297-turkey-mount-taming"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

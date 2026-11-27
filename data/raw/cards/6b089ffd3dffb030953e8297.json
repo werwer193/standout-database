@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 350967,
+      "date": "2026-11-26T21:14:07.463Z",
+      "id": "6b08a11fcc60345cb8414841",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_221406899.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b089ffd3dffb030953e8297/attachments/6b08a11fcc60345cb8414841/download/image_2026-11-26_221406899.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:24:23.324Z",
+    "desc": "# Drops:\n\n## **10 EXP**\n\n## [https://trello.com/c/FuhEznWX/296-table-turkey](https://trello.com/c/FuhEznWX/296-table-turkey \"smartCard-inline\")\n\n## [https://trello.com/c/FXYMyzPv/294-turkey-wings](https://trello.com/c/FXYMyzPv/294-turkey-wings \"smartCard-inline\")\n\n## [https://trello.com/c/4mrmbyha/295-turkey-dinner](https://trello.com/c/4mrmbyha/295-turkey-dinner \"smartCard-inline\")",
+    "id": "6b089ffd3dffb030953e8297",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Normal Turkey",
+    "pos": 140737488371712,
+    "shortLink": "dLkm3AxA",
+    "shortUrl": "https://trello.com/c/dLkm3AxA",
+    "url": "https://trello.com/c/dLkm3AxA/291-normal-turkey"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 336832,
+      "date": "2026-11-26T21:16:44.767Z",
+      "id": "6b08a1bc54045f8c09588787",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b08a026d1c1a0cfc240cabd/attachments/6b08a1bc54045f8c09588787/download/image.png"
+    },
+    {
+      "bytes": 302770,
+      "date": "2026-11-26T21:16:46.421Z",
+      "id": "6b08a1bec4ef92fa0c78a766",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_221645863.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b08a026d1c1a0cfc240cabd/attachments/6b08a1bec4ef92fa0c78a766/download/image_2026-11-26_221645863.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:28:33.790Z",
+    "desc": "# Obtained from: [https://trello.com/c/dLkm3AxA/291-normal-turkey](https://trello.com/c/dLkm3AxA/291-normal-turkey \"smartCard-inline\"), [https://trello.com/c/7joun49I/292-lucky-turkey](https://trello.com/c/7joun49I/292-lucky-turkey \"smartCard-inline\"), [https://trello.com/c/VJ3m76YU/300-bizarre-turkey](https://trello.com/c/VJ3m76YU/300-bizarre-turkey \"smartCard-inline\"), [https://trello.com/c/rvFgI9hT/293-over-heaven-turkey](https://trello.com/c/rvFgI9hT/293-over-heaven-turkey \"smartCard-inline\")\n\n# A collectable gang furniture that can be placed inside of your base.",
+    "id": "6b08a026d1c1a0cfc240cabd",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Table Turkey",
+    "pos": 140737488453632,
+    "shortLink": "FuhEznWX",
+    "shortUrl": "https://trello.com/c/FuhEznWX",
+    "url": "https://trello.com/c/FuhEznWX/296-table-turkey"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

@@ -25,6 +25,12 @@
   },
   {
     "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  },
+  {
+    "closed": false,
     "id": "6afca9c2ded1cfb842f232ac",
     "name": "Main Menu",
     "pos": 9088

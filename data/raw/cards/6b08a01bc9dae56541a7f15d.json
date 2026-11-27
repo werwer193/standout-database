@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "bytes": 27033,
+      "date": "2026-11-26T21:25:44.239Z",
+      "id": "6b08a3d85a7af04619cdff47",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b08a01bc9dae56541a7f15d/attachments/6b08a3d85a7af04619cdff47/download/image.png"
+    },
+    {
+      "bytes": 19376,
+      "date": "2026-11-26T21:25:46.089Z",
+      "id": "6b08a3da8e2fa5cfc8aac7a0",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_222545455.png",
+      "pos": 140737488371712,
+      "url": "https://trello.com/1/cards/6b08a01bc9dae56541a7f15d/attachments/6b08a3da8e2fa5cfc8aac7a0/download/image_2026-11-26_222545455.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:27:05.798Z",
+    "desc": "# Obtained from: [https://trello.com/c/dLkm3AxA/291-normal-turkey](https://trello.com/c/dLkm3AxA/291-normal-turkey \"smartCard-inline\"), [https://trello.com/c/7joun49I/292-lucky-turkey](https://trello.com/c/7joun49I/292-lucky-turkey \"smartCard-inline\"), [https://trello.com/c/VJ3m76YU/300-bizarre-turkey](https://trello.com/c/VJ3m76YU/300-bizarre-turkey \"smartCard-inline\"), [https://trello.com/c/rvFgI9hT/293-over-heaven-turkey](https://trello.com/c/rvFgI9hT/293-over-heaven-turkey \"smartCard-inline\")\n\n# **When equipped gives you:**\n\n**+2 Health**\n\n**-5 Strength**\n\n**-5 Ability**\n\n**+5% Damage Resistance**\n\n**+100% Jump Height**",
+    "id": "6b08a01bc9dae56541a7f15d",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Turkey Wings",
+    "pos": 140737488420864,
+    "shortLink": "FXYMyzPv",
+    "shortUrl": "https://trello.com/c/FXYMyzPv",
+    "url": "https://trello.com/c/FXYMyzPv/294-turkey-wings"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

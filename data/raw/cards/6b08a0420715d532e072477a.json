@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 29947,
+      "date": "2026-11-26T21:13:25.963Z",
+      "id": "6b08a0f5955f0e5c50566e65",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_221325408.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b08a0420715d532e072477a/attachments/6b08a0f5955f0e5c50566e65/download/image_2026-11-26_221325408.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:22:54.932Z",
+    "desc": "# **Turkey Overdrive is a random world event which boosts turkey spawn rates in that server to 5x for 3 minutes**",
+    "id": "6b08a0420715d532e072477a",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Turkey Overdrive (World Event)",
+    "pos": 140737488363520,
+    "shortLink": "VboT8MiH",
+    "shortUrl": "https://trello.com/c/VboT8MiH",
+    "url": "https://trello.com/c/VboT8MiH/298-turkey-overdrive-world-event"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

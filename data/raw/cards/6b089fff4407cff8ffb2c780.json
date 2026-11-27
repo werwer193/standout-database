@@ -1,0 +1,37 @@
+{
+  "attachments": [
+    {
+      "bytes": 246766,
+      "date": "2026-11-26T21:23:03.561Z",
+      "id": "6b08a33750d03fdb29f63acf",
+      "isUpload": true,
+      "mimeType": "image/png",
+      "name": "image_2026-11-26_222303039.png",
+      "pos": 140737488355328,
+      "url": "https://trello.com/1/cards/6b089fff4407cff8ffb2c780/attachments/6b08a33750d03fdb29f63acf/download/image_2026-11-26_222303039.png"
+    }
+  ],
+  "card": {
+    "closed": false,
+    "dateLastActivity": "2026-11-26T21:25:28.463Z",
+    "desc": "# Drops:\n\n## **10 EXP**\n\n## [https://trello.com/c/FuhEznWX/296-table-turkey](https://trello.com/c/FuhEznWX/296-table-turkey \"smartCard-inline\")\n\n## [https://trello.com/c/FXYMyzPv/294-turkey-wings](https://trello.com/c/FXYMyzPv/294-turkey-wings \"smartCard-inline\")\n\n## [https://trello.com/c/4mrmbyha/295-turkey-dinner](https://trello.com/c/4mrmbyha/295-turkey-dinner \"smartCard-inline\")\n\n## [https://trello.com/c/gaHg9B1b/495-lucky-arrow](https://trello.com/c/gaHg9B1b/495-lucky-arrow \"smartCard-inline\")",
+    "id": "6b089fff4407cff8ffb2c780",
+    "idBoard": "6af25325efcf475a0337cd60",
+    "idChecklists": [],
+    "idList": "6b089f95c85a7b838db709bd",
+    "labels": [],
+    "name": "Lucky Turkey",
+    "pos": 140737488388096,
+    "shortLink": "7joun49I",
+    "shortUrl": "https://trello.com/c/7joun49I",
+    "url": "https://trello.com/c/7joun49I/292-lucky-turkey"
+  },
+  "checklists": [],
+  "comments": [],
+  "list": {
+    "closed": false,
+    "id": "6b089f95c85a7b838db709bd",
+    "name": "Seasonal Events",
+    "pos": 9024
+  }
+}

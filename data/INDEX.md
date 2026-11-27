@@ -35,9 +35,11 @@ Read original cards and later patch notes; archived cards may be obsolete.
 ## Codes
 
 - Active Codes | data/cards/6af25326efcf475a0337d6ae.md | https://trello.com/c/eAsaM8Jm
+- THANKFULFORSTANDOUT (3 Mysterious Arrows, 500 Dalas, 1 Hour of 2x EXP) | data/cards/6b089f600c9afe05180ef887.md | https://trello.com/c/pFfUSC6g
+- REAL200KLIKES (2 Bizarre Arrows, 4000 Dalas) | data/cards/6b089f50927f5595fbcb26ae.md | https://trello.com/c/NUTCxpEz
+- Expired Codes | data/cards/6af741a4f333c5f0035a3386.md | https://trello.com/c/vh0pUe3m
 - 200KLIKESMASSIVE (1 Mysterious Arrow, 1 Lucky Arrow, 1 Bizarre Arrow, 1 Arrow Part) | data/cards/6b033ed6f84fd4ac24712230.md | https://trello.com/c/nCo1dAHS
 - CRAZYDIAMOND (1 D Opal Roka, 20 Steel, 2000 Dalas) | data/cards/6b033eda758fd78a4cd7c58a.md | https://trello.com/c/wALbPGZ8
-- Expired Codes | data/cards/6af741a4f333c5f0035a3386.md | https://trello.com/c/vh0pUe3m
 - STANDOUTAGAIN (1 Lucky Arrow) | data/cards/6aface7a51055c3a351c242b.md | https://trello.com/c/qxDzjNPd
 - HUGE100K (1 Bizarre Arrow) | data/cards/6af8d50379d3ed63118a5ff6.md | https://trello.com/c/YwK2Iaxy
 - 50KLIKES (3 Lucky Arrows, 2500 Dalas) | data/cards/6af9a793074574176455eb47.md | https://trello.com/c/CcaTnZ7H
@@ -46,6 +48,20 @@ Read original cards and later patch notes; archived cards may be obsolete.
 - THANKYOUHUGERELEASETHANKS (2 Mysterious Arrows, 1 Lucky Arrow) | data/cards/6af8d50556ca9b698e69f065.md | https://trello.com/c/pol6sxpv
 - RELEASE (3 Mysterious Arrows) | data/cards/6af7419ef362b648686a6614.md | https://trello.com/c/8m71vzMz
 - PLAYTEST (10 Mysterious Arrows) | data/cards/6af25326efcf475a0337d6b4.md | https://trello.com/c/Z8ly0Awx
+
+## Seasonal Events
+
+- Turkey Tendency (Thanksgiving) | data/cards/6b089fe0f4661f5c0402af11.md | https://trello.com/c/fB0eYZK6
+- Turkey Overdrive (World Event) | data/cards/6b08a0420715d532e072477a.md | https://trello.com/c/VboT8MiH
+- Normal Turkey | data/cards/6b089ffd3dffb030953e8297.md | https://trello.com/c/dLkm3AxA
+- Lucky Turkey | data/cards/6b089fff4407cff8ffb2c780.md | https://trello.com/c/7joun49I
+- Bizarre Turkey | data/cards/6b08a1352b7b4eda395516b3.md | https://trello.com/c/VJ3m76YU
+- Over Heaven Turkey | data/cards/6b08a0037eb827c70afca0bb.md | https://trello.com/c/rvFgI9hT
+- ---- | data/cards/6b08a04414266434e1bec2ab.md | https://trello.com/c/RHC2RybF
+- Turkey Wings | data/cards/6b08a01bc9dae56541a7f15d.md | https://trello.com/c/FXYMyzPv
+- Turkey Dinner | data/cards/6b08a0219d62168f38608d73.md | https://trello.com/c/4mrmbyha
+- Table Turkey | data/cards/6b08a026d1c1a0cfc240cabd.md | https://trello.com/c/FuhEznWX
+- Turkey Mount (Taming) | data/cards/6b08a0362bfa6aed7fe73f3f.md | https://trello.com/c/vWivrBQs
 
 ## Main Menu
 
@@ -188,6 +204,7 @@ Read original cards and later patch notes; archived cards may be obsolete.
 
 ## Updates/Changelogs
 
+- 26/11/2026 (Thanksgiving Update) | data/cards/6b089f891d5ff03928e4a3f0.md | https://trello.com/c/Blv2uX9N
 - 24/11/2026 (Bad Company Rework) | data/cards/6b059e5ef526b5fa704e176b.md | https://trello.com/c/IaoNuyOZ
 - 22/11/2026 (UPDATE 1) | data/cards/6b03556b82ad0d64f95892d5.md | https://trello.com/c/pOSEURWv
 - 16/11/2026 (Bug Fixes, Optimizations) | data/cards/6afcabde32918becf49ad302.md | https://trello.com/c/acmbMBIx
